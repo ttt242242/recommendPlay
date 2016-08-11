@@ -19,6 +19,7 @@ gem 'jquery-rails', '3.0.4'
 gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
 gem "pry"
+gem "mecab"
 gem "gmaps4rails"
 gem "geocoder"
 gem 'therubyracer', platforms: :ruby

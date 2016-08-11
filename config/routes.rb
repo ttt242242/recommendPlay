@@ -2,8 +2,10 @@ Rails.application.routes.draw do
 
   get 'test_ajax/index'
   post 'test_ajax/index'
-  post "index" => "plays#index"
+  # post "index" => "plays#index"
+  post "index" => "plays#simple_recommend"
   resources :plays
+  # post "plays/simple_recommend"
   # get "index"
   root :to => 'plays#index' 
 

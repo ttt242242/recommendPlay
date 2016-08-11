@@ -20,6 +20,13 @@
 
 
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+            <%= form_tag(url_for(:action => 'simple_recommend'),  :remote => true,  :id => "result_form") do %>
+                <%= text_field_tag :word%>
+                <%= submit_tag "Show!" %>
+            <% end %>
+            <div id="result"></div>
+
+
             <% @plays.each do |play| %>
                 <div class="well">
                     <%= play.name %>
@@ -30,10 +37,7 @@
             <% end %>
         </div>
 
-<%= form_tag({:controller => 'plays', :action => 'index'}, :remote => true, :class => 'form-ajax') do -%>
-<%= hidden_field_tag :ajax_handler, 'handle_name1' -%>
-<%= submit_tag('Start Ajax', :class => 'btn btn-primary btn-sm') -%>
-<% end %>
+
 
     </div>
 </div>
