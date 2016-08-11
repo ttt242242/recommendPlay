@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>バドミントン - Wikipedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf12" />
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" />
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit" />
+<link rel="edit" title="編集" href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)" />
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom" />
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" />
+<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"バドミントン","wgTitle":"バドミントン","wgCurRevisionId":55989235,"wgRevisionId":55989235,"wgArticleId":311090,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["国際化が求められている項目/2015年4月","バドミントン","オリンピック競技","ラケットスポーツ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"バドミントン","wgRelevantArticleId":311090,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"バトミントン","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"日本語","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3","wgWikibaseItemId":"Q7291"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"ja"});});
+/* cache key: global:resourceloader:filter:minify-js:7:9c1376de1996a704814c4bd7b0cd67a6 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf12/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-バドミントン skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">バドミントン</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">（<a href="/w/index.php?title=%E3%83%90%E3%83%88%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;redirect=no" title="バトミントン">バトミントン</a>から転送）</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;">
+<tr>
+<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; background-color:#eed">　バドミントン</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Badminton_Semifinal_Pan_2007.jpg" class="image"><img alt="Badminton Semifinal Pan 2007.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Badminton_Semifinal_Pan_2007.jpg/300px-Badminton_Semifinal_Pan_2007.jpg" width="300" height="196" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Badminton_Semifinal_Pan_2007.jpg/450px-Badminton_Semifinal_Pan_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Badminton_Semifinal_Pan_2007.jpg/600px-Badminton_Semifinal_Pan_2007.jpg 2x" data-file-width="2860" data-file-height="1868" /></a>
+<div style="">男子ダブルスのバドミントンの試合</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">統括団体</th>
+<td><a href="/wiki/%E4%B8%96%E7%95%8C%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%80%A3%E7%9B%9F" title="世界バドミントン連盟">世界バドミントン連盟</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">起源</th>
+<td><a href="/wiki/17%E4%B8%96%E7%B4%80" title="17世紀">17世紀</a></td>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="text-align:center; background-color:#eed">特徴</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">身体接触</th>
+<td>無</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">選手数</th>
+<td>1人か2人</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">男女混合</th>
+<td>有</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">カテゴリ</th>
+<td>屋内競技</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">ボール</th>
+<td>シャトル(シャトルコック)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">オリンピック</th>
+<td><a href="/wiki/1992%E5%B9%B4" title="1992年">1992年</a>-</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:right; font-size:85%;"><a href="/wiki/Template:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="Template:スポーツ">テンプレートを表示</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Heads_of_badminton_raquets.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heads_of_badminton_raquets.jpg/200px-Heads_of_badminton_raquets.jpg" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heads_of_badminton_raquets.jpg/300px-Heads_of_badminton_raquets.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heads_of_badminton_raquets.jpg/400px-Heads_of_badminton_raquets.jpg 2x" data-file-width="800" data-file-height="601" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Heads_of_badminton_raquets.jpg" class="internal" title="拡大"></a></div>
+バドミントンのラケット</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Badmintonfeld_mit_Abmessungen.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Badmintonfeld_mit_Abmessungen.png/200px-Badmintonfeld_mit_Abmessungen.png" width="200" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Badmintonfeld_mit_Abmessungen.png/300px-Badmintonfeld_mit_Abmessungen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Badmintonfeld_mit_Abmessungen.png/400px-Badmintonfeld_mit_Abmessungen.png 2x" data-file-width="848" data-file-height="640" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Badmintonfeld_mit_Abmessungen.png" class="internal" title="拡大"></a></div>
+バドミントンのコート
+<ul>
+<li>奥行き：13.4m</li>
+<li>幅：6.1m（ダブルス）、5.18m（シングルス）</li>
+<li>ネットの高さ：ネットポストの部分で1.55m、中央部で1.524m</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Battledore-and-shuttlecock.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Battledore-and-shuttlecock.jpg/200px-Battledore-and-shuttlecock.jpg" width="200" height="281" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Battledore-and-shuttlecock.jpg/300px-Battledore-and-shuttlecock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Battledore-and-shuttlecock.jpg/400px-Battledore-and-shuttlecock.jpg 2x" data-file-width="436" data-file-height="612" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Battledore-and-shuttlecock.jpg" class="internal" title="拡大"></a></div>
+バドミントンが登場する、1854年に描かれた漫画</div>
+</div>
+</div>
+<p><b>バドミントン</b> (<b>badminton</b>) はネットで二つに分けられたコートの両側にプレーヤーが位置し、シャトル（シャトルコック）を<a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88" title="ラケット">ラケット</a>を使って打ち合い、得点を競う<a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="スポーツ">スポーツ</a>である。「バ<b>ト</b>ミントン」と呼ばれることが多いが、正しくは「バ<b>ド</b>ミントン」である。羽球（うきゅう）。また、打球は最速初速493kmであり、最速の<a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="スポーツ">スポーツ</a>として<a href="/wiki/%E3%82%AE%E3%83%8D%E3%82%B9%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%82%BA" title="ギネス・ワールド・レコーズ" class="mw-redirect">ギネスブック</a>に認定されている<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E7.89.B9.E5.BE.B4"><span class="tocnumber">1</span> <span class="toctext">特徴</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E3.83.AB.E3.83.BC.E3.83.AB"><span class="tocnumber">2</span> <span class="toctext">ルール</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E8.A9.A6.E5.90.88.E3.81.AE.E9.80.B2.E8.A1.8C"><span class="tocnumber">2.1</span> <span class="toctext">試合の進行</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E3.82.B5.E3.83.BC.E3.83.93.E3.82.B9"><span class="tocnumber">2.2</span> <span class="toctext">サービス</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E3.82.B3.E3.83.BC.E3.83.88"><span class="tocnumber">2.3</span> <span class="toctext">コート</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.90.E3.83.AB"><span class="tocnumber">2.4</span> <span class="toctext">インターバル</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#.E7.94.A8.E5.85.B7"><span class="tocnumber">3</span> <span class="toctext">用具</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.E3.82.B7.E3.83.A3.E3.83.88.E3.83.AB.EF.BC.88.E3.82.B7.E3.83.A3.E3.83.88.E3.83.AB.E3.82.B3.E3.83.83.E3.82.AF.EF.BC.89"><span class="tocnumber">3.1</span> <span class="toctext">シャトル（シャトルコック）</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#.E8.A6.8F.E6.A0.BC.E3.83.BB.E8.A6.8F.E5.AE.9A"><span class="tocnumber">3.1.1</span> <span class="toctext">規格・規定</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#.E3.83.8A.E3.82.A4.E3.83.AD.E3.83.B3.E8.A3.BD.E3.82.B7.E3.83.A3.E3.83.88.E3.83.AB"><span class="tocnumber">3.1.2</span> <span class="toctext">ナイロン製シャトル</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#.E3.83.A9.E3.82.B1.E3.83.83.E3.83.88"><span class="tocnumber">3.2</span> <span class="toctext">ラケット</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#.E3.83.95.E3.83.AC.E3.83.BC.E3.83.A0"><span class="tocnumber">3.2.1</span> <span class="toctext">フレーム</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#.E3.82.B9.E3.83.88.E3.83.AA.E3.83.B3.E3.82.B0.EF.BC.88.E3.82.AC.E3.83.83.E3.83.88.EF.BC.89"><span class="tocnumber">3.2.2</span> <span class="toctext">ストリング（ガット）</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#.E3.83.8F.E3.83.B3.E3.83.89.E3.83.AB.EF.BC.88.E3.82.B0.E3.83.AA.E3.83.83.E3.83.97.EF.BC.89"><span class="tocnumber">3.2.3</span> <span class="toctext">ハンドル（グリップ）</span></a>
+<ul>
+<li class="toclevel-4 tocsection-15"><a href="#.E3.82.AA.E3.83.BC.E3.83.90.E3.83.BC.E3.82.B0.E3.83.AA.E3.83.83.E3.83.97"><span class="tocnumber">3.2.3.1</span> <span class="toctext">オーバーグリップ</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#.E3.82.A6.E3.82.A7.E3.82.A2.EF.BC.88.E3.83.A6.E3.83.8B.E3.83.95.E3.82.A9.E3.83.BC.E3.83.A0.EF.BC.89"><span class="tocnumber">3.3</span> <span class="toctext">ウェア（ユニフォーム）</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#.E3.82.B7.E3.83.A5.E3.83.BC.E3.82.BA"><span class="tocnumber">3.4</span> <span class="toctext">シューズ</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#.E6.8A.80.E8.A1.93"><span class="tocnumber">4</span> <span class="toctext">技術</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#.E6.AD.B4.E5.8F.B2"><span class="tocnumber">5</span> <span class="toctext">歴史</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#.E3.83.90.E3.83.89.E3.83.9F.E3.83.B3.E3.83.88.E3.83.B3.E3.81.AE.E8.AA.95.E7.94.9F"><span class="tocnumber">5.1</span> <span class="toctext">バドミントンの誕生</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#.E5.90.84.E5.9B.BD.E3.81.A7.E3.81.AE.E6.99.AE.E5.8F.8A"><span class="tocnumber">5.2</span> <span class="toctext">各国での普及</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#.E6.97.A5.E6.9C.AC"><span class="tocnumber">5.2.1</span> <span class="toctext">日本</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#.E8.BF.91.E5.B9.B4.E3.81.AE.E3.83.90.E3.83.89.E3.83.9F.E3.83.B3.E3.83.88.E3.83.B3"><span class="tocnumber">5.3</span> <span class="toctext">近年のバドミントン</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#.E4.B8.BB.E3.81.AA.E5.A4.A7.E4.BC.9A"><span class="tocnumber">6</span> <span class="toctext">主な大会</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#.E5.9B.BD.E9.9A.9B.E5.A4.A7.E4.BC.9A"><span class="tocnumber">6.1</span> <span class="toctext">国際大会</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#.E5.90.84.E5.9B.BD.E3.81.AE.E5.A4.A7.E4.BC.9A"><span class="tocnumber">6.2</span> <span class="toctext">各国の大会</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#.E6.97.A5.E6.9C.AC_2"><span class="tocnumber">6.2.1</span> <span class="toctext">日本</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">7</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">8</span> <span class="toctext">外部リンク</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#.E5.9B.A3.E4.BD.93"><span class="tocnumber">8.1</span> <span class="toctext">団体</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#.E3.83.AB.E3.83.BC.E3.83.AB.E3.81.AA.E3.81.A9"><span class="tocnumber">8.2</span> <span class="toctext">ルールなど</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#.E3.81.9D.E3.81.AE.E4.BB.96"><span class="tocnumber">8.3</span> <span class="toctext">その他</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">9</span> <span class="toctext">脚注</span></a>
+<ul>
+<li class="toclevel-2 tocsection-34"><a href="#.E5.87.BA.E5.85.B8"><span class="tocnumber">9.1</span> <span class="toctext">出典</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E7.89.B9.E5.BE.B4">特徴</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=1" title="節を編集: 特徴">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>シャトル(シャトルコック）という、半球状の<a href="/wiki/%E3%82%B3%E3%83%AB%E3%82%AF" title="コルク">コルク</a>に<a href="/wiki/%E6%B0%B4%E9%B3%A5" title="水鳥">水鳥</a>等の羽を<a href="/wiki/%E6%8E%A5%E7%9D%80%E5%89%A4" title="接着剤">接着剤</a>などで固定した物を打ち合うのが最大の特徴。（近年は、遊びなどでは、プラスチック製を使うこともあるが、公式戦では使わない）</li>
+<li>全ての球技の中で打球の初速が最も速いことで、<a href="/wiki/%E3%82%AE%E3%83%8D%E3%82%B9%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%82%BA" title="ギネス・ワールド・レコーズ" class="mw-redirect">ギネスブック</a>に認定されている。<a href="/wiki/%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5" title="スマッシュ" class="mw-disambig">スマッシュ</a>の初速は、最速で時速400km以上に達する。また打球が相手コートに届くまでに空気抵抗を受けて急激に速度が低下するため、初速と終速の差が著しいことも他の球技には無い特徴と言える。</li>
+<li>競技としてのバドミントンは、緩急を使い分ける様々な<a href="/wiki/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88" title="ショット" class="mw-disambig">ショット</a>や<a href="/wiki/%E3%83%95%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF" title="フットワーク" class="mw-disambig">フットワーク</a>、対戦相手との駆け引き、ダブルスの場合、ペアとの<a href="/wiki/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="コンビネーション" class="mw-disambig">コンビネーション</a>など多岐にわたる技術を必要とし、パワーや瞬発力とともに持久力の優劣も勝負を左右する、複雑で非常に激しいものである。</li>
+<li>一方、屋内外で行われる<a href="/wiki/%E3%83%AC%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="レクリエーション" class="mw-disambig">レクリエーション</a>として、年齢や性別を問わず広く一般に楽しまれている。競技としての奥深さと、簡単にできるスポーツとしての楽しさの、両面を兼ね備えている。</li>
+</ul>
+<h2><span class="mw-headline" id=".E3.83.AB.E3.83.BC.E3.83.AB">ルール</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=2" title="節を編集: ルール">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%88.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ja/thumb/5/5e/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%88.gif/200px-%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%88.gif" width="200" height="375" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ja/5/5e/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%88.gif 1.5x, //upload.wikimedia.org/wikipedia/ja/5/5e/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%88.gif 2x" data-file-width="281" data-file-height="527" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%88.gif" class="internal" title="拡大"></a></div>
+バドミントンのコートと各線の名称</div>
+</div>
+</div>
+<h3><span class="mw-headline" id=".E8.A9.A6.E5.90.88.E3.81.AE.E9.80.B2.E8.A1.8C">試合の進行</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=3" title="節を編集: 試合の進行">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>プレーが始まる前に『サービスをするかレシーブをするか』または『コートのどちらのエンドを選ぶか』の選択権をトスによって決める。トスに勝ったサイドが先にどちらかを選び、負けたサイドは、残りから選択する。国際大会ではコイントスを行うが、日本では、一般に<a href="/wiki/%E3%81%98%E3%82%83%E3%82%93%E3%81%91%E3%82%93" title="じゃんけん">じゃんけん</a>等で決める。</li>
+<li>試合は、シングルス、ダブルスともに、2ゲーム先取の3ゲームマッチ。それぞれラリーポイントの21点ゲーム、ただし20対20になった場合延長戦となり、以降どちらかが2点差をつけるか、30点に達するまで行われる。即ち、29-29まで来ると一発勝負となる。</li>
+<li>すべてのラリーはサービスから始める。サービスは、トスの直後を除いて1つ前のラリーに勝ったサイドが行う。よって、第2ゲームと第3ゲームの初めは、直前のゲームの勝者サイドが行う。</li>
+<li>シングルス、ダブルスともに、1ゲーム終了毎にチェンジエンド(プレイするコートのエンド交換)を行う。3ゲーム目まで試合が続いた場合、2ゲーム目終了直後のチェンジエンドに加え、どちらかが11点先取した時に、チェンジエンドを行う。</li>
+<li>決められた相手コート内にシャトルを落とすか、相手がフォルト（反則）を取られた場合、1点を得る。</li>
+<li>主審の判定は、最終的なもので、質問は許されても抗議は認められない。</li>
+</ul>
+<h3><span class="mw-headline" id=".E3.82.B5.E3.83.BC.E3.83.93.E3.82.B9">サービス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=4" title="節を編集: サービス">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>サービスでは、シャトルの台を打たなければならない。</li>
+<li>サーバーがシャトルを打つ瞬間、ラケットのシャフトが下向きでなければならない。</li>
+<li>ラケットで打たれる瞬間、シャトル全体がサーバーのウエスト（肋骨の一番下の高さ）より下でなければならない。</li>
+<li>サービスを行うときに両足を地面から離してはならない。</li>
+<li>サーバーは、コートのライン内でサービスをする。</li>
+</ul>
+<h3><span class="mw-headline" id=".E3.82.B3.E3.83.BC.E3.83.88">コート</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=5" title="節を編集: コート">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>シングルスでは内側のサイドラインを使用し、ダブルスでは外側のサイドラインを使用する。</li>
+<li>サービスは、サーバーから見て対角線側のコートに打つ。このとき、シングルスではショートサービスラインからバックバウンダリーライン、ダブルスではショートサービスラインからダブルス用のロングサービスラインの間にシャトルが落下するよう、それぞれ打たなければならない。</li>
+</ul>
+<h3><span class="mw-headline" id=".E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.90.E3.83.AB">インターバル</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=6" title="節を編集: インターバル">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>各ゲームどちらかの点数が11点に達した時は60秒以内、ゲームとゲームの間には120秒以内のインターバルをとることができる。</li>
+<li>各インターバル以外でコート外に出ることは、故障等の止むを得ない場合を除き、基本的に認められない。ただし手の汗を拭いたり、破損したラケットを交換することは認められる。</li>
+</ul>
+<h2><span class="mw-headline" id=".E7.94.A8.E5.85.B7">用具</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=7" title="節を編集: 用具">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>バドミントンで使用される用具は以下の通りである。特に断りがない限り、競技用のものについて述べる。</p>
+<h3><span class="mw-headline" id=".E3.82.B7.E3.83.A3.E3.83.88.E3.83.AB.EF.BC.88.E3.82.B7.E3.83.A3.E3.83.88.E3.83.AB.E3.82.B3.E3.83.83.E3.82.AF.EF.BC.89">シャトル（シャトルコック）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=8" title="節を編集: シャトル（シャトルコック）">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Shuttlecocks_Yonex_Aerosensa_20.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Shuttlecocks_Yonex_Aerosensa_20.jpg/170px-Shuttlecocks_Yonex_Aerosensa_20.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Shuttlecocks_Yonex_Aerosensa_20.jpg/255px-Shuttlecocks_Yonex_Aerosensa_20.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Shuttlecocks_Yonex_Aerosensa_20.jpg/340px-Shuttlecocks_Yonex_Aerosensa_20.jpg 2x" data-file-width="600" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Shuttlecocks_Yonex_Aerosensa_20.jpg" class="internal" title="拡大"></a></div>
+バドミントンのシャトル</div>
+</div>
+</div>
+<p>「羽（羽根）」または「シャトル」と呼ばれることが多い。シャトルコックという名前は以前<a href="/wiki/%E9%B6%8F" title="鶏" class="mw-redirect">鶏</a>（コック）の羽で作られていたころの名残である。現在は試合球、練習球においても鶏の羽根のシャトルはほとんど使われていない。競技規則には、シャトルコックではなく、シャトルと記載されている<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。</p>
+<ul>
+<li>競技用に主として使用されている物は、主に食用の<a href="/wiki/%E3%82%AC%E3%83%81%E3%83%A7%E3%82%A6" title="ガチョウ">ガチョウ</a>の羽（羽軸が強く、丈夫。中でも<a href="/wiki/%E9%A2%A8%E5%88%87%E7%BE%BD" title="風切羽">次列風切</a>という部位が最適）とコルクから作られていて、各羽は樹脂で固められている。安価なシャトルは<a href="/wiki/%E3%82%A2%E3%83%92%E3%83%AB" title="アヒル">アヒル</a>の羽によって作られている物もある。卓球、テニスボールのように羽根を蛍光色に着色したものもナイロン製では古くからあったが、最近で鳥の羽製のものでも存在する。また<a href="/wiki/%E5%8B%95%E4%BD%93%E8%A6%96%E5%8A%9B" title="動体視力" class="mw-redirect">動体視力</a>を鍛える練習球として、黒ガチョウの羽根を使用したシャトルも一部メーカーが販売している。</li>
+<li>コルク部分に羽根を埋め込み、軸を糸で留めた後、接着剤で固定する。</li>
+<li>1本でも羽が折れれば正しい軌道で飛ばなくなる。最近では、練習用に羽だけ部分的に交換できる物も販売されている。一般に壊れたシャトルは、ノック練習等でボロボロになるまで再利用された後、廃棄される。かつて、経済的に苦しいチームは、ニカワ・木工用ボンドなどで補強再生され使用していた。</li>
+<li>気温や湿度の変化による<a href="/wiki/%E7%A9%BA%E6%B0%97%E6%8A%B5%E6%8A%97" title="空気抵抗" class="mw-redirect">空気抵抗</a>の差により、飛距離が変化しやすい。具体的には、気温が高く湿度が低いときはよく飛び、逆に気温が低く湿度が高いときは飛ばなくなる。バドミントンの試合前に温度などを測り、常に同じ飛びのシャトルでプレーできるように、同じ銘柄のシャトルでも飛距離の違うものが数種類ずつ製造されている。</li>
+<li>かつては、選手が羽の内側にラケットのグリップエンドや自分の肘を押し込み、羽を外側に広げ、改造する行為の場面が見られた。これは、シャトルが飛び過ぎる場合、空気抵抗を故意に上げ、標準のフライトに近づけるためである。</li>
+<li>価格は、安価なもので1球数十円ほど、最高級品では1球400円近い物もある。1ダース単位で筒状のケースに入った状態で売られている。多くのメーカーでは、使用する羽の種類や、質などにより、細かく等級を定めており、大きな価格差がある。</li>
+<li>世界のシャトルの9割以上は<a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD" title="中華人民共和国">中国</a>で生産されている。</li>
+<li>材料（ガチョウ、アヒルの羽）と生産地（中国）の関係で、2005年から2006年に<a href="/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="鳥インフルエンザ">鳥インフルエンザ</a>が流行した際には、現地で食用ガチョウが大量に処分された。その影響で各メーカーが販売価格を値上げした。</li>
+<li>高品質のシャトルとそうでないものとでは、飛行精度や強度が大きく異なる。</li>
+</ul>
+<h4><span class="mw-headline" id=".E8.A6.8F.E6.A0.BC.E3.83.BB.E8.A6.8F.E5.AE.9A">規格・規定</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=9" title="節を編集: 規格・規定">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>重量約5g、長さ約7cm。羽根の枚数は16枚。羽根の先端（コルクとは逆側）は58mmから68mmで、円形でなければならない。コルクの直径は25mmから28mmで、先は丸くする、と規定されている。</li>
+<li>日本バドミントン協会では、「第一種検定合格球」「第二種検定合格球」という等級を定めている。「第一種検定合格球」とは、日本バドミントン協会が主催する大会およびその予選で使用できるシャトルコックであり、 「第二種検定合格球」とは、日本バドミントン協会の加盟団体が単独で開催する競技大会で使用を認められているシャトルである。</li>
+<li>「第一種検定合格球」を更に厳密に分けると、全国大会、国体競技で使用できる「第一種合格水鳥シャトル」と、開催地都道府県協会が使用できる「第一種合格水鳥シャトル開催地選択品」がある。2006年度、「第一種合格水鳥シャトル」には6メーカー6銘柄、「第一種合格水鳥シャトル開催地選択品」には17メーカー22銘柄が認定された。</li>
+</ul>
+<h4><span class="mw-headline" id=".E3.83.8A.E3.82.A4.E3.83.AD.E3.83.B3.E8.A3.BD.E3.82.B7.E3.83.A3.E3.83.88.E3.83.AB">ナイロン製シャトル</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=10" title="節を編集: ナイロン製シャトル">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>安価で耐久性の高い<a href="/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3" title="ナイロン">ナイロン</a>製のシャトルもある。 1980年代日本では中学生の大会等で費用の問題でナイロンシャトルが公式採用されていたが、打球感などが羽毛球と異なり軽いことや、いずれ世界を目指すジュニア選手は、早くから羽毛球に慣れ親しんだ方が育成につながること、また、最近では安価の羽毛球も多く販売されていることから、現在は試合でも練習でもほとんど使われていない。 しかし、寒冷地などでは検定より温度が下がるため使用されている。</p>
+<p>ただし、前述の鳥インフルエンザ等の影響から、数十年後には水鳥の羽根の安定した供給が望めなくなることが示唆されており、また高価なシャトルの使用が新規プレイヤー獲得の妨げとなっているという意見もあることから、将来的にナイロンなどの安価で耐久性の高いシャトルを公式球として使用することになる可能性がある。</p>
+<p>ナイロン製は羽毛球に比べ、減速度合いが低い（飛び過ぎる）傾向があり、羽毛球と比べ若干の放物線の違いがある。 誕生から数十年経過しており、長年の製造技術・開発力で羽毛球に類似させることは可能と思われるが、羽毛球は消耗頻度が高く、メーカーとしてもうまみのある市場なため、利益の薄くなるナイロン製の開発・移行には、やや消極的である。</p>
+<h3><span class="mw-headline" id=".E3.83.A9.E3.82.B1.E3.83.83.E3.83.88">ラケット</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=11" title="節を編集: ラケット">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>バドミントンのラケットは、<a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9" title="テニス">テニス</a>や<a href="/wiki/%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A5_(%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84)" title="スカッシュ (スポーツ)">スカッシュ</a>のそれと同じように、フレームにストリング（ガット）を張ったフェースと呼ばれる部分で球を打つ構造となっている。以前はフレーム部分が木製でたいへん重く、木材の歪みを防止するために、使用後は専用の器具で固定しておかなければならなかった。ストリングには動物の内臓など（通常ヒツジの腸、ストリングの別名のガット（英語で内臓の意）の語源でもある）が使われていた。今日では技術の進歩により、以下のようになっている。</p>
+<h4><span class="mw-headline" id=".E3.83.95.E3.83.AC.E3.83.BC.E3.83.A0">フレーム</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=12" title="節を編集: フレーム">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>全長で680mm以内、幅は230mm以内と規定されている。</li>
+<li><a href="/wiki/%E7%82%AD%E7%B4%A0%E7%B9%8A%E7%B6%AD" title="炭素繊維">カーボン繊維</a>を中心に、<a href="/w/index.php?title=%E8%A4%87%E5%90%88%E7%B4%A0%E6%9D%90&amp;action=edit&amp;redlink=1" class="new" title="複合素材 (存在しないページ)">複合素材</a>として<a href="/wiki/%E3%83%81%E3%82%BF%E3%83%B3" title="チタン">チタン</a>等の金属が使われている。後者は主にラケットヘッドのねじれを低減したり、重量バランスを調整したりする用途で用いられる場合が多い。<a href="/wiki/%E3%82%B1%E3%83%96%E3%83%A9%E3%83%BC" title="ケブラー">ケブラー</a>等の素材が使われているものもある。</li>
+<li>木製→金属製→カーボン製と材質が軽量化、高弾性化したことで、選手のフォームが肩を中心としたスイングから手首や指を使うものへと変化し、その結果、打球やゲーム展開が高速化した。また、ストリングを高テンション（張りの強さ）で張れるようになった。</li>
+<li>金属製のラケットはヘッドとシャフトが別々になっているものが多く、そのようなものはT字型の部品で固定されている。フレームとシャフトが異種素材であるものも同様である。ただしこのようなラケットは、消耗と共に抜けやすくなる。</li>
+<li>従来の卵形のヘッドのラケットの他に、ヘッドの形状をやや四角型に成型し、中央部のストリングスが長い部分を増やすことで、スイートスポットと呼ばれる快適に打つことが出来る部分を広げたラケットが、各メーカーで製造されている。現在では、後者がむしろ主流となりつつある。</li>
+<li>近年、<a href="/wiki/%E3%83%8A%E3%83%8E%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC" title="ナノテクノロジー">ナノテクノロジー</a>や<a href="/w/index.php?title=%E3%82%B4%E3%83%A0%E3%83%A1%E3%82%BF%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="ゴムメタル (存在しないページ)">ゴムメタル</a>を採用した高反発、軽量なラケットも登場している。</li>
+</ul>
+<h4><span class="mw-headline" id=".E3.82.B9.E3.83.88.E3.83.AA.E3.83.B3.E3.82.B0.EF.BC.88.E3.82.AC.E3.83.83.E3.83.88.EF.BC.89">ストリング（ガット）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=13" title="節を編集: ストリング（ガット）">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>ストリングが張ってある部分をストリングド・エリアという。その部分の大きさは、縦280mm以内、横220mm以内と規定されている。</li>
+<li><a href="/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3" title="ナイロン">ナイロン</a>などの<a href="/wiki/%E5%8C%96%E5%AD%A6%E7%B9%8A%E7%B6%AD" title="化学繊維">化学繊維</a>を細かく編んだものが主に用いられ、金属音に近い高い打球音を好むプレーヤーのためチタンなどの金属素材を配合した物も販売されている。</li>
+<li>ストリングのテンションは低くて20ポンド弱、高くて30ポンド強である。高テンションで張ると打球音がよくなり、インパクト時のブレが少なくなるためコントロール性が向上するが、ある程度パワーや技術が無ければシャトルが飛ばなくなり（<a href="/w/index.php?title=%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="スイートスポット (存在しないページ)">スイートスポット</a>が狭くなる）、また肘などへの反動も大きくなるため、上級者ほど高テンションで張ったラケットを使う傾向がある。ただしプレースタイルにもよる。</li>
+<li>ストリングは基本的に縦糸・横糸共に22本ずつであり、縦糸の左右最後の一本は穴（<a href="/w/index.php?title=%E3%82%B0%E3%83%AD%E3%83%A1%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="グロメットホール (存在しないページ)">グロメットホール</a>）を一本飛ばして通す。ただし検定品でない安価なラケットの場合はストリングの本数がいい加減なものもある。ヨーロッパのラケットで日本に進出したもので縦横24本ずつのものもある。(検定品)</li>
+</ul>
+<h4><span class="mw-headline" id=".E3.83.8F.E3.83.B3.E3.83.89.E3.83.AB.EF.BC.88.E3.82.B0.E3.83.AA.E3.83.83.E3.83.97.EF.BC.89">ハンドル（グリップ）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=14" title="節を編集: ハンドル（グリップ）">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>多くは木製で、それを土台としてシャフトを埋め込み、釘で固定してある。</li>
+<li>ハンドル（手で握る部分）にはほとんどの場合、合成レザーのグリップテープが最初から巻かれている。ただしグリップ性能の問題からそのままの状態で使用するプレーヤーは少なく、レザーの上にポリウレタン等でできた別売りのグリップテープ（<b>オーバーグリップ</b>）を重ねて巻く人が多い。</li>
+</ul>
+<h5><span class="mw-headline" id=".E3.82.AA.E3.83.BC.E3.83.90.E3.83.BC.E3.82.B0.E3.83.AA.E3.83.83.E3.83.97">オーバーグリップ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=15" title="節を編集: オーバーグリップ">編集</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>オーバーグリップは、大別してポリウレタン製のものとタオル地のものとに大別される。</p>
+<ul>
+<li>ポリウレタン製 … よく延びるため太さの調節もしやすく、糊などは使わずにテープ一枚で固定できることから取替えも手軽であるため、多くのプレーヤーが使用している。中にはフィット感を高めるために、ウレタンの凸凹がついている物もある。</li>
+</ul>
+<ul>
+<li>タオル地 … 表面がタオル上の布の裏に両面テープがついており、それをハンドル部分に貼り付けて使用する。汗をよく吸うため、手のひらに汗をよくかく人が好んで使う。また使っているうちに、タオルが手の形になじんでくる点も好まれている。ただし使っているうちに硬くなるので、耐久性の面ではポリウレタン製に劣るが、グリップパウダーを使用すると改善されることが多い。</li>
+</ul>
+<h3><span class="mw-headline" id=".E3.82.A6.E3.82.A7.E3.82.A2.EF.BC.88.E3.83.A6.E3.83.8B.E3.83.95.E3.82.A9.E3.83.BC.E3.83.A0.EF.BC.89">ウェア（ユニフォーム）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=16" title="節を編集: ウェア（ユニフォーム）">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks ambox mbox-small-left ambox-content" role="presentation" style="width:auto;;">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Gnome-globe.svg" class="image"><img alt="Gnome-globe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/40px-Gnome-globe.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/60px-Gnome-globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/80px-Gnome-globe.svg.png 2x" data-file-width="48" data-file-height="48" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span"><b>この節はその主題が日本に置かれた記述になっており、<a href="/wiki/Wikipedia:%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%BF%83%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB" title="Wikipedia:日本中心にならないように">世界的観点</a>からの説明がされていない可能性があります。</b><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="ノート:バドミントン">ノート</a>での議論と<a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit">記事の発展</a>への協力をお願いします。<small>（<span title="2015年4月">2015年4月</span>）</small></span></td>
+</tr>
+</table>
+<ul>
+<li>バドミントン競技は、動きが激しく、また、それにより多くの発汗を伴うため、伸縮性・吸湿性・速乾性・防臭性などが優れた<a href="/w/index.php?title=%E9%AB%98%E6%A9%9F%E8%83%BD&amp;action=edit&amp;redlink=1" class="new" title="高機能 (存在しないページ)">高機能</a><a href="/wiki/%E7%B4%A0%E6%9D%90" title="素材" class="mw-disambig">素材</a>のウェアが好まれ、選ばれている。</li>
+<li>以前は白地でなければならない等のルールがあったため、非常に地味でファッション性の乏しいウェアが多かったが、規制が緩和された現在ではカラフルなウェアを使用できる。</li>
+<li>日本の公式大会で着ることができる色つきのシャツやパンツなどは、日本バドミントン協会の検定審査合格品でなければならない。検定審査合格品でないウェアは失格処分となる可能性がある。ただし上下とも白で無地のものは、検定審査合格品でなくとも使用できる。</li>
+<li><a href="/wiki/2000%E5%B9%B4%E4%BB%A3" title="2000年代">2000年代</a>初頭まではショートパンツは前ファスナー付きのものが多かったが、現在はジャージ形式のものが主流である。</li>
+</ul>
+<h3><span class="mw-headline" id=".E3.82.B7.E3.83.A5.E3.83.BC.E3.82.BA">シューズ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=17" title="節を編集: シューズ">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>バドミントンはストップ＆ダッシュの連続でフットワークの技術も特殊であるため、ほとんどの場合で専用の屋内用シューズを使用する。特に踵の部分のショック吸収性と、左右の動きで生じるズレやつぶれ等に対する強さに重点を置いているものが多い。</p>
+<h2><span class="mw-headline" id=".E6.8A.80.E8.A1.93">技術</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=18" title="節を編集: 技術">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>バドミントンにおいて必要な技術は、まずラケットでシャトルを打つ技術（ラケットワーク）と、無駄の無い動きで素早く追いつくための技術（フットワーク）である。詳細は<a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%81%AE%E6%8A%80%E8%A1%93" title="バドミントンの技術">バドミントンの技術</a>を参照。</p>
+<h2><span class="mw-headline" id=".E6.AD.B4.E5.8F.B2">歴史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=19" title="節を編集: 歴史">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E3.83.90.E3.83.89.E3.83.9F.E3.83.B3.E3.83.88.E3.83.B3.E3.81.AE.E8.AA.95.E7.94.9F">バドミントンの誕生</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=20" title="節を編集: バドミントンの誕生">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>諸説あるものの、最も有力とされている説は次の通り。元々は<a href="/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9" title="イギリス">イギリス</a>植民地時代の<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89" title="インド">インド</a>の<a href="/wiki/%E3%83%97%E3%83%8D%E3%83%BC" title="プネー">プーナ</a>で<a href="/wiki/1820%E5%B9%B4%E4%BB%A3" title="1820年代">1820年代</a>に行なわれていた、皮の球をラケットでネット越しに打ち合う「プーナ」(Poona)という遊びを、インド帰りのイギリス人兵士（イギリス人とインド人の混血とも言われる）が<a href="/wiki/1873%E5%B9%B4" title="1873年">1873年</a>に本国に伝えたのが始まりとされる。その兵士は、プーナを紹介するために<a href="/wiki/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%B3" title="シャンパン">シャンパン</a>の<a href="/wiki/%E6%A0%93" title="栓" class="mw-disambig">栓</a>に<a href="/wiki/%E9%B3%A5" title="鳥" class="mw-redirect">鳥</a>の<a href="/wiki/%E7%BE%BD%E6%A0%B9" title="羽根" class="mw-redirect">羽根</a>を刺したものを用い、それをテニスラケットで打って見せたという。紹介されたのがイギリスの<a href="/wiki/%E3%82%B0%E3%83%AD%E3%82%B9%E3%82%BF%E3%82%B7%E3%83%A3%E3%83%BC" title="グロスタシャー">グロスタシャー</a>の<span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E8%8D%98&amp;action=edit&amp;redlink=1" class="new" title="バドミントン荘 (存在しないページ)">バドミントン荘</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="//en.wikipedia.org/wiki/Badminton_House" class="extiw" title="en:Badminton House">英語版</a>）</span></span>という邸宅であったため、バドミントンという名称がついた（ただし、1870年代にはかなり進んだバドミントンルールが存在したことなどから、この起源説に対し、疑問を持つ者も少なくない。スポーツの起源というものは往々にして脚色されがちである）。いずれにせよ、現在の国際的流行の下地を作ったのはイギリスである。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>イギリスには<span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%90%E3%83%88%E3%83%AB%E3%83%89%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%B3%E3%83%83%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="バトルドア・アンド・シャトルコック (存在しないページ)">バトルドア・アンド・シャトルコック</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="//en.wikipedia.org/wiki/Battledore_and_Shuttlecock" class="extiw" title="en:Battledore and Shuttlecock">英語版</a>）</span></span>という、シャトルコックに似た球を打ち合う遊びが、プーナ伝来よりも前から伝わっている。その競技の性質や、名前などから、バトルドア・アンド・シャトルコックが次第にバドミントンへと変化していったという説も信憑性が高い。初期のバドミントンはバドミントン・バトルドアと称していることも、この説を裏づける。ともあれ、<a href="/wiki/1860%E5%B9%B4%E4%BB%A3" title="1860年代">1860年代</a>-<a href="/wiki/1870%E5%B9%B4%E4%BB%A3" title="1870年代">1870年代</a>ごろに誕生したらしいバドミントンは次第にイギリス中に普及していった。</p>
+<p>その後、<a href="/wiki/1893%E5%B9%B4" title="1893年">1893年</a>、ルール統一の必要性から、イギリスにバドミントン協会が誕生。プレーする人数や、コートの広さ、マッチまでの得点などが様々だったが、これ以後、ルールの統一が進んでいく。当時のバドミントンは、バックバウンダリーラインから、ネットに向けて狭くなっていく、<a href="/wiki/%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="バスケットボール">バスケットボール</a>のフリースローレーンのような形のコートを2つ合わせたような形であった。これは、バドミントン荘がそのような形状であったから、というのが定説である。日本に古くから伝わる<a href="/wiki/%E7%BE%BD%E6%A0%B9%E7%AA%81%E3%81%8D" title="羽根突き">羽根突き</a>との関連は不明。</p>
+<p><a href="/wiki/1899%E5%B9%B4" title="1899年">1899年</a>には<a href="/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3" title="ロンドン">ロンドン</a>で第一回<a href="/wiki/%E5%85%A8%E8%8B%B1%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3)" title="全英オープン (バドミントン)">全英オープン</a>が行われ、<a href="/wiki/1921%E5%B9%B4" title="1921年">1921年</a>に<a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%80" title="カナダ">カナダ</a>、<a href="/wiki/1930%E5%B9%B4" title="1930年">1930年</a>に<a href="/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF" title="デンマーク">デンマーク</a>、<a href="/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80" title="オランダ">オランダ</a>、<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9" title="フランス">フランス</a>にバドミントン協会が設立され、そして<a href="/wiki/1934%E5%B9%B4" title="1934年">1934年</a>に<a href="/wiki/%E4%B8%96%E7%95%8C%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%80%A3%E7%9B%9F" title="世界バドミントン連盟">世界バドミントン連盟</a>が誕生した。</p>
+<p><a href="/wiki/1972%E5%B9%B4" title="1972年">1972年</a>の<a href="/wiki/%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%98%E3%83%B3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="ミュンヘンオリンピック">ミュンヘンオリンピック</a>にて<a href="/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%85%AC%E9%96%8B%E7%AB%B6%E6%8A%80" title="オリンピック公開競技">公開競技</a>として行われた後、その次の<a href="/wiki/%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="モントリオールオリンピック">モントリオールオリンピック</a>から正式競技になるとの観測があったが、中国が脱退するなどして国際バドミントン連盟が分裂する事態が起こり、立ち消えとなったことがある。</p>
+<p><a href="/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E7%AB%B6%E6%8A%80" title="オリンピックバドミントン競技">オリンピック</a>の方が注目されがちだが、オリンピックや<a href="/wiki/%E4%B8%96%E7%95%8C%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="世界バドミントン選手権大会">世界選手権</a>よりも上記の<a href="/wiki/%E5%85%A8%E8%8B%B1%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3)" title="全英オープン (バドミントン)">全英オープン</a>、国別対抗団体戦の<a href="/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E6%9D%AF" title="トマス杯">トマス杯</a>、<a href="/wiki/%E3%83%A6%E3%83%BC%E3%83%90%E3%83%BC%E6%9D%AF" title="ユーバー杯">ユーバー杯</a>の方が長い歴史と伝統を誇る。</p>
+<h3><span class="mw-headline" id=".E5.90.84.E5.9B.BD.E3.81.A7.E3.81.AE.E6.99.AE.E5.8F.8A">各国での普及</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=21" title="節を編集: 各国での普及">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id=".E6.97.A5.E6.9C.AC">日本</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=22" title="節を編集: 日本">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>日本では<a href="/wiki/1921%E5%B9%B4" title="1921年">1921年</a>、横浜<a href="/wiki/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E9%9D%92%E5%B9%B4%E4%BC%9A" title="キリスト教青年会">YMCA</a>の体育主事をしていた<a href="/w/index.php?title=%E5%BA%83%E7%94%B0%E5%85%BC%E6%95%8F&amp;action=edit&amp;redlink=1" class="new" title="広田兼敏 (存在しないページ)">広田兼敏</a>が名誉主事のアメリカ人スネードから用具一式を寄贈されたことが始まりとされている。広田はその後、在日欧米人よりバドミントンについて学び、<a href="/wiki/1933%E5%B9%B4" title="1933年">1933年</a>に横浜YMCAの体育活動に取り入れ、<a href="/wiki/1937%E5%B9%B4" title="1937年">1937年</a>にはバドミントンクラブを設置したと言われる。</p>
+<p>その後、<a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6" title="第二次世界大戦">第二次世界大戦</a>のために普及活動は停滞するが、<a href="/wiki/1946%E5%B9%B4" title="1946年">1946年</a>、終戦後早々と各地のYMCAなどのクラブチームはバドミントンを再開した。同年、<a href="/wiki/11%E6%9C%882%E6%97%A5" title="11月2日">11月2日</a>、日本バドミントン協会が設立される。<a href="/wiki/1948%E5%B9%B4" title="1948年">1948年</a>、第1回<a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E7%B7%8F%E5%90%88%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全日本総合バドミントン選手権大会">全日本総合バドミントン選手権大会</a>開催、<a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BD%93%E8%82%B2%E5%8D%94%E4%BC%9A" title="日本体育協会">日本体育協会</a>に参加。<a href="/wiki/1949%E5%B9%B4" title="1949年">1949年</a>、第四回<a href="/wiki/%E5%9B%BD%E6%B0%91%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A" title="国民体育大会">国民体育大会</a>の競技種目となり、<a href="/wiki/1950%E5%B9%B4" title="1950年">1950年</a>第一回全日本学生バドミントン選手権開催、<a href="/wiki/1951%E5%B9%B4" title="1951年">1951年</a>第1回全国高等学校体育大会バドミントン競技大会開催、第1回実業団バドミントン選手権開催、<a href="/wiki/1952%E5%B9%B4" title="1952年">1952年</a><a href="/wiki/%E5%9B%BD%E9%9A%9B%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%80%A3%E7%9B%9F" title="国際バドミントン連盟" class="mw-redirect">国際バドミントン連盟</a>加盟し、急速にバドミントンは普及する。</p>
+<p><a href="/wiki/1954%E5%B9%B4" title="1954年">1954年</a>男子チームが初の国際大会となる第3回<a href="/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E6%9D%AF" title="トマス杯">トマス杯</a>大会アジア地区予選に出場した。女子チームは<a href="/wiki/%E6%B9%AF%E6%9C%A8%E5%8D%9A%E6%81%B5" title="湯木博恵">湯木博恵</a>などを中心に<a href="/wiki/1965%E5%B9%B4" title="1965年">1965年</a>-<a href="/wiki/1966%E5%B9%B4" title="1966年">1966年</a>、<a href="/wiki/1968%E5%B9%B4" title="1968年">1968年</a>-<a href="/wiki/1969%E5%B9%B4" title="1969年">1969年</a>、<a href="/wiki/1971%E5%B9%B4" title="1971年">1971年</a>-<a href="/wiki/1972%E5%B9%B4" title="1972年">1972年</a>、<a href="/wiki/1977%E5%B9%B4" title="1977年">1977年</a>-<a href="/wiki/1978%E5%B9%B4" title="1978年">1978年</a>、<a href="/wiki/1980%E5%B9%B4" title="1980年">1980年</a>-<a href="/wiki/1981%E5%B9%B4" title="1981年">1981年</a>に、最も権威ある国際大会の一つである<a href="/wiki/%E3%83%A6%E3%83%BC%E3%83%90%E3%83%BC%E6%9D%AF" title="ユーバー杯">ユーバー杯</a>で優勝するという快挙を成し遂げた。また、公開競技として行われた<a href="/wiki/1972%E5%B9%B4" title="1972年">1972年</a>の<a href="/wiki/%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%98%E3%83%B3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="ミュンヘンオリンピック">ミュンヘンオリンピック</a>において女子シングルスに出場した<a href="/wiki/%E4%B8%AD%E5%B1%B1%E7%B4%80%E5%AD%90" title="中山紀子">中山紀子</a>が金メダル、<a href="/wiki/%E6%B9%AF%E6%9C%A8%E5%8D%9A%E6%81%B5" title="湯木博恵">湯木博恵</a>が銅メダルを獲得。さらに<a href="/wiki/1988%E5%B9%B4" title="1988年">1988年</a>の<a href="/wiki/%E3%82%BD%E3%82%A6%E3%83%AB%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="ソウルオリンピック">ソウルオリンピック</a>において女子シングルスに出場した<a href="/w/index.php?title=%E5%8C%97%E7%94%B0%E3%82%B9%E3%83%9F%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="北田スミ子 (存在しないページ)">北田スミ子</a>、男子ダブルスに出場した<a href="/wiki/%E6%9D%BE%E9%87%8E%E4%BF%AE%E4%BA%8C" title="松野修二">松野修二</a>･<a href="/wiki/%E6%9D%BE%E6%B5%A6%E9%80%B2%E4%BA%8C" title="松浦進二">松浦進二</a>ペアが銅メダルを獲得している。</p>
+<p><a href="/wiki/1992%E5%B9%B4" title="1992年">1992年</a>の<a href="/wiki/%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="バルセロナオリンピック">バルセロナオリンピック</a>にて正式種目として採用されてからはしばらくメダルを獲得出来なかったが、<a href="/wiki/2008%E5%B9%B4" title="2008年">2008年</a>の<a href="/wiki/%E5%8C%97%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="北京オリンピック">北京オリンピック</a>で女子ダブルスに出場した<a href="/wiki/%E6%9C%AB%E7%B6%B1%E8%81%A1%E5%AD%90" title="末綱聡子">末綱聡子</a>・<a href="/wiki/%E5%89%8D%E7%94%B0%E7%BE%8E%E9%A0%86" title="前田美順">前田美順</a>ペア（<a href="/wiki/%E3%82%B9%E3%82%A8%E3%83%9E%E3%82%A8" title="スエマエ">スエマエ</a>）がベスト4入りを果たすと、<a href="/wiki/2012%E5%B9%B4" title="2012年">2012年</a>の<a href="/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF_(2012%E5%B9%B4)" title="ロンドンオリンピック (2012年)">ロンドンオリンピック</a>で同種目に出場した<a href="/wiki/%E8%97%A4%E4%BA%95%E7%91%9E%E5%B8%8C" title="藤井瑞希">藤井瑞希</a>・<a href="/wiki/%E5%9E%A3%E5%B2%A9%E4%BB%A4%E4%BD%B3" title="垣岩令佳">垣岩令佳</a>ペア（<a href="/w/index.php?title=%E3%83%95%E3%82%B8%E3%82%AB%E3%82%AD&amp;action=edit&amp;redlink=1" class="new" title="フジカキ (存在しないページ)">フジカキ</a>）が銀メダルを獲得した。</p>
+<h3><span class="mw-headline" id=".E8.BF.91.E5.B9.B4.E3.81.AE.E3.83.90.E3.83.89.E3.83.9F.E3.83.B3.E3.83.88.E3.83.B3">近年のバドミントン</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=23" title="節を編集: 近年のバドミントン">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/1972%E5%B9%B4" title="1972年">1972年</a>の<a href="/wiki/%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%98%E3%83%B3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="ミュンヘンオリンピック">ミュンヘンオリンピック</a>、<a href="/wiki/1988%E5%B9%B4" title="1988年">1988年</a>の<a href="/wiki/%E3%82%BD%E3%82%A6%E3%83%AB%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="ソウルオリンピック">ソウルオリンピック</a>では、公開競技として行われた。<a href="/wiki/1992%E5%B9%B4" title="1992年">1992年</a>の<a href="/wiki/%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="バルセロナオリンピック">バルセロナオリンピック</a>より正式競技種目として採用された（混合ダブルスは1996年のアトランタ大会から）。国際バドミントン連盟（IBF）は、オリンピック種目として生き残ることを視野に、2000年から 7点5ゲーム・サイドアウト制の試行を始めた。この得点システムは2002年6月に見直され、元の15点（女子シングルスは11点）3ゲーム・サイドアウト制に戻された。2003年3月に、イングランドの呼びかけで開かれた IBF臨時総会では、9点5ゲーム制、女子種目と混合ダブルスの11点3ゲーム制（いずれもサイドアウト制）などが検討されたが、再び旧ルールに戻る結末を迎えた。2005年は、IBFの提案により、ラリーポイント制について、実験的採用が行われた年となった。2006年5月6日、トマス杯ユーバー杯開催中の日本の東京で開かれた IBF年次総会において、21点ラリーポイント制の得点システムが加盟各国理事に満場一致で支持され、IBF の世界ランキング大会は、これで行われることが正式に決定した。 2006年9月、国際バドミントン連盟は、世界選手権開催中のスペインのマドリードで開かれた臨時総会において、名称を 世界バドミントン連盟（Badminton World Federation)に変更することを決め、発表した。</p>
+<h2><span class="mw-headline" id=".E4.B8.BB.E3.81.AA.E5.A4.A7.E4.BC.9A">主な大会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=24" title="節を編集: 主な大会">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E5.9B.BD.E9.9A.9B.E5.A4.A7.E4.BC.9A">国際大会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=25" title="節を編集: 国際大会">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E7%AB%B6%E6%8A%80" title="オリンピックバドミントン競技">オリンピック</a></li>
+<li><a href="/wiki/%E4%B8%96%E7%95%8C%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="世界バドミントン選手権大会">世界バドミントン選手権大会</a></li>
+<li><a href="/wiki/%E4%B8%96%E7%95%8C%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="世界ジュニアバドミントン選手権大会">世界ジュニアバドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E4%B8%96%E7%95%8C%E5%AD%A6%E7%94%9F%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="世界学生バドミントン選手権大会 (存在しないページ)">世界学生バドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E4%B8%96%E7%95%8C%E3%82%B7%E3%83%8B%E3%82%A2%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="世界シニアバドミントン選手権大会 (存在しないページ)">世界シニアバドミントン選手権大会</a></li>
+<li><a href="/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E6%9D%AF" title="トマス杯">トマス杯</a>（男子国別対抗団体戦）</li>
+<li><a href="/wiki/%E3%83%A6%E3%83%BC%E3%83%90%E3%83%BC%E6%9D%AF" title="ユーバー杯">ユーバー杯</a>（女子国別対抗団体戦）</li>
+<li><a href="/wiki/%E3%82%B9%E3%83%87%E3%82%A3%E3%83%AB%E3%83%9E%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97" title="スディルマンカップ">スディルマンカップ</a>（男女混合国別対抗団体戦）</li>
+<li><a href="/wiki/BWF%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" title="BWFスーパーシリーズ">BWFスーパーシリーズ</a>
+<ul>
+<li><a href="/wiki/%E5%85%A8%E8%8B%B1%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3)" title="全英オープン (バドミントン)">全英オープン</a></li>
+<li><a href="/wiki/%E3%83%A8%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3" title="ヨネックスオープンジャパン">ヨネックスオープンジャパン</a></li>
+<li>他</li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E7%AB%B6%E6%8A%80" title="アジア競技大会バドミントン競技">アジア大会</a></li>
+<li><a href="/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E7%AB%B6%E6%8A%80" title="東アジア競技大会バドミントン競技">東アジア大会</a></li>
+<li><a href="/wiki/%E5%A4%A7%E9%98%AA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8" title="大阪インターナショナルチャレンジ" class="mw-redirect">大阪インターナショナルチャレンジ</a></li>
+</ul>
+<h3><span class="mw-headline" id=".E5.90.84.E5.9B.BD.E3.81.AE.E5.A4.A7.E4.BC.9A">各国の大会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=26" title="節を編集: 各国の大会">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id=".E6.97.A5.E6.9C.AC_2">日本</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=27" title="節を編集: 日本">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E7%B7%8F%E5%90%88%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全日本総合バドミントン選手権大会">全日本総合バドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="日本ランキングサーキット大会 (存在しないページ)">日本ランキングサーキット大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E4%BA%BA%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全日本社会人バドミントン選手権大会">全日本社会人バドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E5%85%A8%E6%97%A5%E6%9C%AC%E3%82%B7%E3%83%8B%E3%82%A2%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="全日本シニアバドミントン選手権大会 (存在しないページ)">全日本シニアバドミントン選手権大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全日本ジュニアバドミントン選手権大会">全日本ジュニアバドミントン選手権大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%AE%9F%E6%A5%AD%E5%9B%A3%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全日本実業団バドミントン選手権大会">全日本実業団バドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E5%85%A8%E6%97%A5%E6%9C%AC%E6%95%99%E8%81%B7%E5%93%A1%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="全日本教職員バドミントン選手権大会 (存在しないページ)">全日本教職員バドミントン選手権大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全日本学生バドミントン選手権大会">全日本学生バドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E5%85%A8%E6%97%A5%E6%9C%AC%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="全日本レディースバドミントン選手権大会 (存在しないページ)">全日本レディースバドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA&amp;action=edit&amp;redlink=1" class="new" title="日本バドミントンジュニアグランプリ (存在しないページ)">日本バドミントンジュニアグランプリ</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全国高等学校バドミントン選手権大会" class="mw-redirect">全国高等学校バドミントン選手権大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E9%81%B8%E6%8A%9C%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E5%A4%A7%E4%BC%9A" title="全国高等学校選抜バドミントン大会">全国高等学校選抜バドミントン大会</a></li>
+<li><a href="/w/index.php?title=%E5%85%A8%E6%97%A5%E6%9C%AC%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="全日本高等専門学校バドミントン選手権大会 (存在しないページ)">全日本高等専門学校バドミントン選手権大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E5%A4%A7%E4%BC%9A" title="全国中学校バドミントン大会">全国中学校バドミントン大会</a></li>
+<li><a href="/w/index.php?title=%E5%85%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%AD%A6%E7%94%9F%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="全日本中学生バドミントン選手権大会 (存在しないページ)">全日本中学生バドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E5%85%A8%E5%9B%BD%E5%B0%8F%E5%AD%A6%E7%94%9FABC%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="全国小学生ABCバドミントン大会 (存在しないページ)">全国小学生ABCバドミントン大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全国小学生バドミントン選手権大会">全国小学生バドミントン選手権大会</a></li>
+<li><a href="/w/index.php?title=%E8%8B%A5%E8%91%89%E3%82%AB%E3%83%83%E3%83%97%E5%85%A8%E5%9B%BD%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="若葉カップ全国小学生バドミントン大会 (存在しないページ)">若葉カップ全国小学生バドミントン大会</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E6%97%A5%E6%9C%AC%E3%83%AA%E3%83%BC%E3%82%B0" title="バドミントン日本リーグ">バドミントン日本リーグ</a>（実業団対抗・団体戦）</li>
+<li><a href="/wiki/%E5%9B%BD%E6%B0%91%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A" title="国民体育大会">国民体育大会</a>（県対抗・団体戦）</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" title="日本スポーツマスターズ">日本スポーツマスターズ</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%83%AC%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%A5%AD" title="全国スポーツ・レクリエーション祭">全国スポーツ・レクリエーション祭</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%A4%A7%E4%BC%9A" title="全国青年大会">全国青年大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A5%AD%E5%85%B8" title="全国スポーツ祭典">全国スポーツ祭典</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=28" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E5%8D%94%E4%BC%9A" title="日本バドミントン協会">日本バドミントン協会</a></li>
+<li><a href="/wiki/%E4%B8%96%E7%95%8C%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E9%80%A3%E7%9B%9F" title="世界バドミントン連盟">世界バドミントン連盟</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8" title="バドミントン日本代表">バドミントン日本代表</a></li>
+<li><a href="/wiki/%E3%83%95%E3%83%AA%E3%83%B3%E3%82%B4" title="フリンゴ">フリンゴ</a> - バドミントンのダブルスコートを準用する球技。</li>
+<li><a href="/wiki/%E3%83%9F%E3%83%8B%E3%83%90%E3%83%AC%E3%83%BC" title="ミニバレー">ミニバレー</a> - バドミントンのダブルスコートを準用する球技。</li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=29" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b>バドミントン</b>に関連する<b><span class="plainlinks"><a class="external text" href="//commons.wikimedia.org/wiki/Badminton?uselang=ja">メディア</a></span></b>および<b><span class="plainlinks"><a class="external text" href="//commons.wikimedia.org/wiki/Category:Badminton?uselang=ja">カテゴリ</a></span></b>があります。</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/80px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキブックスに<b><a href="//ja.wikibooks.org/wiki/Special:Search/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" class="extiw" title="b:Special:Search/バドミントン">バドミントン</a></b>関連の解説書・教科書があります。</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id=".E5.9B.A3.E4.BD.93">団体</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=30" title="節を編集: 団体">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.bwfbadminton.org/">Badminton World Federation(BWF) 世界バドミントン連盟</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://badmintonworld.tv/">Badmintonworld.tv</a> - BWF の公式生チャンネル(<a href="/wiki/YouTube" title="YouTube">YouTube</a>) <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.parabadminton.org/">Parabadminton World Federation(PBWF) 世界障害者バドミントン連盟</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.badminton.or.jp/">日本バドミントン協会</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.badminton-league.jp/">バドミントン日本リーグ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.badminton-jitsugyodan-jp.com/">日本実業団バドミントン連盟</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jef-badminton.jp/">日本教職員バドミントン連盟</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.japanibf.com/">全日本学生バドミントン連盟</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.zenkoku-koutairen-bad.com/">全国高等学校体育連盟バドミントン専門部</a></li>
+<li><a rel="nofollow" class="external text" href="http://www7.plala.or.jp/njpa-bad/">日本中学校体育連盟バドミントン専門部</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.syoubad.jp/">日本小学生バドミントン連盟</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hellonet.or.jp/~hisato/msbf/">全日本社会人クラブバドミントン連盟</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jlbad.gr.jp/">日本レディースバドミントン連盟</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jbad.org/index.html">日本障害者バドミントン協会</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jbad.biz/">日本ろう者バドミントン協会</a></li>
+</ul>
+<h3><span class="mw-headline" id=".E3.83.AB.E3.83.BC.E3.83.AB.E3.81.AA.E3.81.A9">ルールなど</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=31" title="節を編集: ルールなど">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.badminton.or.jp/rule/">競技規則</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E5%8D%94%E4%BC%9A" title="日本バドミントン協会">日本バドミントン協会</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.unisys.co.jp/badminton/rule/">詳しいバドミントン新ルール解説</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%A6%E3%83%8B%E3%82%B7%E3%82%B9" title="日本ユニシス">日本ユニシス</a>実業団バドミントン部</li>
+<li><a rel="nofollow" class="external text" href="http://badminton-rule.com/">バドミントンルール百科</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ganbaranai-bad.com/shuttle-hyakka/">バドミントンシャトル百科</a></li>
+<li><a rel="nofollow" class="external text" href="http://badminton-beginner.com/">バドミントン初心者ガイド</a></li>
+</ul>
+<h3><span class="mw-headline" id=".E3.81.9D.E3.81.AE.E4.BB.96">その他</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=32" title="節を編集: その他">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.smash-net.tv/">SMASH and NET.TV</a></li>
+<li><a rel="nofollow" class="external text" href="http://badpal.wordpress.com/">BadPaL</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.badland.jp/">Badland</a>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.facebook.com/Badland.jp/">バドミントンっていいね!</a> - Badland の<a href="/wiki/Facebook" title="Facebook">Facebook</a></li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.badnet.jp/">Badnet</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.e-48106.com/">バドミントンぶっこみ情報バド鍋</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.badminton.ac/">バドミントンアカデミー</a></li>
+<li><a rel="nofollow" class="external text" href="http://badmintonfaun.jp/">BADMINTON Faun</a>（管理は渡邊秀幹、2012年以降は、あまり更新されていない）</li>
+<li><a rel="nofollow" class="external text" href="http://www.joc.or.jp/sports/badminton.html">日本オリンピック委員会（バドミントン）</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jsports.co.jp/badminton/">J SPORTS（バドミントン）</a> - スポーツテレビ局</li>
+<li><a rel="nofollow" class="external text" href="http://www.sportsclick.jp/badminton/index.html">バドミントンに関する本</a>（<a href="/wiki/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E7%A4%BE" title="ベースボール・マガジン社">ベースボール・マガジン社</a>）</li>
+</ul>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=33" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E5.87.BA.E5.85.B8">出典</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit&amp;section=34" title="節を編集: 出典">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text">クレイグ・グレンディ　著『ギネス世界記録2015』（角川アスキー総合研究所）参照</span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text">日本バドミントン協会、世界バドミントン連盟の競技規則を参照していただきたい。</span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text">『「先生なぜですか」ネット型球技編 0のことをなぜラブと呼ぶの？』（稲垣正浩･他=編著、大修館書店）※バドミントンの項目は奈良重幸=著</span></li>
+</ol>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E7%90%83%E6%8A%80" title="Template:球技"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E7%90%83%E6%8A%80&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:球技 (存在しないページ)"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E7%90%83%E6%8A%80&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E7%90%83%E6%8A%80&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E7%90%83%E6%8A%80" title="球技">球技</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">コートあり</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";width:3em;;">ゴール入れ</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";width:3em;;">バスケット</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="バスケットボール">バスケットボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ビーチバスケットボール">ビーチ</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ウォーターバスケットボール">ウォーター</a></li>
+<li><a href="/wiki/%E8%BB%8A%E3%81%84%E3%81%99%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="車いすバスケットボール">車いす</a></li>
+<li><a href="/wiki/3x3" title="3x3">FIBA 33</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%95%E3%83%9C%E3%83%BC%E3%83%AB" title="コーフボール">コーフボール</a></li>
+<li><a href="/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ネットボール">ネットボール</a></li>
+<li><a href="/wiki/%E3%82%BB%E3%82%B9%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="セストボール">セストボール</a></li>
+<li><a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ポートボール">ポートボール</a></li>
+<li><a href="/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ホースボール">ホースボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="フットボール">フットボール</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="サッカー">サッカー</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="サッカー">サッカー</a>
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB" title="フットサル">フットサル</a></li>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="ビーチサッカー">ビーチ</a></li>
+<li><a href="/wiki/%E8%A6%96%E8%A6%9A%E9%9A%9C%E5%AE%B3%E8%80%855%E4%BA%BA%E5%88%B6%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="視覚障害者5人制サッカー">視覚障害者</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="オーストラリアンフットボール">オーストラリアンフットボール</a></li>
+<li><a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲーリックフットボール">ゲーリックフットボール</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8B%95%E8%BB%8A%E6%A4%85%E5%AD%90%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="電動車椅子サッカー">電動車椅子サッカー</a></li>
+<li><a href="/wiki/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="サイクルサッカー">サイクルサッカー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">アメフト</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="アメリカンフットボール">アメリカンフットボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="フラッグフットボール">フラッグ</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="アリーナフットボール">アリーナフットボール</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="カナディアンフットボール">カナディアンフットボール</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88" title="アルティメット">アルティメット</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="ラグビー">ラグビー</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0" title="ラグビーリーグ">ラグビーリーグ</a>
+<ul>
+<li><a href="/wiki/%E3%82%BF%E3%82%B0%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="タグラグビー">タグ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="タッチラグビー">タッチ</a></li>
+<li><a href="/wiki/7%E4%BA%BA%E5%88%B6%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="7人制ラグビー">7人制</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%B0%B4%E4%B8%AD%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="水中ラグビー">水中ラグビー</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%81%E3%82%A7%E3%82%A2%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="ウィルチェアーラグビー">ウィルチェアーラグビー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">ハンドボール</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ハンドボール">ハンドボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ビーチハンドボール">ビーチ</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB" title="ゴールボール">ゴールボール</a></li>
+<li><a href="/wiki/%E3%83%88%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="トーボール">トーボール</a></li>
+<li><a href="/wiki/%E6%B0%B4%E7%90%83" title="水球">水球</a></li>
+<li><a href="/wiki/%E3%83%81%E3%83%A5%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB" title="チュックボール">チュックボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">スティック<br />
+アンドボール</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td colspan="2" style="padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0" title="ハーリング">ハーリング</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%82%AF%E3%83%AD%E3%82%B9" title="ラクロス">ラクロス</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="ホッケー">ホッケー</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3" title="バンディ">バンディ</a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="フィールドホッケー">フィールドホッケー</a>
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9C%E3%83%BC%E3%83%AB" title="フロアボール">フロアボール</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="アイスホッケー">アイスホッケー</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="ローラーホッケー">ローラーホッケー</a>
+<ul>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="インラインホッケー">インライン</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="ローラーホッケー">ローラー</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B9%E3%83%AC%E3%83%83%E3%82%B8%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="アイススレッジホッケー">アイススレッジホッケー</a></li>
+<li><a href="/wiki/%E6%B0%B4%E4%B8%AD%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="水中ホッケー">水中ホッケー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%9D%E3%83%AD" title="ポロ">ポロ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%AB%E3%83%8C%E3%83%BC%E3%83%9D%E3%83%AD" title="カヌーポロ">カヌーポロ</a></li>
+<li><a href="/wiki/%E3%82%A8%E3%83%AC%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%9D%E3%83%AD" title="エレファントポロ">エレファントポロ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">ネット越え</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:4em;;">バレーボール型</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%82%AB" title="インディアカ">インディアカ</a></li>
+<li><a href="/wiki/%E3%82%BB%E3%83%91%E3%82%BF%E3%82%AF%E3%83%AD%E3%83%BC" title="セパタクロー">セパタクロー</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="バレーボール">バレーボール</a>
+<ul>
+<li><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="ソフトバレーボール">ソフト</a></li>
+<li><a href="/wiki/%E3%83%9F%E3%83%8B%E3%83%90%E3%83%AC%E3%83%BC" title="ミニバレー">ミニ</a></li>
+<li><a href="/wiki/%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%AC%E3%83%BC" title="風船バレー">風船</a></li>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%90%E3%83%AC%E3%83%BC" title="ビーチバレー">ビーチ</a></li>
+<li><a href="/wiki/%E3%82%B7%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="シッティングバレーボール">シッティング</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲーリックハンドボール">ゲーリックハンドボール</a></li>
+<li><a href="/wiki/%E3%83%9C%E3%82%B5%E3%83%9C%E3%83%BC%E3%83%AB" title="ボサボール">ボサボール</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB" title="キンボール">キンボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:4em;;">ラケットスポーツ</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9" title="テニス">テニス</a>
+<ul>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9" title="ローンテニス" class="mw-redirect">ローンテニス</a>（硬式）</li>
+<li><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">ソフトテニス</a>（軟式）</li>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%86%E3%83%8B%E3%82%B9" title="ビーチテニス">ビーチテニス</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%89%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9" title="パドルテニス">パドルテニス</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%8D%93%E7%90%83" title="卓球">卓球</a>
+<ul>
+<li><a href="/wiki/%E3%81%86%E3%81%A1%E3%82%8F%E5%8D%93%E7%90%83" title="うちわ卓球">うちわ</a></li>
+</ul>
+</li>
+<li><strong class="selflink">バドミントン</strong></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="スピードミントン">スピードミントン</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A5_(%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84)" title="スカッシュ (スポーツ)">スカッシュ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%A0%E3%83%93%E3%83%BC%E3%83%81" title="タムビーチ">タムビーチ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AC%E3%83%AA" title="タンブレリ">タンブレリ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AC%E3%83%AD" title="タンブレロ">タンブレロ</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ラケットボール">ラケットボール</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%82%A4%E3%82%A2%E3%83%A9%E3%82%A4" title="ハイアライ">ハイアライ</a></li>
+<li><a href="/wiki/%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB" title="ピックルボール">ピックルボール</a></li>
+<li><a href="/wiki/%E3%83%95%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%9C%E3%83%BC%E3%83%AB" title="フレスコボール">フレスコボール</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9D%E3%83%B3" title="バドポン" class="mw-disambig">バドポン</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%B3%E3%83%9D%E3%83%B3" title="パンポン">パンポン</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%87%E3%83%AB" title="パデル">パデル</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">人当て</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%89%E3%83%83%E3%82%B8%E3%83%9C%E3%83%BC%E3%83%AB" title="ドッジボール">ドッジボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%89%E3%83%83%E3%83%82%E3%83%93%E3%83%BC" title="ドッヂビー">ドッヂビー</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%81%8B%E3%81%9F%E3%81%8D" title="かたき">かたき</a></li>
+<li><a href="/wiki/%E9%9B%AA%E5%90%88%E6%88%A6" title="雪合戦">雪合戦</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">コートなし</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">バットアンドボール</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%AF%E3%83%AA%E3%82%B1%E3%83%83%E3%83%88" title="クリケット">クリケット</a>
+<ul>
+<li><a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B1%E3%83%83%E3%83%88" title="テニスボール・クリケット">テニスボール</a></li>
+<li><a href="/wiki/%E3%83%88%E3%82%A5%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A320" title="トゥエンティ20">トゥエンティ20</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E9%87%8E%E7%90%83" title="野球">野球</a>
+<ul>
+<li><a href="/wiki/%E7%A1%AC%E5%BC%8F%E9%87%8E%E7%90%83" title="硬式野球">硬式</a></li>
+<li><a href="/wiki/%E6%BA%96%E7%A1%AC%E5%BC%8F%E9%87%8E%E7%90%83" title="準硬式野球">準硬式</a></li>
+<li><a href="/wiki/%E8%BB%9F%E5%BC%8F%E9%87%8E%E7%90%83" title="軟式野球">軟式</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E4%B8%89%E8%A7%92%E3%83%99%E3%83%BC%E3%82%B9" title="三角ベース">三角ベース</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ロングベースボール">ロングベースボール</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%83%83%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="キックベースボール">キックベースボール</a></li>
+<li><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ソフトボール">ソフトボール</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB" title="スティックボール">スティックボール</a></li>
+<li><a href="/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="ティーボール">ティーボール</a></li>
+<li><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BD%E3%83%95%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="グランドソフトボール">グランドソフトボール</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E9%87%8E%E7%90%83" title="カラーボール野球">カラーボール野球</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ラケットベースボール">ラケットベースボール</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ハンドベースボール">ハンドベースボール</a></li>
+<li><a href="/wiki/%E3%83%9A%E3%82%B5%E3%83%91%E3%83%83%E3%83%AD" title="ペサパッロ">ペサパッロ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">ゴルフ型</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%B4%E3%83%AB%E3%83%95" title="ゴルフ">ゴルフ</a>
+<ul>
+<li><a href="/wiki/%E3%83%9F%E3%83%8B%E3%82%B4%E3%83%AB%E3%83%95" title="ミニゴルフ">ミニ</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%AB%E3%83%95" title="バーンゴルフ">バーン</a></li>
+<li><a href="/wiki/%E3%83%91%E3%82%BF%E3%83%BC%E3%82%B4%E3%83%AB%E3%83%95" title="パターゴルフ">パター</a></li>
+<li><a href="/wiki/%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%B4%E3%83%AB%E3%83%95" title="ガーデンゴルフ">ガーデン</a></li>
+<li><a href="/wiki/%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B4%E3%83%AB%E3%83%95" title="グラウンド・ゴルフ">グラウンド</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B4%E3%83%AB%E3%83%95" title="パークゴルフ">パーク</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%AC%E3%83%83%E3%83%88%E3%82%B4%E3%83%AB%E3%83%95" title="マレットゴルフ">マレット</a></li>
+<li><a href="/wiki/%E3%82%B4%E3%83%AD%E3%83%83%E3%82%B1%E3%83%BC" title="ゴロッケー">ゴロッケー</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%B4%E3%83%AB%E3%83%95" title="ディスクゴルフ">ディスクゴルフ</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ウッドボール">ウッドボール</a></li>
+<li><a href="/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%B1%E3%83%BC" title="クロッケー">クロッケー</a></li>
+<li><a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲートボール">ゲートボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">その他</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%81%8C%E3%82%93%E3%81%B0%E3%81%93" title="がんばこ">がんばこ</a></li>
+<li><a href="/wiki/%E5%9B%B2%E7%A2%81%E3%83%9C%E3%83%BC%E3%83%AB" title="囲碁ボール">囲碁ボール</a></li>
+<li><a href="/wiki/%E5%A4%A7%E7%90%83%E9%80%81%E3%82%8A" title="大球送り">大球送り</a></li>
+<li><a href="/wiki/%E7%8E%89%E5%85%A5%E3%82%8C" title="玉入れ">玉入れ</a></li>
+<li><a href="/wiki/%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0" title="ボウリング">ボウリング</a></li>
+<li><a href="/wiki/%E3%83%9A%E3%82%BF%E3%83%B3%E3%82%AF" title="ペタンク">ペタンク</a></li>
+<li><a href="/wiki/%E3%83%93%E3%83%AA%E3%83%A4%E3%83%BC%E3%83%89" title="ビリヤード">ビリヤード</a></li>
+<li><a href="/wiki/%E6%89%93%E6%AF%AC" title="打毬">打毬</a></li>
+<li><a href="/wiki/%E8%B9%B4%E9%9E%A0" title="蹴鞠">蹴鞠</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A7%E3%83%BB%E3%83%95%E3%82%A3%E3%82%AA%E3%83%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%8E" title="カルチョ・フィオレンティノ">カルチョ・フィオレンティノ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1041
+CPU time usage: 0.382 seconds
+Real time usage: 0.481 seconds
+Preprocessor visited node count: 5028/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93654/2097152 bytes
+Template argument size: 61952/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 3/500
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 876 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  294.291      1 - -total
+ 32.24%   94.880      7 - Template:Navbox
+ 29.48%   86.763      1 - Template:スポーツ
+ 27.81%   81.853      1 - Template:Infobox
+ 27.17%   79.945      1 - Template:国際化
+ 19.61%   57.712      1 - Template:Ambox
+ 18.37%   54.054      1 - Template:球技
+ 15.46%   45.502      1 - Template:Commons&amp;cat
+ 15.34%   45.151      2 - Template:Sister
+ 14.09%   41.461      2 - Template:Side_box
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:311090-0!*!0!!ja!4!* and timestamp 20150703031636 and revision id 55989235
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=バドミントン&amp;oldid=55989235">https://ja.wikipedia.org/w/index.php?title=バドミントン&amp;oldid=55989235</a>」から取得					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="Category:バドミントン">バドミントン</a></li><li><a href="/wiki/Category:%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E7%AB%B6%E6%8A%80" title="Category:オリンピック競技">オリンピック競技</a></li><li><a href="/wiki/Category:%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="Category:ラケットスポーツ">ラケットスポーツ</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%9B%BD%E9%9A%9B%E5%8C%96%E3%81%8C%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E9%A0%85%E7%9B%AE/2015%E5%B9%B44%E6%9C%88" title="Category:国際化が求められている項目/2015年4月">国際化が求められている項目/2015年4月</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;type=signup" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=edit"  title="このページを編集できます。保存前にプレビューボタンを使用してください。 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput" /><input type="hidden" value="特別:検索" name="title" /><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;oldid=55989235&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;oldid=55989235" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7291" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">Wikidata項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;id=55989235" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Pluimbal" title="アフリカーンス語: Pluimbal" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D8%B1%D8%A9_%D8%B1%D9%8A%D8%B4%D8%A9" title="アラビア語: كرة ريشة" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="//ast.wikipedia.org/wiki/B%C3%A1dminton" title="アストゥリアス語: Bádminton" lang="ast" hreflang="ast">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Badminton" title="アゼルバイジャン語: Badminton" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="バシキール語: Бадминтон" lang="ba" hreflang="ba">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%82%D0%BE%D0%BD" title="ベラルーシ語: Бадмінтон" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%82%D0%BE%D0%BD" title="ベラルーシ語（タラシケヴィツァ）: Бадмінтон" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="ブルガリア語: Бадминтон" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%A8" title="ベンガル語: ব্যাডমিন্টন" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bo"><a href="//bo.wikipedia.org/wiki/%E0%BD%96%E0%BE%B1%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BD%BC%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BC%8D" title="チベット語: བྱ་སྒྲོ་སྤོ་ལོ།" lang="bo" hreflang="bo">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Badminton" title="ブルトン語: Badminton" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Badminton" title="ボスニア語: Badminton" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/B%C3%A0dminton" title="カタロニア語: Bàdminton" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%D8%A8%DB%95%D8%AF%D9%85%DB%8C%D9%86%D8%AA%DB%86%D9%86_(%D9%88%DB%95%D8%B1%D8%B2%D8%B4)" title="クルド語(ソラニー): بەدمینتۆن (وەرزش)" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Badminton" title="チェコ語: Badminton" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="チュヴァシ語: Бадминтон" lang="cv" hreflang="cv">Чӑвашла</a></li><li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Badminton" title="ウェールズ語: Badminton" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Badminton" title="デンマーク語: Badminton" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="//de.wikipedia.org/wiki/Badminton" title="ドイツ語: Badminton" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CE%B9%CF%80%CF%84%CE%AD%CF%81%CE%B9%CF%83%CE%B7" title="ギリシャ語: Αντιπτέριση" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Badminton" title="英語: Badminton" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Badmintono" title="エスペラント語: Badmintono" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/B%C3%A1dminton" title="スペイン語: Bádminton" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Sulgpall" title="エストニア語: Sulgpall" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Badminton" title="バスク語: Badminton" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%AF%D9%85%DB%8C%D9%86%D8%AA%D9%88%D9%86" title="ペルシア語: بدمینتون" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Sulkapallo" title="フィンランド語: Sulkapallo" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-fo"><a href="//fo.wikipedia.org/wiki/Badminton" title="フェロー語: Badminton" lang="fo" hreflang="fo">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Badminton" title="フランス語: Badminton" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/B%C3%A1dminton" title="ガリシア語: Bádminton" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="//hak.wikipedia.org/wiki/Y%C3%AD-m%C3%B4-khi%C3%B9" title="客家語: Yí-mô-khiù" lang="hak" hreflang="hak">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%93%D7%9E%D7%99%D7%A0%D7%98%D7%95%D7%9F" title="ヘブライ語: בדמינטון" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%A1%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%A8" title="ヒンディー語: बैडमिंटन" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hif"><a href="//hif.wikipedia.org/wiki/Badminton" title="フィジー・ヒンディー語: Badminton" lang="hif" hreflang="hif">Fiji Hindi</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Badminton" title="クロアチア語: Badminton" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-ht"><a href="//ht.wikipedia.org/wiki/Badmintonn" title="ハイチ語: Badmintonn" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Tollaslabda" title="ハンガリー語: Tollaslabda" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%A4%D5%B4%D5%AB%D5%B6%D5%BF%D5%B8%D5%B6" title="アルメニア語: Բադմինտոն" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Bulu_tangkis" title="インドネシア語: Bulu tangkis" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Badminton" title="アイスランド語: Badminton" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Badminton" title="イタリア語: Badminton" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="//jv.wikipedia.org/wiki/Badminton" title="ジャワ語: Badminton" lang="jv" hreflang="jv">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%93%E1%83%9B%E1%83%98%E1%83%9C%E1%83%A2%E1%83%9D%E1%83%9C%E1%83%98" title="グルジア語: ბადმინტონი" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="カザフ語: Бадминтон" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%A1%E0%B3%8D%E0%B2%AE%E0%B2%BF%E0%B2%82%E0%B2%9F%E0%B2%A8%E0%B3%8D%E2%80%8C" title="カンナダ語: ಬ್ಯಾಡ್ಮಿಂಟನ್‌" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B0%B0%EB%93%9C%EB%AF%BC%ED%84%B4" title="韓国語: 배드민턴" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="キルギス語: Бадминтон" lang="ky" hreflang="ky">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Ludus_pilae_pennatae" title="ラテン語: Ludus pilae pennatae" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/Badminton" title="ルクセンブルク語: Badminton" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Badmintonas" title="リトアニア語: Badmintonas" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Badmintons" title="ラトビア語: Badmintons" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AC%E0%B4%BE%E0%B4%A1%E0%B5%8D%E0%B4%AE%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%BA" title="マラヤーラム語: ബാഡ്മിന്റൺ" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="モンゴル語: Бадминтон" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%85%E0%A4%A1%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%A8" title="マラーティー語: बॅडमिंटन" lang="mr" hreflang="mr">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Badminton" title="マレー語: Badminton" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%80%E1%80%BC%E1%80%80%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8" title="ビルマ語: ကြက်တောင်ရိုက်ခြင်း" lang="my" hreflang="my">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-new"><a href="//new.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A1%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%A8" title="ネワール語: ब्याडमिन्टन" lang="new" hreflang="new">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Badminton" title="オランダ語: Badminton" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Badminton" title="ノルウェー語(ニーノシュク): Badminton" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Badminton" title="ノルウェー語: Badminton" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Badminton" title="オック語: Badminton" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="//pa.wikipedia.org/wiki/%E0%A8%9A%E0%A8%BF%E0%A9%9C%E0%A9%80-%E0%A8%9B%E0%A8%BF%E0%A9%B1%E0%A8%95%E0%A8%BE" title="パンジャブ語: ਚਿੜੀ-ਛਿੱਕਾ" lang="pa" hreflang="pa">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Badminton" title="ピカルディ語: Badminton" lang="pcd" hreflang="pcd">Picard</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Badminton" title="ポーランド語: Badminton" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%86%DA%91%DB%8C_%DA%86%DA%BE%DA%A9%D8%A7" title="Western Punjabi: چڑی چھکا" lang="pnb" hreflang="pnb">پنجابی</a></li><li class="interlanguage-link interwiki-ps"><a href="//ps.wikipedia.org/wiki/%D8%A8%DA%89%D9%85%D9%86%D9%BC%D9%86" title="パシュトゥー語: بډمنټن" lang="ps" hreflang="ps">پښتو</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Badminton" title="ポルトガル語: Badminton" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-rm"><a href="//rm.wikipedia.org/wiki/Badminton" title="ロマンシュ語: Badminton" lang="rm" hreflang="rm">Rumantsch</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Badminton" title="ルーマニア語: Badminton" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="ロシア語: Бадминтон" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%82%D0%BE%D0%BD" title="ルシン語: Бадмінтон" lang="rue" hreflang="rue">Русиньскый</a></li><li class="interlanguage-link interwiki-sa"><a href="//sa.wikipedia.org/wiki/%E0%A4%AC%E0%A5%87%E0%A4%9F%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%A8%E0%A5%8D-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A1%E0%A4%BE" title="サンスクリット語: बेट्मिन्टन्-क्रीडा" lang="sa" hreflang="sa">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="ヤクート語: Бадминтон" lang="sah" hreflang="sah">Саха тыла</a></li><li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Badminton" title="スコットランド語: Badminton" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Badminton" title="セルボ・クロアチア語: Badminton" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%90%E0%B6%A9%E0%B7%8A%E0%B6%B8%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B6%A7%E0%B6%B1%E0%B7%8A" title="シンハラ語: බැඩ්මින්ටන්" lang="si" hreflang="si">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Badminton" title="シンプル英語: Badminton" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Bedminton" title="スロバキア語: Bedminton" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Badminton" title="スロベニア語: Badminton" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="セルビア語: Бадминтон" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="//su.wikipedia.org/wiki/Badminton" title="スンダ語: Badminton" lang="su" hreflang="su">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Badminton" title="スウェーデン語: Badminton" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B1%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" title="タミル語: இறகுப்பந்தாட்டம்" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%AC%E0%B0%BE%E0%B0%A1%E0%B1%8D%E0%B0%AE%E0%B0%BF%E0%B0%82%E0%B0%9F%E0%B0%A8%E0%B1%8D" title="テルグ語: బాడ్మింటన్" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="//tg.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="タジク語: Бадминтон" lang="tg" hreflang="tg">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9A%E0%B8%94%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%99" title="タイ語: แบดมินตัน" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/Badminton" title="タガログ語: Badminton" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Badminton" title="トルコ語: Badminton" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D1%82%D0%BE%D0%BD" title="タタール語: Бадминтон" lang="tt" hreflang="tt">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-ug"><a href="//ug.wikipedia.org/wiki/%D9%BE%DB%95%D9%8A_%D8%AA%D9%88%D9%BE" title="ウイグル語: پەي توپ" lang="ug" hreflang="ug">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%82%D0%BE%D0%BD" title="ウクライナ語: Бадмінтон" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%A8%DB%8C%DA%88%D9%85%D9%86%D9%B9%D9%86" title="ウルドゥー語: بیڈمنٹن" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="//uz.wikipedia.org/wiki/Badminton" title="ウズベク語: Badminton" lang="uz" hreflang="uz">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/C%E1%BA%A7u_l%C3%B4ng" title="ベトナム語: Cầu lông" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BE%BD%E6%AF%9B%E7%90%83" title="中国語: 羽毛球" lang="zh" hreflang="zh">中文</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E7%BE%BD%E6%AF%9B%E7%90%83" title="広東語: 羽毛球" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7291#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2015年6月27日 (土) 04:13 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" title="wikimedia:プライバシー・ポリシー">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//ja.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//ja.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //ja.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//ja.wikipedia.org/w/load.php?debug=false\u0026amp;lang=ja\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1214"});
+}</script>
+	</body>
+</html>

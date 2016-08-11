@@ -1,0 +1,4 @@
+%h1 Task List
+  %table{id: "plays", class: "table"}
+    = render @plays
+= link_to "New Task", net_play_path, remote: true

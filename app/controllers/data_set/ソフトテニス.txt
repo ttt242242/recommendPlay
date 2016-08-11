@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>ソフトテニス - Wikipedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf10" />
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" />
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit" />
+<link rel="edit" title="編集" href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)" />
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom" />
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" />
+<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: jawiki:resourceloader:filter:minify-css:7:9246fc725aad92e267c3758dcd70c542 */</style>
+<script src="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ソフトテニス","wgTitle":"ソフトテニス","wgCurRevisionId":55478015,"wgRevisionId":55478015,"wgArticleId":84288,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記事/2010年9月","出典を必要とする記述のある記事/2010年9月","ソフトテニス","日本のテニス","ラケットスポーツ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"ソフトテニス","wgRelevantArticleId":84288,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"日本語","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1515947"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"ja"});});
+/* cache key: jawiki:resourceloader:filter:minify-js:7:9c1376de1996a704814c4bd7b0cd67a6 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf10/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-ソフトテニス skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">ソフトテニス</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><table class="plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Question_book-4.svg" class="image"><img alt="Question book-4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/50px-Question_book-4.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/75px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/100px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span"><b>この記事は<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">検証可能</a>な<a href="/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90" title="Wikipedia:信頼できる情報源">参考文献や出典</a>が全く示されていないか、不十分です。</b><br />
+<a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B" title="Wikipedia:出典を明記する">出典を追加</a>して記事の信頼性向上にご協力ください。<small>（<span title="2010年9月">2010年9月</span>）</small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em;">
+<tr>
+<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; background-color:#eed">　ソフトテニス</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Wc2007.jpg" class="image"><img alt="Wc2007.jpg" src="//upload.wikimedia.org/wikipedia/ja/thumb/3/31/Wc2007.jpg/300px-Wc2007.jpg" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/ja/thumb/3/31/Wc2007.jpg/450px-Wc2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/ja/3/31/Wc2007.jpg 2x" data-file-width="600" data-file-height="400" /></a>
+<div style="">2007に韓国で開催された第13回世界選手権]]</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">統括団体</th>
+<td><a href="/w/index.php?title=%E5%9B%BD%E9%9A%9B%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%80%A3%E7%9B%9F&amp;action=edit&amp;redlink=1" class="new" title="国際ソフトテニス連盟 (存在しないページ)">国際ソフトテニス連盟</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">通称</th>
+<td>ソフトテニス</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">起源</th>
+<td><a href="/wiki/19%E4%B8%96%E7%B4%80" title="19世紀">19世紀</a></td>
+</tr>
+<tr>
+<th scope="col" colspan="2" style="text-align:center; background-color:#eed">特徴</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">身体接触</th>
+<td>無</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">選手数</th>
+<td><a href="/wiki/%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%B9" title="シングルス" class="mw-disambig">シングルス</a><br />
+ダブルス<br />
+団体戦</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">男女混合</th>
+<td>有</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">カテゴリ</th>
+<td>球技 ラケットスポーツ</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:right; font-size:85%;"><a href="/wiki/Template:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="Template:スポーツ">テンプレートを表示</a></td>
+</tr>
+</table>
+<p><b>ソフトテニス</b>（<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>: <span lang="en" xml:lang="en">Soft Tennis</span>）は、二人または二組（四人）のプレイヤーが<a href="/wiki/%E3%82%B4%E3%83%A0" title="ゴム">ゴム</a>製の<a href="/wiki/%E3%83%9C%E3%83%BC%E3%83%AB" title="ボール">ボール</a>を<a href="/wiki/%E7%B6%B2" title="網">ネット</a>越しに<a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88" title="ラケット">ラケット</a>で打ち合う<a href="/wiki/%E7%90%83%E6%8A%80" title="球技">球技</a>で、<b>軟式庭球</b>、<b>軟式テニス</b>とも呼ばれる。正式名称は、<a href="/wiki/1992%E5%B9%B4" title="1992年">1992年</a>の全面的な<a href="/wiki/%E3%83%AB%E3%83%BC%E3%83%AB" title="ルール" class="mw-disambig">ルール</a>改定の際にソフトテニス<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>となった。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E7.89.B9.E5.BE.B4"><span class="tocnumber">1</span> <span class="toctext">特徴</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E7.99.BA.E7.94.9F.E3.81.A8.E6.AD.B4.E5.8F.B2"><span class="tocnumber">2</span> <span class="toctext">発生と歴史</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E4.B8.96.E7.95.8C.E3.81.AB.E5.BA.83.E3.81.8C.E3.82.8B.E3.82.BD.E3.83.95.E3.83.88.E3.83.86.E3.83.8B.E3.82.B9.EF.BC.88.E5.9B.BD.E9.9A.9B.E6.99.AE.E5.8F.8A.EF.BC.89"><span class="tocnumber">3</span> <span class="toctext">世界に広がるソフトテニス（国際普及）</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E5.9B.BD.E9.9A.9B.E5.A4.A7.E4.BC.9A"><span class="tocnumber">4</span> <span class="toctext">国際大会</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E6.97.A5.E6.9C.AC.E3.81.A7.E3.81.AE.E7.8F.BE.E6.B3.81"><span class="tocnumber">5</span> <span class="toctext">日本での現況</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E3.83.AB.E3.83.BC.E3.83.AB"><span class="tocnumber">6</span> <span class="toctext">ルール</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E4.B8.BB.E8.A6.81.E5.A4.A7.E4.BC.9A"><span class="tocnumber">7</span> <span class="toctext">主要大会</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.E4.B8.96.E7.95.8C"><span class="tocnumber">7.1</span> <span class="toctext">世界</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E6.97.A5.E6.9C.AC"><span class="tocnumber">7.2</span> <span class="toctext">日本</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#.E3.81.8B.E3.81.A4.E3.81.A6.E8.A1.8C.E3.82.8F.E3.82.8C.E3.81.A6.E3.81.84.E3.81.9F.E4.B8.BB.E8.A6.81.E5.A4.A7.E4.BC.9A"><span class="tocnumber">8</span> <span class="toctext">かつて行われていた主要大会</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#.E4.B8.96.E7.95.8C_2"><span class="tocnumber">8.1</span> <span class="toctext">世界</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#.E7.94.A8.E5.85.B7.5B27.5D"><span class="tocnumber">9</span> <span class="toctext">用具<sup>[27]</sup></span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#.E3.83.A9.E3.82.B1.E3.83.83.E3.83.88"><span class="tocnumber">9.1</span> <span class="toctext">ラケット</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#.E3.83.9C.E3.83.BC.E3.83.AB"><span class="tocnumber">9.2</span> <span class="toctext">ボール</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.E3.82.B7.E3.83.A5.E3.83.BC.E3.82.BA"><span class="tocnumber">9.3</span> <span class="toctext">シューズ</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#.E3.82.B3.E3.83.BC.E3.83.88_.5B32.5D"><span class="tocnumber">9.4</span> <span class="toctext">コート <sup>[32]</sup></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#.E3.82.BD.E3.83.95.E3.83.88.E3.83.86.E3.83.8B.E3.82.B9.E7.94.A8.E8.AA.9E"><span class="tocnumber">10</span> <span class="toctext">ソフトテニス用語</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">11</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">12</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">13</span> <span class="toctext">外部リンク</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E7.89.B9.E5.BE.B4">特徴</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=1" title="節を編集: 特徴">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ソフトテニスはすぐれたアスリート同士が技と力を競いあう高い競技性を持ち、同時に、子供から高齢者まで幅広い世代で愛好される<a href="/wiki/%E7%94%9F%E6%B6%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="生涯スポーツ">生涯スポーツ</a>としての側面を持っている<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。いわゆる硬式テニスと同サイズのコートを使用し、同じような道具を用いるが、ダブルスのみの競技として発展してきたのがラケットスポーツとしては特異な点である（シングルスは近年になって採用された）。</p>
+<h2><span class="mw-headline" id=".E7.99.BA.E7.94.9F.E3.81.A8.E6.AD.B4.E5.8F.B2">発生と歴史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=2" title="節を編集: 発生と歴史">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9" title="ローンテニス" class="mw-redirect">ローンテニス</a>が<a href="/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9" title="イギリス">イギリス</a>で発生したのは<a href="/wiki/1874%E5%B9%B4" title="1874年">1874年</a>（明治7年）であり<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>への伝播は早くて明治11年といわれるが諸説が存在する。<a href="/w/index.php?title=%E8%A1%A8%E5%AD%9F%E5%AE%8F&amp;action=edit&amp;redlink=1" class="new" title="表孟宏 (存在しないページ)">表孟宏</a>編による『テニスの源流を求めて』には数々の説が紹介されているが、どれが事実なのかは特定できていない。なかでは明治政府の招きで来日したリーランド博士が<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD" title="アメリカ合衆国">アメリカ</a>から用具をとりいれて、赴任校である<a href="/wiki/%E4%BD%93%E6%93%8D%E4%BC%9D%E7%BF%92%E6%89%80" title="体操伝習所">体操伝習所</a>（<a href="/wiki/1879%E5%B9%B4" title="1879年">1879年</a>創設）で教えたという説が一般に広く知られている。がこれとてそれを決定づける確たる証拠はないとされる（前書参照）。ただ遅くとも体操伝習所が廃校になる<a href="/wiki/1886%E5%B9%B4" title="1886年">1886年</a>頃には<a href="/w/index.php?title=%E3%82%B4%E3%83%A0%E3%83%9C%E3%83%BC%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="ゴムボール (存在しないページ)">ゴムボール</a>をつかったテニスが普及しつつあった。これはローンテニスの<a href="/wiki/%E3%83%9C%E3%83%BC%E3%83%AB" title="ボール">ボール</a>の国産が難しく、また輸入品も高価であったために、比較的安価であったゴムボールを代用した、と伝えられる。<a href="/w/index.php?title=%E3%82%B4%E3%83%A0%E3%83%9C%E3%83%BC%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="ゴムボール (存在しないページ)">ゴムボール</a>も当初は輸入品であったが、1900年に国産化に成功している。</p>
+<p><a href="/wiki/1885%E5%B9%B4" title="1885年">1885年</a>に<a href="/wiki/%E5%9D%AA%E4%BA%95%E7%8E%84%E9%81%93" title="坪井玄道">坪井玄道</a>・<a href="/w/index.php?title=%E7%94%B0%E4%B8%AD%E7%9B%9B%E6%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="田中盛業 (存在しないページ)">田中盛業</a>編集による『<a href="/w/index.php?title=%E6%88%B8%E5%A4%96%E9%81%8A%E6%88%AF%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="戸外遊戯法 (存在しないページ)">戸外遊戯法</a>』という本が出版されているが、これが<a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>によるテニスのルールの最初のものとされる<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。</p>
+<p>体操伝習所は廃校になったが、<a href="/wiki/%E9%AB%98%E7%AD%89%E5%B8%AB%E7%AF%84%E5%AD%A6%E6%A0%A1" title="高等師範学校">高等師範学校</a>に体育専科がおかれ、『戸外遊戯法』の編者である坪井玄道が教師に赴任、テニスの指導をおこなう一方で、<a href="/w/index.php?title=%E4%B8%89%E7%94%B0%E5%9C%9F%E3%82%B4%E3%83%A0&amp;action=edit&amp;redlink=1" class="new" title="三田土ゴム (存在しないページ)">三田土ゴム</a>（のちの<a href="/w/index.php?title=%E3%82%A2%E3%82%AB%E3%82%A8%E3%83%A0&amp;action=edit&amp;redlink=1" class="new" title="アカエム (存在しないページ)">アカエム</a>）に委嘱してゴムボールを製造させ、普及に尽力した。</p>
+<p>三田土ゴムは<a href="/wiki/1890%E5%B9%B4" title="1890年">1890年</a>（明治23年）に製造を開始。日本国産球が完成したのが<a href="/wiki/1900%E5%B9%B4" title="1900年">1900年</a>。<a href="/wiki/1908%E5%B9%B4" title="1908年">1908年</a>には<a href="/wiki/%E7%89%B9%E8%A8%B1" title="特許">特許</a>を取得している<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。</p>
+<p><a href="/w/index.php?title=%E6%9D%B1%E4%BA%AC%E9%AB%98%E7%AD%89%E5%B8%AB%E7%AF%84%E4%BD%93%E8%82%B2%E5%B0%82%E7%A7%91&amp;action=edit&amp;redlink=1" class="new" title="東京高等師範体育専科 (存在しないページ)">東京高等師範体育専科</a>の卒業生は<a href="/wiki/1887%E5%B9%B4" title="1887年">1887年</a>頃から全国に教員として赴任していくが、ボールの国産化はそれと同時に進行していき、ゴムボールをつかったテニスは全国に普及していくこととなった。</p>
+<p><a href="/wiki/1904%E5%B9%B4" title="1904年">1904年</a>（明治37年）、<a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E7%AD%89%E5%B8%AB%E7%AF%84%E5%AD%A6%E6%A0%A1" title="東京高等師範学校">東京高等師範学校</a>（後の<a href="/wiki/%E6%9D%B1%E4%BA%AC%E6%95%99%E8%82%B2%E5%A4%A7" title="東京教育大" class="mw-redirect">東京教育大</a>　現<a href="/wiki/%E7%AD%91%E6%B3%A2%E5%A4%A7" title="筑波大" class="mw-redirect">筑波大</a>）、<a href="/wiki/%E6%9D%B1%E4%BA%AC%E5%95%86%E7%A7%91%E5%A4%A7%E5%AD%A6_(%E6%97%A7%E5%88%B6)" title="東京商科大学 (旧制)">東京高等商業学校</a>（<a href="/wiki/%E4%B8%80%E6%A9%8B%E5%A4%A7%E5%AD%A6" title="一橋大学">一橋大</a>）、<a href="/wiki/%E6%97%A9%E7%A8%B2%E7%94%B0%E5%A4%A7%E5%AD%A6" title="早稲田大学">早稲田</a>、<a href="/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6" title="慶應義塾大学">慶応</a>の4校の代表が集まりルールを制定。まだまだ不備な点が多々あったものの、これが日本人が制定したソフトテニスルールの最初のものとされる。これ以前は翻訳ルールをそのまま流用していた。</p>
+<h2><span class="mw-headline" id=".E4.B8.96.E7.95.8C.E3.81.AB.E5.BA.83.E3.81.8C.E3.82.8B.E3.82.BD.E3.83.95.E3.83.88.E3.83.86.E3.83.8B.E3.82.B9.EF.BC.88.E5.9B.BD.E9.9A.9B.E6.99.AE.E5.8F.8A.EF.BC.89">世界に広がるソフトテニス（国際普及）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=3" title="節を編集: 世界に広がるソフトテニス（国際普及）">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>ソフトテニスといえば日本と<a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2" title="アジア">アジア</a>の一部というのが一般的見解だが、実際にはアジア<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>だけでなく、全世界でプレーされている<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>。近年は特に欧州に積極的な普及活動が行われ、東欧を中心に定着しつつある。</li>
+<li><a href="/wiki/1955%E5%B9%B4" title="1955年">1955年</a>に<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>・<a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD" title="大韓民国">韓国</a>・<a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9B%BD" title="中華民国">台湾</a>の三カ国によって「アジア軟式庭球連盟」が設立。同連盟により1956〜1973年に3カ国対抗によるアジア選手権<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>を開催。</li>
+<li><a href="/wiki/1972%E5%B9%B4" title="1972年">1972年</a>にはアメリカ合衆国に普及活動開始。1975年に<a href="/w/index.php?title=%E5%9B%BD%E9%9A%9B%E8%BB%9F%E5%BC%8F%E5%BA%AD%E7%90%83%E9%80%A3%E7%9B%9F&amp;action=edit&amp;redlink=1" class="new" title="国際軟式庭球連盟 (存在しないページ)">国際軟式庭球連盟</a>が創立される（創立時の加盟国 <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>、<a href="/wiki/%E9%9F%93%E5%9B%BD" title="韓国" class="mw-redirect">韓国</a>、中華民国（<a href="/wiki/%E5%8F%B0%E6%B9%BE" title="台湾">台湾</a>）、<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD" title="アメリカ合衆国">アメリカ</a>、<a href="/wiki/%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9" title="ベネズエラ">ベネズエラ</a>、<a href="/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB" title="ブラジル">ブラジル</a>、<a href="/wiki/%E9%A6%99%E6%B8%AF" title="香港">香港</a>）。同年、第一回世界選手権がアメリカ合衆国<a href="/wiki/%E3%83%8F%E3%83%AF%E3%82%A4%E5%B7%9E" title="ハワイ州">ハワイ州</a>にて開催された。</li>
+</ul>
+<ul>
+<li>1970年代後半には欧州およびアフリカ大陸（<a href="/wiki/%E3%82%B6%E3%82%A4%E3%83%BC%E3%83%AB" title="ザイール">ザイール</a>等）への普及活動がスタート。</li>
+<li>欧州への普及活動<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>は21世紀に入って成果を見せ始めた。ヨーロッパソフトテニス連盟も設立され、東欧を中心にトーナメント<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>も多数開催されている。</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Wc2007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ja/thumb/3/31/Wc2007.jpg/220px-Wc2007.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ja/thumb/3/31/Wc2007.jpg/330px-Wc2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/ja/thumb/3/31/Wc2007.jpg/440px-Wc2007.jpg 2x" data-file-width="600" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Wc2007.jpg" class="internal" title="拡大"></a></div>
+第13回世界ソフトテニス選手権（韓国）</div>
+</div>
+</div>
+<ul>
+<li>現在、4年毎に開催される世界選手権は<a href="/wiki/2011%E5%B9%B4" title="2011年">2011年</a>で14回を数え、2007年9月に韓国・<a href="/wiki/%E5%AE%89%E5%9F%8E%E5%B8%82_(%E4%BA%AC%E7%95%BF%E9%81%93)" title="安城市 (京畿道)">安城</a>で開催された第13回世界選手権には42カ国に及ぶ国と地域からの参加があった。</li>
+<li><a href="/wiki/%E9%9F%93%E5%9B%BD" title="韓国" class="mw-redirect">韓国</a>・<a href="/wiki/%E5%8F%B0%E6%B9%BE" title="台湾">台湾</a>以外のアジア諸国への普及も加速度的に進んでおり、<a href="/wiki/1988%E5%B9%B4" title="1988年">1988年</a>には新生アジア選手権が<a href="/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82" title="名古屋市">名古屋</a>で開催されている<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>。</li>
+<li><a href="/wiki/1994%E5%B9%B4" title="1994年">1994年</a>よりアジア地区の<a href="/wiki/%E8%BF%91%E4%BB%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="近代オリンピック">オリンピック</a>といえる<a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="アジア競技大会">アジア競技大会</a>（ASIAN GAMES）の正式競技<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>。</li>
+<li><a href="/wiki/1997%E5%B9%B4" title="1997年">1997年</a>より東アジア地区の<a href="/wiki/%E8%BF%91%E4%BB%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="近代オリンピック">オリンピック</a>といえる<a href="/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="東アジア競技大会">東アジア競技大会</a>（EAST ASIAN GAMES）の正式競技<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>。</li>
+<li><a href="/wiki/2009%E5%B9%B4" title="2009年">2009年</a>にはユースのための年齢別<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>国際大会である<a href="/w/index.php?title=%E5%9B%BD%E9%9A%9B%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="国際ジュニアソフトテニス大会 (存在しないページ)">国際ジュニアソフトテニス大会</a>（INTERNATIONAL JUNIOR SOFT TENNISTOURNAMENT）<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>がスタート。第一回大会が<a href="/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82" title="四日市市">四日市市</a>で12月に開催された。2年毎の開催予定。</li>
+<li><a href="/wiki/2011%E5%B9%B4" title="2011年">2011年</a>東南アジアのオリンピックである<a href="/wiki/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="東南アジア競技大会">東南アジア競技大会</a>に正式競技として参加。（第２６回東南アジア競技大会SEA GAMES）</li>
+<li>2014年１１月、第二回世界ジュニア選手権<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>がインドで開催。</li>
+</ul>
+<h2><span class="mw-headline" id=".E5.9B.BD.E9.9A.9B.E5.A4.A7.E4.BC.9A">国際大会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=4" title="節を編集: 国際大会">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>「<a href="/wiki/%E4%B8%96%E7%95%8C%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%81%B8%E6%89%8B%E6%A8%A9" title="世界ソフトテニス選手権">世界ソフトテニス選手権</a>」・「<a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E7%AB%B6%E6%8A%80" title="アジア競技大会ソフトテニス競技">アジア競技大会</a>」・「<a href="/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="東アジア競技大会">東アジア競技大会</a>」・「<a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%81%B8%E6%89%8B%E6%A8%A9" title="アジアソフトテニス選手権">アジアソフトテニス選手権</a>」現在、開催されているソフトテニス国際大会の中でも特に規模の大きいこれら4つの国際大会は、「四大国際大会」と呼ばれ（単に「国際大会」と呼ばれることも多い）、ソフトテニス界の頂点を決める大会としてだけでなく、ソフトテニスの新たな可能性・競技性を垣間見ることができる場として、最重要視されている。</p>
+<p>なお<a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="アジア競技大会">アジア競技大会</a>と<a href="/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="東アジア競技大会">東アジア競技大会</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>は総合競技大会である。</p>
+<h2><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E3.81.A7.E3.81.AE.E7.8F.BE.E6.B3.81">日本での現況</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=5" title="節を編集: 日本での現況">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>1970年代『軟式テニスは中、高校ではもっとも人気のあるスポーツである』とされていた<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>。現在でも、日本においては約60万人の競技人口（登録者）と推定700万人の愛好者がいるといわれる<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> しかしながら、一般的にも愛好者の意識のなかでもマイナー感が極めて強いのもまた事実である。原因としては、オリンピック種目ではないこと、日本国内にプロ選手が存在しないこと、学校体育（中学、高校）が中心であると認識<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>されていること、1980年代から急速に大衆化したローンテニス（硬式テニス）の影響等、が考えられる。 <sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="この記述には信頼できる情報源の提示が求められています。（2010年9月）">要出典</span></a></i>]</sup>。</p>
+<h2><span class="mw-headline" id=".E3.83.AB.E3.83.BC.E3.83.AB">ルール</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=6" title="節を編集: ルール">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ダブルスとシングルスがある。<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>。</p>
+<ol>
+<li>試合に先立ってトス<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>を行う。<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+<li>サーバーはコートより外側、センターマーク<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>とサイドラインの仮想延長線の間から、ネットより向こう側、相手コートの対角線上のサービスエリアでバウンドするようにボールを打つ<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>。レシーバーはサーブされたボールが2回バウンドする前に相手コートに打ち返し、お互いにラリーを続ける。次のようなときに相手に1点が入る。
+<ul>
+<li>サーブを二回連続でフォルト（ミス）したとき（ダブルフォルト）</li>
+<li>サーブされたボールがバウンドする前にレシーバーが触れたとき（ダイレクト、レシーバー側の失点）</li>
+<li>相手の打ったボールが自分のコートで連続2回バウンドしたとき（ツーバウンズ）</li>
+<li>自分の打ったボールの1回目のバウンドが、相手のコート外だったとき（アウト）</li>
+<li>ラケット以外の部位がボールに触れたとき（ボディータッチ）</li>
+<li>打ったボールがアンパイヤーに命中したとき</li>
+<li>相手コート内でボールに触れたとき（ネットオーバー）</li>
+<li>ラケットが手から離れてボールに当たったとき</li>
+<li>ボールがネットにかかったとき（ネットの裂目や隙間をすり抜けた場合を除き、ネットに触れた後に相手コートにバウンドするのは認められる。）</li>
+<li>プレー中に体かラケットがネットに触れたとき（ネットタッチ）（プレーヤーが身に着けていたものが地面に落ちる前に触れた場合も含む）</li>
+<li>プレー中に体かラケットが審判台、アンパイヤーに触れたとき（タッチ）</li>
+</ul>
+</li>
+<li>得点は、ゼロ、ワン、ツー…と数える。先に4点を取った方が1ゲームを取得する。ただし、ポイントが3-3になると<a href="/wiki/%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9" title="デュース">デュース</a>となり、その場合にゲームを得るには、相手に2点差をつける必要がある。デュースの後の数え方は、サーブ側がポイントを取るとアドバンテージ・サーバー、レシーブ側がポイントを取るとアドバンテージ・レシーバーとなる。カウントコールはサーバー側が先となる。2-2等両者の得点が同じ場合は、3-3以前までは「○○オール」<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>と言う数え方をする。3-3以降は前記の通り。但し2回目のデュースでは「デュース アゲイン」と言うコールをする。</li>
+<li>総ゲーム数の過半数ゲーム（5ゲームマッチなら3ゲーム、7ゲームマッチなら4ゲーム、9ゲームマッチなら5ゲーム）先取すると勝ちとなる。ゲームカウントが2-2（5ゲームマッチの第5ゲーム）3-3（7ゲームマッチの第7ゲーム）あるいは4-4（9ゲームマッチの第9ゲーム）になったときは、7ポイント先取のファイナルゲームを行う。ポイントが6-6の場合はデュースとなり、相手に2点差をつけると、そのマッチの勝者となる。偶数ポイント目の決着後にコートサイドやサーブ（サーバーペア）を交代する。（最初の2ポイントでサイドとサーブを交代し、以降4ポイント毎にサイド、2ポイント毎にサーブを交代）</li>
+</ol>
+<p>シングルスは<a href="/wiki/1993%E5%B9%B4" title="1993年">1993年</a>より正式に導入された。このとき採用されたルールは現在のそれとはおおきく異なり、コートの左右半面を使用するというもの。発足当初から疑問の声があがっていたが、<a href="/wiki/2003%E5%B9%B4" title="2003年">2003年</a>の世界選手権よりルールが改定。硬式テニスのシングルスと同サイズのコートで競技されることになった。ネットの高さなどはダブルスと同様である。</p>
+<p>ダブルスのルールは1993年に大きな変更が見られた。1993年のルール改定では、主に「ポジションの制約」というルールが加えられた。レシーバー以外のプレーヤーはインプレー前にコートに入ってはいけない、とするもの。加えて、2ポイント毎にペア同士でサーバーを交代することとなった。またファイナルゲームでのタイブレークシステムが採用。当然サービスサイドの交代もとりいれられ、永年の不公平がようやく解消された。</p>
+<p>2004年にはマイナーチェンジがあり、サービス時のポジションの制約がなくなった。</p>
+<h2><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E5.A4.A7.E4.BC.9A">主要大会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=7" title="節を編集: 主要大会">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E4.B8.96.E7.95.8C">世界</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=8" title="節を編集: 世界">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/%E4%B8%96%E7%95%8C%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%81%B8%E6%89%8B%E6%A8%A9" title="世界ソフトテニス選手権">世界ソフトテニス選手権</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="アジア競技大会">アジア競技大会</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%81%B8%E6%89%8B%E6%A8%A9" title="アジアソフトテニス選手権">アジアソフトテニス選手権</a></li>
+</ul>
+<h3><span class="mw-headline" id=".E6.97.A5.E6.9C.AC">日本</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=9" title="節を編集: 日本">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A" title="全日本ソフトテニス選手権大会">全日本ソフトテニス選手権大会</a></li>
+<li>全日本シングルスソフトテニス選手権</li>
+<li>全日本インドアソフトテニス選手権</li>
+<li>国民体育大会（国体）</li>
+<li>東日本ソフトテニス選手権</li>
+<li>西日本ソフトテニス選手権</li>
+</ul>
+<dl>
+<dt>社会人</dt>
+</dl>
+<ul>
+<li>全日本実業団ソフトテニス選手権</li>
+<li>ソフトテニス日本リーグ</li>
+<li>全日本社会人ソフトテニス選手権</li>
+<li>全日本クラブ選手権</li>
+</ul>
+<dl>
+<dt>大学</dt>
+</dl>
+<ul>
+<li>全日本学生ソフトテニス選手権（インカレ）</li>
+<li>全日本大学ソフトテニス王座決定戦</li>
+<li>全日本学生インドア大会</li>
+</ul>
+<dl>
+<dt>高校</dt>
+</dl>
+<ul>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E7%B7%8F%E5%90%88%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="全国高等学校総合体育大会ソフトテニス競技大会">全国高等学校総合体育大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E9%81%B8%E6%8A%9C%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E5%A4%A7%E4%BC%9A" title="全日本高等学校選抜ソフトテニス大会">全日本高等学校選抜ソフトテニス大会</a></li>
+<li>ハイスクールジャパンカップ</li>
+</ul>
+<dl>
+<dt>中学校</dt>
+</dl>
+<ul>
+<li><a href="/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%AF%BE%E6%8A%97%E5%85%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%AD%A6%E7%94%9F%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E5%A4%A7%E4%BC%9A" title="都道府県対抗全日本中学生ソフトテニス大会">都道府県対抗全日本中学生ソフトテニス大会</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E5%A4%A7%E4%BC%9A" title="全国中学校ソフトテニス大会">全国中学校ソフトテニス大会</a></li>
+</ul>
+<dl>
+<dt>小学生</dt>
+</dl>
+<ul>
+<li>全日本小学生ソフトテニス選手権</li>
+<li>全国小学生ソフトテニス大会</li>
+</ul>
+<h2><span class="mw-headline" id=".E3.81.8B.E3.81.A4.E3.81.A6.E8.A1.8C.E3.82.8F.E3.82.8C.E3.81.A6.E3.81.84.E3.81.9F.E4.B8.BB.E8.A6.81.E5.A4.A7.E4.BC.9A">かつて行われていた主要大会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=10" title="節を編集: かつて行われていた主要大会">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E4.B8.96.E7.95.8C_2">世界</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=11" title="節を編集: 世界">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="東アジア競技大会">東アジア競技大会</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E7.94.A8.E5.85.B7.5B27.5D">用具<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=12" title="節を編集: 用具[27]">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E3.83.A9.E3.82.B1.E3.83.83.E3.83.88">ラケット</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=13" title="節を編集: ラケット">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>棒状のグリップの先が輪になっており、そこ（フレーム）にストリング<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>を張り使用する。長さ約70センチ前後、重さは200〜320グラム程度。<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></dd>
+<dd>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">「<a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88" title="テニスラケット">テニスラケット</a>」および「<a href="//en.wikipedia.org/wiki/Overgrip" class="extiw" title="en:Overgrip">en:Overgrip</a>」も参照</div>
+</dd>
+</dl>
+<h3><span class="mw-headline" id=".E3.83.9C.E3.83.BC.E3.83.AB">ボール</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=14" title="節を編集: ボール">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>空気の入ったゴム製のボールを使用する。色は原則として白色又は黄色<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>で、直径は6.6センチメートル、重さは30グラム〜31グラム。コート内において、ボールの下端が1.5メートルの高さから落として、70〜80センチメートルバウンドするもの。<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></dd>
+</dl>
+<h3><span class="mw-headline" id=".E3.82.B7.E3.83.A5.E3.83.BC.E3.82.BA">シューズ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=15" title="節を編集: シューズ">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id=".E3.82.B3.E3.83.BC.E3.83.88_.5B32.5D">コート <sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=16" title="節を編集: コート [32]">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>コートのサーフェス（表面）は、屋外コートではクレー（<a href="/wiki/%E5%9C%9F" title="土" class="mw-disambig">土</a>、含<a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%84%E3%83%BC%E3%82%AB%E3%83%BC" title="アンツーカー">アンツーカー</a>）、<a href="/w/index.php?title=%E7%A0%82%E5%85%A5%E3%82%8A%E4%BA%BA%E5%B7%A5%E8%8A%9D&amp;action=edit&amp;redlink=1" class="new" title="砂入り人工芝 (存在しないページ)">砂入り人工芝</a><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>、ハード（<a href="/w/index.php?title=%E5%8C%96%E5%AD%A6%E6%A8%B9%E8%84%82&amp;action=edit&amp;redlink=1" class="new" title="化学樹脂 (存在しないページ)">全天候型ケミカル</a>）等。屋内コートでは、<a href="/w/index.php?title=%E6%9C%A8%E6%9D%BF&amp;action=edit&amp;redlink=1" class="new" title="木板 (存在しないページ)">木板</a>（フローリング）、砂入り人工芝、<a href="/w/index.php?title=%E7%A1%AC%E8%B3%AA%E3%83%A9%E3%83%90%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="硬質ラバー (存在しないページ)">硬質ラバー</a>、ケミカル等がある。</dd>
+</dl>
+<h2><span class="mw-headline" id=".E3.82.BD.E3.83.95.E3.83.88.E3.83.86.E3.83.8B.E3.82.B9.E7.94.A8.E8.AA.9E">ソフトテニス用語</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=17" title="節を編集: ソフトテニス用語">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>クロス</dt>
+<dd>コート右対角線のこと。</dd>
+<dt>逆クロス</dt>
+<dd>コート左対角線のこと。</dd>
+<dt>ストレート</dt>
+<dd>クロスと逆クロスの間、両側のセンターマークを結ぶ線。</dd>
+<dt>グリップ</dt>
+<dd>ラケットの握り方</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dt>ウエスタングリップ</dt>
+<dd>地面と水平に置いたラケットを真上から握って持ち上げた握り方。</dd>
+<dt>イースタングリップ</dt>
+<dd>ラケットフェイスに手のひらをあて、そのままグリップ位置までずらし握る、手のひらとラケット面の角度が同じになる。</dd>
+<dt>コンチネンタル</dt>
+<dd>ラケットフェイスを刃にみたてた包丁握り。サービス、スマッシュで用いる。</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dt>グラウンドストローク</dt>
+<dd>ワンバウンドで打つストローク。バックハンドとフォアハンドがある。</dd>
+<dt>トップ打ち</dt>
+<dd>グラウンドストロークにおいて高い打点から打ち込む打法。</dd>
+<dt>正クロス</dt>
+<dd>コート右対角線のこと。順クロスともいう。</dd>
+<dt>ネットプレー</dt>
+<dd>前陣、つまりコート半ばからネット際でのボールの処理。ノーバウンドでのプレーが多くなる。攻撃の要。</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dt>ボレー</dt>
+<dd>ボールがバウンドする前に直接打つこと。</dd>
+<dt>スマッシュ</dt>
+<dd>ボールを上から叩き込むように強く打つこと。</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dt>サービス</dt>
+<dd>プレーをはじめるにあたっての第一打。一度ミス（フォルト）してももう一度打つ事ができる。</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dt>フラットサービス</dt>
+<dt>スライスサービス</dt>
+<dt>リバースサービス</dt>
+<dt>カットサービス</dt>
+</dl>
+</dd>
+</dl>
+<dl>
+<dt>スピン</dt>
+<dd>ボールの回転のこと。</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dt>トップスピン</dt>
+<dd>順回転のこと</dd>
+<dt>アンダースピン</dt>
+<dd>逆回転のこと、バックスピンともいう。</dd>
+<dt>サイドスピン</dt>
+<dd>横回転のこと</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dt>ベースラインプレー</dt>
+<dd>後陣、つまりベースライン付近でのボールの処理。グラウンドストロークが中心。</dd>
+<dt>ロビング</dt>
+<dd>主にグラウンドストロークにおいて高い軌道をとる打球のこと。ロブともいう。</dd>
+<dt>シュート</dt>
+<dd>コートとほぼ平行で、ネットすれすれの高さに飛ぶボールのこと。シュートボールともいう。強く打つため、攻撃的なボール。</dd>
+</dl>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=18" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="noprint" style="float:right; font-size:90%;">
+<tr>
+<td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">ヘルプ</span></a>]</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text">英語表記では1992年以前もsoft-tennis。また中国語圏（中国、<a href="/wiki/%E5%8F%B0%E6%B9%BE" title="台湾">台湾</a>等）では現在でも軟式の文字が使われている（軟式網球）</span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text">出典　日本ソフトテニス連盟発行『ソフトテニスコーチ教本』および『ソフトテニス指導教本』大修館書店2004年発行</span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text">『<a href="/w/index.php?title=%E6%88%B8%E5%A4%96%E9%81%8A%E6%88%AF%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="戸外遊戯法 (存在しないページ)">戸外遊戯法</a>』は<a href="/wiki/1883%E5%B9%B4" title="1883年">1883年</a>にイギリスで出版された『<a href="/w/index.php?title=%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="アウトドアゲームス (存在しないページ)">アウトドアゲームス</a>』（<a href="/w/index.php?title=FW%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8&amp;action=edit&amp;redlink=1" class="new" title="FWストレンジ (存在しないページ)">FWストレンジ</a>）の翻訳といわれている。</span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text">ボール製作会社は明治30年頃には2社、明治40年代には7社。</span></li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text">西アジアをのぞく、ほぼアジア全域に普及している。中国、<a href="/wiki/%E5%8F%B0%E6%B9%BE" title="台湾">台湾</a>、韓国、北朝鮮、<a href="/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB" title="モンゴル" class="mw-redirect">モンゴル</a>、<a href="/wiki/%E3%83%9E%E3%82%AB%E3%82%AA" title="マカオ">マカオ</a>、<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2" title="インドネシア">インドネシア</a>、<a href="/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2" title="マレーシア">マレーシア</a>、<a href="/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD" title="タイ王国">タイ</a>、<a href="/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0" title="ベトナム">ベトナム</a>、<a href="/wiki/%E3%83%A9%E3%82%AA%E3%82%B9" title="ラオス">ラオス</a>、<a href="/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3" title="フィリピン">フィリピン</a>、<a href="/wiki/%E3%83%A2%E3%83%AB%E3%82%B8%E3%83%96" title="モルジブ" class="mw-redirect">モルジブ</a>、<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89" title="インド">インド</a>、<a href="/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3" title="パキスタン">パキスタン</a>、<a href="/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5" title="バングラデシュ">バングラデシュ</a>、<a href="/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB" title="ネパール">ネパール</a>、<a href="/wiki/%E3%82%AB%E3%82%B6%E3%83%95%E3%82%B9%E3%82%BF%E3%83%B3" title="カザフスタン">カザフスタン</a>、<a href="/wiki/%E3%82%AD%E3%83%AB%E3%82%AE%E3%82%B9%E3%82%BF%E3%83%B3" title="キルギスタン" class="mw-redirect">キルギスタン</a>、<a href="/wiki/%E3%83%88%E3%83%AB%E3%82%AF%E3%83%A1%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3" title="トルクメニスタン">トルクメニスタン</a>等</span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text">第12回世界ソフトテニス選手権大会（2003年・広島）には全大陸よりエントリーがあった。</span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text">日本、韓国、中華民国（台湾）の三ヶ国対抗、男子団体戦、女子団体戦、男子ダブルス、女子ダブルスの4種目。現在の世界選手権の前身となった。</span></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="reference-text"><a href="/wiki/%E3%83%89%E3%82%A4%E3%83%84" title="ドイツ">ドイツ</a>、<a href="/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2" title="イタリア">イタリア</a>、<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9" title="フランス">フランス</a>、<a href="/wiki/%E3%83%81%E3%82%A7%E3%82%B3" title="チェコ">チェコ</a>、<a href="/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC" title="ハンガリー">ハンガリー</a>、<a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2" title="オーストリア">オーストリア</a>、<a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89" title="ポーランド">ポーランド</a>等</span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text">ドイツ、ハンガリー、チェコ等</span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text">1988名古屋、1992<a href="/wiki/%E3%82%B8%E3%83%A3%E3%82%AB%E3%83%AB%E3%82%BF" title="ジャカルタ">ジャカルタ</a>、1996<a href="/wiki/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF" title="バンコク">バンコク</a>、2000<a href="/wiki/%E4%BD%90%E8%B3%80%E7%9C%8C" title="佐賀県">佐賀</a>、2004<a href="/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%83%9E%E3%82%A4" title="チェンマイ" class="mw-redirect">チェンマイ</a>、2008<a href="/w/index.php?title=%E3%83%A0%E3%83%B3%E3%82%AE%E3%83%A7%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="ムンギョン (存在しないページ)">ムンギョン</a>、2012嘉義（台湾）で開催。</span></li>
+<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text">1990年<a href="/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82" title="北京市">北京</a>大会には公開競技として参加</span></li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> <span class="reference-text">1993年<a href="/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82" title="上海市">上海</a>大会には公開競技として参加</span></li>
+<li id="cite_note-13"><b><a href="#cite_ref-13">^</a></b> <span class="reference-text">男女それぞれにU21、U18、U15の3つのカテゴリーがあり、それぞれダブルス、シングルスが競技された。</span></li>
+<li id="cite_note-14"><b><a href="#cite_ref-14">^</a></b> <span class="reference-text">国際ジュニアソフトテニス大会 主催-アジアソフトテニス連盟</span></li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> <span class="reference-text">旧国際ジュニアソフトテニス選手権</span></li>
+<li id="cite_note-16"><b><a href="#cite_ref-16">^</a></b> <span class="reference-text"><a href="/wiki/1993%E5%B9%B4%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="1993年東アジア競技大会">1993年上海大会</a>では公開競技、<a href="/wiki/1997%E5%B9%B4%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="1997年東アジア競技大会">1997年釜山大会</a>、<a href="/wiki/2001%E5%B9%B4%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="2001年東アジア競技大会">2001年大阪大会</a>、<a href="/wiki/2005%E5%B9%B4%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="2005年東アジア競技大会">2005年マカオ大会</a>では正式種目、<a href="/wiki/2009%E5%B9%B4%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="2009年東アジア競技大会">2009年香港大会</a>では正式種目からはずれた。<a href="/wiki/2013%E5%B9%B4%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A" title="2013年東アジア競技大会">2013年天津大会</a>では正式種目として復帰。同大会はその2013年天津大会をもって終了予定、東アジアユースゲームズとして再スタートすることが決まっている</span></li>
+<li id="cite_note-17"><b><a href="#cite_ref-17">^</a></b> <span class="reference-text">1978,6.28朝日新聞東京版。文部省（当時）がおこなった調査に基づく記事。</span></li>
+<li id="cite_note-18"><b><a href="#cite_ref-18">^</a></b> <span class="reference-text">日本ソフトテニス連盟発行「ソフトテニスコーチ教本』他による</span></li>
+<li id="cite_note-19"><b><a href="#cite_ref-19">^</a></b> <span class="reference-text">ソフトテニスはその普及の過程で東京高師（現筑波大学）の卒業生たちの手によって全国に広く分布普及していった歴史的背景、経緯 がある。</span></li>
+<li id="cite_note-20"><b><a href="#cite_ref-20">^</a></b> <span class="reference-text">歴史的にダブルス中心で発展し、現在もダブルスが主流だが、1992年のアジアソフトテニス選手権においてシングルス（個人戦）が採用、1993年の東アジア競技大会では団体戦においてシングルスを導入し3ダブルス2シングルスの形式で競技され、以後、団体戦にシングルスを組み込むことが慣例となった（2003年世界選手権より2ダブルス1シングルス）。1994年には全日本シングルス選手権が創設、以後、急速に普及が進んでいる。</span></li>
+<li id="cite_note-21"><b><a href="#cite_ref-21">^</a></b> <span class="reference-text">ラケットあるいはコインを使用する。じゃんけんが併用される場合もある。</span></li>
+<li id="cite_note-22"><b><a href="#cite_ref-22">^</a></b> <span class="reference-text">コート上でマッチの直前に行われる場合、入場前に行われる場合がある。</span></li>
+<li id="cite_note-23"><b><a href="#cite_ref-23">^</a></b> <span class="reference-text">トスとは、選択権を得たプレイヤーが第1ゲームのサーブ・レシーブ、又はコートサイドを選び、もう一方のプレイヤーは残った方を選ぶもの。</span></li>
+<li id="cite_note-24"><b><a href="#cite_ref-24">^</a></b> <span class="reference-text">ベースライン中央にある</span></li>
+<li id="cite_note-25"><b><a href="#cite_ref-25">^</a></b> <span class="reference-text">ダブルスの場合、2ポイント毎にペア内でサーバーを交代する</span></li>
+<li id="cite_note-26"><b><a href="#cite_ref-26">^</a></b> <span class="reference-text">1-1ワンオール、2-2ツーオール</span></li>
+<li id="cite_note-27"><b><a href="#cite_ref-27">^</a></b> <span class="reference-text">日本国内で日本ソフトテニス連盟主催の大会（あるいはそれに準ずる大会）に出場するには基本的に日本ソフトテニス連盟公認用具を使用しなければならない。（公認用具はラケット、ボール、ウエア（ユニフォーム）、ストリングス、シューズ）</span></li>
+<li id="cite_note-28"><b><a href="#cite_ref-28">^</a></b> <span class="reference-text">ストリング（ス）---俗に『ガット』ともいわれるが、厳密には『ガット』はナチュラルストリングスを指す。ソフトテニスにおいてナチュラルストリングスといえば鯨筋を指すが、現在はあまり用いられない</span></li>
+<li id="cite_note-29"><b><a href="#cite_ref-29">^</a></b> <span class="reference-text">日本ソフトテニス連盟の規定では、フレームに使われる材質や重量、または寸法・形状などに関する規定は無いが、両面のプレー特性が同一になるように設計されたもの、打球面は平面のもの、と定められている（競技規則第14条）</span></li>
+<li id="cite_note-30"><b><a href="#cite_ref-30">^</a></b> <span class="reference-text">白、黄、青、赤、黒が販売されているが、青、赤は公認球ではなく、公式戦では白色球が使用されることがほとんどである。</span></li>
+<li id="cite_note-31"><b><a href="#cite_ref-31">^</a></b> <span class="reference-text">日本における公式戦では<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%80%A3%E7%9B%9F" title="日本ソフトテニス連盟">日本ソフトテニス連盟</a>公認球が使用される。2009年現在、公認球は二種（二社、以前は数種（数社）あった）のみ。マッチにおけるボールの選択にはトスによる任意選択制、主催者の指定の二通りがある。</span></li>
+<li id="cite_note-32"><b><a href="#cite_ref-32">^</a></b> <span class="reference-text">ソフトテニスコートの規格について、<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%80%A3%E7%9B%9F" title="日本ソフトテニス連盟">日本ソフトテニス連盟</a>は次のように定めている。</span>
+<ul>
+<li><span class="reference-text">縦23.77メートル、横10.97メートルの長方形とし、区画するラインの外側を境界とし、中央をネットポストで支えられたネットで二分する。競技規則第5条</span></li>
+<li><span class="reference-text">コートのラインは原則として白色で、幅は5センチメートル以上、6センチメートル以内。ただしベースラインの幅は5センチメートル以上、10センチメートル以内。競技規則第7条</span></li>
+<li><span class="reference-text">ネットポストの高さは1.07メートル競技規則第10条。ネットの高さは1.07メートル。これを張ったときの高さはサイドライン上から1.07メートルで、水平に張る。競技規則第12条</span></li>
+</ul>
+</li>
+<li id="cite_note-33"><b><a href="#cite_ref-33">^</a></b> <span class="reference-text">砂入り人工芝の通称として用いられる「オムニコート」は、SRIハイブリッド社の登録商標である。</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=19" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E9%80%A3%E7%9B%9F" title="日本ソフトテニス連盟">日本ソフトテニス連盟</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=20" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://jsta.or.jp/">公益財団法人 日本ソフトテニス連盟</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.soft-tennis.org/main.htm">Soft tennis Homepage</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jssta.jp/">日本学生ソフトテニス連盟</a></li>
+</ul>
+<p><br /></p>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E7%90%83%E6%8A%80" title="Template:球技"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E7%90%83%E6%8A%80&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:球技 (存在しないページ)"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E7%90%83%E6%8A%80&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E7%90%83%E6%8A%80&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E7%90%83%E6%8A%80" title="球技">球技</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">コートあり</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";width:3em;;">ゴール入れ</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";width:3em;;">バスケット</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="バスケットボール">バスケットボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ビーチバスケットボール">ビーチ</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ウォーターバスケットボール">ウォーター</a></li>
+<li><a href="/wiki/%E8%BB%8A%E3%81%84%E3%81%99%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="車いすバスケットボール">車いす</a></li>
+<li><a href="/wiki/3x3" title="3x3">FIBA 33</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%95%E3%83%9C%E3%83%BC%E3%83%AB" title="コーフボール">コーフボール</a></li>
+<li><a href="/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ネットボール">ネットボール</a></li>
+<li><a href="/wiki/%E3%82%BB%E3%82%B9%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="セストボール">セストボール</a></li>
+<li><a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ポートボール">ポートボール</a></li>
+<li><a href="/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ホースボール">ホースボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="フットボール">フットボール</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="サッカー">サッカー</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="サッカー">サッカー</a>
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB" title="フットサル">フットサル</a></li>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="ビーチサッカー">ビーチ</a></li>
+<li><a href="/wiki/%E8%A6%96%E8%A6%9A%E9%9A%9C%E5%AE%B3%E8%80%855%E4%BA%BA%E5%88%B6%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="視覚障害者5人制サッカー">視覚障害者</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="オーストラリアンフットボール">オーストラリアンフットボール</a></li>
+<li><a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲーリックフットボール">ゲーリックフットボール</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8B%95%E8%BB%8A%E6%A4%85%E5%AD%90%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="電動車椅子サッカー">電動車椅子サッカー</a></li>
+<li><a href="/wiki/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="サイクルサッカー">サイクルサッカー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">アメフト</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="アメリカンフットボール">アメリカンフットボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="フラッグフットボール">フラッグ</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="アリーナフットボール">アリーナフットボール</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="カナディアンフットボール">カナディアンフットボール</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88" title="アルティメット">アルティメット</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="ラグビー">ラグビー</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0" title="ラグビーリーグ">ラグビーリーグ</a>
+<ul>
+<li><a href="/wiki/%E3%82%BF%E3%82%B0%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="タグラグビー">タグ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="タッチラグビー">タッチ</a></li>
+<li><a href="/wiki/7%E4%BA%BA%E5%88%B6%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="7人制ラグビー">7人制</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%B0%B4%E4%B8%AD%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="水中ラグビー">水中ラグビー</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%81%E3%82%A7%E3%82%A2%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="ウィルチェアーラグビー">ウィルチェアーラグビー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">ハンドボール</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ハンドボール">ハンドボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ビーチハンドボール">ビーチ</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB" title="ゴールボール">ゴールボール</a></li>
+<li><a href="/wiki/%E3%83%88%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="トーボール">トーボール</a></li>
+<li><a href="/wiki/%E6%B0%B4%E7%90%83" title="水球">水球</a></li>
+<li><a href="/wiki/%E3%83%81%E3%83%A5%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB" title="チュックボール">チュックボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">スティック<br />
+アンドボール</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td colspan="2" style="padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0" title="ハーリング">ハーリング</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%82%AF%E3%83%AD%E3%82%B9" title="ラクロス">ラクロス</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="ホッケー">ホッケー</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3" title="バンディ">バンディ</a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="フィールドホッケー">フィールドホッケー</a>
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9C%E3%83%BC%E3%83%AB" title="フロアボール">フロアボール</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="アイスホッケー">アイスホッケー</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="ローラーホッケー">ローラーホッケー</a>
+<ul>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="インラインホッケー">インライン</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="ローラーホッケー">ローラー</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B9%E3%83%AC%E3%83%83%E3%82%B8%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="アイススレッジホッケー">アイススレッジホッケー</a></li>
+<li><a href="/wiki/%E6%B0%B4%E4%B8%AD%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="水中ホッケー">水中ホッケー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;"><a href="/wiki/%E3%83%9D%E3%83%AD" title="ポロ">ポロ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%AB%E3%83%8C%E3%83%BC%E3%83%9D%E3%83%AD" title="カヌーポロ">カヌーポロ</a></li>
+<li><a href="/wiki/%E3%82%A8%E3%83%AC%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%9D%E3%83%AD" title="エレファントポロ">エレファントポロ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">ネット越え</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:4em;;">バレーボール型</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%82%AB" title="インディアカ">インディアカ</a></li>
+<li><a href="/wiki/%E3%82%BB%E3%83%91%E3%82%BF%E3%82%AF%E3%83%AD%E3%83%BC" title="セパタクロー">セパタクロー</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="バレーボール">バレーボール</a>
+<ul>
+<li><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="ソフトバレーボール">ソフト</a></li>
+<li><a href="/wiki/%E3%83%9F%E3%83%8B%E3%83%90%E3%83%AC%E3%83%BC" title="ミニバレー">ミニ</a></li>
+<li><a href="/wiki/%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%AC%E3%83%BC" title="風船バレー">風船</a></li>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%90%E3%83%AC%E3%83%BC" title="ビーチバレー">ビーチ</a></li>
+<li><a href="/wiki/%E3%82%B7%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="シッティングバレーボール">シッティング</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲーリックハンドボール">ゲーリックハンドボール</a></li>
+<li><a href="/wiki/%E3%83%9C%E3%82%B5%E3%83%9C%E3%83%BC%E3%83%AB" title="ボサボール">ボサボール</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB" title="キンボール">キンボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:4em;;">ラケットスポーツ</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9" title="テニス">テニス</a>
+<ul>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9" title="ローンテニス" class="mw-redirect">ローンテニス</a>（硬式）</li>
+<li><strong class="selflink">ソフトテニス</strong>（軟式）</li>
+<li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%86%E3%83%8B%E3%82%B9" title="ビーチテニス">ビーチテニス</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%89%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9" title="パドルテニス">パドルテニス</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%8D%93%E7%90%83" title="卓球">卓球</a>
+<ul>
+<li><a href="/wiki/%E3%81%86%E3%81%A1%E3%82%8F%E5%8D%93%E7%90%83" title="うちわ卓球">うちわ</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="バドミントン">バドミントン</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="スピードミントン">スピードミントン</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A5_(%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84)" title="スカッシュ (スポーツ)">スカッシュ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%A0%E3%83%93%E3%83%BC%E3%83%81" title="タムビーチ">タムビーチ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AC%E3%83%AA" title="タンブレリ">タンブレリ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AC%E3%83%AD" title="タンブレロ">タンブレロ</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ラケットボール">ラケットボール</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%82%A4%E3%82%A2%E3%83%A9%E3%82%A4" title="ハイアライ">ハイアライ</a></li>
+<li><a href="/wiki/%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB" title="ピックルボール">ピックルボール</a></li>
+<li><a href="/wiki/%E3%83%95%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%9C%E3%83%BC%E3%83%AB" title="フレスコボール">フレスコボール</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9D%E3%83%B3" title="バドポン" class="mw-disambig">バドポン</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%B3%E3%83%9D%E3%83%B3" title="パンポン">パンポン</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%87%E3%83%AB" title="パデル">パデル</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">人当て</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%89%E3%83%83%E3%82%B8%E3%83%9C%E3%83%BC%E3%83%AB" title="ドッジボール">ドッジボール</a>
+<ul>
+<li><a href="/wiki/%E3%83%89%E3%83%83%E3%83%82%E3%83%93%E3%83%BC" title="ドッヂビー">ドッヂビー</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%81%8B%E3%81%9F%E3%81%8D" title="かたき">かたき</a></li>
+<li><a href="/wiki/%E9%9B%AA%E5%90%88%E6%88%A6" title="雪合戦">雪合戦</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">コートなし</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">バットアンドボール</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%AF%E3%83%AA%E3%82%B1%E3%83%83%E3%83%88" title="クリケット">クリケット</a>
+<ul>
+<li><a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B1%E3%83%83%E3%83%88" title="テニスボール・クリケット">テニスボール</a></li>
+<li><a href="/wiki/%E3%83%88%E3%82%A5%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A320" title="トゥエンティ20">トゥエンティ20</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E9%87%8E%E7%90%83" title="野球">野球</a>
+<ul>
+<li><a href="/wiki/%E7%A1%AC%E5%BC%8F%E9%87%8E%E7%90%83" title="硬式野球">硬式</a></li>
+<li><a href="/wiki/%E6%BA%96%E7%A1%AC%E5%BC%8F%E9%87%8E%E7%90%83" title="準硬式野球">準硬式</a></li>
+<li><a href="/wiki/%E8%BB%9F%E5%BC%8F%E9%87%8E%E7%90%83" title="軟式野球">軟式</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E4%B8%89%E8%A7%92%E3%83%99%E3%83%BC%E3%82%B9" title="三角ベース">三角ベース</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ロングベースボール">ロングベースボール</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%83%83%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="キックベースボール">キックベースボール</a></li>
+<li><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ソフトボール">ソフトボール</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB" title="スティックボール">スティックボール</a></li>
+<li><a href="/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" title="ティーボール">ティーボール</a></li>
+<li><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BD%E3%83%95%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="グランドソフトボール">グランドソフトボール</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E9%87%8E%E7%90%83" title="カラーボール野球">カラーボール野球</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ラケットベースボール">ラケットベースボール</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="ハンドベースボール">ハンドベースボール</a></li>
+<li><a href="/wiki/%E3%83%9A%E3%82%B5%E3%83%91%E3%83%83%E3%83%AD" title="ペサパッロ">ペサパッロ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">ゴルフ型</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%B4%E3%83%AB%E3%83%95" title="ゴルフ">ゴルフ</a>
+<ul>
+<li><a href="/wiki/%E3%83%9F%E3%83%8B%E3%82%B4%E3%83%AB%E3%83%95" title="ミニゴルフ">ミニ</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%AB%E3%83%95" title="バーンゴルフ">バーン</a></li>
+<li><a href="/wiki/%E3%83%91%E3%82%BF%E3%83%BC%E3%82%B4%E3%83%AB%E3%83%95" title="パターゴルフ">パター</a></li>
+<li><a href="/wiki/%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%B4%E3%83%AB%E3%83%95" title="ガーデンゴルフ">ガーデン</a></li>
+<li><a href="/wiki/%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B4%E3%83%AB%E3%83%95" title="グラウンド・ゴルフ">グラウンド</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B4%E3%83%AB%E3%83%95" title="パークゴルフ">パーク</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%AC%E3%83%83%E3%83%88%E3%82%B4%E3%83%AB%E3%83%95" title="マレットゴルフ">マレット</a></li>
+<li><a href="/wiki/%E3%82%B4%E3%83%AD%E3%83%83%E3%82%B1%E3%83%BC" title="ゴロッケー">ゴロッケー</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%B4%E3%83%AB%E3%83%95" title="ディスクゴルフ">ディスクゴルフ</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" title="ウッドボール">ウッドボール</a></li>
+<li><a href="/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%B1%E3%83%BC" title="クロッケー">クロッケー</a></li>
+<li><a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲートボール">ゲートボール</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:3em;;">その他</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E3%81%8C%E3%82%93%E3%81%B0%E3%81%93" title="がんばこ">がんばこ</a></li>
+<li><a href="/wiki/%E5%9B%B2%E7%A2%81%E3%83%9C%E3%83%BC%E3%83%AB" title="囲碁ボール">囲碁ボール</a></li>
+<li><a href="/wiki/%E5%A4%A7%E7%90%83%E9%80%81%E3%82%8A" title="大球送り">大球送り</a></li>
+<li><a href="/wiki/%E7%8E%89%E5%85%A5%E3%82%8C" title="玉入れ">玉入れ</a></li>
+<li><a href="/wiki/%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0" title="ボウリング">ボウリング</a></li>
+<li><a href="/wiki/%E3%83%9A%E3%82%BF%E3%83%B3%E3%82%AF" title="ペタンク">ペタンク</a></li>
+<li><a href="/wiki/%E3%83%93%E3%83%AA%E3%83%A4%E3%83%BC%E3%83%89" title="ビリヤード">ビリヤード</a></li>
+<li><a href="/wiki/%E6%89%93%E6%AF%AC" title="打毬">打毬</a></li>
+<li><a href="/wiki/%E8%B9%B4%E9%9E%A0" title="蹴鞠">蹴鞠</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A7%E3%83%BB%E3%83%95%E3%82%A3%E3%82%AA%E3%83%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%8E" title="カルチョ・フィオレンティノ">カルチョ・フィオレンティノ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1104
+CPU time usage: 0.390 seconds
+Real time usage: 0.466 seconds
+Preprocessor visited node count: 5573/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89549/2097152 bytes
+Template argument size: 62508/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 2/500
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 834 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  346.021      1 - -total
+ 26.78%   92.673      7 - Template:Navbox
+ 24.82%   85.888      1 - Template:スポーツ
+ 23.33%   80.743      1 - Template:Infobox
+ 22.93%   79.332      1 - Template:出典の明記
+ 16.19%   56.032      1 - Template:Ambox
+ 15.15%   52.430      1 - Template:球技
+  9.28%   32.120    101 - Template:Infobox/row
+  7.97%   27.567      1 - Template:Reflist
+  6.53%   22.588      1 - Template:Lang-en
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:84288-0!*!0!!ja!4!* and timestamp 20150621184818 and revision id 55478015
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=ソフトテニス&amp;oldid=55478015">https://ja.wikipedia.org/w/index.php?title=ソフトテニス&amp;oldid=55478015</a>」から取得					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="Category:ソフトテニス">ソフトテニス</a></li><li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%8B%E3%82%B9" title="Category:日本のテニス">日本のテニス</a></li><li><a href="/wiki/Category:%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="Category:ラケットスポーツ">ラケットスポーツ</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B/2010%E5%B9%B49%E6%9C%88" title="Category:出典を必要とする記事/2010年9月">出典を必要とする記事/2010年9月</a></li><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2010%E5%B9%B49%E6%9C%88" title="Category:出典を必要とする記述のある記事/2010年9月">出典を必要とする記述のある記事/2010年9月</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;type=signup" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit"  title="このページを編集できます。保存前にプレビューボタンを使用してください。 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput" /><input type="hidden" value="特別:検索" name="title" /><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;oldid=55478015&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;oldid=55478015" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1515947" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">Wikidata項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;id=55478015" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Soft_Tennis" title="ドイツ語: Soft Tennis" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Soft_tennis" title="英語: Soft tennis" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%81%D8%AA%E2%80%8C%D8%AA%D9%86%DB%8C%D8%B3" title="ペルシア語: سافت‌تنیس" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Soft_Tenis" title="インドネシア語: Soft Tenis" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Soft_tennis" title="イタリア語: Soft tennis" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%A0%95%EA%B5%AC_(%EC%8A%A4%ED%8F%AC%EC%B8%A0)" title="韓国語: 정구 (스포츠)" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Soft_tenis" title="ポーランド語: Soft tenis" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Soft_tennis" title="シンプル英語: Soft tennis" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Soft_tennis" title="スウェーデン語: Soft tennis" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%86%E0%AE%A9%E0%AF%8D_%E0%AE%9F%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AF%81" title="タミル語: மென் டென்னிசு" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%97%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%AA" title="タイ語: ซอฟท์เทนนิส" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Soft_tenis" title="トルコ語: Soft tenis" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%BD%AF%E5%BC%8F%E7%BD%91%E7%90%83" title="中国語: 软式网球" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1515947#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2015年5月8日 (金) 14:21 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" title="wikimedia:プライバシー・ポリシー">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//ja.wikipedia.org/static/1.26wmf10/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//ja.wikipedia.org/static/1.26wmf10/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //ja.wikipedia.org/static/1.26wmf10/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//ja.wikipedia.org/w/load.php?debug=false\u0026amp;lang=ja\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1024"});
+}</script>
+	</body>
+</html>
