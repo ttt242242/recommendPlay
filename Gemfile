@@ -26,6 +26,8 @@ gem 'therubyracer', platforms: :ruby
 gem 'bootstrap-sass', '3.2.0.0'
 # gem 'sprockets', '2.12.4'
 gem 'sprockets', '2.8'
+gem 'nokogiri'
+gem 'mechanize'
 
 # gem 'twitter-bootswatch-rails',  '~> 3.1.1'
 gem 'twitter-bootswatch-rails'

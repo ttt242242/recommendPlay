@@ -1,43 +1,32 @@
 <!DOCTYPE html>
 <html lang="ja" dir="ltr" class="client-nojs">
 <head>
-<meta charset="UTF-8" />
+<meta charset="UTF-8"/>
 <title>テニス - Wikipedia</title>
-<meta name="generator" content="MediaWiki 1.26wmf13" />
-<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%83%86%E3%83%8B%E3%82%B9" />
-<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit" />
-<link rel="edit" title="編集" href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit" />
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)" />
-<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd" />
-<link rel="alternate" hreflang="x-default" href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom" />
-<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%8B%E3%82%B9" />
-<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
-<script src="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"テニス","wgTitle":"テニス","wgCurRevisionId":56008383,"wgRevisionId":56008383,"wgArticleId":14925,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記述のある記事/2011年10月","検証が求められている記述のある記事/2011年","出典を必要とする記事/2011年10月","書きかけの節のある項目","テニス","オリンピック競技","パラリンピック競技","ラケットスポーツ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"テニス","wgRelevantArticleId":14925,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgULSAcceptLanguageList":["ja-jp"],"wgULSCurrentAutonym":"日本語","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q847"});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"ja"});});
-/* cache key: global:resourceloader:filter:minify-js:7:9c1376de1996a704814c4bd7b0cd67a6 */
-}</script>
-<script>if(window.mw){
-mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
-}</script>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"テニス","wgTitle":"テニス","wgCurRevisionId":60286366,"wgRevisionId":60286366,"wgArticleId":14925,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記述のある記事/2011年10月","検証が求められている記述のある記事/2011年","出典を必要とする記事/2011年10月","書きかけの節のある項目","LCCN識別子が指定されている記事","GND識別子が指定されている記事","BNF識別子が指定されている記事","テニス","オリンピック競技","パラリンピック競技","ラケットスポーツ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"テニス","wgRelevantArticleId":14925,"wgRequestId":"V66S-wpAMCYAAGf2hcEAAABF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q847","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);mw.loader.state({"ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.legacy.shared":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","site.styles":"ready","noscript":"ready","user.cssprefs":"ready","user.styles":"ready"});});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%2Cswitcher%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%83%86%E3%83%8B%E3%82%B9"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%8B%E3%82%B9"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-テニス skin-vector action-view">
-		<div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-テニス rootpage-テニス skin-vector action-view feature-page-action-bar-v2">		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
@@ -50,7 +39,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
-					移動:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
 				</div>
 				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div class="dablink noprint">
 <table style="width:100%; background:transparent;">
@@ -63,7 +52,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <table class="plainlinks ambox ambox-content" role="presentation">
 <tr>
 <td class="mbox-image">
-<div style="width:52px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Question_book-4.svg" class="image"><img alt="Question book-4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/50px-Question_book-4.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/75px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/100px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+<div style="width:52px"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Question_book-4.svg" class="image"><img alt="Question book-4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/50px-Question_book-4.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/75px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/100px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
 </td>
 <td class="mbox-text"><span class="mbox-text-span"><b>この記事は<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">検証可能</a>な<a href="/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90" title="Wikipedia:信頼できる情報源">参考文献や出典</a>が全く示されていないか、不十分です。</b><br />
 <a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B" title="Wikipedia:出典を明記する">出典を追加</a>して記事の信頼性向上にご協力ください。<small>（<span title="2011年10月">2011年10月</span>）</small></span></td>
@@ -71,53 +60,53 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </table>
 <table class="infobox" style="width:22em;">
 <tr>
-<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; background-color:#eed">　テニス</th>
+<th colspan="2" class="" style="text-align:center; font-size:125%; font-weight:bold; background-color:#eed" itemprop="">　テニス</th>
 </tr>
-<tr>
-<td colspan="2" style="text-align:center;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:US_Open_2007,_Maria_Sharapova_serving.jpg" class="image"><img alt="US Open 2007, Maria Sharapova serving.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Open_2007%2C_Maria_Sharapova_serving.jpg/300px-US_Open_2007%2C_Maria_Sharapova_serving.jpg" width="300" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Open_2007%2C_Maria_Sharapova_serving.jpg/450px-US_Open_2007%2C_Maria_Sharapova_serving.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Open_2007%2C_Maria_Sharapova_serving.jpg/600px-US_Open_2007%2C_Maria_Sharapova_serving.jpg 2x" data-file-width="2282" data-file-height="1269" /></a>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop=""><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:US_Open_2007,_Maria_Sharapova_serving.jpg" class="image"><img alt="US Open 2007, Maria Sharapova serving.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Open_2007%2C_Maria_Sharapova_serving.jpg/300px-US_Open_2007%2C_Maria_Sharapova_serving.jpg" width="300" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Open_2007%2C_Maria_Sharapova_serving.jpg/450px-US_Open_2007%2C_Maria_Sharapova_serving.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Open_2007%2C_Maria_Sharapova_serving.jpg/600px-US_Open_2007%2C_Maria_Sharapova_serving.jpg 2x" data-file-width="2282" data-file-height="1269" /></a>
 <div style=""><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%83%A9%E3%83%A0_(%E3%83%86%E3%83%8B%E3%82%B9)" title="グランドスラム (テニス)">グランドスラム</a>トーナメントの一つ<a href="/wiki/%E5%85%A8%E7%B1%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%86%E3%83%8B%E3%82%B9)" title="全米オープン (テニス)">全米オープン</a></div>
 </td>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">統括団体</th>
-<td><a href="/wiki/%E5%9B%BD%E9%9A%9B%E3%83%86%E3%83%8B%E3%82%B9%E9%80%A3%E7%9B%9F" title="国際テニス連盟">国際テニス連盟</a></td>
+<td class="" style="" itemprop=""><a href="/wiki/%E5%9B%BD%E9%9A%9B%E3%83%86%E3%83%8B%E3%82%B9%E9%80%A3%E7%9B%9F" title="国際テニス連盟">国際テニス連盟</a></td>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">通称</th>
-<td>庭球</td>
+<td class="" style="" itemprop="">庭球</td>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">起源</th>
-<td><a href="/wiki/19%E4%B8%96%E7%B4%80" title="19世紀">19世紀</a></td>
+<td class="" style="" itemprop=""><a href="/wiki/19%E4%B8%96%E7%B4%80" title="19世紀">19世紀</a></td>
 </tr>
 <tr>
-<th scope="col" colspan="2" style="text-align:center; background-color:#eed">特徴</th>
+<th scope="col" colspan="2" class="" style="text-align:center; background-color:#eed">特徴</th>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">身体接触</th>
-<td>無</td>
+<td class="" style="" itemprop="">無</td>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">選手数</th>
-<td>１人もしくは２人</td>
+<td class="" style="" itemprop="">１人もしくは２人</td>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">男女混合</th>
-<td>有</td>
+<td class="" style="" itemprop="">有</td>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">カテゴリ</th>
-<td>屋外競技</td>
+<td class="" style="" itemprop="">屋外競技</td>
 </tr>
-<tr>
+<tr class="" itemprop="">
 <th scope="row" style="text-align:left; white-space:nowrap;">オリンピック</th>
-<td><a href="/wiki/1896%E5%B9%B4" title="1896年">1896年</a>-<a href="/wiki/1924%E5%B9%B4" title="1924年">1924年</a>、<a href="/wiki/1988%E5%B9%B4" title="1988年">1988年</a>-</td>
+<td class="" style="" itemprop=""><a href="/wiki/1896%E5%B9%B4" title="1896年">1896年</a>-<a href="/wiki/1924%E5%B9%B4" title="1924年">1924年</a>、<a href="/wiki/1988%E5%B9%B4" title="1988年">1988年</a>-</td>
 </tr>
 <tr class="noprint">
 <td colspan="2" style="text-align:right; font-size:85%;"><a href="/wiki/Template:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="Template:スポーツ">テンプレートを表示</a></td>
 </tr>
 </table>
-<p><b>テニス</b>（英語: tennis）は二人または二組のプレイヤーが<a href="/wiki/%E7%B6%B2" title="網">ネット</a>越しに<a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88" title="ラケット">ラケット</a>で<a href="/wiki/%E3%83%9C%E3%83%BC%E3%83%AB" title="ボール">ボール</a>を打ち合う<a href="/wiki/%E7%90%83%E6%8A%80" title="球技">球技</a>である。<a href="/wiki/%E5%A4%8F%E5%AD%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="夏季オリンピック">オリンピック</a>や<a href="/wiki/%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="パラリンピック">パラリンピック</a>で採用されている競技であり、年齢性別、身体的個性を問わず広く親しまれている。</p>
+<p><b>テニス</b>（<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英</a>: <span lang="en" xml:lang="en">tennis</span>）は二人または二組のプレイヤーが<a href="/wiki/%E7%B6%B2" title="網">ネット</a>越しに<a href="/wiki/%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88" title="ラケット">ラケット</a>で<a href="/wiki/%E3%83%9C%E3%83%BC%E3%83%AB" title="ボール">ボール</a>を打ち合う<a href="/wiki/%E7%90%83%E6%8A%80" title="球技">球技</a>である。<a href="/wiki/%E5%A4%8F%E5%AD%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="夏季オリンピック">オリンピック</a>や<a href="/wiki/%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="パラリンピック">パラリンピック</a>で採用されている競技であり、年齢性別、身体的個性を問わず広く親しまれている。</p>
 <p></p>
 <div id="toc" class="toc">
 <div id="toctitle">
@@ -156,8 +145,8 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 後のテニスになる「jeu de paume」</div>
 </div>
 </div>
-<p>複数の人間が1つの<a href="/wiki/%E7%90%83" title="球" class="mw-disambig">球</a>を互いに打ち合うという形態の球技の起源は、<a href="/wiki/%E7%B4%80%E5%85%83%E5%89%8D" title="紀元前">紀元前</a>にまで遡ることが出来る。<a href="/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88" title="エジプト">エジプト</a>では宗教的な行為のひとつとしてこのような球技が行われていた。紀元前15世紀の壁画で球を打ち合う球技を行う人々の姿が描かれたものが発見されている。</p>
-<p>エジプトに存在したこの球技は、古代ローマ帝国にもレクリエーションの1種類として引き継がれたが、現在のテニスの直接の祖先に当たる球技は、<a href="/wiki/8%E4%B8%96%E7%B4%80" title="8世紀">8世紀</a>ごろに<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9" title="フランス">フランス</a>で発生し、当初はスール（soule &lt; <a href="/wiki/%E3%82%B1%E3%83%AB%E3%83%88%E8%AA%9E" title="ケルト語" class="mw-redirect">ケルト語</a> hehaul 「太陽」より。ボールを太陽に見立てたもの）<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="出典を求める理由や求める出典内容（2011年10月）">要出典</span></a></i>]</sup><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>、フランス貴族の遊戯として定着をはじめた<a href="/wiki/16%E4%B8%96%E7%B4%80" title="16世紀">16世紀</a>以降には「jeu de paume」（<b><a href="/wiki/%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%A0" title="ジュ・ド・ポーム">ジュ・ド・ポーム</a></b>、「掌の遊戯」の意）と呼ばれた。</p>
+<p>複数の人間が1つの<a href="/wiki/%E7%90%83" class="mw-disambig" title="球">球</a>を互いに打ち合うという形態の球技の起源は、<a href="/wiki/%E7%B4%80%E5%85%83%E5%89%8D" title="紀元前">紀元前</a>にまで遡ることが出来る。<a href="/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88" title="エジプト">エジプト</a>では宗教的な行為のひとつとしてこのような球技が行われていた。紀元前15世紀の壁画で球を打ち合う球技を行う人々の姿が描かれたものが発見されている。</p>
+<p>エジプトに存在したこの球技は、古代ローマ帝国にもレクリエーションの1種類として引き継がれたが、現在のテニスの直接の祖先に当たる球技は、<a href="/wiki/8%E4%B8%96%E7%B4%80" title="8世紀">8世紀</a>ごろに<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9" title="フランス">フランス</a>で発生し、当初はスール（soule &lt; <a href="/wiki/%E3%82%B1%E3%83%AB%E3%83%88%E8%AA%9E" class="mw-redirect" title="ケルト語">ケルト語</a> hehaul 「太陽」より。ボールを太陽に見立てたもの）<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="出典を求める理由や求める出典内容（2011年10月）">要出典</span></a></i>]</sup><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>、フランス貴族の遊戯として定着をはじめた<a href="/wiki/16%E4%B8%96%E7%B4%80" title="16世紀">16世紀</a>以降には「jeu de paume」（<b><a href="/wiki/%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%A0" title="ジュ・ド・ポーム">ジュ・ド・ポーム</a></b>、「掌の遊戯」の意）と呼ばれた。</p>
 <p>フランスでこの球技が盛んになった理由としては、ローマ時代の直接の影響よりも、8世紀から11世紀まで、イベリア半島から南フランスまで進出していたイスラム教徒（ウマイヤ朝）が、エジプト時代と同様に、宗教的行為として行っていたものに、キリスト教の僧侶が興味を持ち模倣したことから始まったと言われている（「ラケット」の語源がアラビア語であることに注意されたい。フランスの僧院で特に盛んに行われるようになったのは、イスラム勢力がヨーロッパから駆逐された<a href="/wiki/12%E4%B8%96%E7%B4%80" title="12世紀">12世紀</a>ごろ以降からとされる）。</p>
 <p>現代のローンテニスに対して、初期のテニスは普通単に「テニス」と呼ぶ<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="出典を求める理由や求める出典内容（2011年10月）">要出典</span></a></i>]</sup>。「テニス」の名称は攻守交代の際のサーバーの掛け声である「トゥネ!」（<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E" title="フランス語">仏</a>: <span lang="fr" xml:lang="fr"><i>Tenez!</i></span> 、動詞 tenir の命令形で「（球を落とさないように）取ってみろ」の意）にちなむ。基本的なルールやスコアリング方式はローンテニスと似ている部分もあり、ファイブズ (fives)、ペロタ (Pelota) などのハンドボールから発達した。</p>
 <p>昔のテニスのコートは僧院にあり、四方を壁と傾斜した天井に囲まれていて、現代のローンテニスのコートより大きかった<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="出典を求める理由や求める出典内容（2011年10月）">要出典</span></a></i>]</sup>。<a href="/wiki/18%E4%B8%96%E7%B4%80" title="18世紀">18世紀</a>から<a href="/wiki/19%E4%B8%96%E7%B4%80" title="19世紀">19世紀</a>にかけて<a href="/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91" title="ヨーロッパ">ヨーロッパ</a>の貴族の間で大流行し、多くのコートが建造されたが、現存するものは少ない。イギリスでは復元されたコートがクリフトン大学にある。近代における貴族階級の遊戯としてのテニスは、<a href="/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9" title="イギリス">イギリス</a>ではロイヤル・テニス（Royal Tennis 、「王家のテニス」の意）、<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD" title="アメリカ合衆国">アメリカ</a>ではコート・テニス（Court Tennis 、「宮廷のテニス」の意）とも呼ばれている。</p>
@@ -187,7 +176,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <p>タイブレークは<a href="/wiki/1965%E5%B9%B4" title="1965年">1965年</a>にJames Henry Van Alenが試合時間短縮のために考案し、<a href="/wiki/1971%E5%B9%B4" title="1971年">1971年</a>に<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9" title="ウィンブルドン選手権">ウィンブルドン選手権</a>において初めて導入された。この時には最終セット以外のセットでゲームカウントが8-8となった後に行うというルールであり、<a href="/wiki/1979%E5%B9%B4" title="1979年">1979年</a>に同大会において最終セット以外のセットでゲームカウント6-6の後に行うというルールに変更された<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%83%A9%E3%83%A0_(%E3%83%86%E3%83%8B%E3%82%B9)" title="グランドスラム (テニス)">4大大会</a>の内の<a href="/wiki/%E5%85%A8%E8%B1%AA%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3" title="全豪オープン">全豪オープン</a>、<a href="/wiki/%E5%85%A8%E4%BB%8F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3" title="全仏オープン">全仏オープン</a>、ウィンブルドン、および<a href="/wiki/%E8%BF%91%E4%BB%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="近代オリンピック">オリンピック</a>、<a href="/wiki/%E3%83%87%E3%83%93%E3%82%B9%E3%82%AB%E3%83%83%E3%83%97" title="デビスカップ">デビスカップ</a>、<a href="/wiki/%E3%83%95%E3%82%A7%E3%83%89%E3%82%AB%E3%83%83%E3%83%97" title="フェドカップ">フェドカップ</a>では最終セットでタイブレークを採用しておらず<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>、この場合は2ゲーム差が付くまでセットが続行される。</p>
 <p><a href="/wiki/2005%E5%B9%B4" title="2005年">2005年</a>秋以降の男子国際大会でのダブルスにおいて、<a href="#.E3.83.AB.E3.83.BC.E3.83.AB_2">ノーアドバンテージ</a>、また1セットを5ゲーム先取方式とする（ゲームカウント4-4でタイブレークを行う）等のルール変更が提案されており、ダブルスプレイヤーを中心とした反対運動など論争が起こっている。</p>
 <p>このシステムを試行した初の国際大会である2005年10月の<a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%83%86%E3%83%8B%E3%82%B9%E9%81%B8%E6%89%8B%E6%A8%A9" title="ジャパン・オープン・テニス選手権">AIGジャパンオープンテニス</a>では、日本の<a href="/wiki/%E5%B2%A9%E6%B8%95%E8%81%A1" title="岩渕聡">岩渕聡</a>、<a href="/wiki/%E9%88%B4%E6%9C%A8%E8%B2%B4%E7%94%B7" title="鈴木貴男">鈴木貴男</a>組が日本人ペアとして初のツアーダブルス優勝を果たしている。</p>
-<p><a href="/wiki/2006%E5%B9%B4" title="2006年">2006年</a>の<a href="/wiki/%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3" title="ソニー・エリクソン・オープン" class="mw-redirect">ナスダック100オープン</a>において、条件つきで判定に異議を唱えられる「<a href="/wiki/%E3%83%93%E3%83%87%E3%82%AA%E5%88%A4%E5%AE%9A#.E3.83.86.E3.83.8B.E3.82.B9" title="ビデオ判定">インスタントリプレイシステム</a>」（チャレンジシステム）が初めて採用された。選手が審判の判定に疑問がある場合に「チャレンジ」を行うと、「<a href="/wiki/%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A4_(%E5%AF%A9%E5%88%A4%E8%A3%9C%E5%8A%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="ホークアイ (審判補助システム)">ホークアイ</a>」という<a href="/wiki/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9" title="コンピューターグラフィックス" class="mw-redirect">コンピューターグラフィックス</a>を用いた自動ライン判定システムのスロービデオが流れ、判定がやり直される。この手続きは主審がオーバールールを行うのと同様に、オンプレイの場合はラリー中のボールを止めて行う。明らかなエースおよびアウトやフォールトの場合はポイントが適用されるが、その他の場合はレットとなり、ポイントをやり直す。誤審が判明すればチャレンジする権利は失われないが、判定が覆らなかった場合、その選手はチャレンジ失敗となり、チャレンジする権利を1回失う。</p>
+<p><a href="/wiki/2006%E5%B9%B4" title="2006年">2006年</a>の<a href="/wiki/%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3" class="mw-redirect" title="ソニー・エリクソン・オープン">ナスダック100オープン</a>において、条件つきで判定に異議を唱えられる「<a href="/wiki/%E3%83%93%E3%83%87%E3%82%AA%E5%88%A4%E5%AE%9A#.E3.83.86.E3.83.8B.E3.82.B9" title="ビデオ判定">インスタントリプレイシステム</a>」（チャレンジシステム）が初めて採用された。選手が審判の判定に疑問がある場合に「チャレンジ」を行うと、「<a href="/wiki/%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A4_(%E5%AF%A9%E5%88%A4%E8%A3%9C%E5%8A%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="ホークアイ (審判補助システム)">ホークアイ</a>」という<a href="/wiki/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9" class="mw-redirect" title="コンピューターグラフィックス">コンピューターグラフィックス</a>を用いた自動ライン判定システムのスロービデオが流れ、判定がやり直される。この手続きは主審がオーバールールを行うのと同様に、オンプレイの場合はラリー中のボールを止めて行う。明らかなエースおよびアウトやフォールトの場合はポイントが適用されるが、その他の場合はレットとなり、ポイントをやり直す。誤審が判明すればチャレンジする権利は失われないが、判定が覆らなかった場合、その選手はチャレンジ失敗となり、チャレンジする権利を1回失う。</p>
 <p>同システムは、4大大会では2006年の<a href="/wiki/%E5%85%A8%E7%B1%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%86%E3%83%8B%E3%82%B9)" title="全米オープン (テニス)">全米オープン</a>において初めて導入され、センターコートなど2会場で設置された。<a href="/wiki/2007%E5%B9%B4" title="2007年">2007年</a>には全豪オープンおよびウィンブルドン選手権でも導入された。日本では2008年に<a href="/wiki/%E6%9D%B1%E3%83%AC_%E3%83%91%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%83%86%E3%83%8B%E3%82%B9%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88" title="東レ パン・パシフィック・オープン・テニストーナメント">東レ パン・パシフィック・オープン・テニストーナメント</a>において、2010年に<a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%83%86%E3%83%8B%E3%82%B9%E9%81%B8%E6%89%8B%E6%A8%A9" title="ジャパン・オープン・テニス選手権">ジャパン・オープン・テニス選手権</a>においてそれぞれ初めて使用された。</p>
 <p><a href="/wiki/2011%E5%B9%B4" title="2011年">2011年</a>のウィンブルドンにおいては、インスタントリプレイ (Electronic Review) に関して以下のルールが適用されている。</p>
 <ul>
@@ -213,9 +202,9 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <dl>
 <dt>ラケット</dt>
 <dd>
-<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">「<a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88" title="テニスラケット">テニスラケット</a>」および「<a href="//en.wikipedia.org/wiki/Overgrip" class="extiw" title="en:Overgrip">en:Overgrip</a>」も参照</div>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">「<a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88" title="テニスラケット">テニスラケット</a>」および「<a href="https://en.wikipedia.org/wiki/Overgrip" class="extiw" title="en:Overgrip">en:Overgrip</a>」も参照</div>
 </dd>
-<dd>棒状のグリップの先が輪になっており、そこにストリングスが張られる。長さ69センチ前後、重さは240〜380グラム程度。材質は<a href="/wiki/%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF" title="繊維強化プラスチック">繊維強化プラスチック</a> (<a href="/wiki/FRP" title="FRP" class="mw-redirect">FRP</a>)、<a href="/wiki/%E3%83%81%E3%82%BF%E3%83%B3" title="チタン">チタン</a>などを用いた<a href="/wiki/%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99" title="複合材料">複合材料</a>や、<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0" title="アルミニウム">アルミ</a>、<a href="/wiki/%E9%8B%BC" title="鋼">スチール</a>、<a href="/wiki/%E6%9C%A8%E6%9D%90" title="木材">木</a>などの単一素材のものがある。<a href="/wiki/%E7%A1%AC%E5%BC%8F%E3%83%86%E3%83%8B%E3%82%B9" title="硬式テニス" class="mw-redirect">硬式テニス</a>用と<a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">ソフトテニス</a>用がある。</dd>
+<dd>棒状のグリップの先が輪になっており、そこにストリングスが張られる。長さ69センチ前後、重さは240〜380グラム程度。材質は<a href="/wiki/%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF" title="繊維強化プラスチック">繊維強化プラスチック</a> (<a href="/wiki/FRP" class="mw-redirect" title="FRP">FRP</a>)、<a href="/wiki/%E3%83%81%E3%82%BF%E3%83%B3" title="チタン">チタン</a>などを用いた<a href="/wiki/%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99" title="複合材料">複合材料</a>や、<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0" title="アルミニウム">アルミ</a>、<a href="/wiki/%E9%8B%BC" title="鋼">スチール</a>、<a href="/wiki/%E6%9C%A8%E6%9D%90" title="木材">木</a>などの単一素材のものがある。<a href="/wiki/%E7%A1%AC%E5%BC%8F%E3%83%86%E3%83%8B%E3%82%B9" class="mw-redirect" title="硬式テニス">硬式テニス</a>用と<a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">ソフトテニス</a>用がある。</dd>
 <dt>ボール</dt>
 <dd>黄色、表面は<a href="/w/index.php?title=%E3%83%A1%E3%83%AB%E3%83%88%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="メルトン (存在しないページ)">メルトン</a>と呼ばれる<a href="/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88" title="フェルト">フェルト</a>で覆われている。直径6.35〜6.67センチメートル、重さ56.7〜58.5グラム。保管している缶に1.8気圧が保たれるようになっておりプレッシャー・ボールと呼ばれる。公式球の表面は白のメルトンであったこともある。</dd>
 <dd>大気圧のノンプレッシャー・ボールという練習球もあるが公式戦では使用できない。</dd>
@@ -229,7 +218,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </div>
 <dl>
-<dd>サーフェスはグラス（天然芝）、クレイ（真砂土・荒木田土・粘土砂混合土）、<a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%84%E3%83%BC%E3%82%AB" title="アンツーカ" class="mw-redirect">アンツーカ</a>（焼成土）、ハード（コンクリートに塗装）、ウレタン（ウレタン樹脂またはゴム）、グラスサンド（砂入り<a href="/wiki/%E4%BA%BA%E5%B7%A5%E8%8A%9D" title="人工芝">人工芝</a>）など。大きさは、縦23.77メートル（78<a href="/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88" title="フィート">フィート</a>）、シングルスでは横8.23メートル（27フィート）、ダブルスでは横10.97メートル（36フィート）である。</dd>
+<dd>サーフェスはグラス（天然芝）、クレイ（真砂土・荒木田土・粘土砂混合土）、<a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%84%E3%83%BC%E3%82%AB" class="mw-redirect" title="アンツーカ">アンツーカ</a>（焼成土）、ハード（コンクリートに塗装）、ウレタン（ウレタン樹脂またはゴム）、グラスサンド（砂入り<a href="/wiki/%E4%BA%BA%E5%B7%A5%E8%8A%9D" title="人工芝">人工芝</a>）など。大きさは、縦23.77メートル（78<a href="/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88" title="フィート">フィート</a>）、シングルスでは横8.23メートル（27フィート）、ダブルスでは横10.97メートル（36フィート）である。</dd>
 <dd>英国ではグラス（芝生）、北米ではデコ・ターフと呼ばれる製品が、オセアニアではリバウンド・エースという製品が普及している。</dd>
 <dd>コート上のラインには合成樹脂製のラインテープをラインの線に打ちつけて表示する。</dd>
 <dt>ネット</dt>
@@ -245,7 +234,9 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <td class="mbox-text"><span class="mbox-text-span">この節の<a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit">加筆</a>が望まれています。</span></td>
 </tr>
 </table>
-<p>公式の試合において、着用する服装はルールにより定められている。清潔でプレーにふさわしいと認められたテニスウェアを着用しなければならない他、トーナメントによっては開催要項に明記して、服装の形や色を規制する場合がある。有名なのは<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9" title="ウィンブルドン選手権">ウィンブルドン選手権</a>において白を基調としたウェアとシューズの着用が義務づけられている。これは、1884年の初代女子シングルス優勝者の<a href="/wiki/%E3%83%A2%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AF%E3%83%88%E3%82%BD%E3%83%B3" title="モード・ワトソン">モード・ワトソン</a>が上下のウェアを白で統一していたことに由来する。 　　また、スポンサーや製造者のマークの大きさも決められており、アディダスの三本線はデザインとは認められず製造者マークと見なされ、2008年より大きさの制限が設けられている。 ジュニアの大会では、原則としてメーカーのマークなどが、胸の位置以外にあるものは認められない。 テニスラケットも原則としてメーカー契約選手で無い限りメーカーのマークがされたガットを使用する事は出来ない。</p>
+<p>公式の試合において、着用する服装はルールにより定められている。清潔でプレーにふさわしいと認められたテニスウェアを着用しなければならない他、トーナメントによっては開催要項に明記して、服装の形や色を規制する場合がある。有名なのは<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9" title="ウィンブルドン選手権">ウィンブルドン選手権</a>において白を基調としたウェアとシューズの着用が義務づけられている。これは、1884年の初代女子シングルス優勝者の<a href="/wiki/%E3%83%A2%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AF%E3%83%88%E3%82%BD%E3%83%B3" title="モード・ワトソン">モード・ワトソン</a>が上下のウェアを白で統一していたことに由来する。</p>
+<p>また、スポンサーや製造者のマークの大きさも決められており、アディダスの三本線はデザインとは認められず製造者マークと見なされ、2008年より大きさの制限が設けられている。 ジュニアの大会では、原則としてメーカーのマークなどが、胸の位置以外にあるものは認められない。</p>
+<p>テニスラケットも原則としてメーカー契約選手で無い限りメーカーのマークがされたガットを使用する事は出来ない。</p>
 <h2><span class="mw-headline" id=".E3.83.86.E3.83.8B.E3.82.B9.E7.94.A8.E8.AA.9E">テニス用語</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=5" title="節を編集: テニス用語">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl>
 <dt>テニス（tennis）</dt>
@@ -278,7 +269,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <dd><a href="/wiki/%E5%8F%A4%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E" title="古フランス語">古フランス語</a>で2を意味するドゥウス deus/deuz （現代語 deux）より<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="この記述には信頼できる情報源の提示が求められています。（2011年10月）">要出典</span></a></i>]</sup>。現在、フランス語では平等・同点を意味するエガリテ (<span lang="fr" xml:lang="fr">égalité</span>) が用いられる。</dd>
 <dt>ラブ（love）</dt>
 <dd>無得点をさす。アラビア数字の「0」が卵型をしていることから、卵を意味するフランス語の定形「<span lang="fr" xml:lang="fr">l'œuf</span>」に由来するという説がある。実際は「何でも無い」という意味の成句「Neither for love nor for money（愛のためでも金のためでもない）」に由来する<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="この記述には信頼できる情報源の提示が求められています。（2011年10月）">要出典</span></a></i>]</sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>。</dd>
-<dd>「0」「15」「30」「40」というスコアの数え方は、当初は<a href="/wiki/60%E9%80%B2%E6%B3%95" title="60進法" class="mw-redirect">60進法</a>で0、15、30、45であったものの45の5が省略されるようになったものだという説が有力である。なお、フランス語では「0」、「15」、「30」、「40」、「アドバンテージ」は、「zéro」、「quinze」、「trente」、「quarante」、「avantage」（アヴァンタージュ、アヴォンタージュ）であり、全仏オープン等で聞くことができる。</dd>
+<dd>「0」「15」「30」「40」というスコアの数え方は、当初は<a href="/wiki/60%E9%80%B2%E6%B3%95" class="mw-redirect" title="60進法">60進法</a>で0、15、30、45であったものの45の5が省略されるようになったものだという説が有力である。なお、フランス語では「0」、「15」、「30」、「40」、「アドバンテージ」は、「zéro」、「quinze」、「trente」、「quarante」、「avantage」（アヴァンタージュ、アヴォンタージュ）であり、全仏オープン等で聞くことができる。</dd>
 <dt>キープ（keep）</dt>
 <dd>サーバー側がゲームを取得すること。テニスにおいては一般的にサーバー側が有利である。したがって試合に勝利するためには自分のサービスゲームを確実に保守し(keep)、いかに相手のサービスゲームをブレークするかが鍵となる。ただしキープは和製英語。英語圏ではholdという。</dd>
 <dt>ホールド（hold [serve]）</dt>
@@ -360,7 +351,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <dt>フラットサーブ</dt>
 <dd>ボールの回転量が少なく、軌道の変化に乏しいので、他の回転をかけたサーブに比べるとサービスエリアに入れることは難しいとも言えるが、その分最もスピードを出すことのできるサーブである。</dd>
 <dt>スライスサーブ</dt>
-<dd>ボールを切る（スライス）ようにして打つことで回転をかけることから名のついたサーブである（ただし実際に「切るようにして打つ」ことがこのサーブを上手く打つにあたって適切かどうかについては意見の分かれるところである）。右手で打つ場合、ボールはサーバーから見て左に曲がりながら飛び、上から見て反時計回りの回転が主となる。（アンダーサーブは主に順時計回りが主）</dd>
+<dd>ボールに横回転をかけて打つサーブ。回転の効果でボールは横に曲がりながら飛び、バウンド後も切れていく球筋をたどります。安定性も高く、セカンドサーブとして使うのにも適している<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>。</dd>
 <dt>スピンサーブ</dt>
 <dd>前方への回転が主で、落差の大きい軌道を描く。このため、前述のフラットサーブなどよりも比較的サービスエリアに入れることが容易である。バウンド後は回転の影響により他のサーブに比べて高く弾む。サービスエリアに入る確率が高いこと、また高く弾むために攻撃されにくいことからセカンドサービスとして用いられることが多い。回転方向によっては、やや左に跳ねさせたり、逆にやや右に跳ねさせたりといった調節も可能である。「ツイストサーブ」や「キックサーブ」と呼ばれるサーブがあるが、もともとスピンサーブがこのような別名を持っている。一方、これらの呼称をそれぞれ独立したサーブとして差別化しようとする動きもある。</dd>
 </dl>
@@ -404,11 +395,17 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <dd>プレイヤーがロブをネットから離れる方向へ追っていき、ネットに背中を向けた状態でボールを両足の間で打つプレー<sup id="cite_ref-gl01_5-15" class="reference"><a href="#cite_note-gl01-5">[5]</a></sup>。</dd>
 <dt>バギー・ウィップ（buggy whip）</dt>
 <dd>フォアハンドでの打球時のフォロー・スルーが、体の前を通って逆側に行かず、低い場所から高い場所へ移動して同じ側で終了する打法。この打法を行う選手としては<a href="/wiki/%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%8A%E3%83%80%E3%83%AB" title="ラファエル・ナダル">ラファエル・ナダル</a>が知られる。名前は馬車の馬を鞭で打つ御者の動作に似ていることに由来する<sup id="cite_ref-gl01_5-16" class="reference"><a href="#cite_note-gl01-5">[5]</a></sup>。</dd>
+<dt>ジャックナイフ (jack knife)</dt>
+<dd>ストローク時にボールにスピン系の回転がかかり高く跳ね上がったときに対応するためにジャンプをしながらバックハンドでスマッシュを打つ方法。主に身長が低い選手が多く用いている。</dd>
 </dl>
 <h3><span class="mw-headline" id=".E3.81.9D.E3.81.AE.E4.BB.96">その他</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=9" title="節を編集: その他">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
 <dl>
 <dt><a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9%E8%82%98" title="テニス肘">テニス肘</a>、テニス・エルボー（tennis elbow）</dt>
 <dd>プレーヤーの技術やラケットが不適当であるために腕に過度の振動が伝わっていることが原因とされるけが<sup id="cite_ref-gl01_5-17" class="reference"><a href="#cite_note-gl01-5">[5]</a></sup>。</dd>
+</dl>
+<dl>
+<dt><a href="/wiki/%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB" title="ベーグル">ベーグル</a>（bagel）</dt>
+<dd>試合で自分もしくは相手にセットの中で1ゲームも取れないまた取られないことを言う。( 6-0 、6-3 など)また2セット続けて1ゲームも取れないまた取られない場合はダブルベーグルと呼ぶ。日本のテニス用語では団子とも言われる。</dd>
 </dl>
 <h2><span class="mw-headline" id=".E5.9B.9B.E5.A4.A7.E5.A4.A7.E4.BC.9A">四大大会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=10" title="節を編集: 四大大会">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul>
@@ -417,14 +414,14 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9" title="ウィンブルドン選手権">ウィンブルドン</a>（<a href="/wiki/6%E6%9C%88" title="6月">6月</a> - <a href="/wiki/7%E6%9C%88" title="7月">7月</a>）</li>
 <li><a href="/wiki/%E5%85%A8%E7%B1%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%86%E3%83%8B%E3%82%B9)" title="全米オープン (テニス)">全米オープン</a>（<a href="/wiki/8%E6%9C%88" title="8月">8月</a> - <a href="/wiki/9%E6%9C%88" title="9月">9月</a>）</li>
 </ul>
-<p>四大大会を1年間ですべて優勝することを<b>年間<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%83%A9%E3%83%A0_(%E3%83%86%E3%83%8B%E3%82%B9)" title="グランドスラム (テニス)">グランドスラム</a></b>という。これを<a href="/wiki/%E5%A4%8F%E5%AD%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="夏季オリンピック">夏季オリンピック</a>の開催年（オリンピアード）に達成し、かつオリンピックの金メダルを獲得することを<b>「ゴールデン・スラム」</b>という（<a href="/wiki/1988%E5%B9%B4" title="1988年">1988年</a>に当時19歳の<a href="/wiki/%E3%82%B7%E3%83%A5%E3%83%86%E3%83%95%E3%82%A3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95" title="シュテフィ・グラフ">シュテフィ・グラフ</a>が達成し、この言葉が作られた）<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>。</p>
+<p>四大大会を1年間ですべて優勝することを<b>年間<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%83%A9%E3%83%A0_(%E3%83%86%E3%83%8B%E3%82%B9)" title="グランドスラム (テニス)">グランドスラム</a></b>という。これを<a href="/wiki/%E5%A4%8F%E5%AD%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF" title="夏季オリンピック">夏季オリンピック</a>の開催年（オリンピアード）に達成し、かつオリンピックの金メダルを獲得することを<b>「ゴールデン・スラム」</b>という（<a href="/wiki/1988%E5%B9%B4" title="1988年">1988年</a>に当時19歳の<a href="/wiki/%E3%82%B7%E3%83%A5%E3%83%86%E3%83%95%E3%82%A3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95" title="シュテフィ・グラフ">シュテフィ・グラフ</a>が達成し、この言葉が作られた）<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>。</p>
 <h2><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E3.81.AE.E3.83.86.E3.83.8B.E3.82.B9">日本のテニス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=11" title="節を編集: 日本のテニス">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>日本へのローンテニスの伝播については諸説あり、<a href="/wiki/1878%E5%B9%B4" title="1878年">1878年</a>にアメリカのリーランドが<a href="/wiki/%E6%96%87%E9%83%A8%E7%9C%81" title="文部省">文部省</a>の<a href="/wiki/%E4%BD%93%E6%93%8D%E4%BC%9D%E7%BF%92%E6%89%80" title="体操伝習所">体操伝習所</a>で紹介したという説がある。ソフトテニスの発祥については、明治期の日本で調達が困難であったローンテニス用具を安価な代用品で賄ったのが起源とされている。これがやがて<a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">軟式テニス</a>と呼ばれる様になり、体操伝習所の教師であった<a href="/wiki/%E5%9D%AA%E4%BA%95%E7%8E%84%E9%81%93" title="坪井玄道">坪井玄道</a>がソフトテニスの普及に尽力し、伝習所の卒業生が教師となって各地の学校に赴任し伝えることにより<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>今日に至るまで独自の発展を遂げた。この軟式テニスで育った<a href="/wiki/%E7%86%8A%E8%B0%B7%E4%B8%80%E5%BC%A5" title="熊谷一弥">熊谷一弥</a>、<a href="/wiki/%E6%B8%85%E6%B0%B4%E5%96%84%E9%80%A0" title="清水善造">清水善造</a>、<a href="/wiki/%E5%8E%9F%E7%94%B0%E6%AD%A6%E4%B8%80" title="原田武一">原田武一</a>、<a href="/wiki/%E4%BD%90%E8%97%A4%E6%AC%A1%E9%83%8E" title="佐藤次郎">佐藤次郎</a>、<a href="/wiki/%E5%B1%B1%E5%B2%B8%E4%BA%8C%E9%83%8E" title="山岸二郎">山岸二郎</a>ら多数の名選手がテニスに転向し、欧州、米国に転戦し始める。彼らはその独特のテニス（軟式テニスで培われたドライブ）で活躍し、1920年代前半から1930年代後半まで続いた日本テニス黄金時代を築き上げることとなる。</p>
-<p>1918年、熊谷一弥が<a href="/wiki/%E5%85%A8%E7%B1%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%86%E3%83%8B%E3%82%B9)" title="全米オープン (テニス)">全米選手権</a>において、日本人テニス選手として史上初のベスト4進出を果たし、<a href="/wiki/1920%E5%B9%B4" title="1920年">1920年</a>には清水善造の<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3" title="ウィンブルドン" class="mw-disambig">ウィンブルドン</a>選手権「チャレンジ・ラウンド」で決勝（現在では準決勝に相当）に進出し、世界1位に君臨していた<a href="/wiki/%E3%83%93%E3%83%AB%E3%83%BB%E3%83%81%E3%83%AB%E3%83%87%E3%83%B3" title="ビル・チルデン">ビル・チルデン</a>に肉薄した。また、その年に開催された第7回オリンピックにおいて熊谷がシングルスで<a href="/wiki/%E9%8A%80%E3%83%A1%E3%83%80%E3%83%AB" title="銀メダル">銀メダル</a>を獲得し、ダブルスでも熊谷と<a href="/wiki/%E6%9F%8F%E5%B0%BE%E8%AA%A0%E4%B8%80%E9%83%8E" title="柏尾誠一郎">柏尾誠一郎</a>のペアが銀メダルを獲得し、オリンピックで初めての日本のメダルとなった。翌1921年、男子テニス国別対抗戦・<a href="/wiki/%E3%83%87%E3%83%93%E3%82%B9%E3%82%AB%E3%83%83%E3%83%97" title="デビスカップ">デビスカップ</a>の日本チームの活躍は目覚ましく、<a href="/wiki/%E6%BA%96%E5%84%AA%E5%8B%9D" title="準優勝">準優勝</a>に輝いている。</p>
+<p>日本へのローンテニスの伝播については諸説あり、<a href="/wiki/1878%E5%B9%B4" title="1878年">1878年</a>にアメリカのリーランドが<a href="/wiki/%E6%96%87%E9%83%A8%E7%9C%81" title="文部省">文部省</a>の<a href="/wiki/%E4%BD%93%E6%93%8D%E4%BC%9D%E7%BF%92%E6%89%80" title="体操伝習所">体操伝習所</a>で紹介したという説がある。ソフトテニスの発祥については、明治期の日本で調達が困難であったローンテニス用具を安価な代用品で賄ったのが起源とされている。これがやがて<a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">軟式テニス</a>と呼ばれる様になり、体操伝習所の教師であった<a href="/wiki/%E5%9D%AA%E4%BA%95%E7%8E%84%E9%81%93" title="坪井玄道">坪井玄道</a>がソフトテニスの普及に尽力し、伝習所の卒業生が教師となって各地の学校に赴任し伝えることにより<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>今日に至るまで独自の発展を遂げた。この軟式テニスで育った<a href="/wiki/%E7%86%8A%E8%B0%B7%E4%B8%80%E5%BC%A5" title="熊谷一弥">熊谷一弥</a>、<a href="/wiki/%E6%B8%85%E6%B0%B4%E5%96%84%E9%80%A0" title="清水善造">清水善造</a>、<a href="/wiki/%E5%8E%9F%E7%94%B0%E6%AD%A6%E4%B8%80" title="原田武一">原田武一</a>、<a href="/wiki/%E4%BD%90%E8%97%A4%E6%AC%A1%E9%83%8E" title="佐藤次郎">佐藤次郎</a>、<a href="/wiki/%E5%B1%B1%E5%B2%B8%E4%BA%8C%E9%83%8E" title="山岸二郎">山岸二郎</a>ら多数の名選手がテニスに転向し、欧州、米国に転戦し始める。彼らはその独特のテニス（軟式テニスで培われたドライブ）で活躍し、1920年代前半から1930年代後半まで続いた日本テニス黄金時代を築き上げることとなる。</p>
+<p>1918年、熊谷一弥が<a href="/wiki/%E5%85%A8%E7%B1%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%86%E3%83%8B%E3%82%B9)" title="全米オープン (テニス)">全米選手権</a>において、日本人テニス選手として史上初のベスト4進出を果たし、<a href="/wiki/1920%E5%B9%B4" title="1920年">1920年</a>には清水善造の<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3" class="mw-disambig" title="ウィンブルドン">ウィンブルドン</a>選手権「チャレンジ・ラウンド」で決勝（現在では準決勝に相当）に進出し、世界1位に君臨していた<a href="/wiki/%E3%83%93%E3%83%AB%E3%83%BB%E3%83%81%E3%83%AB%E3%83%87%E3%83%B3" title="ビル・チルデン">ビル・チルデン</a>に肉薄した。また、その年に開催された第7回オリンピックにおいて熊谷がシングルスで<a href="/wiki/%E9%8A%80%E3%83%A1%E3%83%80%E3%83%AB" title="銀メダル">銀メダル</a>を獲得し、ダブルスでも熊谷と<a href="/wiki/%E6%9F%8F%E5%B0%BE%E8%AA%A0%E4%B8%80%E9%83%8E" title="柏尾誠一郎">柏尾誠一郎</a>のペアが銀メダルを獲得し、オリンピックで初めての日本のメダルとなった。翌1921年、男子テニス国別対抗戦・<a href="/wiki/%E3%83%87%E3%83%93%E3%82%B9%E3%82%AB%E3%83%83%E3%83%97" title="デビスカップ">デビスカップ</a>の日本チームの活躍は目覚ましく、<a href="/wiki/%E6%BA%96%E5%84%AA%E5%8B%9D" title="準優勝">準優勝</a>に輝いている。</p>
 <p>日本テニス界の先駆者であった熊谷一弥と清水善造の後に続き、大正期から昭和期へと移行した1920年代には<a href="/wiki/%E5%8E%9F%E7%94%B0%E6%AD%A6%E4%B8%80" title="原田武一">原田武一</a>が日本を代表する選手として活躍した。原田はとりわけ、デビスカップで傑出した成績を挙げることとなる。特に1926年のデビスカップでは、日本テニス史に残る名勝負が繰り広げられた。日本は「アメリカン・ゾーン」決勝でキューバに5戦全勝で勝ち、「インターゾーン」の決勝でフランスと対戦する。当時のテニス界は、フランスの「四銃士」と呼ばれた4人の強豪選手たちが世界を席巻し始めていた。原田はインターゾーン決勝のフランス戦で、第2試合シングルスでルネ・ラコステを 6-4, 4-6, 6-3, 9-7 で破り、第5試合シングルスでもアンリ・コシェに 6-1, 6-3, 0-6, 6-4 で勝ち、この活躍で世界的に有名な選手となった。日本チームは2勝3敗でフランスに敗れたが、原田のシングルス2勝は大きな反響を呼んだ。1926年、原田武一は「全米テニスランキング」で<a href="/wiki/%E3%83%93%E3%83%AB%E3%83%BB%E3%83%81%E3%83%AB%E3%83%87%E3%83%B3" title="ビル・チルデン">ビル・チルデン</a>、<a href="/wiki/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AD%E3%83%B3%E3%82%BD" title="マニュエル・アロンソ">マニュエル・アロンソ</a>に次ぐ第3位にランクされ、世界ランキングでも7位に躍進する。</p>
 <p>1930年代に入ると、<a href="/wiki/%E4%BD%90%E8%97%A4%E6%AC%A1%E9%83%8E" title="佐藤次郎">佐藤次郎</a>が登場する。佐藤は4大大会でシングルスでは通算5度もベスト4に進出し、ダブルスでは<a href="/wiki/%E5%B8%83%E4%BA%95%E8%89%AF%E5%8A%A9" title="布井良助">布井良助</a>とペアで準優勝を経験し、混合ダブルスにおいても準優勝に輝くなど、日本の男子テニス選手として空前絶後の世界的な活躍を残し、当時の世界ランキング3位にまで登り詰めたが、<a href="/wiki/1934%E5%B9%B4" title="1934年">1934年</a>4月に遠征中に<a href="/wiki/%E3%83%9E%E3%83%A9%E3%83%83%E3%82%AB%E6%B5%B7%E5%B3%A1" title="マラッカ海峡">マラッカ海峡</a>で投身自殺をしてしまう。しかし、同年のウィンブルドン混合ダブルスで<a href="/wiki/%E4%B8%89%E6%9C%A8%E9%BE%8D%E5%96%9C" title="三木龍喜">三木龍喜</a>が<a href="/wiki/%E3%83%89%E3%83%AD%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89" title="ドロシー・ラウンド">ドロシー・ラウンド</a>とペアを組んで優勝し、日本人のテニス選手として最初の4大大会優勝者になった。</p>
 <p>佐藤亡き後は<a href="/wiki/%E5%B1%B1%E5%B2%B8%E4%BA%8C%E9%83%8E" title="山岸二郎">山岸二郎</a>、<a href="/wiki/%E4%B8%AD%E9%87%8E%E6%96%87%E7%85%A7" title="中野文照">中野文照</a>が日本テニス界を代表する選手になる。特に山岸は1938年のデビス・カップ「アメリカン・ゾーン」決勝でオーストラリアと対戦した時、この年の世界ランキング3位だった<a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AD%E3%83%A0%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81" title="ジョン・ブロムウィッチ">ジョン・ブロムウィッチ</a>を6-0, 3-6, 7-5, 6-4 で破り、1937年に山岸は世界ランキング9位に入り、1938年には8位にランクされた。1938年は、アメリカの<a href="/wiki/%E3%83%89%E3%83%B3%E3%83%BB%E3%83%90%E3%83%83%E3%82%B8" title="ドン・バッジ">ドン・バッジ</a>がテニス史上最初の「年間グランドスラム」を達成した年であり、山岸は彼らに続く強豪選手として高い評価を受けたのである。しかし、<a href="/wiki/%E6%97%A5%E4%B8%AD%E6%88%A6%E4%BA%89" title="日中戦争">日中戦争</a>は泥沼の様相を呈し、国内の物不足も顕著になりテニスボールは配給制となった。1939年には四大大会への海外遠征とデビス・カップへの選手派遣も中止となり、戦前の日本テニスの黄金時代は終わりをつげた。1941年に日本が太平洋戦争に突入すると、日本国内は戦時一色となり、日本テニス協会も1942年11月に解散を余儀なくされてしまい、翌年から3年間、戦争激化のため大会は中止せざるを得なかった。この影響は日本テニス界を確実に蝕み、今までのような高水準のレベルが維持できないようになってしまい、長期の低迷を迎えることとなる。</p>
-<p>日本は第2次世界大戦の敗戦後、1951年からデビスカップの国際舞台に復帰すると徐々にレベルを回復させるようになり、1955年全米選手権男子ダブルスにおいて<a href="/wiki/%E5%AE%AE%E5%9F%8E%E6%B7%B3" title="宮城淳">宮城淳</a>、<a href="/wiki/%E5%8A%A0%E8%8C%82%E5%85%AC%E6%88%90" title="加茂公成">加茂公成</a>のペアが優勝を成し遂げる。1970年代には日本でもプロ選手が登場、そのプロ第1号（戦後初のトーナメントプロ）である<a href="/wiki/%E7%A5%9E%E5%92%8C%E4%BD%8F%E7%B4%94" title="神和住純">神和住純</a>（父が軟式テニスの全日本チャンピオン、本人も軟式出身）が世界を転戦する。神和住は主に「WCTサーキット」で活躍し、当時のトップ選手だった<a href="/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9" title="スタン・スミス">スタン・スミス</a>を2度破るなどの活躍を見せた。1995年には<a href="/wiki/%E6%9D%BE%E5%B2%A1%E4%BF%AE%E9%80%A0" title="松岡修造">松岡修造</a>が<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9" title="ウィンブルドン選手権">ウィンブルドン選手権</a>男子シングルスでベスト8を獲得した。それ以後、日本の男子選手で世界トップレベルに近づいた選手は少なかったが、2008年に<a href="/wiki/%E9%8C%A6%E7%B9%94%E5%9C%AD" title="錦織圭">錦織圭</a>が18歳で日本人最年少ツアー優勝を果たした。また2014年には、<a href="/wiki/%E5%85%A8%E7%B1%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%86%E3%83%8B%E3%82%B9)" title="全米オープン (テニス)">全米オープン</a>でアジア男子初の準優勝、2015年には日本人及びアジア人最高位を更新する世界ランキング4位を記録している。そして、2014年の年末にはアジア男子初の<a href="/wiki/ATP%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%84%E3%82%A2%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB" title="ATPワールドツアー・ファイナル">ATPワールドツアー・ファイナル</a>に出場。初出場で２勝をあげ、準決勝まで進出するという快挙を達成している。</p>
+<p>日本は第2次世界大戦の敗戦後、1951年からデビスカップの国際舞台に復帰すると徐々にレベルを回復させるようになり、1955年全米選手権男子ダブルスにおいて<a href="/wiki/%E5%AE%AE%E5%9F%8E%E6%B7%B3" title="宮城淳">宮城淳</a>、<a href="/wiki/%E5%8A%A0%E8%8C%82%E5%85%AC%E6%88%90" title="加茂公成">加茂公成</a>のペアが優勝を成し遂げる。1970年代には日本でもプロ選手が登場、そのプロ第1号（戦後初のトーナメントプロ）である<a href="/wiki/%E7%A5%9E%E5%92%8C%E4%BD%8F%E7%B4%94" title="神和住純">神和住純</a>（父が軟式テニスの全日本チャンピオン、本人も軟式出身）が世界を転戦する。神和住は主に「WCTサーキット」で活躍し、当時のトップ選手だった<a href="/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9" title="スタン・スミス">スタン・スミス</a>を2度破るなどの活躍を見せた。1995年には<a href="/wiki/%E6%9D%BE%E5%B2%A1%E4%BF%AE%E9%80%A0" title="松岡修造">松岡修造</a>が<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9" title="ウィンブルドン選手権">ウィンブルドン選手権</a>男子シングルスでベスト8を獲得した。それ以後、日本の男子選手で世界トップレベルに近づいた選手は少なかったが、2008年に<a href="/wiki/%E9%8C%A6%E7%B9%94%E5%9C%AD" title="錦織圭">錦織圭</a>が18歳で日本人最年少ツアー優勝を果たした。また2014年には、<a href="/wiki/%E5%85%A8%E7%B1%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3_(%E3%83%86%E3%83%8B%E3%82%B9)" title="全米オープン (テニス)">全米オープン</a>でアジア男子初の準優勝、2015年には日本人及びアジア人最高位を更新する世界ランキング4位を記録している。そして、2014年の年末にはアジア男子初の<a href="/wiki/ATP%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%84%E3%82%A2%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB" title="ATPワールドツアー・ファイナル">ATPワールドツアー・ファイナル</a>に出場。初出場で２勝をあげ、準決勝まで進出するという快挙を達成している。 2015年にはアジア選手初の生涯獲得賞金1,000万ドル(約12億円)を突破した。そして、全米オープンでは日本人で初めてのグランドスラムでの第4シードを獲得した。</p>
 <p>女子では<a href="/wiki/1975%E5%B9%B4" title="1975年">1975年</a>の<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%96%E3%83%AB%E3%83%89%E3%83%B3%E9%81%B8%E6%89%8B%E6%A8%A9" title="ウィンブルドン選手権">ウィンブルドン選手権</a>女子ダブルスで、<a href="/wiki/%E6%B2%A2%E6%9D%BE%E5%92%8C%E5%AD%90" title="沢松和子">沢松和子</a>と<a href="/wiki/%E3%82%A2%E3%83%B3%E6%B8%85%E6%9D%91" title="アン清村">アン清村</a>のペアが初優勝した。<a href="/wiki/1980%E5%B9%B4%E4%BB%A3" title="1980年代">1980年代</a>から<a href="/wiki/1990%E5%B9%B4%E4%BB%A3" title="1990年代">90年代</a>には<a href="/wiki/%E4%BA%95%E4%B8%8A%E6%82%A6%E5%AD%90" title="井上悦子">井上悦子</a>や<a href="/wiki/1989%E5%B9%B4" title="1989年">1989年</a>にプロ転向した<a href="/wiki/%E3%82%AF%E3%83%AB%E3%83%A0%E4%BC%8A%E9%81%94%E5%85%AC%E5%AD%90" title="クルム伊達公子">伊達公子</a>が活躍。伊達は1995年に日本人選手として最高の世界ランキングシングルス４位を記録。<a href="/wiki/1997%E5%B9%B4" title="1997年">1997年</a>には<a href="/wiki/%E5%B9%B3%E6%9C%A8%E7%90%86%E5%8C%96" title="平木理化">平木理化</a>が<a href="/wiki/%E5%85%A8%E4%BB%8F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3" title="全仏オープン">全仏オープン</a>混合ダブルスで優勝した。2004年2月、<a href="/wiki/%E6%9D%89%E5%B1%B1%E6%84%9B" title="杉山愛">杉山愛</a>が世界ランキング8位を記録し、日本人女子として2人目のトップ10入りを果たした。また、<a href="/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9" title="ダブルス">ダブルス</a>としては世界的な名手と知られ、2000年10月には日本人男女初となる世界ランキング１位を記録した。(後に2003年にも１位に返り咲く。)</p>
 <h2><span class="mw-headline" id=".E3.82.BD.E3.83.95.E3.83.88.E3.83.86.E3.83.8B.E3.82.B9">ソフトテニス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=12" title="節を編集: ソフトテニス">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">ソフトテニス</a>（軟式テニス）は日本へテニスが紹介された当時、テニス用具の国産が難しく輸入品が高価であったため、比較的安価に輸入<span class="fix-domain" title="この記述の信頼性について検証が求められています。（2011年10月）">（独）</span><sup class="noprint Inline-Template nowrap">[<i><a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性"><span title="この記述の信頼性について検証が求められています。（2011年10月）">要検証</span></a> <span class="metadata">– <a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%86%E3%83%8B%E3%82%B9" title="ノート:テニス">ノート</a></span></i>]</sup>できたゴムを材料としたボールが使われたのが始まりである。アジアを中心に行われていたがプレイされる国や地域が増え、2007年の第13回世界選手権では40を超える国がエントリーした。ダブルスが主体であるというイメージがある。1994年以降はシングルスのルールが整備されている。 ルールの一部はテニスのものと異なっている。日本語においては、<a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">ソフトテニス</a>と区別して、テニスを硬式テニスと呼ぶことが多い。</p>
@@ -434,8 +431,8 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </ul>
 <h2><span class="mw-headline" id=".E3.81.9D.E3.81.AE.E4.BB.96_2">その他</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=14" title="節を編集: その他">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul>
-<li><a href="/wiki/1998%E5%B9%B4" title="1998年">1998年</a>、日本テニス協会や日本プロテニス協会などは<a href="/wiki/9%E6%9C%8823%E6%97%A5" title="9月23日">9月23日</a>（秋分の日）を「テニスの日」に制定した。</li>
-<li><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="バドミントン">バドミントン</a>などとともに、<a href="/wiki/%E3%83%AC%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="レクリエーション" class="mw-disambig">レクリエーション</a>や<a href="/wiki/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC" title="レジャー">レジャー</a>としても広く行われる競技である。公園や高原の<a href="/wiki/%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88" title="リゾート">リゾート</a>地などには、しばしばテニスコートが見られる。</li>
+<li><a href="/wiki/1998%E5%B9%B4" title="1998年">1998年</a>、<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%8B%E3%82%B9%E5%8D%94%E4%BC%9A" title="日本テニス協会">日本テニス協会</a>や<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E3%83%86%E3%83%8B%E3%82%B9%E5%8D%94%E4%BC%9A" title="日本プロテニス協会">日本プロテニス協会</a>などは<a href="/wiki/9%E6%9C%8823%E6%97%A5" title="9月23日">9月23日</a>（秋分の日）を「テニスの日」に制定した。</li>
+<li><a href="/wiki/%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3" title="バドミントン">バドミントン</a>などとともに、<a href="/wiki/%E3%83%AC%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" class="mw-disambig" title="レクリエーション">レクリエーション</a>や<a href="/wiki/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC" title="レジャー">レジャー</a>としても広く行われる競技である。公園や高原の<a href="/wiki/%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88" title="リゾート">リゾート</a>地などには、しばしばテニスコートが見られる。</li>
 </ul>
 <h2><span class="mw-headline" id=".E3.83.86.E3.83.8B.E3.82.B9.E3.82.92.E6.89.B1.E3.81.A3.E3.81.9F.E4.BD.9C.E5.93.81">テニスを扱った作品</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=15" title="節を編集: テニスを扱った作品">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl>
@@ -480,7 +477,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98" title="ミュージカル・テニスの王子様">ミュージカル・テニスの王子様</a>（2003年 - 2010年、日本）
 <ul>
 <li><a href="/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%982nd%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3" title="ミュージカル・テニスの王子様2ndシーズン">ミュージカル・テニスの王子様2ndシーズン</a>（2011年 - 2014年）※上記の続編</li>
-<li><a href="/w/index.php?title=%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%983rd%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="ミュージカル・テニスの王子様3rdシーズン (存在しないページ)">ミュージカル・テニスの王子様3rdシーズン</a>（2015年 - ）</li>
+<li><a href="/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%983rd%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3" title="ミュージカル・テニスの王子様3rdシーズン">ミュージカル・テニスの王子様3rdシーズン</a>（2015年 - ）</li>
 </ul>
 </li>
 </ul>
@@ -495,7 +492,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=16" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><a href="/wiki/%E3%83%94%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3" title="ピカルディ" class="mw-redirect">ピカルディ</a>ではショール（chole）として、今でも古式のルールで行われている<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="出典を求める理由や求める出典内容（2011年10月）">要出典</span></a></i>]</sup>。</span></li>
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><a href="/wiki/%E3%83%94%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3" class="mw-redirect" title="ピカルディ">ピカルディ</a>ではショール（chole）として、今でも古式のルールで行われている<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="出典を求める理由や求める出典内容（2011年10月）">要出典</span></a></i>]</sup>。</span></li>
 <li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text"><a class="external text" href="http://en.wikipedia.org/w/index.php?title=Tennis_score&amp;oldid=454513171">「Tennis score」</a>『Wikipedia英語版』 2011年10月8日 07:54 (UTC)。</span></li>
 <li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><a class="external text" href="http://en.wikipedia.org/w/index.php?title=Tennis&amp;oldid=457335964">「Tennis」</a>『Wikipedia英語版』 2011年10月25日 16:04 (UTC)。</span></li>
 <li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://2011.wimbledon.com/en_GB/scores/challenge/index.html">「Player Challenge System」</a>（英語）『2011 Wimbledon Championships Website - Official Site by IBM』 <a href="/wiki/IBM" title="IBM">IBM Corp.</a>、<a href="/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%96" title="オールイングランド・ローンテニス・アンド・クローケー・クラブ">AELTC</a>、2011年10月31日閲覧。</span></li>
@@ -504,8 +501,9 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li id="cite_note-fau01-7">^ <a href="#cite_ref-fau01_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fau01_7-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a class="external text" href="http://ja.wikipedia.org/w/index.php?title=Wikipedia:%E8%A1%A8%E8%A8%98%E3%82%AC%E3%82%A4%E3%83%89&amp;oldid=39524269#.E5.A4.96.E6.9D.A5.E8.AA.9E">「Wikipedia:表記ガイド:外来語」</a>『ウィキペディア日本語版』 2011年10月8日 11:07 (UTC) に沿って、本項目での表記を「フォールト」で統一。</span></li>
 <li id="cite_note-fau02-8">^ <a href="#cite_ref-fau02_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fau02_8-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a class="external text" href="http://en.wiktionary.org/w/index.php?title=fault&amp;oldid=13882482">「fault」</a>『<a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">Wiktionary</a>英語版』 2011年9月15日 21:16 (UTC)。<span class="IPA" style="font-size: 103%;">/fɔlt/</span>に近いカタカナ表記、また慣習的表記として。</span></li>
 <li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><a class="external text" href="http://en.wiktionary.org/w/index.php?title=smooth&amp;oldid=14060014">「smooth」</a>『<a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">Wiktionary</a>英語版』 2011年10月14日 01:38 (UTC)、2011年10月24日閲覧。</span></li>
-<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text">グラフの後にゴールデン・スラムを達成した選手はいないが、車イステニス界において日本人プレーヤーの<a href="/wiki/%E5%9B%BD%E6%9E%9D%E6%85%8E%E5%90%BE" title="国枝慎吾">国枝慎吾</a>が、2008年に成し遂げている（全豪オープン、ジャパンオープン、全英オープン、全米オープン、パラリンピック） 。</span></li>
-<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text"><a href="/wiki/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC" title="タイムスクープハンター">タイムスクープハンター</a>（NHK総合1ch 11:30 - 0:00）2013年4月27日放送分 第4話『打て!大正テニスガール』番組内説明</span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text">『基本が身につくテニス練習メニュー２００』181頁。</span></li>
+<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text">グラフの後にゴールデン・スラムを達成した選手はいないが、車イステニス界において日本人プレーヤーの<a href="/wiki/%E5%9B%BD%E6%9E%9D%E6%85%8E%E5%90%BE" title="国枝慎吾">国枝慎吾</a>が、2008年に成し遂げている（全豪オープン、ジャパンオープン、全英オープン、全米オープン、パラリンピック） 。</span></li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> <span class="reference-text"><a href="/wiki/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC" title="タイムスクープハンター">タイムスクープハンター</a>（NHK総合1ch 11:30 - 0:00）2013年4月27日放送分 第4話『打て!大正テニスガール』番組内説明</span></li>
 </ol>
 </div>
 <h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=17" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -521,74 +519,93 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E3%83%91%E3%83%89%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9" title="パドルテニス">パドルテニス</a></li>
 <li><a href="/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%86%E3%83%8B%E3%82%B9" title="フリーテニス">フリーテニス</a></li>
 <li><a href="/wiki/%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%A0" title="ジュ・ド・ポーム">ジュ・ド・ポーム</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88" title="アンダースコート">アンダースコート</a></li>
 </ul>
 <h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit&amp;section=18" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
 <tr>
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b>テニス</b>に関連する<b><span class="plainlinks"><a class="external text" href="//commons.wikimedia.org/wiki/Tennis?uselang=ja">メディア</a></span></b>および<b><span class="plainlinks"><a class="external text" href="//commons.wikimedia.org/wiki/Category:Tennis?uselang=ja">カテゴリ</a></span></b>があります。</td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b>テニス</b>に関連する<b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Tennis?uselang=ja">メディア</a></span></b>および<b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Tennis?uselang=ja">カテゴリ</a></span></b>があります。</td>
 </tr>
 </table>
 <table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
 <tr>
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/40px-Wiktionary-logo.svg.png" width="40" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/60px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/80px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></td>
-<td class="mbox-text plainlist" style="font-size:100%;"><a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">ウィクショナリー</a>に<b><a href="//ja.wiktionary.org/wiki/Special:Search/%E3%83%86%E3%83%8B%E3%82%B9" class="extiw" title="wikt:Special:Search/テニス">テニス</a></b>の項目があります。</td>
+<td class="mbox-text plainlist" style="font-size:100%;"><a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">ウィクショナリー</a>に<b><a href="https://ja.wiktionary.org/wiki/Special:Search/%E3%83%86%E3%83%8B%E3%82%B9" class="extiw" title="wikt:Special:Search/テニス">テニス</a></b>の項目があります。</td>
 </tr>
 </table>
 <table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
 <tr>
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/80px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></td>
-<td class="mbox-text plainlist" style="font-size:100%;">ウィキブックスに<b><a href="//ja.wikibooks.org/wiki/Special:Search/%E3%83%86%E3%83%8B%E3%82%B9" class="extiw" title="b:Special:Search/テニス">テニス</a></b>関連の解説書・教科書があります。</td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキブックスに<b><a href="https://ja.wikibooks.org/wiki/Special:Search/%E3%83%86%E3%83%8B%E3%82%B9" class="extiw" title="b:Special:Search/テニス">テニス</a></b>関連の解説書・教科書があります。</td>
 </tr>
 </table>
-<dl>
-<dt>公式</dt>
-</dl>
+<p><b>公式</b></p>
 <ul>
 <li><a rel="nofollow" class="external text" href="http://www.itftennis.com/">ITF</a> - <a href="/wiki/%E5%9B%BD%E9%9A%9B%E3%83%86%E3%83%8B%E3%82%B9%E9%80%A3%E7%9B%9F" title="国際テニス連盟">国際テニス連盟</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
 <li><a rel="nofollow" class="external text" href="http://www.atpworldtour.com/">ATP</a> - <a href="/wiki/%E7%94%B7%E5%AD%90%E3%83%97%E3%83%AD%E3%83%86%E3%83%8B%E3%82%B9%E5%8D%94%E4%BC%9A" title="男子プロテニス協会">男子プロテニス協会</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
 <li><a rel="nofollow" class="external text" href="http://www.wtatennis.com/">WTA</a> - <a href="/wiki/%E5%A5%B3%E5%AD%90%E3%83%86%E3%83%8B%E3%82%B9%E5%8D%94%E4%BC%9A" title="女子テニス協会">女子テニス協会</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
 <li><a rel="nofollow" class="external text" href="http://www.jta-tennis.or.jp/index.html">JTA</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%8B%E3%82%B9%E5%8D%94%E4%BC%9A" title="日本テニス協会">日本テニス協会</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（日本語）</span></li>
 </ul>
-<dl>
-<dt>大会</dt>
-</dl>
+<p><b>大会</b></p>
 <ul>
 <li><a rel="nofollow" class="external text" href="http://www.australianopen.com/en_AU/index.html">全豪オープン</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span><span style="font-size:0.95em; font-weight:bold; color:#555">（日本語）</span></li>
 <li><a rel="nofollow" class="external text" href="http://www.rolandgarros.com/">全仏オープン</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（フランス語）</span><span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
 <li><a rel="nofollow" class="external text" href="http://championships.wimbledon.org/en_GB/index.html">ウィンブルドン選手権</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
 <li><a rel="nofollow" class="external text" href="http://www.usopen.org/home/default.sps">全米オープン</a> <span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></li>
 </ul>
-<dl>
-<dt>その他</dt>
-</dl>
+<p><b>その他</b></p>
 <ul>
 <li><a rel="nofollow" class="external text" href="http://www.wowow.co.jp/tennis/guide.html">「テニスの基礎知識」</a>『WOWOW TENNIS ONLINE』 <a href="/wiki/WOWOW" title="WOWOW">WOWOW</a> - テニスの基礎知識 構造等図解入り。</li>
 </ul>
-<p><br /></p>
-<table class="navbox" cellspacing="0" style=";">
+<table class="navbox" style="border-spacing:0">
 <tr>
-<td style="padding:2px;">
-<table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
 <tr>
-<th style=";" colspan="2" class="navbox-title">
-<div style="float:left; width:6em;text-align:left;">
-<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E4%B8%80%E8%A6%A7" title="Template:スポーツ一覧"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E4%B8%80%E8%A6%A7&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:スポーツ一覧 (存在しないページ)"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E4%B8%80%E8%A6%A7&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E4%B8%80%E8%A6%A7&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+<th scope="row" class="navbox-group"><a href="/wiki/%E5%85%B8%E6%8B%A0%E7%AE%A1%E7%90%86" title="典拠管理">典拠管理</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%AD%B0%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E7%AE%A1%E7%90%86%E7%95%AA%E5%8F%B7" title="アメリカ議会図書館管理番号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85133890">sh85133890</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/%E7%B5%B1%E5%90%88%E5%85%B8%E6%8B%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB" title="統合典拠ファイル">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4059462-2">4059462-2</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%9B%BD%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8" title="フランス国立図書館">BnF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11933653f">cb11933653f</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11933653f">(data)</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8" title="国立国会図書館">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00572828">00572828</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-collapse:collapse;;">
+<tr>
+<td>
+<table class="collapsible autocollapse" style="background:transparent;color:inherit;border:1px solid #fff;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<th style="" colspan="2" class="navbox-title">
+<div style="float:left;width6em;text-align:left;">
+<div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;border:none;">
+<ul style="display:inline;">
+<li><a href="/wiki/Template:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E4%B8%80%E8%A6%A7" title="Template:スポーツ一覧"><span title="このテンプレートを表示します" style="font-size:125%;border:none;">表</span></a></li>
+<li><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E4%B8%80%E8%A6%A7&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:スポーツ一覧 (存在しないページ)"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;border:none;">話</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:スポーツ一覧&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;border:none;">編</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:スポーツ一覧&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;border:none;">歴</span></a></li>
+</ul>
+</div>
 </div>
 <span style="font-size:110%;"><a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="スポーツ">スポーツ</a>競技一覧</span></th>
 </tr>
-<tr style="height:2px;">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E9%99%B8%E4%B8%8A%E7%AB%B6%E6%8A%80" title="陸上競技">陸上競技</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
-<tr>
-<td class="navbox-group" style=";width:7em;"><a href="/wiki/%E7%AB%B6%E8%B5%B0" title="競走">競走</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E9%99%B8%E4%B8%8A%E7%AB%B6%E6%8A%80" title="陸上競技">陸上競技</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em"></div>
+<table class="navbox-subgroup" style="margin:-2px 0;;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;"><a href="/wiki/%E7%AB%B6%E8%B5%B0" title="競走">競走</a></td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E7%9F%AD%E8%B7%9D%E9%9B%A2%E8%B5%B0" title="短距離走">短距離走</a></li>
 <li><a href="/wiki/%E4%B8%AD%E8%B7%9D%E9%9B%A2%E8%B5%B0" title="中距離走">中距離走</a></li>
@@ -601,13 +618,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;"><a href="/wiki/%E8%B7%B3%E8%BA%8D%E7%AB%B6%E6%8A%80" title="跳躍競技" class="mw-redirect">跳躍競技</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;"><a href="/wiki/%E8%B7%B3%E8%BA%8D%E7%AB%B6%E6%8A%80" class="mw-redirect" title="跳躍競技">跳躍競技</a></td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E8%B5%B0%E9%AB%98%E8%B7%B3" title="走高跳">走高跳</a></li>
 <li><a href="/wiki/%E6%A3%92%E9%AB%98%E8%B7%B3" title="棒高跳">棒高跳</a></li>
@@ -617,13 +631,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;"><a href="/wiki/%E6%8A%95%E3%81%A6%E3%81%8D%E7%AB%B6%E6%8A%80" title="投てき競技" class="mw-redirect">投てき競技</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;"><a href="/wiki/%E6%8A%95%E3%81%A6%E3%81%8D%E7%AB%B6%E6%8A%80" class="mw-redirect" title="投てき競技">投てき競技</a></td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E7%A0%B2%E4%B8%B8%E6%8A%95" title="砲丸投">砲丸投</a></li>
 <li><a href="/wiki/%E5%86%86%E7%9B%A4%E6%8A%95" title="円盤投">円盤投</a></li>
@@ -636,13 +647,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </table>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E6%B0%B4%E6%B3%B3" title="水泳">水泳</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E6%B0%B4%E6%B3%B3" title="水泳">水泳</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E7%AB%B6%E6%B3%B3" title="競泳">競泳</a>
 <ul>
@@ -664,13 +672,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E4%BD%93%E6%93%8D" title="体操">体操</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E4%BD%93%E6%93%8D" title="体操">体操</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E4%BD%93%E6%93%8D%E7%AB%B6%E6%8A%80" title="体操競技">体操競技</a>
 <ul>
@@ -690,13 +695,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E6%A0%BC%E9%97%98%E6%8A%80" title="格闘技">格闘技</a>・<a href="/wiki/%E6%AD%A6%E9%81%93" title="武道">武道</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E6%A0%BC%E9%97%98%E6%8A%80" title="格闘技">格闘技</a>・<a href="/wiki/%E6%AD%A6%E9%81%93" title="武道">武道</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E7%B7%8F%E5%90%88%E6%A0%BC%E9%97%98%E6%8A%80" title="総合格闘技">総合格闘技</a></li>
 <li><a href="/wiki/%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0" title="ボクシング">ボクシング</a></li>
@@ -715,7 +717,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E7%9B%B8%E6%92%B2" title="相撲">相撲</a></li>
 <li><a href="/wiki/%E5%90%88%E6%B0%97%E9%81%93" title="合気道">合気道</a></li>
 <li><a href="/wiki/%E6%9F%94%E8%A1%93" title="柔術">柔術</a></li>
-<li><a href="/wiki/%E7%A9%BA%E9%81%93" title="空道" class="mw-redirect">空道</a></li>
+<li><a href="/wiki/%E7%A9%BA%E9%81%93" class="mw-redirect" title="空道">空道</a></li>
 <li><a href="/wiki/%E8%BA%B0%E9%81%93" title="躰道">躰道</a></li>
 <li><a href="/wiki/%E5%BD%A2%E6%84%8F%E6%8B%B3" title="形意拳">形意拳</a></li>
 <li><a href="/wiki/%E5%B1%85%E5%90%88%E9%81%93" title="居合道">居合道</a></li>
@@ -729,13 +731,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E5%B0%84%E7%9A%84" title="射的">射的</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E5%B0%84%E7%9A%84" title="射的">射的</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E5%BC%93%E9%81%93" title="弓道">弓道</a></li>
 <li><a href="/wiki/%E3%82%A2%E3%83%BC%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC" title="アーチェリー">アーチェリー</a>
@@ -750,25 +749,19 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E3%82%AF%E3%83%AC%E3%83%BC%E5%B0%84%E6%92%83" title="クレー射撃">クレー射撃</a></li>
 </ul>
 </li>
-<li><a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%90%B9%E3%81%8D%E7%9F%A2" title="スポーツ吹き矢" class="mw-redirect">スポーツ吹き矢</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%90%B9%E3%81%8D%E7%9F%A2" class="mw-redirect" title="スポーツ吹き矢">スポーツ吹き矢</a></li>
 <li><a href="/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%B1%E3%83%BC" title="クロッケー">クロッケー</a></li>
 <li><a href="/wiki/%E3%83%80%E3%83%BC%E3%83%84" title="ダーツ">ダーツ</a></li>
-<li><a href="/wiki/%E3%83%9A%E3%82%BF%E3%83%B3%E3%82%AF" title="ペタンク">ペタンク</a></li>
-<li><a href="/wiki/%E3%83%9C%E3%83%83%E3%83%81%E3%83%A3" title="ボッチャ">ボッチャ</a></li>
-<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%9C%E3%82%A6%E3%83%AB%E3%82%BA" title="ローンボウルズ">ローンボウルズ</a></li>
 <li><a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0" title="カーリング">カーリング</a></li>
 <li><a href="/wiki/%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0" title="ボウリング">ボウリング</a></li>
 </ul>
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="パワースポーツ" class="mw-disambig">パワースポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" class="mw-disambig" title="パワースポーツ">パワースポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E9%87%8D%E9%87%8F%E6%8C%99%E3%81%92" title="重量挙げ">重量挙げ</a></li>
 <li><a href="/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" title="パワーリフティング">パワーリフティング</a></li>
@@ -779,18 +772,15 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E7%90%83%E6%8A%80" title="球技">球技</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
-<tr>
-<td class="navbox-group" style=";width:7em;">バレーボール</td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E7%90%83%E6%8A%80" title="球技">球技</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em"></div>
+<table class="navbox-subgroup" style="margin:-2px 0;;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;">バレーボール</td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
 <ul>
 <li>バレーボール
 <ul>
@@ -805,13 +795,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;">バスケットボール</td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;">バスケットボール</td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
 <ul>
 <li>バスケットボール
 <ul>
@@ -827,15 +814,12 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;">フットボール<br />
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;">フットボール<br />
 ハンドボール<br />
 ホッケー</td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="フットボール">フットボール</a>
 <ul>
@@ -848,7 +832,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </li>
 <li><a href="/wiki/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" title="ラグビー">ラグビー</a></li>
 <li><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="アメリカンフットボール">アメリカンフットボール</a></li>
-<li><a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="オージーフットボール" class="mw-redirect">オージーフットボール</a></li>
+<li><a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" class="mw-redirect" title="オージーフットボール">オージーフットボール</a></li>
 </ul>
 </li>
 <li>ハンドボール
@@ -869,17 +853,14 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;">ラケットスポーツ</td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;">ラケットスポーツ</td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
 <ul>
 <li><strong class="selflink">テニス</strong>
 <ul>
-<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9" title="ローンテニス" class="mw-redirect">ローンテニス</a>（硬式）</li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9" class="mw-redirect" title="ローンテニス">ローンテニス</a>（硬式）</li>
 <li><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9" title="ソフトテニス">ソフトテニス</a>（軟式）</li>
 <li><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%81%E3%83%86%E3%83%8B%E3%82%B9" title="ビーチテニス">ビーチテニス</a></li>
 <li><a href="/wiki/%E3%83%91%E3%83%89%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9" title="パドルテニス">パドルテニス</a></li>
@@ -901,13 +882,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;">ベーススポーツ</td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;">ベーススポーツ</td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E9%87%8E%E7%90%83" title="野球">野球</a>
 <ul>
@@ -920,31 +898,33 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ソフトボール">ソフトボール</a></li>
 <li><a href="/wiki/%E3%83%9A%E3%82%B5%E3%83%91%E3%83%83%E3%83%AD" title="ペサパッロ">ペサパッロ</a></li>
 <li><a href="/wiki/%E3%82%AD%E3%83%83%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB" title="キックベースボール">キックベースボール</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%83%97%E3%82%BF%E3%83%BC_(%E7%AB%B6%E6%8A%80)" title="ラプター (競技)">ラプター</a></li>
 </ul>
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;">その他</td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;">その他</td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%83%93%E3%83%AA%E3%83%A4%E3%83%BC%E3%83%89" title="ビリヤード">ビリヤード</a></li>
 <li><a href="/wiki/%E3%83%89%E3%83%83%E3%82%B8%E3%83%9C%E3%83%BC%E3%83%AB" title="ドッジボール">ドッジボール</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%96%E3%83%BC%E3%83%AB" title="スポールブール">スポールブール</a></li>
+<li><a href="/wiki/%E3%83%9A%E3%82%BF%E3%83%B3%E3%82%AF" title="ペタンク">ペタンク</a></li>
+<li><a href="/wiki/%E3%83%9C%E3%83%83%E3%83%81%E3%83%A3" title="ボッチャ">ボッチャ</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%9C%E3%82%A6%E3%83%AB%E3%82%BA" title="ローンボウルズ">ローンボウルズ</a></li>
 <li>ゴルフ
 <ul>
 <li><a href="/wiki/%E3%82%B4%E3%83%AB%E3%83%95" title="ゴルフ">ゴルフ</a></li>
-<li><a href="/wiki/%E3%83%9F%E3%83%8B%E3%82%B4%E3%83%AB%E3%83%95" title="ミニゴルフ">ミニゴルフ</a></li>
+<li><a href="/wiki/%E3%83%9F%E3%83%8B%E3%82%B4%E3%83%AB%E3%83%95" class="mw-redirect" title="ミニゴルフ">ミニゴルフ</a></li>
 </ul>
 </li>
 <li><a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲートボール">ゲートボール</a></li>
 <li><a href="/wiki/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF" title="フライングディスク">フライングディスク</a>
 <ul>
 <li><a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88" title="アルティメット">アルティメット</a></li>
-<li><a href="/wiki/%E3%82%AC%E3%83%83%E3%83%84" title="ガッツ" class="mw-disambig">ガッツ</a></li>
+<li><a href="/wiki/%E3%82%AC%E3%83%83%E3%83%84" class="mw-disambig" title="ガッツ">ガッツ</a></li>
 <li><a href="/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%B4%E3%83%AB%E3%83%95" title="ディスクゴルフ">ディスクゴルフ</a></li>
 </ul>
 </li>
@@ -955,18 +935,15 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </table>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;">雪氷滑走競技</td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
-<tr>
-<td class="navbox-group" style=";width:7em;"><a href="/wiki/%E3%82%B9%E3%82%AD%E3%83%BC" title="スキー">スキー</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;">雪氷滑走競技</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em"></div>
+<table class="navbox-subgroup" style="margin:-2px 0;;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;"><a href="/wiki/%E3%82%B9%E3%82%AD%E3%83%BC" title="スキー">スキー</a></td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%83%8E%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%BC" title="ノルディックスキー">ノルディックスキー</a>
 <ul>
@@ -982,7 +959,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E5%9B%9E%E8%BB%A2" title="回転">回転</a></li>
 <li><a href="/wiki/%E5%A4%A7%E5%9B%9E%E8%BB%A2" title="大回転">大回転</a></li>
 <li><a href="/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%A4%A7%E5%9B%9E%E8%BB%A2" title="スーパー大回転">スーパー大回転</a></li>
-<li><a href="/wiki/%E8%A4%87%E5%90%88" title="複合" class="mw-disambig">複合</a></li>
+<li><a href="/wiki/%E8%A4%87%E5%90%88" class="mw-disambig" title="複合">複合</a></li>
 <li>スーパー複合</li>
 </ul>
 </li>
@@ -1001,13 +978,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;"><a href="/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89" title="スノーボード">スノーボード</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;"><a href="/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89" title="スノーボード">スノーボード</a></td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
 <ul>
 <li>アルペンスノーボード
 <ul>
@@ -1032,13 +1006,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;"><a href="/wiki/%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88" title="スケート">スケート</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;"><a href="/wiki/%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88" title="スケート">スケート</a></td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88" title="フィギュアスケート">フィギュアスケート</a></li>
 <li>スピードスケート
@@ -1051,13 +1022,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";width:7em;"><a href="/wiki/%E3%82%BD%E3%83%AA" title="ソリ">ソリ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;width:7em;"><a href="/wiki/%E3%82%BD%E3%83%AA" title="ソリ">ソリ</a></td>
+<td style="text-align:left;width:100%;padding:0;width:auto;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%82%B9%E3%82%B1%E3%83%AB%E3%83%88%E3%83%B3_(%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84)" title="スケルトン (スポーツ)">スケルトン</a></li>
 <li><a href="/wiki/%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A5" title="リュージュ">リュージュ</a></li>
@@ -1069,13 +1037,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </table>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E7%AB%B6%E6%8A%80" title="自転車競技">自転車競技</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E7%AB%B6%E6%8A%80" title="自転車競技">自転車競技</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%82%B9_(%E8%87%AA%E8%BB%A2%E8%BB%8A%E7%AB%B6%E6%8A%80)" title="ロードレース (自転車競技)">ロードレース</a></li>
 <li><a href="/wiki/%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B9" title="トラックレース">トラックレース</a>
@@ -1086,7 +1051,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </li>
 <li><a href="/wiki/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B9" title="マウンテンバイクレース">マウンテンバイクレース</a>
 <ul>
-<li><a href="/wiki/MTB%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0" title="MTBオリエンテーリング" class="mw-redirect">MTBオリエンテーリング</a></li>
+<li><a href="/wiki/MTB%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0" class="mw-redirect" title="MTBオリエンテーリング">MTBオリエンテーリング</a></li>
 </ul>
 </li>
 <li><a href="/wiki/BMX" title="BMX">BMX</a></li>
@@ -1094,18 +1059,15 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="モータースポーツ">モータースポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="モータースポーツ">モータースポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E8%87%AA%E5%8B%95%E8%BB%8A%E7%AB%B6%E6%8A%80" title="自動車競技">自動車競技</a>
 <ul>
 <li><a href="/wiki/%E3%83%A9%E3%83%AA%E3%83%BC" title="ラリー">ラリー</a></li>
-<li><a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9" title="カートレース" class="mw-redirect">カートレース</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9" class="mw-redirect" title="カートレース">カートレース</a></li>
 </ul>
 </li>
 <li><a href="/wiki/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%90%E3%82%A4%E7%AB%B6%E6%8A%80" title="オートバイ競技">オートバイ競技</a>
@@ -1119,13 +1081,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/w/index.php?title=%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="アウトドアスポーツ (存在しないページ)">アウトドアスポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/w/index.php?title=%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="アウトドアスポーツ (存在しないページ)">アウトドアスポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E7%99%BB%E5%B1%B1" title="登山">登山</a>・<a href="/wiki/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0" title="ハイキング">ハイキング</a></li>
 <li><a href="/wiki/%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B9" title="アドベンチャーレース">アドベンチャーレース</a></li>
@@ -1144,13 +1103,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="ウォータースポーツ">ウォータースポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="ウォータースポーツ">ウォータースポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%83%9C%E3%83%BC%E3%83%88%E7%AB%B6%E6%8A%80" title="ボート競技">ボート競技</a></li>
 <li><a href="/wiki/%E3%82%AB%E3%83%8C%E3%83%BC" title="カヌー">カヌー</a>
@@ -1179,8 +1135,8 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li>フォーミュラウィンドサーフィンクラス</li>
 </ul>
 </li>
-<li><a href="/wiki/%E3%82%B9%E3%83%A9%E3%83%AD%E3%83%BC%E3%83%A0" title="スラローム" class="mw-disambig">スラローム</a></li>
-<li><a href="/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB" title="フリースタイル" class="mw-disambig">フリースタイル</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%A9%E3%83%AD%E3%83%BC%E3%83%A0" class="mw-disambig" title="スラローム">スラローム</a></li>
+<li><a href="/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB" class="mw-disambig" title="フリースタイル">フリースタイル</a></li>
 <li>ウェイブパフォーマンス</li>
 <li>スピードセイリング</li>
 </ul>
@@ -1194,13 +1150,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="スカイスポーツ" class="mw-disambig">スカイスポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84_(%E7%AB%B6%E6%8A%80)" title="スカイスポーツ (競技)">スカイスポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%83%90%E3%83%B3%E3%82%B8%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97" title="バンジージャンプ">バンジージャンプ</a></li>
 <li><a href="/wiki/%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0" title="ベースジャンピング">ベースジャンピング</a></li>
@@ -1213,13 +1166,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/w/index.php?title=%E9%9B%AA%E4%B8%8A%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="雪上スポーツ (存在しないページ)">雪上スポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/w/index.php?title=%E9%9B%AA%E4%B8%8A%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="雪上スポーツ (存在しないページ)">雪上スポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%88" title="スノーカイト">スノーカイト</a></li>
 <li><a href="/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%88" title="スノースクート">スノースクート</a></li>
@@ -1228,13 +1178,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/w/index.php?title=%E9%99%B8%E4%B8%8A%E6%BB%91%E8%B5%B0%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="陸上滑走スポーツ (存在しないページ)">陸上滑走スポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/w/index.php?title=%E9%99%B8%E4%B8%8A%E6%BB%91%E8%B5%B0%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="陸上滑走スポーツ (存在しないページ)">陸上滑走スポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" title="サイクルサッカー">サイクルサッカー</a></li>
 <li><a href="/wiki/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2" title="サイクルフィギュア">サイクルフィギュア</a></li>
@@ -1242,19 +1189,16 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li><a href="/wiki/%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89" title="スケートボード">スケートボード</a></li>
 <li><a href="/wiki/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89" title="マウンテンボード">オールテラインボード</a></li>
 <li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88" title="ローラースケート">ローラースケート</a></li>
-<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC" title="ローラーダービー" class="mw-redirect">ローラーダービー</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC" class="mw-redirect" title="ローラーダービー">ローラーダービー</a></li>
 <li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC" title="ローラーホッケー">ローラーホッケー</a></li>
 </ul>
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/w/index.php?title=%E5%AF%BE%E6%88%A6%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="対戦スポーツ (存在しないページ)">対戦スポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/w/index.php?title=%E5%AF%BE%E6%88%A6%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="対戦スポーツ (存在しないページ)">対戦スポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%82%AB" title="インディアカ">インディアカ</a></li>
 <li><a href="/wiki/%E3%82%AB%E3%83%8C%E3%83%BC%E3%83%9D%E3%83%AD" title="カヌーポロ">カヌーポロ</a></li>
@@ -1268,13 +1212,10 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="マインドスポーツ">マインドスポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="マインドスポーツ">マインドスポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="エレクトロニック・スポーツ">エレクトロニック・スポーツ</a></li>
 <li><a href="/wiki/%E3%82%AA%E3%82%BB%E3%83%AD_(%E9%81%8A%E6%88%AF)" title="オセロ (遊戯)">オセロ</a></li>
@@ -1293,31 +1234,25 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="アニマルスポーツ">アニマルスポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="アニマルスポーツ">アニマルスポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E9%A6%AC%E8%A1%93" title="馬術">馬術</a></li>
 <li><a href="/wiki/%E7%AB%B6%E9%A6%AC" title="競馬">競馬</a></li>
 <li><a href="/wiki/%E3%83%9D%E3%83%AD" title="ポロ">ポロ</a></li>
 <li><a href="/wiki/%E3%83%AD%E3%83%87%E3%82%AA" title="ロデオ">ロデオ</a></li>
 <li><a href="/wiki/%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0" title="レイニング">レイニング</a></li>
-<li><a href="/wiki/%E7%8A%AC%E3%81%9E%E3%82%8A" title="犬ぞり" class="mw-redirect">犬ぞり</a>レース</li>
+<li><a href="/wiki/%E7%8A%AC%E3%81%9E%E3%82%8A" class="mw-redirect" title="犬ぞり">犬ぞり</a>レース</li>
 </ul>
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/w/index.php?title=%E6%B7%B7%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="混合スポーツ (存在しないページ)">混合スポーツ</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/w/index.php?title=%E6%B7%B7%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="混合スポーツ (存在しないページ)">混合スポーツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E8%BF%91%E4%BB%A3%E4%BA%94%E7%A8%AE%E7%AB%B6%E6%8A%80" title="近代五種競技">近代五種競技</a></li>
 <li><a href="/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%AD%E3%83%B3" title="トライアスロン">トライアスロン</a></li>
@@ -1326,16 +1261,12 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 </td>
 </tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td class="navbox-group" style=";;"><a href="/wiki/%E3%81%9D%E3%81%AE%E4%BB%96" title="その他">その他</a></td>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist hlist-hyphen">
-<div style="padding:0em 0.25em">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%81%9D%E3%81%AE%E4%BB%96" title="その他">その他</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even hlist hlist-hyphen">
+<div style="padding:0 0.25em">
 <ul>
 <li><a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0" title="スポーツスタッキング">スポーツスタッキング</a></li>
-<li><a href="/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%96%E3%83%BC%E3%83%AB" title="スポールブール">スポールブール</a></li>
 <li><a href="/wiki/%E3%83%81%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC" title="チアリーダー">チアリーディング・チアリーダー</a></li>
 <li><a href="/wiki/%E7%AB%B6%E6%8A%80%E3%83%80%E3%83%B3%E3%82%B9" title="競技ダンス">競技ダンス</a></li>
 <li><a href="/wiki/%E7%B8%84%E8%B7%B3%E3%81%B3" title="縄跳び">縄跳び</a></li>
@@ -1350,40 +1281,11 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </table>
 
 
-<!-- 
-NewPP limit report
-Parsed by mw1006
-CPU time usage: 0.731 seconds
-Real time usage: 0.967 seconds
-Preprocessor visited node count: 11147/1000000
-Preprocessor generated node count: 0/1500000
-Post‐expand include size: 144376/2097152 bytes
-Template argument size: 64267/2097152 bytes
-Highest expansion depth: 23/40
-Expensive parser function count: 3/500
-Lua time usage: 0.041/10.000 seconds
-Lua memory usage: 1.33 MB/50 MB
--->
-
-<!-- 
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  697.219      1 - -total
- 17.13%  119.424     12 - Template:Fix
- 15.46%  107.768      1 - Template:スポーツ
- 14.75%  102.839      1 - Template:Infobox
- 14.11%   98.366     10 - Template:要出典
- 13.70%   95.499     13 - Template:DMC/core
- 13.61%   94.880      3 - Template:Rellink
- 13.57%   94.623      1 - Template:出典の明記
- 13.42%   93.550      1 - Template:Seealso
- 12.70%   88.545      5 - Template:See/core
--->
-
-<!-- Saved in parser cache with key jawiki:pcache:idhash:14925-0!*!0!!ja!4!* and timestamp 20150711235412 and revision id 56008383
+<!-- Saved in parser cache with key jawiki:pcache:idhash:14925-0!*!0!!ja!4!* and timestamp 20160813032447 and revision id 60286366
  -->
 <noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=テニス&amp;oldid=56008383">https://ja.wikipedia.org/w/index.php?title=テニス&amp;oldid=56008383</a>」から取得					</div>
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E3%83%86%E3%83%8B%E3%82%B9" title="Category:テニス">テニス</a></li><li><a href="/wiki/Category:%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E7%AB%B6%E6%8A%80" title="Category:オリンピック競技">オリンピック競技</a></li><li><a href="/wiki/Category:%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E7%AB%B6%E6%8A%80" title="Category:パラリンピック競技">パラリンピック競技</a></li><li><a href="/wiki/Category:%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="Category:ラケットスポーツ">ラケットスポーツ</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2011%E5%B9%B410%E6%9C%88" title="Category:出典を必要とする記述のある記事/2011年10月">出典を必要とする記述のある記事/2011年10月</a></li><li><a href="/wiki/Category:%E6%A4%9C%E8%A8%BC%E3%81%8C%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2011%E5%B9%B4" title="Category:検証が求められている記述のある記事/2011年">検証が求められている記述のある記事/2011年</a></li><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B/2011%E5%B9%B410%E6%9C%88" title="Category:出典を必要とする記事/2011年10月">出典を必要とする記事/2011年10月</a></li><li><a href="/wiki/Category:%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%91%E3%81%AE%E7%AF%80%E3%81%AE%E3%81%82%E3%82%8B%E9%A0%85%E7%9B%AE" title="Category:書きかけの節のある項目">書きかけの節のある項目</a></li></ul></div></div>				<div class="visualClear"></div>
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=テニス&amp;oldid=60286366">https://ja.wikipedia.org/w/index.php?title=テニス&amp;oldid=60286366</a>」から取得					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E3%83%86%E3%83%8B%E3%82%B9" title="Category:テニス">テニス</a></li><li><a href="/wiki/Category:%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E7%AB%B6%E6%8A%80" title="Category:オリンピック競技">オリンピック競技</a></li><li><a href="/wiki/Category:%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E7%AB%B6%E6%8A%80" title="Category:パラリンピック競技">パラリンピック競技</a></li><li><a href="/wiki/Category:%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="Category:ラケットスポーツ">ラケットスポーツ</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2011%E5%B9%B410%E6%9C%88" title="Category:出典を必要とする記述のある記事/2011年10月">出典を必要とする記述のある記事/2011年10月</a></li><li><a href="/wiki/Category:%E6%A4%9C%E8%A8%BC%E3%81%8C%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2011%E5%B9%B4" title="Category:検証が求められている記述のある記事/2011年">検証が求められている記述のある記事/2011年</a></li><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B/2011%E5%B9%B410%E6%9C%88" title="Category:出典を必要とする記事/2011年10月">出典を必要とする記事/2011年10月</a></li><li><a href="/wiki/Category:%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%91%E3%81%AE%E7%AF%80%E3%81%AE%E3%81%82%E3%82%8B%E9%A0%85%E7%9B%AE" title="Category:書きかけの節のある項目">書きかけの節のある項目</a></li><li><a href="/wiki/Category:LCCN%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:LCCN識別子が指定されている記事">LCCN識別子が指定されている記事</a></li><li><a href="/wiki/Category:GND%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:GND識別子が指定されている記事">GND識別子が指定されている記事</a></li><li><a href="/wiki/Category:BNF%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:BNF識別子が指定されている記事">BNF識別子が指定されている記事</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
@@ -1393,7 +1295,7 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">個人用ツール</h3>
 						<ul>
-							<li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%86%E3%83%8B%E3%82%B9&amp;type=signup" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%86%E3%83%8B%E3%82%B9" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%83%86%E3%83%8B%E3%82%B9" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%86%E3%83%8B%E3%82%B9" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
@@ -1438,7 +1340,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 						<form action="/w/index.php" id="searchform">
 							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput" /><input type="hidden" value="特別:検索" name="title" /><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton" />							</div>
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
 						</form>
 					</div>
 									</div>
@@ -1466,7 +1368,15 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%83%86%E3%83%8B%E3%82%B9">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%83%86%E3%83%8B%E3%82%B9&amp;oldid=56008383&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%83%86%E3%83%8B%E3%82%B9">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%83%86%E3%83%8B%E3%82%B9&amp;returnto=%E3%83%86%E3%83%8B%E3%82%B9&amp;oldid=60286366&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>他のプロジェクト</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tennis" hreflang="en">コモンズ</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://ja.wikibooks.org/wiki/%E3%83%86%E3%83%8B%E3%82%B9" hreflang="ja">ウィキブックス</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
@@ -1474,7 +1384,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%83%86%E3%83%8B%E3%82%B9" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%83%86%E3%83%8B%E3%82%B9" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;oldid=56008383" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q847" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">Wikidata項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%83%86%E3%83%8B%E3%82%B9&amp;id=56008383" title="このページの引用方法">このページを引用</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%83%86%E3%83%8B%E3%82%B9" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%83%86%E3%83%8B%E3%82%B9" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;oldid=60286366" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q847" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%83%86%E3%83%8B%E3%82%B9&amp;id=60286366" title="このページの引用方法">このページを引用</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
@@ -1482,43 +1392,92 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Tennis" title="アフリカーンス語: Tennis" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="//als.wikipedia.org/wiki/Tennis" title="アレマン語: Tennis" lang="als" hreflang="als">Alemannisch</a></li><li class="interlanguage-link interwiki-an"><a href="//an.wikipedia.org/wiki/Tenis" title="アラゴン語: Tenis" lang="an" hreflang="an">Aragonés</a></li><li class="interlanguage-link interwiki-ang"><a href="//ang.wikipedia.org/wiki/Tennis" title="古英語: Tennis" lang="ang" hreflang="ang">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B6%D8%B1%D8%A8" title="アラビア語: كرة المضرب" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-arz"><a href="//arz.wikipedia.org/wiki/%D8%AA%D9%86%D8%B3" title="エジプト・アラビア語: تنس" lang="arz" hreflang="arz">مصرى</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Tennis" title="アゼルバイジャン語: Tennis" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="バシキール語: Теннис" lang="ba" hreflang="ba">Башҡортса</a></li><li class="interlanguage-link interwiki-bar"><a href="//bar.wikipedia.org/wiki/Tennis" title="バイエルン・オーストリア語: Tennis" lang="bar" hreflang="bar">Boarisch</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/Ten%C4%97sos" title="サモギティア語: Tenėsos" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BD%D1%96%D1%81" title="ベラルーシ語: Тэніс" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BD%D1%96%D1%81" title="ベラルーシ語（タラシケヴィツァ）: Тэніс" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%B8%D1%81" title="ブルガリア語: Тенис" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%B8" title="ベンガル語: টেনিস" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bo"><a href="//bo.wikipedia.org/wiki/%E0%BD%8F%E0%BD%93%E0%BC%8B%E0%BD%93%E0%BD%BA%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BD%BC%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BC%8D" title="チベット語: ཏན་ནེ་སི་སྤོ་ལོ།" lang="bo" hreflang="bo">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Tennis" title="ブルトン語: Tennis" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="//bs.wikipedia.org/wiki/Tenis" title="ボスニア語: Tenis" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Tennis" title="カタロニア語: Tennis" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-ce"><a href="//ce.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="チェチェン語: Теннис" lang="ce" hreflang="ce">Нохчийн</a></li><li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%D8%AA%DB%8E%D9%86%DB%8C%D8%B3" title="クルド語(ソラニー): تێنیس" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Tenis" title="チェコ語: Tenis" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="チュヴァシ語: Теннис" lang="cv" hreflang="cv">Чӑвашла</a></li><li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Tenis" title="ウェールズ語: Tenis" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Tennis" title="デンマーク語: Tennis" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Tennis" title="ドイツ語: Tennis" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CE%B9%CF%83%CF%86%CE%B1%CE%AF%CF%81%CE%B9%CF%83%CE%B7" title="ギリシャ語: Αντισφαίριση" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Tennis" title="英語: Tennis" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-eo badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="//eo.wikipedia.org/wiki/Teniso" title="エスペラント語: Teniso" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Tenis" title="スペイン語: Tenis" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Tennis" title="エストニア語: Tennis" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Tenis" title="バスク語: Tenis" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-ext"><a href="//ext.wikipedia.org/wiki/Tenis" title="エストレマドゥーラ語: Tenis" lang="ext" hreflang="ext">Estremeñu</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AA%D9%86%DB%8C%D8%B3" title="ペルシア語: تنیس" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Tennis" title="フィンランド語: Tennis" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="//fiu-vro.wikipedia.org/wiki/Tennis" title="ヴォロ語: Tennis" lang="fiu-vro" hreflang="fiu-vro">Võro</a></li><li class="interlanguage-link interwiki-fo"><a href="//fo.wikipedia.org/wiki/Tennis" title="フェロー語: Tennis" lang="fo" hreflang="fo">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Tennis" title="フランス語: Tennis" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="//fy.wikipedia.org/wiki/Tennis" title="西フリジア語: Tennis" lang="fy" hreflang="fy">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Lead%C3%B3g" title="アイルランド語: Leadóg" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-gan"><a href="//gan.wikipedia.org/wiki/%E7%B6%B2%E7%90%83" title="贛語: 網球" lang="gan" hreflang="gan">贛語</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Tenis" title="ガリシア語: Tenis" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="//hak.wikipedia.org/wiki/Mi%C3%B3ng-khi%C3%B9" title="客家語: Mióng-khiù" lang="hak" hreflang="hak">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%98%D7%A0%D7%99%D7%A1" title="ヘブライ語: טניס" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8" title="ヒンディー語: टेनिस" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hif"><a href="//hif.wikipedia.org/wiki/Tennis" title="フィジー・ヒンディー語: Tennis" lang="hif" hreflang="hif">Fiji Hindi</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Tenis" title="クロアチア語: Tenis" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-ht"><a href="//ht.wikipedia.org/wiki/Tenis" title="ハイチ語: Tenis" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Tenisz" title="ハンガリー語: Tenisz" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B9%D5%A5%D5%B6%D5%AB%D5%BD" title="アルメニア語: Թենիս" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Tenis" title="インドネシア語: Tenis" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="//ie.wikipedia.org/wiki/T%C3%A9nnis" title="インターリング: Ténnis" lang="ie" hreflang="ie">Interlingue</a></li><li class="interlanguage-link interwiki-ilo"><a href="//ilo.wikipedia.org/wiki/Tenis" title="イロカノ語: Tenis" lang="ilo" hreflang="ilo">Ilokano</a></li><li class="interlanguage-link interwiki-io"><a href="//io.wikipedia.org/wiki/Teniso" title="イド語: Teniso" lang="io" hreflang="io">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Tennis" title="アイスランド語: Tennis" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Tennis" title="イタリア語: Tennis" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="//jv.wikipedia.org/wiki/T%C3%A8nes" title="ジャワ語: Tènes" lang="jv" hreflang="jv">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A9%E1%83%9D%E1%83%92%E1%83%91%E1%83%A3%E1%83%A0%E1%83%97%E1%83%98" title="グルジア語: ჩოგბურთი" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="カザフ語: Теннис" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%9F%E0%B3%86%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B8%E0%B3%8D" title="カンナダ語: ಟೆನ್ನಿಸ್" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%85%8C%EB%8B%88%EC%8A%A4" title="韓国語: 테니스" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-ku"><a href="//ku.wikipedia.org/wiki/Ten%C3%AEs" title="クルド語: Tenîs" lang="ku" hreflang="ku">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="キルギス語: Теннис" lang="ky" hreflang="ky">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Teniludus" title="ラテン語: Teniludus" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/Tennis" title="ルクセンブルク語: Tennis" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lez"><a href="//lez.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="レズギ語: Теннис" lang="lez" hreflang="lez">Лезги</a></li><li class="interlanguage-link interwiki-li"><a href="//li.wikipedia.org/wiki/Tennis" title="リンブルフ語: Tennis" lang="li" hreflang="li">Limburgs</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Tenisas" title="リトアニア語: Tenisas" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Teniss" title="ラトビア語: Teniss" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%B8%D1%81" title="マケドニア語: Тенис" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%80%E0%B4%B8%E0%B5%8D" title="マラヤーラム語: ടെന്നീസ്" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="モンゴル語: Теннис" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8" title="マラーティー語: टेनिस" lang="mr" hreflang="mr">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Tenis" title="マレー語: Tenis" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="//mwl.wikipedia.org/wiki/T%C3%A9nis" title="ミランダ語: Ténis" lang="mwl" hreflang="mwl">Mirandés</a></li><li class="interlanguage-link interwiki-nds"><a href="//nds.wikipedia.org/wiki/Tennis" title="低地ドイツ語: Tennis" lang="nds" hreflang="nds">Plattdüütsch</a></li><li class="interlanguage-link interwiki-new"><a href="//new.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8" title="ネワール語: टेनिस" lang="new" hreflang="new">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Tennis" title="オランダ語: Tennis" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Tennis" title="ノルウェー語(ニーノシュク): Tennis" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Tennis" title="ノルウェー語: Tennis" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nso"><a href="//nso.wikipedia.org/wiki/Thenisi" title="北部ソト語: Thenisi" lang="nso" hreflang="nso">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Tennis" title="オック語: Tennis" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="//pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%87%E0%A8%82%E0%A8%A6-%E0%A8%9B%E0%A8%BF%E0%A9%B1%E0%A8%95%E0%A8%BE" title="パンジャブ語: ਗੇਂਦ-ਛਿੱਕਾ" lang="pa" hreflang="pa">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Tennis" title="ピカルディ語: Tennis" lang="pcd" hreflang="pcd">Picard</a></li><li class="interlanguage-link interwiki-pdc"><a href="//pdc.wikipedia.org/wiki/Tennis" title="ペンシルベニア・ドイツ語: Tennis" lang="pdc" hreflang="pdc">Deitsch</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Tenis" title="ポーランド語: Tenis" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%B9%DB%8C%D9%86%D8%B3" title="Western Punjabi: ٹینس" lang="pnb" hreflang="pnb">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/T%C3%A9nis" title="ポルトガル語: Ténis" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-rm"><a href="//rm.wikipedia.org/wiki/Tennis" title="ロマンシュ語: Tennis" lang="rm" hreflang="rm">Rumantsch</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Tenis_de_c%C3%A2mp" title="ルーマニア語: Tenis de câmp" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="ロシア語: Теннис" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D1%96%D1%81" title="ルシン語: Теніс" lang="rue" hreflang="rue">Русиньскый</a></li><li class="interlanguage-link interwiki-rw"><a href="//rw.wikipedia.org/wiki/Tenisi" title="ルワンダ語: Tenisi" lang="rw" hreflang="rw">Kinyarwanda</a></li><li class="interlanguage-link interwiki-sa"><a href="//sa.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%8D-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A1%E0%A4%BE" title="サンスクリット語: टेनिस्-क्रीडा" lang="sa" hreflang="sa">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="ヤクート語: Теннис" lang="sah" hreflang="sah">Саха тыла</a></li><li class="interlanguage-link interwiki-sc"><a href="//sc.wikipedia.org/wiki/Tennis" title="サルデーニャ語: Tennis" lang="sc" hreflang="sc">Sardu</a></li><li class="interlanguage-link interwiki-scn"><a href="//scn.wikipedia.org/wiki/Tennis" title="シチリア語: Tennis" lang="scn" hreflang="scn">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Tennis" title="スコットランド語: Tennis" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Tenis" title="セルボ・クロアチア語: Tenis" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B6%A7%E0%B7%99%E0%B6%B1%E0%B7%92%E0%B7%83%E0%B7%8A" title="シンハラ語: ටෙනිස්" lang="si" hreflang="si">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Tennis" title="シンプル英語: Tennis" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Tenis" title="スロバキア語: Tenis" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Tenis" title="スロベニア語: Tenis" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sm"><a href="//sm.wikipedia.org/wiki/Tenisi" title="サモア語: Tenisi" lang="sm" hreflang="sm">Gagana Samoa</a></li><li class="interlanguage-link interwiki-so"><a href="//so.wikipedia.org/wiki/Ciyaarta_Teeniska" title="ソマリ語: Ciyaarta Teeniska" lang="so" hreflang="so">Soomaaliga</a></li><li class="interlanguage-link interwiki-sq"><a href="//sq.wikipedia.org/wiki/Tenisi" title="アルバニア語: Tenisi" lang="sq" hreflang="sq">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%B8%D1%81" title="セルビア語: Тенис" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="//su.wikipedia.org/wiki/T%C3%A9nis" title="スンダ語: Ténis" lang="su" hreflang="su">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="//sv.wikipedia.org/wiki/Tennis" title="スウェーデン語: Tennis" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/Tennis" title="スワヒリ語: Tennis" lang="sw" hreflang="sw">Kiswahili</a></li><li class="interlanguage-link interwiki-szl"><a href="//szl.wikipedia.org/wiki/Ty%C5%84is_%C5%BAymny" title="シレジア語: Tyńis źymny" lang="szl" hreflang="szl">Ślůnski</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AF%81" title="タミル語: டென்னிசு" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%9F%E0%B1%86%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BF%E0%B0%B8%E0%B1%8D" title="テルグ語: టెన్నిస్" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="//tg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="タジク語: Теннис" lang="tg" hreflang="tg">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%97%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%AA" title="タイ語: เทนนิส" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tk"><a href="//tk.wikipedia.org/wiki/Tenis" title="トルクメン語: Tenis" lang="tk" hreflang="tk">Türkmençe</a></li><li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/Tenis" title="タガログ語: Tenis" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Tenis" title="トルコ語: Tenis" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="タタール語: Теннис" lang="tt" hreflang="tt">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="//uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D1%96%D1%81" title="ウクライナ語: Теніс" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D9%B9%DB%8C%D9%86%D8%B3" title="ウルドゥー語: ٹینس" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="//uz.wikipedia.org/wiki/Tennis" title="ウズベク語: Tennis" lang="uz" hreflang="uz">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Qu%E1%BA%A7n_v%E1%BB%A3t" title="ベトナム語: Quần vợt" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="//vls.wikipedia.org/wiki/Tennis" title="西フラマン語: Tennis" lang="vls" hreflang="vls">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="//war.wikipedia.org/wiki/Tenis" title="ワライ語: Tenis" lang="war" hreflang="war">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%98%D7%A2%D7%A0%D7%99%D7%A1" title="イディッシュ語: טעניס" lang="yi" hreflang="yi">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="//yo.wikipedia.org/wiki/T%E1%BA%B9%CC%81n%C3%ACs" title="ヨルバ語: Tẹ́nìs" lang="yo" hreflang="yo">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BD%91%E7%90%83" title="中国語: 网球" lang="zh" hreflang="zh">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/The-n%C3%AD-suh" title="閩南語: The-ní-suh" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E7%B6%B2%E7%90%83" title="広東語: 網球" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
-				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q847#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Tennis" title="アフリカーンス語: Tennis" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Tennis" title="アレマン語: Tennis" lang="als" hreflang="als">Alemannisch</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Tenis" title="アラゴン語: Tenis" lang="an" hreflang="an">Aragonés</a></li><li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Tennis" title="古英語: Tennis" lang="ang" hreflang="ang">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B6%D8%B1%D8%A8" title="アラビア語: كرة المضرب" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D9%86%D8%B3" title="エジプト・アラビア語: تنس" lang="arz" hreflang="arz">مصرى</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Tenis" title="アストゥリアス語: Tenis" lang="ast" hreflang="ast">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Tennis" title="アゼルバイジャン語: Tennis" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="バシキール語: Теннис" lang="ba" hreflang="ba">Башҡортса</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Tennis" title="バイエルン・オーストリア語: Tennis" lang="bar" hreflang="bar">Boarisch</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Ten%C4%97sos" title="サモギティア語: Tenėsos" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BD%D1%96%D1%81" title="ベラルーシ語: Тэніс" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BD%D1%96%D1%81" title="ベラルーシ語（タラシケヴィツァ）: Тэніс" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%B8%D1%81" title="ブルガリア語: Тенис" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%B8" title="ベンガル語: টেনিস" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%8F%E0%BD%93%E0%BC%8B%E0%BD%93%E0%BD%BA%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BD%BC%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BC%8D" title="チベット語: ཏན་ནེ་སི་སྤོ་ལོ།" lang="bo" hreflang="bo">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Tennis" title="ブルトン語: Tennis" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="https://bs.wikipedia.org/wiki/Tenis" title="ボスニア語: Tenis" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tennis" title="カタロニア語: Tennis" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="チェチェン語: Теннис" lang="ce" hreflang="ce">Нохчийн</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AA%DB%8E%D9%86%DB%8C%D8%B3" title="クルド語(ソラニー): تێنیس" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tenis" title="チェコ語: Tenis" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="チュヴァシ語: Теннис" lang="cv" hreflang="cv">Чӑвашла</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Tenis" title="ウェールズ語: Tenis" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tennis" title="デンマーク語: Tennis" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tennis" title="ドイツ語: Tennis" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Tenis" title="ザザキ語: Tenis" lang="diq" hreflang="diq">Zazaki</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CE%B9%CF%83%CF%86%CE%B1%CE%AF%CF%81%CE%B9%CF%83%CE%B7" title="ギリシャ語: Αντισφαίριση" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Tennis" title="英語: Tennis" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Teniso" title="エスペラント語: Teniso" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Tenis" title="スペイン語: Tenis" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tennis" title="エストニア語: Tennis" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Tenis" title="バスク語: Tenis" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Tenis" title="エストレマドゥーラ語: Tenis" lang="ext" hreflang="ext">Estremeñu</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%86%DB%8C%D8%B3" title="ペルシア語: تنیس" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tennis" title="フィンランド語: Tennis" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Tennis" title="ヴォロ語: Tennis" lang="fiu-vro" hreflang="fiu-vro">Võro</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Tennis" title="フェロー語: Tennis" lang="fo" hreflang="fo">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tennis" title="フランス語: Tennis" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Tennis" title="西フリジア語: Tennis" lang="fy" hreflang="fy">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Lead%C3%B3g" title="アイルランド語: Leadóg" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E7%B6%B2%E7%90%83" title="贛語: 網球" lang="gan" hreflang="gan">贛語</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Tenis" title="ガリシア語: Tenis" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Mi%C3%B3ng-khi%C3%B9" title="客家語: Mióng-khiù" lang="hak" hreflang="hak">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%A0%D7%99%D7%A1" title="ヘブライ語: טניס" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8" title="ヒンディー語: टेनिस" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Tennis" title="フィジー・ヒンディー語: Tennis" lang="hif" hreflang="hif">Fiji Hindi</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Tenis" title="クロアチア語: Tenis" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Tenis" title="ハイチ語: Tenis" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-hu badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="https://hu.wikipedia.org/wiki/Tenisz" title="ハンガリー語: Tenisz" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B9%D5%A5%D5%B6%D5%AB%D5%BD" title="アルメニア語: Թենիս" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tenis" title="インドネシア語: Tenis" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/T%C3%A9nnis" title="インターリング: Ténnis" lang="ie" hreflang="ie">Interlingue</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Tenis" title="イロカノ語: Tenis" lang="ilo" hreflang="ilo">Ilokano</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Teniso" title="イド語: Teniso" lang="io" hreflang="io">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Tennis" title="アイスランド語: Tennis" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Tennis" title="イタリア語: Tennis" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/T%C3%A8nes" title="ジャワ語: Tènes" lang="jv" hreflang="jv">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A9%E1%83%9D%E1%83%92%E1%83%91%E1%83%A3%E1%83%A0%E1%83%97%E1%83%98" title="ジョージア語: ჩოგბურთი" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Tennis" title="カラカルパク語: Tennis" lang="kaa" hreflang="kaa">Qaraqalpaqsha</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="カザフ語: Теннис" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%9F%E0%B3%86%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B8%E0%B3%8D" title="カンナダ語: ಟೆನ್ನಿಸ್" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%85%8C%EB%8B%88%EC%8A%A4" title="韓国語: 테니스" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Ten%C3%AEs" title="クルド語: Tenîs" lang="ku" hreflang="ku">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="キルギス語: Теннис" lang="ky" hreflang="ky">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Teniludus" title="ラテン語: Teniludus" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Tennis" title="ルクセンブルク語: Tennis" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="レズギ語: Теннис" lang="lez" hreflang="lez">Лезги</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Tennis" title="リンブルフ語: Tennis" lang="li" hreflang="li">Limburgs</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Tenisas" title="リトアニア語: Tenisas" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Teniss" title="ラトビア語: Teniss" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%B8%D1%81" title="マケドニア語: Тенис" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%80%E0%B4%B8%E0%B5%8D" title="マラヤーラム語: ടെന്നീസ്" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="モンゴル語: Теннис" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8" title="マラーティー語: टेनिस" lang="mr" hreflang="mr">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Tenis" title="マレー語: Tenis" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/T%C3%A9nis" title="ミランダ語: Ténis" lang="mwl" hreflang="mwl">Mirandés</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Tennis" title="低地ドイツ語: Tennis" lang="nds" hreflang="nds">Plattdüütsch</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8" title="ネワール語: टेनिस" lang="new" hreflang="new">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tennis" title="オランダ語: Tennis" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Tennis" title="ノルウェー語(ニーノシュク): Tennis" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tennis" title="ノルウェー語: Tennis" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Thenisi" title="北部ソト語: Thenisi" lang="nso" hreflang="nso">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Tennis" title="オック語: Tennis" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%87%E0%A8%82%E0%A8%A6-%E0%A8%9B%E0%A8%BF%E0%A9%B1%E0%A8%95%E0%A8%BE" title="パンジャブ語: ਗੇਂਦ-ਛਿੱਕਾ" lang="pa" hreflang="pa">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Tennis" title="ピカルディ語: Tennis" lang="pcd" hreflang="pcd">Picard</a></li><li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Tennis" title="ペンシルベニア・ドイツ語: Tennis" lang="pdc" hreflang="pdc">Deitsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tenis" title="ポーランド語: Tenis" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%B9%DB%8C%D9%86%D8%B3" title="Western Punjabi: ٹینس" lang="pnb" hreflang="pnb">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/T%C3%A9nis" title="ポルトガル語: Ténis" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Tennis" title="ロマンシュ語: Tennis" lang="rm" hreflang="rm">Rumantsch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Tenis" title="ルーマニア語: Tenis" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="ロシア語: Теннис" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D1%96%D1%81" title="ルシン語: Теніс" lang="rue" hreflang="rue">Русиньскый</a></li><li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Tenisi" title="ルワンダ語: Tenisi" lang="rw" hreflang="rw">Kinyarwanda</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%8D-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A1%E0%A4%BE" title="サンスクリット語: टेनिस्-क्रीडा" lang="sa" hreflang="sa">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="ヤクート語: Теннис" lang="sah" hreflang="sah">Саха тыла</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Tennis" title="サルデーニャ語: Tennis" lang="sc" hreflang="sc">Sardu</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Tennis" title="シチリア語: Tennis" lang="scn" hreflang="scn">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Tennis" title="スコットランド語: Tennis" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Tenis" title="セルボ・クロアチア語: Tenis" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%A7%E0%B7%99%E0%B6%B1%E0%B7%92%E0%B7%83%E0%B7%8A" title="シンハラ語: ටෙනිස්" lang="si" hreflang="si">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Tennis" title="シンプル英語: Tennis" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Tenis" title="スロバキア語: Tenis" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Tenis" title="スロベニア語: Tenis" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Tenisi" title="サモア語: Tenisi" lang="sm" hreflang="sm">Gagana Samoa</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Ciyaarta_Teeniska" title="ソマリ語: Ciyaarta Teeniska" lang="so" hreflang="so">Soomaaliga</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Tenisi" title="アルバニア語: Tenisi" lang="sq" hreflang="sq">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%B8%D1%81" title="セルビア語: Тенис" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/T%C3%A9nis" title="スンダ語: Ténis" lang="su" hreflang="su">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="https://sv.wikipedia.org/wiki/Tennis" title="スウェーデン語: Tennis" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Tennis" title="スワヒリ語: Tennis" lang="sw" hreflang="sw">Kiswahili</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Ty%C5%84is_%C5%BAymny" title="シレジア語: Tyńis źymny" lang="szl" hreflang="szl">Ślůnski</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AF%81" title="タミル語: டென்னிசு" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tcy"><a href="https://tcy.wikipedia.org/wiki/%E0%B2%9F%E0%B3%86%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B8%E0%B3%8D" title="トゥル語: ಟೆನ್ನಿಸ್" lang="tcy" hreflang="tcy">ತುಳು</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%9F%E0%B1%86%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BF%E0%B0%B8%E0%B1%81" title="テルグ語: టెన్నిసు" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="タジク語: Теннис" lang="tg" hreflang="tg">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%97%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%AA" title="タイ語: เทนนิส" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Tenis" title="トルクメン語: Tenis" lang="tk" hreflang="tk">Türkmençe</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Tennis" title="タガログ語: Tennis" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Tenis" title="トルコ語: Tenis" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81" title="タタール語: Теннис" lang="tt" hreflang="tt">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D1%96%D1%81" title="ウクライナ語: Теніс" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%B9%DB%8C%D9%86%D8%B3" title="ウルドゥー語: ٹینس" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Tennis" title="ウズベク語: Tennis" lang="uz" hreflang="uz">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_v%E1%BB%A3t" title="ベトナム語: Quần vợt" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Tennis" title="西フラマン語: Tennis" lang="vls" hreflang="vls">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Tenis" title="ワライ語: Tenis" lang="war" hreflang="war">Winaray</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A9%E1%83%9D%E1%83%92%E1%83%90%E1%83%9C%E1%83%91%E1%83%A3%E1%83%A0%E1%83%97%E1%83%98" title="メグレル語: ჩოგანბურთი" lang="xmf" hreflang="xmf">მარგალური</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%98%D7%A2%D7%A0%D7%99%D7%A1" title="イディッシュ語: טעניס" lang="yi" hreflang="yi">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/T%E1%BA%B9%CC%81n%C3%ACs" title="ヨルバ語: Tẹ́nìs" lang="yo" hreflang="yo">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BD%91%E7%90%83" title="中国語: 网球" lang="zh" hreflang="zh">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/The-n%C3%AD-suh" title="閩南語: The-ní-suh" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B6%B2%E7%90%83" title="広東語: 網球" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q847#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> 最終更新 2015年6月28日 (日) 14:15 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-lastmod"> 最終更新 2016年7月1日 (金) 00:08 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
 											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
 									</ul>
 							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" title="wikimedia:プライバシー・ポリシー">プライバシー・ポリシー</a></li>
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
 											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
 											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
 											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
 											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 											<li id="footer-copyrightico">
-							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
 											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="//ja.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//ja.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //ja.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
-mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
-<script>if(window.mw){
-mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
-}</script>
-<script>if(window.mw){
-document.write("\u003Cscript src=\"//ja.wikipedia.org/w/load.php?debug=false\u0026amp;lang=ja\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
-}</script>
-<script>if(window.mw){
-mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1048"});
-}</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.switcher","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.compactlinks","ext.uls.interlanguage","ext.centralNotice.startUp","ext.centralNotice.geoIP"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.459",
+            "walltime": "0.604",
+            "ppvisitednodes": {
+                "value": 8264,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 139579,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 25208,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 23,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 3,
+                "limit": 500
+            },
+            "timingprofile": [
+                "100.00%  425.425      1 -total",
+                " 18.67%   79.431     12 Template:Fix",
+                " 17.84%   75.887      1 Template:出典の明記",
+                " 15.16%   64.514     10 Template:要出典",
+                " 14.66%   62.349     13 Template:DMC/core",
+                " 13.50%   57.426      2 Template:Ambox",
+                "  9.25%   39.368      3 Template:Sister",
+                "  8.98%   38.184      1 Template:Commons\u0026cat",
+                "  8.70%   37.015      1 Template:Reflist",
+                "  8.31%   35.358      3 Template:Side_box"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.055",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2420114,
+                "limit": 52428800
+            }
+        },
+        "EntityAccessCount": 1,
+        "cachereport": {
+            "origin": "mw1210",
+            "timestamp": "20160813032448",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":737,"wgHostname":"mw1210"});});</script>
 	</body>
 </html>

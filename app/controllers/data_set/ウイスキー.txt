@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>ウイスキー - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ウイスキー","wgTitle":"ウイスキー","wgCurRevisionId":60350637,"wgRevisionId":60350637,"wgArticleId":22898,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする節のある記事/2010年1月-6月","無効な出典が含まれている記事/2014年","ウイスキー","蒸留酒"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"ウイスキー","wgRelevantArticleId":22898,"wgRequestId":"V66VRApAAEUAAEsnlC4AAACX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q281","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);mw.loader.state({"ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.legacy.shared":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","site.styles":"ready","noscript":"ready","user.cssprefs":"ready","user.styles":"ready"});});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%2Cswitcher%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ウイスキー rootpage-ウイスキー skin-vector action-view feature-page-action-bar-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">ウイスキー</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Scotch_Whisky_(aka).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Scotch_Whisky_%28aka%29.jpg/220px-Scotch_Whisky_%28aka%29.jpg" width="220" height="335" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Scotch_Whisky_%28aka%29.jpg/330px-Scotch_Whisky_%28aka%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Scotch_Whisky_%28aka%29.jpg/440px-Scotch_Whisky_%28aka%29.jpg 2x" data-file-width="985" data-file-height="1500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Scotch_Whisky_(aka).jpg" class="internal" title="拡大"></a></div>
+<a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%81%E3%82%A6%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%BC" class="mw-redirect" title="スコッチウィスキー">スコッチウィスキー</a></div>
+</div>
+</div>
+<table class="infobox nowrap" style="width:22em;">
+<caption itemprop="name" class="&quot;" style="white-space:normal; padding-bottom:0.15em;">ウイスキー（Alcoholic beverage, distilled, whiskey, 86 proof）</caption>
+<tr>
+<th scope="col" colspan="2" class="" style="text-align:center;">100 gあたりの栄養価</th>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/%E7%94%9F%E7%90%86%E7%9A%84%E7%86%B1%E9%87%8F" title="生理的熱量">エネルギー</a></th>
+<td class="" style="" itemprop="">1,046&#160;kJ (250&#160;kcal)</td>
+</tr>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop=""></td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/%E7%82%AD%E6%B0%B4%E5%8C%96%E7%89%A9" title="炭水化物">炭水化物</a></b></div>
+</th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="position:relative;left:-0.65em;">0.1 g</div>
+</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E7%B3%96%E5%88%86" class="mw-redirect" title="糖分">糖分</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">0.1 g</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E9%A3%9F%E7%89%A9%E7%B9%8A%E7%B6%AD" title="食物繊維">食物繊維</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">0 g</td>
+</tr>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop=""></td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/%E8%84%82%E8%82%AA" title="脂肪">脂肪</a></b></div>
+</th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="position:relative;left:-0.65em;">0 g</div>
+</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E9%A3%BD%E5%92%8C%E8%84%82%E8%82%AA%E9%85%B8" title="飽和脂肪酸">飽和脂肪酸</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">0 g</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E4%B8%8D%E9%A3%BD%E5%92%8C%E8%84%82%E8%82%AA%E9%85%B8" title="不飽和脂肪酸">一価不飽和脂肪酸</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">0 g</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E5%A4%9A%E4%BE%A1%E4%B8%8D%E9%A3%BD%E5%92%8C%E8%84%82%E8%82%AA%E9%85%B8" title="多価不飽和脂肪酸">多価不飽和脂肪酸</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">0 g</td>
+</tr>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop=""></td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA" title="タンパク質">タンパク質</a></b></div>
+</th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="position:relative;left:-0.65em;">0 g</div>
+</td>
+</tr>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop=""></td>
+</tr>
+<tr>
+<th scope="col" colspan="2" class="" style="text-align:center; text-align:left;"><a href="/wiki/%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3" title="ビタミン">ビタミン</a></th>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3A" title="ビタミンA">ビタミンA</a>相当量</th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 μg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%81%E3%82%A2%E3%83%9F%E3%83%B3" title="チアミン">チアミン (B<span style="position:relative; top:0.35em;"><span style="font-size:smaller;">1</span></span>)</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(1%)</div>
+0.008 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%AA%E3%83%9C%E3%83%95%E3%83%A9%E3%83%93%E3%83%B3" title="リボフラビン">リボフラビン (B<span style="position:relative; top:0.35em;"><span style="font-size:smaller;">2</span></span>)</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0.001 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3" title="ナイアシン">ナイアシン (B<span style="position:relative; top:0.35em;"><span style="font-size:smaller;">3</span></span>)</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0.05 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.1em"><a href="/wiki/%E3%83%91%E3%83%B3%E3%83%88%E3%83%86%E3%83%B3%E9%85%B8" title="パントテン酸"><span class="wrap">パントテン酸 (B<span style="position:relative; top:0.35em;"><span style="font-size:smaller;">5</span></span>)</span></a></div>
+</th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3B6" title="ビタミンB6">ビタミンB<span style="position:relative; top:0.35em;"><span style="font-size:smaller;">6</span></span></a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E8%91%89%E9%85%B8" title="葉酸">葉酸 (B<span style="position:relative; top:0.35em;"><span style="font-size:smaller;">9</span></span>)</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 μg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%82%B7%E3%82%A2%E3%83%8E%E3%82%B3%E3%83%90%E3%83%A9%E3%83%9F%E3%83%B3" title="シアノコバラミン">ビタミンB<span style="position:relative; top:0.35em;"><span style="font-size:smaller;">12</span></span></a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 μg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C" title="ビタミンC">ビタミンC</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 mg</td>
+</tr>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop=""></td>
+</tr>
+<tr>
+<th scope="col" colspan="2" class="" style="text-align:center; text-align:left;"><a href="/wiki/%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB" title="ミネラル">ミネラル</a></th>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0#.E7.94.9F.E5.8C.96.E5.AD.A6" title="カルシウム">カルシウム</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E9%89%84#.E7.94.9F.E4.BD.93.E5.86.85.E3.81.A7.E3.81.AE.E5.88.A9.E7.94.A8" title="鉄">鉄分</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0.02 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A6%E3%83%A0#.E7.94.9F.E5.8C.96.E5.AD.A6" title="マグネシウム">マグネシウム</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3#.E4.BA.BA.E4.BD.93.E3.81.B8.E3.81.AE.E5.BD.B1.E9.9F.BF" title="マンガン">マンガン</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0.008 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%82%BB%E3%83%AC%E3%83%B3#.E7.94.9F.E4.BD.93.E5.86.85.E3.81.AE.E3.82.BB.E3.83.AC.E3.83.B3" title="セレン">セレン</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 μg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%AA%E3%83%B3#.E7.94.A8.E9.80.94" title="リン">リン</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+3 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0#.E7.94.A8.E9.80.94" title="カリウム">カリウム</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+1 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0" title="ナトリウム">ナトリウム</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0 mg</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E4%BA%9C%E9%89%9B#.E4.BA.BA.E4.BD.93.E3.81.AB.E3.81.8A.E3.81.91.E3.82.8B.E4.BA.9C.E9.89.9B" title="亜鉛">亜鉛</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">
+<div style="float:right">(0%)</div>
+0.02 mg</td>
+</tr>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop=""></td>
+</tr>
+<tr>
+<th scope="col" colspan="2" class="" style="text-align:center; text-align:left;">他の成分</th>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/%E6%B0%B4%E5%88%86" title="水分">水分</a></th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">63.9 g</td>
+</tr>
+<tr class="" itemprop="">
+<th scope="row" style="text-align:left; white-space:nowrap; padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.0em"><a href="/wiki/%E3%82%A8%E3%82%BF%E3%83%8E%E3%83%BC%E3%83%AB" title="エタノール"><span class="wrap">アルコール<span style="font-size:smaller;"><span style="font-weight:normal !important;">（エタノール）</span></span></span></a></div>
+</th>
+<td class="" style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;" itemprop="">36 g</td>
+</tr>
+<tr class="" itemprop="">
+<td colspan="2" class="" style="text-align:center;" itemprop="">
+<div class="plainlist" style="font-size:90%;background:#e0e0e0;padding:0.15em;line-height:1.25em;">
+<ul>
+<li>単位</li>
+<li>μg = <a href="/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0" class="mw-redirect" title="マイクログラム">マイクログラム</a>&#160;• mg = <a href="/wiki/%E3%83%9F%E3%83%AA%E3%82%B0%E3%83%A9%E3%83%A0" title="ミリグラム">ミリグラム</a></li>
+<li>IU = <a href="/wiki/%E5%9B%BD%E9%9A%9B%E5%8D%98%E4%BD%8D" title="国際単位">国際単位</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="wrap" style="text-align:center; font-size:90%;background:#e0e0e0;padding:0.3em;line-height:1.2em;font-weight:normal;">%はアメリカ合衆国における<br />
+成人<a href="/wiki/%E9%A3%9F%E7%94%9F%E6%B4%BB%E6%8C%87%E9%87%9D" title="食生活指針">栄養摂取目標</a><small>&#160;(<a href="https://en.wikipedia.org/wiki/Reference_Daily_Intake" class="extiw" title="en:Reference Daily Intake"><span lang="en" xml:lang="en">RDI</span></a>)&#160;</small>の割合。<br />
+<span class="nowrap"><span style="font-size:90%;">出典: <a rel="nofollow" class="external text" href="http://ndb.nal.usda.gov/ndb/search/list">USDA栄養データベース</a><span style="font-size:0.95em; font-weight:bold; color:#555">（英語）</span></span></span></td>
+</tr>
+</table>
+<p><b>ウイスキー</b>（<a href="/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E8%8B%B1%E8%AA%9E" title="イギリス英語">英</a>: <span lang="en-gb" xml:lang="en-gb">whisky</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[† 1]</a></sup>、<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%8B%B1%E8%AA%9E" title="アイルランド英語">愛</a>/<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%8B%B1%E8%AA%9E" title="アメリカ英語">米</a>: <span lang="en-us" xml:lang="en-us">whiskey</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[† 2]</a></sup>）は、<a href="/wiki/%E8%92%B8%E7%95%99%E9%85%92" title="蒸留酒">蒸留酒</a>の一つで、<a href="/wiki/%E3%82%AA%E3%82%AA%E3%83%A0%E3%82%AE" title="オオムギ">大麦</a>、<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AE" title="ライムギ">ライ麦</a>、<a href="/wiki/%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7" title="トウモロコシ">トウモロコシ</a>などの<a href="/wiki/%E7%A9%80%E7%89%A9" title="穀物">穀物</a>を<a href="/wiki/%E9%BA%A6%E8%8A%BD" title="麦芽">麦芽</a>の<a href="/wiki/%E9%85%B5%E7%B4%A0" title="酵素">酵素</a>で<a href="/wiki/%E7%B3%96%E5%8C%96" title="糖化">糖化</a>し、これを<a href="/wiki/%E7%99%BA%E9%85%B5" title="発酵">発酵</a>させ<a href="/wiki/%E8%92%B8%E7%95%99" title="蒸留">蒸留</a>したものである。</p>
+<p>日本語では<b>ウィスキー</b>とも表記されるほか、商品名においては<b>ウヰスキー</b>または<b>ウ井スキー</b>も用いられる。なお、酒税法上の表記は「ウイスキー」であり（酒税法3条5号ハ）、国税庁も「ウイスキー」の表記を用いている<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup>。</p>
+<p>なお<a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%81%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="スコッチ・ウイスキー">スコッチ・ウイスキー</a>は whisky、<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アイリッシュ・ウイスキー">アイリッシュ・ウイスキー</a>は whisk<b>e</b>y と表記される<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.90.8D.E7.A7.B0.E3.81.AE.E8.B5.B7.E6.BA.90"><span class="tocnumber">1</span> <span class="toctext">名称の起源</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.AE.9A.E7.BE.A9"><span class="tocnumber">2</span> <span class="toctext">定義</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E6.97.A5.E6.9C.AC"><span class="tocnumber">2.1</span> <span class="toctext">日本</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E6.AC.A7.E5.B7.9E.E9.80.A3.E5.90.88"><span class="tocnumber">2.2</span> <span class="toctext">欧州連合</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E3.82.A2.E3.83.A1.E3.83.AA.E3.82.AB.E5.90.88.E8.A1.86.E5.9B.BD"><span class="tocnumber">2.3</span> <span class="toctext">アメリカ合衆国</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#.E6.AD.B4.E5.8F.B2"><span class="tocnumber">3</span> <span class="toctext">歴史</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E4.B8.80.E8.88.AC.E7.9A.84.E3.81.AA.E8.A3.BD.E6.B3.95"><span class="tocnumber">4</span> <span class="toctext">一般的な製法</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#.E9.A3.B2.E3.81.BF.E6.96.B9"><span class="tocnumber">5</span> <span class="toctext">飲み方</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC.E3.81.AE.E7.A8.AE.E9.A1.9E"><span class="tocnumber">6</span> <span class="toctext">ウイスキーの種類</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#.E6.9D.90.E6.96.99.E3.81.AB.E3.82.88.E3.82.8B.E5.88.86.E9.A1.9E"><span class="tocnumber">6.1</span> <span class="toctext">材料による分類</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#.E3.83.A2.E3.83.AB.E3.83.88.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.1.1</span> <span class="toctext">モルト・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#.E3.82.B0.E3.83.AC.E3.83.BC.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.1.2</span> <span class="toctext">グレーン・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#.E3.83.96.E3.83.AC.E3.83.B3.E3.83.87.E3.83.83.E3.83.89.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.1.3</span> <span class="toctext">ブレンデッド・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#.E3.83.A9.E3.82.A4.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.1.4</span> <span class="toctext">ライ・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#.E3.82.B3.E3.83.BC.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.1.5</span> <span class="toctext">コーン・ウイスキー</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#.E7.94.A3.E5.9C.B0.E3.81.AB.E3.82.88.E3.82.8B.E5.88.86.E9.A1.9E"><span class="tocnumber">6.2</span> <span class="toctext">産地による分類</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#.E3.82.B9.E3.82.B3.E3.83.83.E3.83.81.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.2.1</span> <span class="toctext">スコッチ・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#.E3.82.A2.E3.82.A4.E3.83.AA.E3.83.83.E3.82.B7.E3.83.A5.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.2.2</span> <span class="toctext">アイリッシュ・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#.E3.82.A6.E3.82.A7.E3.83.AB.E3.82.B7.E3.83.A5.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.2.3</span> <span class="toctext">ウェルシュ・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#.E3.82.A2.E3.83.A1.E3.83.AA.E3.82.AB.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.2.4</span> <span class="toctext">アメリカン・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#.E3.82.AB.E3.83.8A.E3.83.87.E3.82.A3.E3.82.A2.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.2.5</span> <span class="toctext">カナディアン・ウイスキー</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#.E3.82.B8.E3.83.A3.E3.83.91.E3.83.8B.E3.83.BC.E3.82.BA.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span class="tocnumber">6.2.6</span> <span class="toctext">ジャパニーズ・ウイスキー</span></a>
+<ul>
+<li class="toclevel-4 tocsection-23"><a href="#.E6.97.A5.E6.9C.AC.E3.81.AE.E4.B8.BB.E3.81.AA.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC.E8.A3.BD.E9.80.A0.E4.BC.9A.E7.A4.BE"><span class="tocnumber">6.2.6.1</span> <span class="toctext">日本の主なウイスキー製造会社</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-24"><a href="#.E3.81.9D.E3.81.AE.E4.BB.96.E3.81.AE.E7.94.A3.E5.9C.B0"><span class="tocnumber">6.2.7</span> <span class="toctext">その他の産地</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">7</span> <span class="toctext">脚注</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#.E6.B3.A8.E9.87.88"><span class="tocnumber">7.1</span> <span class="toctext">注釈</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#.E5.87.BA.E5.85.B8"><span class="tocnumber">7.2</span> <span class="toctext">出典</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"><span class="tocnumber">8</span> <span class="toctext">参考文献</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">9</span> <span class="toctext">関連項目</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E5.90.8D.E7.A7.B0.E3.81.AE.E8.B5.B7.E6.BA.90">名称の起源</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=1" title="節を編集: 名称の起源">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>「ウイスキー」の名称は、<a href="/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E" title="ラテン語">ラテン語</a>の<b>aqua vitae</b>（アクア・ヴィテ、「命の水」の意）に由来する。このaqua vitaeは元々は<a href="/wiki/%E3%81%B6%E3%81%A9%E3%81%86%E9%85%92" class="mw-redirect" title="ぶどう酒">ぶどう酒</a>を蒸留したもので、今でいう<a href="/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC" title="ブランデー">ブランデー</a>のことである。aqua vitaeは<a href="/wiki/14%E4%B8%96%E7%B4%80" title="14世紀">1300年代</a>に<a href="/wiki/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%A2" class="mw-disambig" title="ジェノア">ジェノア</a>等<a href="/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2" title="イタリア">イタリア</a>の貿易都市から<a href="/wiki/%E5%A4%96%E4%BA%A4%E5%AE%98" title="外交官">外交官</a>・<a href="/wiki/%E8%B2%BF%E6%98%93" title="貿易">貿易業者</a>・各国からイタリアに留学した<a href="/wiki/%E4%BF%AE%E9%81%93%E5%A3%AB" title="修道士">修道士</a>や<a href="/wiki/%E5%AD%A6%E7%94%9F" class="mw-redirect" title="学生">学生</a>たちの手により<a href="/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91" title="ヨーロッパ">ヨーロッパ</a>各地に広まった。直後の15世紀初頭にはaqua vitaeの製法そのものも各地に広まるようになり、ブドウだけでなく各地で手に入る材料（<a href="/wiki/%E6%9E%9C%E7%89%A9" title="果物">果物</a>、<a href="/wiki/%E5%A4%A7%E9%BA%A6" class="mw-redirect" title="大麦">大麦</a>、<a href="/wiki/%E5%B0%8F%E9%BA%A6" class="mw-redirect" title="小麦">小麦</a>、<a href="/wiki/%E3%83%A9%E3%82%A4%E9%BA%A6" class="mw-redirect" title="ライ麦">ライ麦</a>、のちの時代には<a href="/wiki/%E3%82%B8%E3%83%A3%E3%82%AC%E3%82%A4%E3%83%A2" title="ジャガイモ">ジャガイモ</a>など）を用いて製造されるようになった。当時aqua vitaeは嗜好飲料ではなく薬品の扱いであった（<a href="/wiki/%E3%83%AD%E3%82%B7%E3%82%A2" title="ロシア">ロシア</a>では1430年ごろからこれを<a href="/wiki/%E5%8C%BB%E8%96%AC%E5%93%81" title="医薬品">医薬品</a>でなく嗜好品として飲む習慣が広まった）。スコットランドやアイルランドではaqua vitaeを<a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%AB%E8%AA%9E" title="ゲール語">ゲール語</a>に逐語翻訳した <b>uisce beatha</b>（<span style="font-size:smaller;"><i>ウィシュケ・ベァハ</i></span>、「命の水」の意）の「水」の部分uisce（ウィシュケ）が訛って「ウィスキー」となった。</p>
+<p>また、こういった説もある。伝説では420年ごろ、<a href="/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%82%AD%E3%82%A6%E3%82%B9" title="パトリキウス">聖パトリック</a>が<a href="/wiki/%E8%BF%91%E6%9D%B1" title="近東">近東</a>まで旅した時に<a href="/wiki/%E9%8C%AC%E9%87%91%E8%A1%93" title="錬金術">錬金術</a>とともに蒸留器を持ち帰ったという。その伝説と関係あるかどうかは不明だが、11世紀にはアイルランドの修道院で<a href="/wiki/%E3%82%A8%E3%83%BC%E3%83%AB_(%E3%83%93%E3%83%BC%E3%83%AB)" title="エール (ビール)">セルヴォワーズ</a>を蒸留した酒が作られていた。この酒は<a href="/wiki/%E8%81%96%E6%B0%B4" title="聖水">聖水</a>という意味の「ウシュクベーハ」と呼ばれていた。スコットランドではuisge beatha、アイルランドではuisce beathaとなる。1170年に<a href="/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC2%E4%B8%96" class="mw-redirect" title="ヘンリー2世">ヘンリー2世</a>が<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89" title="アイルランド">エール</a>に侵攻した時、修道院を接収したイングランド兵が酒の入った小樽を発見し、仲間のもとに矢のように飛んで(to wisk)帰り、喜びを分かち合い、Whiskeyとして世に広まる事となった。なお、アイリッシュウイスキーはその蒸留器が1276年の税務管理の認可記録簿にウイスキー史上最古の文書記録として残っている<sup id="cite_ref-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998200-201_5-0" class="reference"><a href="#cite_note-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998200-201-5">[3]</a></sup>。</p>
+<p>なおブランデーは<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E" title="フランス語">フランス語</a>では今でも<span lang="fr" xml:lang="fr">eau-de-vie</span><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[† 3]</a></sup>（オードヴィー、「命の水」の意）である。<a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89" title="ポーランド">ポーランド</a>ではaqua vitae（アクア・ヴィテ）は当初は<a href="/wiki/%E5%A4%96%E6%9D%A5%E8%AA%9E" title="外来語">外来語</a>としてそのままoko-wita（オコ・ヴィタ）と訛って呼ばれていたが、スコットランドやアイルランドの場合と同じように、<a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E" title="ポーランド語">ポーランド語</a>への逐語翻訳であるwoda życia（ヴォダ・ジチャ、「命の水」の意）の「水」の部分wodaを<a href="/wiki/%E6%8C%87%E5%B0%8F%E5%BD%A2" class="mw-redirect" title="指小形">指小形</a>としてwódka（ヴトゥカすなわち<a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB" title="ウォッカ">ウォッカ</a>、「（ちっちゃな）水ちゃん」の意）とし、これが現代まで定着した。<a href="/wiki/%E3%83%AD%E3%82%B7%E3%82%A2" title="ロシア">ロシア</a>でも<a href="/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF%E5%A4%A7%E5%85%AC%E5%9B%BD" title="モスクワ大公国">モスクワ大公国</a>において大公<a href="/wiki/%E3%83%89%E3%83%9F%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%A4" title="ドミートリー・ドンスコイ">ドミートリー・ドンスコイ</a>の治世である<a href="/wiki/1386%E5%B9%B4" title="1386年">1386年</a>に<a href="/wiki/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%A2" class="mw-disambig" title="ジェノア">ジェノア</a>の<a href="/wiki/%E5%A4%A7%E4%BD%BF" title="大使">大使</a>によってaqua vitaeがもたらされた（製法はこれよりかなり後になって伝わった）が、しばらく「<a href="/wiki/%E8%92%B8%E7%95%99%E9%85%92" title="蒸留酒">蒸留酒</a>」の意味の<span lang="ru" xml:lang="ru">спирт, <i>spirt</i></span>（スピルト）の名称が一般的であった。しかしいつしか<span lang="ru" xml:lang="ru">водка, <i>vodka</i></span>（ヴォトカ、すなわちウォッカ）という名称がこれに取って代わり、ロシアではウォッカが蒸留酒一般を指す語となった。<a href="/wiki/%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%83%8A%E3%83%B4%E3%82%A3%E3%82%A2" class="mw-redirect" title="スカンジナヴィア">スカンジナヴィア</a>ではaqua vitaeは外来語としてakvavit（アクファヴィト）と訛り、これが後にaquavit（<a href="/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%93%E3%83%83%E3%83%88" title="アクアビット">アクアヴィット</a>）に転じ現代まで定着した。この各国それぞれの「命の水」は各地で医薬品から嗜好飲料となり、現代まで愛されるようになった。現代ではウィスキーも含めこれらはみな別々のアルコール飲料と認識されているが、このように元来は同じものである。</p>
+<h2><span class="mw-headline" id=".E5.AE.9A.E7.BE.A9">定義</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=2" title="節を編集: 定義">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ウイスキーについて、世界共通の明確な定義があるわけではないが、各国の法制度上、種々の目的から定義されていることがある。</p>
+<h3><span class="mw-headline" id=".E6.97.A5.E6.9C.AC">日本</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=3" title="節を編集: 日本">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>日本においては、<a href="/wiki/%E9%85%92%E7%A8%8E%E6%B3%95" title="酒税法">酒税法</a>3条15号において、次のように定義されている。</p>
+<dl>
+<dd>十五 ウイスキー 次に掲げる酒類（イ又はロに掲げるものについては、第九号ロからニまでに掲げるものに該当するものを除く。）をいう。
+<dl>
+<dd>イ <a href="/wiki/%E3%83%A2%E3%83%AB%E3%83%88" class="mw-redirect" title="モルト">発芽</a>させた<a href="/wiki/%E7%A9%80%E9%A1%9E" class="mw-redirect" title="穀類">穀類</a><sup id="cite_ref-malted_cereal_7-0" class="reference"><a href="#cite_note-malted_cereal-7">[† 4]</a></sup><sup id="cite_ref-NTA-vocabulary_8-0" class="reference"><a href="#cite_note-NTA-vocabulary-8">[4]</a></sup>及び水を原料として<a href="/wiki/%E7%B3%96%E5%8C%96" title="糖化">糖化</a>させて、<a href="/wiki/%E7%99%BA%E9%85%B5" title="発酵">発酵</a>させたアルコール含有物を<a href="/wiki/%E8%92%B8%E7%95%99" title="蒸留">蒸留</a>したもの（当該アルコール含有物の蒸留の際の留出時のアルコール分<sup id="cite_ref-alcohol_after_distillation_9-0" class="reference"><a href="#cite_note-alcohol_after_distillation-9">[† 5]</a></sup><sup id="cite_ref-NTA-vocabulary_8-1" class="reference"><a href="#cite_note-NTA-vocabulary-8">[4]</a></sup>が九十五度未満のものに限る。）</dd>
+<dd>ロ 発芽させた穀類<sup id="cite_ref-malted_cereal_7-1" class="reference"><a href="#cite_note-malted_cereal-7">[† 4]</a></sup>及び水によつて穀類を糖化させて、発酵させたアルコール含有物を蒸留したもの（当該アルコール含有物の蒸留の際の留出時のアルコール分<sup id="cite_ref-alcohol_after_distillation_9-1" class="reference"><a href="#cite_note-alcohol_after_distillation-9">[† 5]</a></sup>が九十五度未満のものに限る。）</dd>
+<dd>ハ イまたはロに掲げる酒類に<a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB" title="アルコール">アルコール</a>、<a href="/wiki/%E8%92%B8%E7%95%99%E9%85%92" title="蒸留酒">スピリッツ</a>、<a href="/wiki/%E9%A6%99%E5%91%B3%E6%96%99" class="mw-redirect" title="香味料">香味料</a>、<a href="/wiki/%E8%89%B2%E7%B4%A0" title="色素">色素</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[† 6]</a></sup><sup id="cite_ref-NTA-vocabulary_8-2" class="reference"><a href="#cite_note-NTA-vocabulary-8">[4]</a></sup>または水を加えたもの（イ又はロに掲げる酒類のアルコール分の総量がアルコール、スピリッツ又は香味料を加えた後の酒類のアルコール分の総量の百分の十以上のものに限る。）<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[† 7]</a></sup><sup id="cite_ref-NTA-vocabulary_8-3" class="reference"><a href="#cite_note-NTA-vocabulary-8">[4]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+<p>上記定義から除かれている「第九号ロからニまでに掲げるもの」とは次のものであり、<a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB" title="ウォッカ">ウォッカ</a>、<a href="/wiki/%E3%83%A9%E3%83%A0%E9%85%92" title="ラム酒">ラム</a>、<a href="/wiki/%E3%82%B8%E3%83%B3_(%E8%92%B8%E7%95%99%E9%85%92)" title="ジン (蒸留酒)">ジン</a>等の<a href="/wiki/%E8%92%B8%E7%95%99%E9%85%92" title="蒸留酒">スピリッツ</a>が除外されていることになる。</p>
+<dl>
+<dd>九 連続式蒸留しようちゆう アルコール含有物を連続式蒸留機（連続して供給されるアルコール含有物を蒸留しつつ、フーゼル油、アルデヒドその他の不純物を取り除くことができる蒸留機をいう。次号イ及び第四十三条第六項において同じ。）により蒸留した酒類（これに水を加えたもの及び政令で定めるところにより砂糖（政令で定めるものに限る。）その他の政令で定める物品を加えたもの（エキス分が二度未満のものに限る。）を含み、次に掲げるものを除く。）で、アルコール分が三十六度未満のものをいう。
+<dl>
+<dd>イ （略）</dd>
+<dd>ロ しらかばの炭その他政令で定めるものでこしたもの</dd>
+<dd>ハ 含糖質物（政令で定める砂糖を除く。）を原料の全部又は一部としたもので、そのアルコール含有物の蒸留の際の留出時のアルコール分が九十五度未満のもの</dd>
+<dd>ニ アルコール含有物を蒸留する際、発生するアルコールに他の物品の成分を浸出させたもの</dd>
+</dl>
+</dd>
+</dl>
+<h3><span class="mw-headline" id=".E6.AC.A7.E5.B7.9E.E9.80.A3.E5.90.88">欧州連合</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=4" title="節を編集: 欧州連合">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88" title="欧州連合">欧州連合</a>においては、<a rel="nofollow" class="external text" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008R0110:EN:NOT">スピリッツ飲料の定義、記述、展示、ラベル表示および地理的表示保護ならびに理事会規則（EEC)1576/89号の廃止に関する2008年1月15日欧州議会・理事会規則（EC)110/2008号</a>別紙II第2項において、ウイスキー（whiskyまたはwhiskey）が、次のように定義されている。</p>
+<dl>
+<dd>2.whiskyまたはwhiskey
+<dl>
+<dd>(a)whiskyまたはwhiskeyは、専ら次に掲げるものにより製造されたスピリッツ飲料である。
+<dl>
+<dd>(i)発芽させた穀物から他の穀物の全粒の併用の有無を問わず作られたマッシュであって、
+<dl>
+<dd>―そこに含まれる<a href="/wiki/%E3%83%A2%E3%83%AB%E3%83%88" class="mw-redirect" title="モルト">モルト</a>の<a href="/wiki/%E3%82%B8%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BC" class="mw-redirect" title="ジアスターゼ">ジアスターゼ</a>により他の天然の<a href="/wiki/%E9%85%B5%E7%B4%A0" title="酵素">酵素</a>の併用の有無を問わず糖化され、</dd>
+<dd>―酵母の作用により発酵されたもの</dd>
+</dl>
+</dd>
+<dd>の蒸留</dd>
+<dd>(ii)蒸留液が用いられた原料に由来する香りおよび味を有するよう、94.8%未満の分量となる一または複数の蒸留</dd>
+<dd>(iii)最終蒸留液の容量700リットル未満の木製樽における3年以上の熟成</dd>
+</dl>
+</dd>
+<dd>(b)whiskyまたはwhiskeyの分量による最低アルコール強度は40%とする。</dd>
+<dd>(c)希釈化の有無を問わず、別紙I(5)に定義されるアルコールの添加は一切なされないものとする。</dd>
+<dd>(d)whiskyまたはwhiskeyは、甘味付けまたは香り付けをされないものとし、かつ、着色のために用いられる無味カラメル以外の添加物を含まないものとする。</dd>
+</dl>
+</dd>
+</dl>
+<h3><span class="mw-headline" id=".E3.82.A2.E3.83.A1.E3.83.AA.E3.82.AB.E5.90.88.E8.A1.86.E5.9B.BD">アメリカ合衆国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=5" title="節を編集: アメリカ合衆国">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD" title="アメリカ合衆国">アメリカ合衆国</a>においては、<a href="/wiki/%E9%80%A3%E9%82%A6%E8%A6%8F%E5%89%87%E9%9B%86" title="連邦規則集">連邦規則集</a><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/CFR-2012-title27-vol1/xml/CFR-2012-title27-vol1-sec5-22.xml">第27編第1章A節第5款C目5.22条</a>(b)項柱書において、ウイスキー（whisky）が次のように定義されている。</p>
+<dl>
+<dd>5.22条 同一性の基準</dd>
+<dd>この条に規定される蒸留スピリッツの種々の種類および種別の基準は、以下のとおりとする（5.35条 種類および類型も参照）。
+<dl>
+<dd>(a)（略）</dd>
+<dd>(b)第二種；ウイスキー。「ウイスキー」は、発酵した穀物のマッシュからのアルコール蒸留液であって、190度<a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AB%E3%83%BC%E3%83%95" title="アルコールプルーフ">プルーフ</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[† 8]</a></sup>未満に、蒸留液が一般にウイスキーが有するとされる味、香りおよび特性を備える方法によって製造され、<a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%AF" title="オーク">オーク</a>樽に保存され（ただし、コーン・ウイスキーはそのように保存されることを要しない。）、かつ、80度プルーフ<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[† 9]</a></sup>以上で瓶詰めされたものであり、さらに、特定の同一性の基準が規定されていない蒸留液の混合物をも含む。（略）</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id=".E6.AD.B4.E5.8F.B2">歴史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=6" title="節を編集: 歴史">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks ambox mbox-small-left ambox-content" role="presentation" style="width:auto;">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Question_book-4.svg" class="image"><img alt="Question book-4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/50px-Question_book-4.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/75px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/100px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span"><b>この節は<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">検証可能</a>な<a href="/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90" title="Wikipedia:信頼できる情報源">参考文献や出典</a>が全く示されていないか、不十分です。</b><a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B" title="Wikipedia:出典を明記する">出典を追加</a>して記事の信頼性向上にご協力ください。<small>（<span title="2010年2月">2010年2月</span>）</small></span></td>
+</tr>
+</table>
+<p>「ウイスキー」という名称が歴史上はじめて文献に登場したのは、<a href="/wiki/1405%E5%B9%B4" title="1405年">1405年</a>の<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89" title="アイルランド">アイルランド</a>である<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[5]</a></sup><sup class="noprint Inline-Template nowrap">[<i><a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性"><span title="「aquae vitae」はあるが、「whisky 」の語は出ていないようです。また、左記出典によれば1174年にヘンリー2世が「aquae vitae」を記録しているとのこと。（2014-11-06）">出典無効</span></a></i>]</sup>。しかし15世紀当時は嗜好品としての飲用ではなく、薬であった<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[6]</a></sup>。このときウイスキーは<a href="/wiki/%E4%BF%AE%E9%81%93%E5%A3%AB" title="修道士">修道士</a>たちによって製造されていた。この<a href="/wiki/1405%E5%B9%B4" title="1405年">1405年</a>には<a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89" title="ポーランド">ポーランド</a>・<a href="https://en.wikipedia.org/wiki/Sandomierz" class="extiw" title="en:Sandomierz">サンドミェシュ市</a><a href="/wiki/%E5%9C%B0%E6%96%B9%E8%A3%81%E5%88%A4%E6%89%80" title="地方裁判所">地方裁判所</a>の公文書（<i>Akta Grodzka</i>、Municipal Recordsという意味）で「<a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB" title="ウォッカ">ウォッカ</a>」の名称が使われており、奇しくもこれがウォッカの名称に関し現存する最も古い記録である。当時のウイスキーとウォッカは同じものであった。<a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89" title="スコットランド">スコットランド</a>でも<a href="/wiki/1496%E5%B9%B4" title="1496年">1496年</a>に記録が残っている<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[7]</a></sup>。</p>
+<p>最初に蒸留アルコールが製造されたのは<a href="/wiki/8%E4%B8%96%E7%B4%80" title="8世紀">8世紀</a>から<a href="/wiki/9%E4%B8%96%E7%B4%80" title="9世紀">9世紀</a>にかけてであり、その場所は<a href="/wiki/%E4%B8%AD%E6%9D%B1" title="中東">中東</a>だった<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[8]</a></sup>。 蒸留の技術は、<a href="/wiki/%E5%8D%81%E5%AD%97%E8%BB%8D" title="十字軍">十字軍</a>によってヨーロッパにもたらされたと言われているが、<a href="/wiki/%E3%83%A0%E3%83%BC%E3%82%A2%E4%BA%BA" title="ムーア人">ムーア人</a>の錬金術士は5世紀ごろの<a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%AB%E3%82%B7%E3%82%A2%E5%B7%9E" title="アンダルシア州">アンダルシア</a>で蒸留器を使った研究を行っている<sup id="cite_ref-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998199_18-0" class="reference"><a href="#cite_note-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998199-18">[9]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E4.B8.80.E8.88.AC.E7.9A.84.E3.81.AA.E8.A3.BD.E6.B3.95">一般的な製法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=7" title="節を編集: 一般的な製法">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E9%BA%A6" class="mw-redirect" title="麦">麦</a>を<a href="/wiki/%E7%99%BA%E8%8A%BD" title="発芽">発芽</a>させ、その<a href="/wiki/%E9%BA%A6%E8%8A%BD" title="麦芽">麦芽</a>に含まれる<a href="/wiki/%E9%85%B5%E7%B4%A0" title="酵素">酵素</a>を利用して<a href="/wiki/%E3%83%87%E3%83%B3%E3%83%97%E3%83%B3" title="デンプン">デンプン</a>を<a href="/wiki/%E7%B3%96%E5%8C%96" title="糖化">糖化</a>させる。この方法自体は<a href="/wiki/%E3%83%93%E3%83%BC%E3%83%AB" title="ビール">ビール</a>の仕込みとほぼ同じであり、これを<a href="/wiki/%E6%BF%BE%E9%81%8E" class="mw-redirect" title="濾過">濾過</a>して<a href="/wiki/%E9%BA%A6%E6%B1%81" title="麦汁">麦汁（ばくじゅう）</a>を得、これを<a href="/wiki/%E9%85%B5%E6%AF%8D" title="酵母">酵母</a>によって<a href="/wiki/%E7%99%BA%E9%85%B5" title="発酵">発酵</a>させると、<a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E5%BA%A6%E6%95%B0" title="アルコール度数">アルコール度数</a>7〜8%の「ウォッシュ」(Wash) と呼ばれる液体となる。これを単式<a href="/wiki/%E8%92%B8%E7%95%99%E5%99%A8" class="mw-redirect" title="蒸留器">蒸留器</a>で<a href="/wiki/%E8%92%B8%E7%95%99" title="蒸留">蒸留</a>する。一般に、複数回の蒸留を終えた際のアルコール度数は60〜70%で、色は無色透明である（これを<a href="/w/index.php?title=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="ニューポット (存在しないページ)">ニューポット</a>と呼ぶ）。蒸留液は木製の樽（<a href="/wiki/%E6%A8%BD#.E6.A8.BD.E3.82.92.E7.94.A8.E3.81.84.E3.81.9F.E7.86.9F.E6.88.90" title="樽">樽を用いた熟成</a>）に詰められ（スコッチ・モルト・ウイスキーでは通常、材木に<a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%AF" title="オーク">オーク</a>が用いられるが、これに限らない）、数年以上<a href="/wiki/%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0" title="エイジング">エイジング</a>して熟成させることによって豊かな<a href="/wiki/%E9%A2%A8%E5%91%B3" class="mw-redirect mw-disambig" title="風味">風味</a>と色を呈する。ウイスキー原酒は熟成により、樽毎に異なる風味に仕上がるものであり、最終的にはこのいくつかの樽の原酒を調合し、香味を整えてから度数40%程度まで加水し、<a href="/wiki/%E7%93%B6%E8%A9%B0" title="瓶詰">瓶詰め</a>され出荷される。また、低価格品でも高級品でも、同一メーカーであれば同じ原料と同じ製法であるところが、<a href="/wiki/%E6%97%A5%E6%9C%AC%E9%85%92" title="日本酒">日本酒</a>や<a href="/wiki/%E3%83%AF%E3%82%A4%E3%83%B3" title="ワイン">ワイン</a>などの<a href="/wiki/%E9%86%B8%E9%80%A0%E9%85%92" title="醸造酒">醸造酒</a>とは大きく異なる点である。</p>
+<h2><span class="mw-headline" id=".E9.A3.B2.E3.81.BF.E6.96.B9">飲み方</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=8" title="節を編集: 飲み方">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>飲み方は多様。そのままで（<a href="/wiki/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88" class="mw-disambig" title="ストレート">ストレート</a>）、または水で割り（<a href="/wiki/%E6%B0%B4%E5%89%B2%E3%82%8A" title="水割り">水割り</a>）、もしくは<a href="/wiki/%E6%B0%B7" title="氷">氷</a>を入れて（<a href="/wiki/%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AF" title="オン・ザ・ロック">オン・ザ・ロック</a>。<a href="/wiki/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5" class="mw-disambig" title="クラッシュ">クラッシュ</a>とも）飲むほか、<a href="/wiki/%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="カクテル">カクテル</a>の材料として加えられることもある。</p>
+<ul>
+<li>ウイスキーはアルコール濃度が高く（40%以上）、ストレートで飲む場合、水をともに用意し、ウイスキーと水とを交互に飲む作法がある（この水は<a href="/wiki/%E3%83%81%E3%82%A7%E3%82%A4%E3%82%B5%E3%83%BC" class="mw-disambig" title="チェイサー">チェイサー</a>と呼ばれる）。風味をストレートで嗜んだ後の、重厚な舌触りや圧倒的な香気に覆い包まれた口中に水を含み呑むことで、清涼感の拡がる中に香味の余韻が際立ち、また<a href="/wiki/%E6%B6%88%E5%8C%96%E5%99%A8" title="消化器">消化器</a>への刺激も軽減できる。</li>
+<li>水割りでは、水とウイスキーの比によって、様々に変化する味わい、まろやかさを堪能できる。特にウイスキーと水とを1対1で割る「<b>トワイス・アップ</b>」（氷は加えない）は、ブレンダー（調合師）がウイスキーの試飲の際に用いる飲用法であり、適度にアルコールの強い香気を丸め、ウイスキーに含まれる味や香りを引き出し堪能する飲み方として、愛飲家は重んじている。そしてオン・ザ・ロックは氷が融けるにつれて変化する味を楽しむことができる。</li>
+<li>このほか日本においては、口当たり良い食中酒としてウイスキーに親しんできた独特の飲用文化から、水の比を多くした水割りも好まれる。</li>
+<li>もちろんカクテルの材料としてもウイスキーを楽しめるが、その中で最もポピュラーなのは<a href="/wiki/%E7%82%AD%E9%85%B8%E6%B0%B4" title="炭酸水">炭酸水</a>割りの<a href="/wiki/%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%AB" title="ハイボール">ハイボール</a>（<a href="/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%80" title="ウイスキー・ソーダ">ウイスキー・ソーダ</a>）である。その他のウイスキーベースのカクテルとしては<b>カクテルの女王</b>と呼ばれている<a href="/wiki/%E3%83%9E%E3%83%B3%E3%83%8F%E3%83%83%E3%82%BF%E3%83%B3_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)" title="マンハッタン (カクテル)">マンハッタン</a>やウイスキーを<a href="/wiki/%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9" title="コカ・コーラ">コカ・コーラ</a>で割ったコークハイ（<a href="/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%AF" title="ウイスキー・コーク">ウイスキー・コーク</a>）等がある。</li>
+<li><a href="/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD" title="ステーキ">ステーキ</a>などの肉料理の<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99" title="フランベ">フランベ</a>にも<a href="/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC" title="ブランデー">ブランデー</a>などと同様の使われ方をする。</li>
+</ul>
+<h2><span class="mw-headline" id=".E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC.E3.81.AE.E7.A8.AE.E9.A1.9E">ウイスキーの種類</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=9" title="節を編集: ウイスキーの種類">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E6.9D.90.E6.96.99.E3.81.AB.E3.82.88.E3.82.8B.E5.88.86.E9.A1.9E">材料による分類</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=10" title="節を編集: 材料による分類">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id=".E3.83.A2.E3.83.AB.E3.83.88.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span id=".E3.83.A2.E3.83.AB.E3.83.88.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"></span>モルト・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=11" title="節を編集: モルト・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%81%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="スコッチ・ウイスキー">スコッチ・ウイスキー</a>においては大麦麦芽（モルト）のみを原料とするもの。一般的に、単式蒸留釜で2回（ないし3回）蒸留する。少量生産に適しており、伝統的な製法。もっとも、大量生産や品質の安定が難しい。<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アメリカン・ウイスキー">アメリカン・ウイスキー</a>においては、大麦が原料の51%以上を占めるものを指す<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[10]</a></sup>。なお、アメリカン・ウイスキーにおいては大麦のみを原料とするものを<b>シングル・モルトウイスキー</b>と呼ぶ<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[11]</a></sup>が、スコッチ・ウイスキーにおいては1つの蒸留所で作られたモルトウイスキーのみを瓶詰めしたものを指す<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[12]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[13]</a></sup>。</p>
+<h4><span class="mw-headline" id=".E3.82.B0.E3.83.AC.E3.83.BC.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span id=".E3.82.B0.E3.83.AC.E3.83.BC.E3.83.B3.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"></span>グレーン・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=12" title="節を編集: グレーン・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>トウモロコシ、ライ麦、小麦などの穀物(grain)を主原料に、大麦麦芽を加えて糖化・発酵させたウイスキー<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[14]</a></sup>。連続式蒸留機による蒸留を経るため、モルトウイスキーに較べ香味に乏しく、通常はブレンデッドウイスキーに加えられ、風味を和らげる。しかし高級モルトウイスキー同様の長期熟成を行ったシングル・グレーンの最終商品も稀少ながら発売されている<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[15]</a></sup>。</p>
+<h4><span class="mw-headline" id=".E3.83.96.E3.83.AC.E3.83.B3.E3.83.87.E3.83.83.E3.83.89.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"><span id=".E3.83.96.E3.83.AC.E3.83.B3.E3.83.87.E3.83.83.E3.83.89.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC"></span>ブレンデッド・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=13" title="節を編集: ブレンデッド・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>スコッチ・ウイスキーにおいては、モルト・ウイスキーとグレーン・ウイスキーをブレンドしたもの。大量生産や品質の安定に適している。アメリカン・ウイスキーにおいては、ストレート・ウイスキーに他のウイスキーまたはスピリッツを混ぜたものを指す<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[16]</a></sup>。</p>
+<h4><span class="mw-headline" id=".E3.83.A9.E3.82.A4.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">ライ・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=14" title="節を編集: ライ・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ライ・ウイスキー">ライ・ウイスキー</a>」を参照</div>
+<p>主に<a href="/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB" title="北アメリカ">北アメリカ</a>で生産される。<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AE" title="ライムギ">ライ麦</a>を主原料とする。カナダとアメリカ合衆国ではそれぞれ定義が異なる。</p>
+<h4><span class="mw-headline" id=".E3.82.B3.E3.83.BC.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">コーン・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=15" title="節を編集: コーン・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="コーン・ウイスキー">コーン・ウイスキー</a>」を参照</div>
+<p><a href="/wiki/%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7" title="トウモロコシ">トウモロコシ</a>を原料とする。<a href="/wiki/%E3%83%90%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="バーボン・ウイスキー">バーボン・ウイスキー</a>のうち、原材料の80%以上にトウモロコシを用いたものを指す。</p>
+<h3><span class="mw-headline" id=".E7.94.A3.E5.9C.B0.E3.81.AB.E3.82.88.E3.82.8B.E5.88.86.E9.A1.9E">産地による分類</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=16" title="節を編集: 産地による分類">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>産地などによって原材料や製法に違いが見られ、そのため以下のように区別される。スコッチウイスキー、アイリッシュウイスキー、アメリカンウイスキー、カナディアンウイスキー、ジャパニーズウイスキーが世界の五大ウイスキーとされる<sup id="cite_ref-hyperpress2002_26-0" class="reference"><a href="#cite_note-hyperpress2002-26">[17]</a></sup>。ただし、ジャパニーズウイスキーを含めることについては、日本のメーカーだけが主張している可能性<sup id="cite_ref-hyperpress2002_26-1" class="reference"><a href="#cite_note-hyperpress2002-26">[17]</a></sup>、<a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89" title="スコットランド">スコットランド</a>の一般人がこのような認識を持っていない可能性<sup id="cite_ref-hyperpress2002_26-2" class="reference"><a href="#cite_note-hyperpress2002-26">[17]</a></sup>を指摘する意見もある。</p>
+<h4><span class="mw-headline" id=".E3.82.B9.E3.82.B3.E3.83.83.E3.83.81.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">スコッチ・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=17" title="節を編集: スコッチ・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%81%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="スコッチ・ウイスキー">スコッチ・ウイスキー</a>」を参照</div>
+<p><a href="/wiki/%E8%8B%B1%E5%9B%BD" class="mw-redirect" title="英国">英国</a><a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89" title="スコットランド">スコットランド</a>で造られるウイスキーを<b><a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%81%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="スコッチ・ウイスキー">スコッチ・ウイスキー</a></b>または単に<b>スコッチ</b>と呼ぶ。仕込みの際に、<a href="/wiki/%E6%B3%A5%E7%82%AD" title="泥炭">泥炭</a>（ピート）で麦芽を燻蒸するため、独特の香気（スモーキー・フレーバー）があるのが特徴である。</p>
+<h4><span class="mw-headline" id=".E3.82.A2.E3.82.A4.E3.83.AA.E3.83.83.E3.82.B7.E3.83.A5.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">アイリッシュ・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=18" title="節を編集: アイリッシュ・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アイリッシュ・ウイスキー">アイリッシュ・ウイスキー</a>」を参照</div>
+<p>アイルランド（<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E5%9B%BD" class="mw-redirect" title="アイルランド共和国">アイルランド共和国</a>と英国<a href="/wiki/%E5%8C%97%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89" title="北アイルランド">北アイルランド</a>）で造られるウイスキーを<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アイリッシュ・ウイスキー">アイリッシュ・ウイスキー</a>と呼ぶ。大麦麦芽のほか、未発芽の大麦や<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AE" title="ライムギ">ライ麦</a>、<a href="/wiki/%E3%82%B3%E3%83%A0%E3%82%AE" title="コムギ">小麦</a>なども原料として使用する。</p>
+<p>最大の特徴は、ピートによる燻蒸を行わないことと、単式蒸留器による蒸留回数が3回であること。これにより、一般的なスコッチウイスキーよりもまろやかな味わいに仕上がる。</p>
+<h4><span class="mw-headline" id=".E3.82.A6.E3.82.A7.E3.83.AB.E3.82.B7.E3.83.A5.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">ウェルシュ・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=19" title="節を編集: ウェルシュ・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ウェルシュ・ウイスキー">ウェルシュ・ウイスキー</a>」を参照</div>
+<p>古くから英国<a href="/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA" title="ウェールズ">ウェールズ</a>でもウイスキーは製造されていたが、<a href="/wiki/1894%E5%B9%B4" title="1894年">1894年</a>に一度この歴史が途絶えた。<a href="/wiki/2000%E5%B9%B4" title="2000年">2000年</a>に製造が再開され、<a href="/wiki/2004%E5%B9%B4" title="2004年">2004年</a><a href="/wiki/3%E6%9C%881%E6%97%A5" title="3月1日">3月1日</a>に出荷された。</p>
+<h4><span class="mw-headline" id=".E3.82.A2.E3.83.A1.E3.83.AA.E3.82.AB.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">アメリカン・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=20" title="節を編集: アメリカン・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アメリカン・ウイスキー">アメリカン・ウイスキー</a>」を参照</div>
+<p><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD" title="アメリカ合衆国">アメリカ合衆国</a>で醸造されるウイスキー。地域によって差があるが、他の地域のウイスキーではあまり用いられないトウモロコシを原料として用いる特色がある。</p>
+<dl>
+<dt><a href="/wiki/%E3%83%90%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="バーボン・ウイスキー">バーボン・ウイスキー</a></dt>
+<dd><a href="/wiki/%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E5%B7%9E" title="ケンタッキー州">ケンタッキー州</a><a href="/wiki/%E3%83%90%E3%83%BC%E3%83%9C%E3%83%B3%E9%83%A1_(%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E5%B7%9E)" title="バーボン郡 (ケンタッキー州)">バーボン郡</a>を中心に造られるもので、単に<b>バーボン</b> (<i>Bourbon</i>) とも呼ばれる。<a href="/wiki/%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7" title="トウモロコシ">トウモロコシ</a>を主原料（50%以上79.99%まで。80%以上は<a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="コーン・ウイスキー">コーン・ウイスキー</a>として扱われる）とし、内側を焼き焦がしたオーク樽で2年以上熟成させる。</dd>
+<dt><a href="/wiki/%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="テネシー・ウイスキー">テネシー・ウイスキー</a></dt>
+<dd><a href="/wiki/%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E5%B7%9E" title="テネシー州">テネシー州</a>を中心に造られているウイスキー。広義のバーボン・ウイスキーに含まれることもある。バーボンとの違いは、蒸留したばかりの原酒を同州産の<a href="/wiki/%E3%82%B5%E3%83%88%E3%82%A6%E3%82%AB%E3%82%A8%E3%83%87" title="サトウカエデ">サトウカエデ</a>の炭で濾過した後に樽で熟成するところ。有名なブランドには「<a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB" title="ジャックダニエル">ジャックダニエル</a>」(<a href="https://en.wikipedia.org/wiki/Jack_Daniel%27s" class="extiw" title="en:Jack Daniel's">Jack Daniel's</a>) などがある。</dd>
+</dl>
+<h4><span class="mw-headline" id=".E3.82.AB.E3.83.8A.E3.83.87.E3.82.A3.E3.82.A2.E3.83.B3.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">カナディアン・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=21" title="節を編集: カナディアン・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="カナディアン・ウイスキー">カナディアン・ウイスキー</a>」を参照</div>
+<p><a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%80" title="カナダ">カナダ</a>原産。<a href="/wiki/%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7" title="トウモロコシ">トウモロコシ</a>を主原料とするベース・ウイスキーと<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AE" title="ライムギ">ライ麦</a>を主原料とするフレーバリング・ウイスキーをブレンドして作られ、アイリッシュ・ウイスキーより更におとなしい風味であることが一般的。一方で、少数だがスコッチスタイルのウイスキーも生産されている。</p>
+<h4><span class="mw-headline" id=".E3.82.B8.E3.83.A3.E3.83.91.E3.83.8B.E3.83.BC.E3.82.BA.E3.83.BB.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC">ジャパニーズ・ウイスキー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=22" title="節を編集: ジャパニーズ・ウイスキー">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ジャパニーズ・ウイスキー">ジャパニーズ・ウイスキー</a>」を参照</div>
+<p>日本産。1918年より<a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89" title="スコットランド">スコットランド</a>に留学した<a href="/wiki/%E7%AB%B9%E9%B6%B4%E6%94%BF%E5%AD%9D" title="竹鶴政孝">竹鶴政孝</a>によってスコッチ・ウイスキーの伝統的製法が持ち帰られたことが端緒である。竹鶴は壽屋（現<a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC" title="サントリー">サントリー</a>）に在籍し、1923年開設の<a href="/wiki/%E5%B1%B1%E5%B4%8E%E8%92%B8%E6%BA%9C%E6%89%80" title="山崎蒸溜所">山崎蒸溜所</a>の初代所長となり、のちに<a href="/wiki/%E3%83%8B%E3%83%83%E3%82%AB%E3%82%A6%E3%83%B0%E3%82%B9%E3%82%AD%E3%83%BC" title="ニッカウヰスキー">ニッカウヰスキー</a>を創業した人物である。</p>
+<p>当初竹鶴の目指した本格的なウイスキーは高価格に加えスコッチ直系の重厚な風味が逆に敬遠されて飲まれず、庶民が飲めるのは<a href="/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="トリスウイスキー">トリス</a>をはじめとした安価であまり質の良くないウイスキーであった（かつての日本の酒税法では原酒が入っていないものや熟成させていないものもウイスキーであると認められたため、実際にそのような粗悪な商品も存在した）。</p>
+<p>サントリーとニッカの両社は独自の発展を遂げ、技術も向上し21世紀初頭には国際的な品評会で高い評価を収めることが増えている<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[18]</a></sup> <sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[19]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[20]</a></sup>。</p>
+<p>主な製品としては、廉価ブランドでは、<a href="/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="トリスウイスキー">トリスウイスキー</a>、<a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%83%E3%83%89" title="サントリーレッド">サントリーレッド</a>、<a href="/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AB" title="ブラックニッカ">ブラックニッカ・クリア</a>、<a href="/wiki/%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AB" title="ハイニッカ">ハイニッカ</a>、オーシャンラッキーゴールド、宝キングウイスキー凜など。中価格帯ブランドでは、<a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89" title="サントリーオールド">サントリーオールド</a>、<a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%96" title="サントリーリザーブ">サントリーリザーブ</a>、<a href="/wiki/%E3%83%8B%E3%83%83%E3%82%AB%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%A2%E3%83%AB%E3%83%88" class="mw-redirect" title="ニッカオールモルト">ニッカオールモルト</a>、<a href="/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%8B%E3%83%83%E3%82%AB" title="スーパーニッカ">スーパーニッカ</a>、ロバートブラウンなど。高価格ブランドでは、サントリーでは<a href="/wiki/%E5%B1%B1%E5%B4%8E_(%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC)" title="山崎 (ウイスキー)">山崎</a>、<a href="/wiki/%E7%99%BD%E5%B7%9E_(%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC)" title="白州 (ウイスキー)">白州</a>、<a href="/wiki/%E9%9F%BF_(%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC)" title="響 (ウイスキー)">響</a>、ニッカでは<a href="/wiki/%E7%AB%B9%E9%B6%B4_(%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC)" title="竹鶴 (ウイスキー)">竹鶴</a>、<a href="/wiki/%E4%BD%99%E5%B8%82_(%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC)" title="余市 (ウイスキー)">余市</a>、<a href="/wiki/%E5%AE%AE%E5%9F%8E%E5%B3%A1" title="宮城峡">宮城峡</a>などがある。また、単一銘柄で普及価格商品と長期熟成の高級価格帯とを同時展開する<a href="/wiki/%E3%82%AD%E3%83%AA%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9%E3%83%AA%E3%83%BC" title="キリンディスティラリー">キリンディスティラリー</a>（旧キリン・シーグラム）の<a href="/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E9%BA%93" title="富士山麓">富士山麓</a>シリーズなどもある。</p>
+<h5><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E3.81.AE.E4.B8.BB.E3.81.AA.E3.82.A6.E3.82.A4.E3.82.B9.E3.82.AD.E3.83.BC.E8.A3.BD.E9.80.A0.E4.BC.9A.E7.A4.BE">日本の主なウイスキー製造会社</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=23" title="節を編集: 日本の主なウイスキー製造会社">編集</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>主な<a href="/wiki/%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC" class="mw-redirect" title="メーカー">メーカー</a>としては</p>
+<ul>
+<li><a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC" title="サントリー">サントリー</a></li>
+<li><a href="/wiki/%E3%83%8B%E3%83%83%E3%82%AB%E3%82%A6%E3%83%B0%E3%82%B9%E3%82%AD%E3%83%BC" title="ニッカウヰスキー">ニッカウヰスキー</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%83%AA%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9%E3%83%AA%E3%83%BC" title="キリンディスティラリー">キリンディスティラリー</a>（<a href="/wiki/%E3%83%A1%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%B3" title="メルシャン">メルシャン</a>から継承した商品を含む）</li>
+<li><a href="/wiki/%E6%9C%AC%E5%9D%8A%E9%85%92%E9%80%A0" title="本坊酒造">本坊酒造</a></li>
+<li><a href="/wiki/%E5%AE%9D%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9" title="宝ホールディングス">宝酒造</a></li>
+<li><a href="/wiki/%E3%82%AA%E3%82%A8%E3%83%8E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9" title="オエノンホールディングス">オエノンホールディングス</a></li>
+<li><a href="/wiki/%E6%B1%9F%E4%BA%95%E3%83%B6%E5%B6%8B%E9%85%92%E9%80%A0" title="江井ヶ嶋酒造">江井ヶ嶋酒造</a></li>
+</ul>
+<p>などがある。</p>
+<p>ウイスキーの日本国内市場での販売量は、2004年の1年間で、8万7500キロリットル余りと推計されており（課税および通関統計）、うちサントリーが約67%、ニッカウヰスキー（<a href="/wiki/%E3%82%A2%E3%82%B5%E3%83%92%E3%83%93%E3%83%BC%E3%83%AB" title="アサヒビール">アサヒビール</a><a href="/wiki/%E5%AD%90%E4%BC%9A%E7%A4%BE" title="子会社">子会社</a>）が約21%と推計されている（日本経済新聞社推計）。</p>
+<p>地方の小規模な酒造会社（多くは日本酒の蔵元を兼ねる）も少量ながらウイスキーを生産している。これらは「<b>地ウイスキー</b>」と呼ばれる。地ウイスキーのメーカーとしては以下のような例がある。</p>
+<ul>
+<li><a href="/wiki/%E6%9C%AD%E5%B9%8C%E9%85%92%E7%B2%BE%E5%B7%A5%E6%A5%AD" title="札幌酒精工業">札幌酒精</a>（北海道）</li>
+<li><a href="/wiki/%E7%AC%B9%E3%81%AE%E5%B7%9D%E9%85%92%E9%80%A0" title="笹の川酒造">笹の川酒造</a>（福島県）</li>
+<li><a href="/wiki/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ベンチャーウイスキー">ベンチャーウイスキー</a>（埼玉県）</li>
+<li><a href="/wiki/%E3%83%A2%E3%83%B3%E3%83%87%E9%85%92%E9%80%A0" title="モンデ酒造">モンデ酒造</a>（山梨県）</li>
+<li><a href="/wiki/%E7%9B%B8%E7%94%9F%E3%83%A6%E3%83%8B%E3%83%93%E3%82%AA" title="相生ユニビオ">相生ユニビオ</a>（愛知県）</li>
+<li><a href="/wiki/%E8%8B%A5%E9%B6%B4%E9%85%92%E9%80%A0" title="若鶴酒造">若鶴酒造</a>（富山県）</li>
+<li><a href="/wiki/%E5%AE%AE%E5%B4%8E%E6%9C%AC%E5%BA%97" title="宮崎本店">宮崎本店</a>（三重県）</li>
+<li><a href="/wiki/%E4%B8%AD%E5%9B%BD%E9%86%B8%E9%80%A0" title="中国醸造">中国醸造</a>（広島県）</li>
+</ul>
+<p>以下の酒造会社はウイスキー生産を終了している。</p>
+<ul>
+<li><a href="/w/index.php?title=%E7%BE%8E%E5%B3%B0%E9%85%92%E9%A1%9E&amp;action=edit&amp;redlink=1" class="new" title="美峰酒類 (存在しないページ)">美峰酒類</a>（群馬県）</li>
+<li><a href="/wiki/%E5%8D%94%E5%92%8C%E7%99%BA%E9%85%B5%E5%B7%A5%E6%A5%AD" class="mw-redirect" title="協和発酵工業">協和発酵工業</a>（茨城県）</li>
+<li><a href="/wiki/%E6%9D%B1%E4%BA%9C%E9%85%92%E9%80%A0" title="東亜酒造">東亜酒造</a>（埼玉県）</li>
+<li><a href="/w/index.php?title=%E9%87%91%E5%8D%87%E9%85%92%E9%80%A0&amp;action=edit&amp;redlink=1" class="new" title="金升酒造 (存在しないページ)">金升酒造</a>（新潟県）</li>
+<li><a href="/w/index.php?title=%E5%AF%8C%E5%A3%AB%E7%99%BA%E9%85%B5%E5%B7%A5%E6%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="富士発酵工業 (存在しないページ)">富士発酵工業</a>（山梨県、廃業）</li>
+<li><a href="/w/index.php?title=%E6%9D%B1%E6%B4%8B%E9%86%B8%E9%80%A0&amp;action=edit&amp;redlink=1" class="new" title="東洋醸造 (存在しないページ)">東洋醸造</a>（静岡県）</li>
+<li><a href="/wiki/%E7%8E%89%E6%B3%89%E5%A0%82%E9%85%92%E9%80%A0" title="玉泉堂酒造">玉泉堂酒造</a>（岐阜県）</li>
+<li><a href="/w/index.php?title=%E6%9D%B1%E6%B5%B7%E9%86%97%E9%85%B5%E5%B7%A5%E6%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="東海醗酵工業 (存在しないページ)">東海醗酵工業</a>（愛知県、廃業）</li>
+<li><a href="/wiki/%E6%97%A5%E6%96%B0%E9%85%92%E9%A1%9E" title="日新酒類">日新酒類</a>（徳島県）</li>
+<li><a href="/w/index.php?title=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E5%95%86%E4%BA%8B&amp;action=edit&amp;redlink=1" class="new" title="クラウン商事 (存在しないページ)">クラウン商事</a>（沖縄県）</li>
+<li>バートン（沖縄県、廃業）</li>
+<li><a href="/wiki/%E3%83%98%E3%83%AA%E3%82%AA%E3%82%B9%E9%85%92%E9%80%A0" title="ヘリオス酒造">ヘリオス酒造</a>（沖縄県）</li>
+</ul>
+<h4><span class="mw-headline" id=".E3.81.9D.E3.81.AE.E4.BB.96.E3.81.AE.E7.94.A3.E5.9C.B0">その他の産地</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=24" title="節を編集: その他の産地">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<dl>
+<dt>ドイツのウイスキー</dt>
+<dd><a href="/wiki/%E3%83%89%E3%82%A4%E3%83%84" title="ドイツ">ドイツ</a>ではスコッチ原酒を国内で熟成・ブレンド・瓶詰めしたレベルの高いウイスキーを生産している。</dd>
+<dt>タイ・ウイスキー</dt>
+<dd><a href="/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD" title="タイ王国">タイ</a>でのみ生産されている。ウイスキーとは呼ばれているが、<a href="/wiki/%E7%84%BC%E9%85%8E" title="焼酎">焼酎</a>の仲間である。<a href="/wiki/%E7%B1%B3" title="米">米</a>と糖蜜を主原料とし、発酵させたものを蒸留し、ウイスキーの香りを付けている。他のウイスキーより甘みが強いのが特徴。代表的なウイスキーの銘柄は"メコン"、"センソム"、"リージェンシー"、"ブラックキャット"、"ブラックタイ"、"センティップ"などである。日本で一般的な飲み方の外に、特殊なものとして、ストレートを半口と<a href="/wiki/%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC" title="ミネラルウォーター">ミネラルウォーター</a>を交互に飲む方法、タイ<a href="/wiki/%E6%BC%A2%E6%96%B9%E8%96%AC" title="漢方薬">漢方薬</a>などの<a href="/wiki/%E8%96%AC%E8%8D%89" title="薬草">薬草</a>と混ぜて上記の方法で飲む<b>ヤードーン</b>と呼ばれる方法、<a href="/wiki/%E3%83%9A%E3%83%97%E3%82%B7%E3%82%B3%E3%83%BC%E3%83%A9" title="ペプシコーラ">ペプシコーラ</a>や<a href="/wiki/%E3%82%AA%E3%83%AD%E3%83%8A%E3%83%9F%E3%83%B3C" class="mw-redirect" title="オロナミンC">オロナミンC</a>（タイでも広く販売されている）で割る方法などがある。</dd>
+<dt>インドのウイスキー</dt>
+<dd><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89" title="インド">インド</a>ではイギリス植民地時代からスコッチウイスキーの製法に準じたウイスキーを製造しており、現在では<a href="/w/index.php?title=5%E5%A4%A7%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="5大ウイスキー (存在しないページ)">5大ウイスキー</a>に次ぐ生産量を誇っている。</dd>
+</dl>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=25" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="noprint" style="float:right; font-size:90%;">
+<tr>
+<td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">ヘルプ</span></a>]</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id=".E6.B3.A8.E9.87.88">注釈</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=26" title="節を編集: 注釈">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><small><a href="/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E8%8B%B1%E8%AA%9E" title="イギリス英語">イギリス英語</a>発音：</small><a href="/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7" title="国際音声記号"><span title="国際音声記号 (IPA)"><span class="IPA" style="font-size: 103%;">[ˈwɪski]</span></span></a></span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text"><small><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%8B%B1%E8%AA%9E" title="アメリカ英語">アメリカ英語</a>発音：</small><a href="/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7" title="国際音声記号"><span title="国際音声記号 (IPA)"><span class="IPA" style="font-size: 103%;">[ˈwɪski]</span></span></a>、<a href="/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7" title="国際音声記号"><span title="国際音声記号 (IPA)"><span class="IPA" style="font-size: 103%;">[ˈhwɪski]</span></span></a></span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text"><small>フランス語発音:</small> <a href="/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7" title="国際音声記号"><span title="国際音声記号 (IPA)"><span class="IPA" style="font-size: 103%;">[odvi]</span></span></a></span></li>
+<li id="cite_note-malted_cereal-7">^ <a href="#cite_ref-malted_cereal_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-malted_cereal_7-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text">酒税法第3条第15号イおよびロに規定する「発芽させた穀類」には、発芽させた穀類を糖化させたもの（糖化液）を含むこととして取り扱われる。</span></li>
+<li id="cite_note-alcohol_after_distillation-9">^ <a href="#cite_ref-alcohol_after_distillation_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-alcohol_after_distillation_9-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text">酒税法第3条第15号イ及びロに規定する「留出時のアルコール分」とは、蒸留機から留出しつつあるときのアルコール分をいうものではなく、酒類が製成されたときのその容器に容在する酒類のアルコール分をいうこととして取り扱われる。</span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text">酒税法第3条第15号ハに規定する色素は、当分の間<a href="/wiki/%E3%82%AB%E3%83%A9%E3%83%A1%E3%83%AB" class="mw-redirect" title="カラメル">カラメル</a>に限るものとされる。</span></li>
+<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text">酒税法第3条第15号ハに規定するウイスキーに、アルコール、スピリッツ、香味料、色素または水を加えた場合において、当該ウイスキーおよび加えたスピリッツに含まれる同号イおよびロに規定するウイスキーのアルコール分の総量がアルコール、スピリッツまたは香味料を加えた後の酒類のアルコール分の総量の100分の10以上のものは、同号ハに規定するウイスキーに該当する。なお、法第3条第15号イまたはロに規定するウイスキーが含まれている酒類を同号ハに規定するウイスキーの原料等とするために未納税移出する場合には、移入製造場において、当該酒類に含まれる同号イまたはロに規定するウイスキーのアルコール分の総量を把握する必要があるため、移出製造場において、当該酒類の製造方法を明らかにさせるものとされる。</span></li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> <span class="reference-text">体積濃度95%に相当。</span></li>
+<li id="cite_note-13"><b><a href="#cite_ref-13">^</a></b> <span class="reference-text">体積濃度40%に相当。</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id=".E5.87.BA.E5.85.B8">出典</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=27" title="節を編集: 出典">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><span class="PDFlink"><a rel="nofollow" class="external text" href="http://www.nta.go.jp/shiraberu/senmonjoho/sake/qa/01/01.pdf">酒税法における酒類の分類及び定義</a></span> <span style="font-size:smaller">(<a href="/wiki/Portable_Document_Format" title="Portable Document Format">PDF</a>)</span> （<a href="/wiki/%E5%9B%BD%E7%A8%8E%E5%BA%81" title="国税庁">国税庁</a>）</span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text">坂口 謹一郎 『世界の酒』 p.175 岩波書店 1957年1月17日発行</span></li>
+<li id="cite_note-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998200-201-5"><b><a href="#cite_ref-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998200-201_5-0">^</a></b> <span class="reference-text"><a href="#CITEREF.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998">トゥーサン＝サマ 1998</a>, pp.&#160;200-201.</span></li>
+<li id="cite_note-NTA-vocabulary-8">^ <a href="#cite_ref-NTA-vocabulary_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NTA-vocabulary_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NTA-vocabulary_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NTA-vocabulary_8-3"><sup><i><b>d</b></i></sup></a> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nta.go.jp/shiraberu/zeiho-kaishaku/tsutatsu/kihon/sake/2-02.htm">第3条 その他の用語の定義</a>（国税庁）</span></li>
+<li id="cite_note-14"><b><a href="#cite_ref-14">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.theanswerbank.co.uk/Article2755.html">Who invented whisky - the Scots or the Irish?</a>” (英語). <span title="">2007年2月18日</span>閲覧。</cite></span></li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> <span class="reference-text">Whisky: Technology, Production and Marketing: Handbook of Alcoholic Beverages Series p2 Academic Press 2003</span></li>
+<li id="cite_note-16"><b><a href="#cite_ref-16">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.whisky.com/history.html">History of Scotch Whisky</a>” (英語). <span title="">2007年2月16日</span>閲覧。</cite></span></li>
+<li id="cite_note-17"><b><a href="#cite_ref-17">^</a></b> <span class="reference-text"><cite style="font-style:normal">David J. Hanson, Ph.D.. “<a rel="nofollow" class="external text" href="http://www2.potsdam.edu/hansondj/Controversies/1114796842.html">History of Alcohol and Drinking around the World</a>” (英語). <span title="">2007年1月23日</span>閲覧。</cite></span></li>
+<li id="cite_note-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998199-18"><b><a href="#cite_ref-FOOTNOTE.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998199_18-0">^</a></b> <span class="reference-text"><a href="#CITEREF.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998">トゥーサン＝サマ 1998</a>, p.&#160;199.</span></li>
+<li id="cite_note-19"><b><a href="#cite_ref-19">^</a></b> <span class="reference-text">梅田晴夫『Theウイスキー』（読売新聞社、1975年）、160頁。</span></li>
+<li id="cite_note-20"><b><a href="#cite_ref-20">^</a></b> <span class="reference-text">橋口孝司 『ウイスキーの教科書』（新星出版社、2008年）、101頁。</span></li>
+<li id="cite_note-21"><b><a href="#cite_ref-21">^</a></b> <span class="reference-text">土屋守『シングルモルトを愉しむ』（光文社〈光文社新書072〉、2002年）、64-65頁。</span></li>
+<li id="cite_note-22"><b><a href="#cite_ref-22">^</a></b> <span class="reference-text">古賀邦正『ウイスキーの科学 知るほどに飲みたくなる「熟成」の神秘』（講談社〈ブルーバックス B-1658〉、2009年）、26頁。</span></li>
+<li id="cite_note-23"><b><a href="#cite_ref-23">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.suntory.co.jp/whisky/dictionary/atoz/ka.html#a07">サントリー公式サイト・ウイスキーあれこれ辞典</a></span></li>
+<li id="cite_note-24"><b><a href="#cite_ref-24">^</a></b> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.asahibeer.co.jp/news/2003/0730.html">http://www.asahibeer.co.jp/news/2003/0730.html</a></span></li>
+<li id="cite_note-25"><b><a href="#cite_ref-25">^</a></b> <span class="reference-text">橋口孝司『ウイスキーの教科書』（新星出版社、2008年）、101頁。</span></li>
+<li id="cite_note-hyperpress2002-26">^ <a href="#cite_ref-hyperpress2002_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hyperpress2002_26-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hyperpress2002_26-2"><sup><i><b>c</b></i></sup></a> <span class="reference-text"><cite class="book" style="font-style:normal" id="Reference-.E3.83.8F.E3.82.A4.E3.83.91.E3.83.BC.E3.83.97.E3.83.AC.E3.82.B9-2002">ハイパープレス 「ウイスキーについて」『いらっしゃいませ! 雑学居酒屋 「酒」と「つまみ」のおいしいウンチク』 PHP研究所〈PHP文庫〉、<span title="">2002年6月17日</span>、第1版第3刷、174、175ページ。<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4569577407" class="internal mw-magiclink-isbn">ISBN 4-569-57740-7</a>。</cite></span></li>
+<li id="cite_note-27"><b><a href="#cite_ref-27">^</a></b> <span class="reference-text"><cite style="font-style:normal" class="citation news"><a rel="nofollow" class="external text" href="http://www.suntory.co.jp/news/2007/9774.html">“サントリーウイスキー「響30年」が“世界最高”のブレンデッドウイスキーに”</a>. <a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC" title="サントリー">サントリー</a>. (<span title="">2007年4月19日</span>)<span style="display:none;">. <a rel="nofollow" class="external free" href="http://www.suntory.co.jp/news/2007/9774.html">http://www.suntory.co.jp/news/2007/9774.html</a></span> <span class="reference-accessdate"><span title="">2008年8月17日</span>閲覧。</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%80%8C%E9%9F%BF30%E5%B9%B4%E3%80%8D%E3%81%8C%E2%80%9C%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E2%80%9D%E3%81%AE%E3%83%96%E3%83%AC%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AB&amp;rft.atitle=&amp;rft.date=%3Cspan+title%3D%22%22%3E2007%E5%B9%B44%E6%9C%8819%E6%97%A5%3C%2Fspan%3E&amp;rft.pub=%5B%5B%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%5D%5D&amp;rft_id=http%3A%2F%2Fwww.suntory.co.jp%2Fnews%2F2007%2F9774.html&amp;rfr_id=info:sid/ja.wikipedia.org:%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><b><a href="#cite_ref-28">^</a></b> <span class="reference-text"><cite style="font-style:normal" class="citation news"><a rel="nofollow" class="external text" href="http://search.japantimes.co.jp/cgi-bin/fg20080523lc.html">“Japanese malt scotches rivals:World Whisky Awards (WWA) in Glasgow, Scotland, April 2008, awarded the top accolade to Nikka's Yoichi 20 Years Old”</a> (英語). <a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA" title="ジャパンタイムズ">ジャパンタイムズ</a>. (<span title="">2008年5月23日</span>)<span style="display:none;">. <a rel="nofollow" class="external free" href="http://search.japantimes.co.jp/cgi-bin/fg20080523lc.html">http://search.japantimes.co.jp/cgi-bin/fg20080523lc.html</a></span> <span class="reference-accessdate"><span title="">2008年8月17日</span>閲覧。</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Japanese+malt+scotches+rivals%3AWorld+Whisky+Awards+%28WWA%29+in+Glasgow%2C+Scotland%2C+April+2008%2C+awarded+the+top+accolade+to+Nikka%27s+Yoichi+20+Years+Old&amp;rft.atitle=&amp;rft.date=%3Cspan+title%3D%22%22%3E2008%E5%B9%B45%E6%9C%8823%E6%97%A5%3C%2Fspan%3E&amp;rft.pub=%5B%5B%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA%5D%5D&amp;rft_id=http%3A%2F%2Fsearch.japantimes.co.jp%2Fcgi-bin%2Ffg20080523lc.html&amp;rfr_id=info:sid/ja.wikipedia.org:%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><b><a href="#cite_ref-29">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.whisk-e.co.jp/news/2007041901.html">2007年 ワールド・ウイスキー・アワード6部門全ての世界最優秀賞を発表</a>、株式会社 ウィスク・イー</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=28" title="節を編集: 参考文献">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite style="font-style:normal" class="citation" id="CITEREF.E3.83.9E.E3.82.B0.E3.83.AD.E3.83.B3.E3.83.8C.E3.83.BB.E3.83.88.E3.82.A5.E3.83.BC.E3.82.B5.E3.83.B3.EF.BC.9D.E3.82.B5.E3.83.9E1998">マグロンヌ・トゥーサン＝サマ; 玉村豊男訳 『世界食物百科』 原書房、<span title="">1998年</span>。<a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4562030534" title="特別:文献資料/4562030534">4562030534</a>。</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E4%B8%96%E7%95%8C%E9%A3%9F%E7%89%A9%E7%99%BE%E7%A7%91&amp;rft.aulast=%E3%83%9E%E3%82%B0%E3%83%AD%E3%83%B3%E3%83%8C%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B5%E3%83%B3%EF%BC%9D%E3%82%B5%E3%83%9E&amp;rft.au=%E3%83%9E%E3%82%B0%E3%83%AD%E3%83%B3%E3%83%8C%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B5%E3%83%B3%EF%BC%9D%E3%82%B5%E3%83%9E&amp;rft.date=1998&amp;rft.pub=%E5%8E%9F%E6%9B%B8%E6%88%BF&amp;rft.isbn=4562030534&amp;rfr_id=info:sid/ja.wikipedia.org:%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit&amp;section=29" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Whisky?uselang=ja">ウイスキー</a></span></b>に関連するメディアがあります。</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%A3%B2%E6%96%99" class="mw-redirect" title="アルコール飲料">アルコール飲料</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88" title="ウイスキーキャット">ウイスキーキャット</a></li>
+<li><a href="/wiki/%E5%AF%86%E9%80%A0%E9%85%92" title="密造酒">密造酒</a></li>
+<li><a href="/wiki/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%88%E3%83%AB" title="スキットル">スキットル</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81" title="ウィスキー・スピーチ">ウィスキー・スピーチ</a></li>
+</ul>
+<table class="navbox" style="border-collapse:collapse;;">
+<tr>
+<td>
+<table class="collapsible collapsed" style="background:transparent;color:inherit;border:1px solid #fff;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<th style="background:#ebe17c;" colspan="2" class="navbox-title">
+<div style="float:left;width6em;text-align:left;">
+<div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;background:#ebe17c;border:none;">
+<ul style="display:inline;">
+<li><a href="/wiki/Template:%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%A3%B2%E6%96%99" title="Template:アルコール飲料"><span title="このテンプレートを表示します" style="font-size:125%;background:#ebe17c;border:none;">表</span></a></li>
+<li><a href="/wiki/Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%A3%B2%E6%96%99" title="Template‐ノート:アルコール飲料"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;background:#ebe17c;border:none;">話</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:アルコール飲料&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;background:#ebe17c;border:none;">編</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:アルコール飲料&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;background:#ebe17c;border:none;">歴</span></a></li>
+</ul>
+</div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E9%85%92" title="酒">アルコール飲料</a></span></th>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;"><a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB" title="アルコール">アルコール</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A8%E3%82%BF%E3%83%8E%E3%83%BC%E3%83%AB" title="エタノール">エタノール</a> - <a href="/wiki/%E3%82%A8%E3%82%BF%E3%83%8E%E3%83%BC%E3%83%AB%E3%81%A8%E4%BA%BA%E4%BD%93" class="mw-redirect" title="エタノールと人体">人体に対する影響</a> - <a href="/wiki/%E9%85%94%E3%81%84" title="酔い">酔い</a> - <a href="/wiki/%E4%BA%8C%E6%97%A5%E9%85%94%E3%81%84" title="二日酔い">二日酔い</a> - <a href="/wiki/%E6%80%A5%E6%80%A7%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E4%B8%AD%E6%AF%92" title="急性アルコール中毒">急性アルコール中毒</a> - <a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E4%B9%B1%E7%94%A8" title="アルコール乱用">アルコール乱用</a> - <a href="/wiki/%E9%86%B8%E9%80%A0" title="醸造">醸造</a> - <a href="/wiki/%E5%AF%86%E9%80%A0%E9%85%92" title="密造酒">密造酒</a> - <a href="/wiki/%E9%A3%B2%E9%85%92%E3%81%AE%E5%8C%96%E5%AD%A6" title="飲酒の化学">飲酒の化学</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;"><a href="/wiki/%E9%86%B8%E9%80%A0%E9%85%92" title="醸造酒">醸造酒</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%83%93%E3%83%BC%E3%83%AB" title="ビール">ビール</a> - <a href="/wiki/%E3%83%A9%E3%82%AC%E3%83%BC_(%E3%83%93%E3%83%BC%E3%83%AB)" title="ラガー (ビール)">ラガー</a> - <a href="/wiki/%E3%82%A8%E3%83%BC%E3%83%AB_(%E3%83%93%E3%83%BC%E3%83%AB)" title="エール (ビール)">エール</a> - <a href="/wiki/%E7%99%BD%E3%83%93%E3%83%BC%E3%83%AB" title="白ビール">白ビール</a> - <a href="/wiki/%E3%83%A9%E3%83%B3%E3%83%93%E3%83%83%E3%82%AF" title="ランビック">ランビック</a> - <a href="/wiki/%E7%94%9F%E3%83%93%E3%83%BC%E3%83%AB" title="生ビール">生ビール</a> - <a href="/wiki/%E7%AC%AC%E4%B8%89%E3%81%AE%E3%83%93%E3%83%BC%E3%83%AB" title="第三のビール">第三のビール</a> - <a href="/wiki/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E9%86%B8%E9%80%A0%E9%85%92" title="その他の醸造酒">その他の醸造酒</a> - <a href="/wiki/%E7%99%BA%E6%B3%A1%E9%85%92" title="発泡酒">発泡酒</a> - <a href="/wiki/%E3%83%AF%E3%82%A4%E3%83%B3" title="ワイン">ワイン</a> - <a href="/wiki/%E7%B4%94%E7%B1%B3%E9%85%92" class="mw-redirect" title="純米酒">純米酒</a> - <a href="/wiki/%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%B3" title="ライスワイン">米酒</a> - <a href="/wiki/%E3%82%B7%E3%83%BC%E3%83%89%E3%83%AB" title="シードル">シードル</a> - <a href="/wiki/%E8%9C%82%E8%9C%9C%E9%85%92" title="蜂蜜酒">蜂蜜酒</a> - <a href="/wiki/%E3%83%9A%E3%83%AA%E3%83%BC_(%E9%85%92)" title="ペリー (酒)">ペリー</a> - <a href="/wiki/%E3%83%9E%E3%83%83%E3%82%B3%E3%83%AA" title="マッコリ">マッコリ</a> - <a href="/wiki/%E9%BB%84%E9%85%92" title="黄酒">黄酒</a> - <a href="/wiki/%E7%B4%B9%E8%88%88%E9%85%92" title="紹興酒">紹興酒</a> - <a href="/wiki/%E3%82%B5%E3%83%88" title="サト">サト</a> - <a href="/wiki/%E3%83%81%E3%83%81%E3%83%A3" title="チチャ">チチャ</a> - <a href="/wiki/%E3%83%88%E3%83%8E%E3%83%88" title="トノト">トノト</a> - <a href="/wiki/%E3%83%81%E3%83%A3%E3%83%B3_(%E9%85%92)" title="チャン (酒)">チャン</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;"><a href="/wiki/%E8%92%B8%E7%95%99%E9%85%92" title="蒸留酒">蒸留酒</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%93%E3%83%83%E3%83%88" title="アクアビット">アクアビット</a> - <a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%92" title="アルヒ">アルヒ</a> - <a href="/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AA%E3%82%AB%E3%83%BC" title="ホワイトリカー">ホワイトリカー</a> - <strong class="selflink">ウイスキー</strong> - <a href="/wiki/%E3%83%90%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="バーボン・ウイスキー">バーボン・ウイスキー</a> - <a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ライ・ウイスキー">ライ・ウイスキー</a> - <a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アイリッシュ・ウイスキー">アイリッシュ・ウイスキー</a> - <a href="/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ウェルシュ・ウイスキー">ウェルシュ・ウイスキー</a> - <a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="カナディアン・ウイスキー">カナディアン・ウイスキー</a> - <a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ジャパニーズ・ウイスキー">ジャパニーズ・ウイスキー</a> - <a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%81%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="スコッチ・ウイスキー">スコッチ・ウイスキー</a> - <a href="/wiki/%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="テネシー・ウイスキー">テネシー・ウイスキー</a> - <a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="コーン・ウイスキー">コーン・ウイスキー</a> - <a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アメリカン・ウイスキー">アメリカン・ウイスキー</a> - <a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB" title="ウォッカ">ウォッカ</a> - <a href="/wiki/%E3%82%B9%E3%83%94%E3%83%AA%E3%82%BF%E3%82%B9" title="スピリタス">スピリタス</a> - <a href="/wiki/%E3%82%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%82%B5" title="カシャッサ">カシャッサ</a> - <a href="/wiki/%E3%82%AD%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%83%E3%82%B5%E3%83%BC" title="キルシュヴァッサー">キルシュヴァッサー</a> - <a href="/wiki/%E3%82%B3%E3%83%AB%E3%83%B3" title="コルン">コルン</a> - <a href="/wiki/%E7%84%BC%E9%85%8E" title="焼酎">焼酎</a> - <a href="/wiki/%E6%B3%A1%E7%9B%9B" title="泡盛">泡盛</a> - <a href="/wiki/%E3%82%B8%E3%83%B3_(%E8%92%B8%E7%95%99%E9%85%92)" title="ジン (蒸留酒)">ジン</a> - <a href="/wiki/%E7%99%BD%E9%85%92_(%E4%B8%AD%E5%9B%BD%E9%85%92)" title="白酒 (中国酒)">白酒</a> - <a href="/wiki/%E8%8C%85%E5%8F%B0%E9%85%92" title="茅台酒">茅台酒</a> - <a href="/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC" title="ブランデー">ブランデー</a> - <a href="/wiki/%E3%82%B3%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF" title="コニャック">コニャック</a> - <a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC)" title="アルマニャック (ブランデー)">アルマニャック</a> - <a href="/wiki/%E3%82%AB%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%89%E3%82%B9" title="カルヴァドス">カルヴァドス</a> - <a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%91" title="グラッパ">グラッパ</a> - <a href="/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%8B" title="シンガニ">シンガニ</a> - <a href="/wiki/%E3%83%94%E3%82%B9%E3%82%B3" title="ピスコ">ピスコ</a> - <a href="/wiki/%E3%83%A1%E3%82%B9%E3%82%AB%E3%83%AB" title="メスカル">メスカル</a> - <a href="/wiki/%E3%83%86%E3%82%AD%E3%83%BC%E3%83%A9" title="テキーラ">テキーラ</a> - <a href="/wiki/%E3%83%A9%E3%82%AD%E3%83%A4_(%E9%A3%B2%E6%96%99)" title="ラキヤ (飲料)">ラキヤ</a> - <a href="/wiki/%E3%83%A9%E3%82%AF" title="ラク">ラク</a> - <a href="/wiki/%E3%83%A9%E3%83%A0%E9%85%92" title="ラム酒">ラム酒</a> - <a href="/wiki/%E3%83%AF%E3%83%A9%E3%82%AE" title="ワラギ">ワラギ</a> - <a href="/wiki/%E4%B8%AD%E6%80%A7%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84" title="中性スピリッツ">中性スピリッツ</a> - <a href="/wiki/%E3%82%A2%E3%83%A9%E3%83%83%E3%82%AF" title="アラック">アラック</a> - <a href="/wiki/%E3%82%B9%E3%83%AA%E3%83%B4%E3%82%A9%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84" title="スリヴォヴィッツ">スリヴォヴィッツ</a> - <a href="/wiki/%E3%82%BD%E3%82%B8%E3%83%A5" title="ソジュ">ソジュ</a> - <a href="/wiki/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%B3" title="ブレンヴィーン">ブレンヴィーン</a> - スタルカ</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;"><a href="/wiki/%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB" title="リキュール">リキュール</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/Category:%E9%A6%99%E8%8D%89%E3%83%BB%E8%96%AC%E8%8D%89%E7%B3%BB%E3%81%AE%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB" title="Category:香草・薬草系のリキュール">香草・薬草系</a> - <a href="/wiki/Category:%E6%9E%9C%E5%AE%9F%E7%B3%BB%E3%81%AE%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB" title="Category:果実系のリキュール">果実系</a> - <a href="/wiki/Category:%E3%83%8A%E3%83%83%E3%83%84%E3%83%BB%E7%A8%AE%E5%AD%90%E7%B3%BB%E3%81%AE%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB" title="Category:ナッツ・種子系のリキュール">ナッツ・種子系</a> - <a href="/wiki/Category:%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB" title="Category:リキュール">その他のリキュール</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;"><a href="/wiki/%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="カクテル">カクテル</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/Category:%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:ウォッカベースのカクテル">ウォッカベース</a> - <a href="/wiki/Category:%E3%82%B8%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:ジンベースのカクテル">ジンベース</a> - <a href="/wiki/Category:%E3%83%A9%E3%83%A0%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:ラムベースのカクテル">ラムベース</a> - <a href="/wiki/Category:%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:ウイスキーベースのカクテル">ウイスキーベース</a> - <a href="/wiki/Category:%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:ブランデーベースのカクテル">ブランデーベース</a> - <a href="/wiki/Category:%E3%83%86%E3%82%AD%E3%83%BC%E3%83%A9%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:テキーラベースのカクテル">テキーラベース</a> - <a href="/wiki/Category:%E3%83%93%E3%83%BC%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:ビールベースのカクテル">ビールベース</a> - <a href="/wiki/Category:%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:リキュールベースのカクテル">リキュールベース</a> - <a href="/wiki/Category:%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:ワインベースのカクテル">ワインベース</a> - <a href="/wiki/%E3%83%8E%E3%83%B3%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="ノンアルコールカクテル">ノンアルコール</a> - <a href="/wiki/%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%E3%81%AE%E4%B8%80%E8%A6%A7" title="カクテルの一覧">カクテルの一覧</a> - <a href="/wiki/50%E9%9F%B3%E9%A0%86%E3%81%AE%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%E4%B8%80%E8%A6%A7" title="50音順のカクテル一覧">50音順のカクテル一覧</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;">その他</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/%E6%B7%B7%E6%88%90%E9%85%92" title="混成酒">混成酒</a> - <a href="/wiki/%E6%9E%9C%E5%AE%9F%E9%85%92" title="果実酒">果実酒</a> - <a href="/wiki/%E7%94%98%E5%91%B3%E6%9E%9C%E5%AE%9F%E9%85%92" title="甘味果実酒">甘味果実酒</a> - <a href="/wiki/%E6%A2%85%E9%85%92" title="梅酒">梅酒</a> - <a href="/wiki/%E3%81%BF%E3%82%8A%E3%82%93" title="みりん">みりん</a> - <a href="/wiki/%E6%9C%AC%E7%9B%B4%E3%81%97" title="本直し">本直し</a> - <a href="/wiki/%E6%96%99%E7%90%86%E9%85%92" title="料理酒">料理酒</a> - <a href="/wiki/%E3%81%A9%E3%81%B6%E3%82%8D%E3%81%8F" title="どぶろく">どぶろく</a> - <a href="/wiki/%E9%A6%AC%E4%B9%B3%E9%85%92" title="馬乳酒">馬乳酒</a> - <a href="/wiki/%E7%8C%BF%E9%85%92" title="猿酒">猿酒</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E9%85%92" title="日本酒">日本酒</a> - <a href="/wiki/%E5%90%88%E6%88%90%E6%B8%85%E9%85%92" title="合成清酒">合成清酒</a> - <a href="/wiki/%E4%B8%89%E5%80%8D%E5%A2%97%E9%86%B8%E6%B8%85%E9%85%92" title="三倍増醸清酒">三倍増醸清酒</a> - <a href="/wiki/%E7%81%B0%E6%8C%81%E9%85%92" title="灰持酒">灰持酒</a> - <a href="/wiki/%E7%B7%B4%E9%85%92" title="練酒">練酒</a> - <a href="/wiki/%E3%82%AF%E3%83%AF%E3%82%B9" title="クワス">クワス</a> - <a href="/wiki/%E3%83%A1%E3%83%89%E3%83%B4%E3%83%BC%E3%83%8F" title="メドヴーハ">メドヴーハ</a> - <a href="/wiki/%E3%83%9C%E3%82%B6" title="ボザ">ボザ</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;">関連法規</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E6%9C%AA%E6%88%90%E5%B9%B4%E8%80%85%E9%A3%B2%E9%85%92%E7%A6%81%E6%AD%A2%E6%B3%95" title="未成年者飲酒禁止法">未成年者飲酒禁止法</a> - <a href="/wiki/%E9%85%92%E7%A8%8E%E6%B3%95" title="酒税法">酒税法</a> - <a href="/wiki/%E9%A3%B2%E9%85%92%E9%81%8B%E8%BB%A2" title="飲酒運転">飲酒運転</a>（<a href="/wiki/%E5%8D%B1%E9%99%BA%E9%81%8B%E8%BB%A2%E8%87%B4%E6%AD%BB%E5%82%B7%E7%BD%AA" title="危険運転致死傷罪">危険運転致死傷罪</a>） - <a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E6%86%B2%E6%B3%95%E4%BF%AE%E6%AD%A3%E7%AC%AC18%E6%9D%A1" title="アメリカ合衆国憲法修正第18条">アメリカ合衆国憲法修正第18条</a> - <a href="/wiki/%E3%83%9C%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%83%89%E6%B3%95" title="ボルステッド法">ボルステッド法</a> - <a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%A6%81%E9%85%92%E6%B3%95" title="アメリカ合衆国における禁酒法">アメリカ合衆国における禁酒法</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background:#f5f2ed;;">関連項目</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/%E6%B0%B4" title="水">水</a> - <a href="/wiki/%E5%A4%A7%E9%BA%A6" class="mw-redirect" title="大麦">大麦</a> - <a href="/wiki/%E3%83%A9%E3%82%A4%E9%BA%A6" class="mw-redirect" title="ライ麦">ライ麦</a> - <a href="/wiki/%E9%BA%A6%E8%8A%BD" title="麦芽">麦芽</a> - <a href="/wiki/%E3%82%B3%E3%83%A1" class="mw-redirect" title="コメ">コメ</a> - <a href="/wiki/%E3%82%B5%E3%83%88%E3%82%A6%E3%82%AD%E3%83%93" title="サトウキビ">サトウキビ</a> - <a href="/wiki/%E3%83%96%E3%83%89%E3%82%A6" title="ブドウ">ブドウ</a> - <a href="/wiki/%E9%85%B5%E6%AF%8D" title="酵母">酵母</a> - <a href="/wiki/%E9%86%97%E9%85%B5" class="mw-redirect" title="醗酵">醗酵</a> - <a href="/wiki/%E8%92%B8%E7%95%99" title="蒸留">蒸留</a> - <a href="/wiki/%E6%A8%BD" title="樽">樽</a> - <a href="/wiki/%E6%BF%BE%E9%81%8E" class="mw-redirect" title="濾過">濾過</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-collapse:collapse;;">
+<tr>
+<td>
+<table class="hlist hlist-pipe collapsible collapsed" style="background:transparent;color:inherit;border:1px solid #fff;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<th style="" colspan="2" class="navbox-title">
+<div style="float:left;width6em;text-align:left;">
+<div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;border:none;">
+<ul style="display:inline;">
+<li><a href="/wiki/Template:%E8%92%B8%E7%95%99%E9%85%92" title="Template:蒸留酒"><span title="このテンプレートを表示します" style="font-size:125%;border:none;">表</span></a></li>
+<li><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E8%92%B8%E7%95%99%E9%85%92&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:蒸留酒 (存在しないページ)"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;border:none;">話</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:蒸留酒&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;border:none;">編</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:蒸留酒&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;border:none;">歴</span></a></li>
+</ul>
+</div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E8%92%B8%E7%95%99%E9%85%92" title="蒸留酒">蒸留酒</a></span></th>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E6%9E%9C%E7%89%A9" title="果物">果物</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"></div>
+<table class="navbox-subgroup" style="margin:-2px 0;;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%AA%E3%83%B3%E3%82%B4" title="リンゴ">リンゴ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC" title="アップル・ブランデー">アップル・ブランデー</a> - <a href="/wiki/%E3%82%AB%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%89%E3%82%B9" title="カルヴァドス">カルヴァドス</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%82%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84" title="カシューナッツ">カシューアップル</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="https://en.wikipedia.org/wiki/Feni_(liquor)" class="extiw" title="en:Feni (liquor)">Feni</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%82%B3%E3%82%B3%E3%83%8A%E3%83%83%E3%83%84" title="ココナッツ">ココナッツ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A2%E3%83%A9%E3%83%83%E3%82%AF" title="アラック">アラック</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%96%E3%83%89%E3%82%A6" title="ブドウ">ブドウ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC)" title="アルマニャック (ブランデー)">アルマニャック</a> - <a href="/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC" title="ブランデー">ブランデー</a> - <a href="/wiki/%E3%82%B3%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF" title="コニャック">コニャック</a> - <a href="/wiki/%E3%83%94%E3%82%B9%E3%82%B3" title="ピスコ">ピスコ</a> - <a href="/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%8B" title="シンガニ">シンガニ</a> - <a href="/wiki/%E3%82%AA%E3%83%AB%E3%83%9B" title="オルホ">オルホ</a> - <a href="/wiki/%E3%82%B8%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2" title="ジヴァニア">ジヴァニア</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%81%99%E3%82%82%E3%82%82" class="mw-redirect" title="すもも">すもも</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%B9%E3%83%AA%E3%83%B4%E3%82%A9%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84" title="スリヴォヴィッツ">スリヴォヴィッツ</a> - <a href="https://en.wikipedia.org/wiki/%C8%9Auic%C4%83" class="extiw" title="en:Țuică">Țuică</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;">Various fruits</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="https://en.wikipedia.org/wiki/Eau_de_vie" class="extiw" title="en:Eau de vie">Eau de vie</a> - <a href="/wiki/%E3%82%AD%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%83%E3%82%B5%E3%83%BC" title="キルシュヴァッサー">キルシュヴァッサー</a> - <a href="/w/index.php?title=%E3%83%8A%E3%83%AC%E3%83%95%E3%82%AB&amp;action=edit&amp;redlink=1" class="new" title="ナレフカ (存在しないページ)">ナレフカ</a> - <a href="/w/index.php?title=%E3%83%91%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AB&amp;action=edit&amp;redlink=1" class="new" title="パーリンカ (存在しないページ)">パーリンカ</a> - <a href="/wiki/%E3%83%A9%E3%82%AD%E3%83%A4_(%E9%A3%B2%E6%96%99)" title="ラキヤ (飲料)">ラキヤ</a> - <a href="/w/index.php?title=%E3%82%B7%E3%83%A5%E3%83%8A%E3%83%83%E3%83%97%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="シュナップス (存在しないページ)">シュナップス</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%9D%E3%83%9E%E3%83%BC%E3%82%B9" title="ポマース">ポマース</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%83%81%E3%83%A3%E3%83%81%E3%83%A3_(%E9%A3%B2%E6%96%99)" title="チャチャ (飲料)">チャチャ</a> - <a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%91" title="グラッパ">グラッパ</a> - <a href="/wiki/%E3%83%9D%E3%83%9E%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC" title="ポマース・ブランデー">マール</a> - <a href="https://en.wikipedia.org/wiki/Tsikoudia" class="extiw" title="en:Tsikoudia">Tsikoudia</a> - <a href="https://en.wikipedia.org/wiki/Tsipouro" class="extiw" title="en:Tsipouro">Tsipouro</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E7%A9%80%E7%89%A9" title="穀物">穀物</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"></div>
+<table class="navbox-subgroup" style="margin:-2px 0;;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E5%A4%A7%E9%BA%A6" class="mw-redirect" title="大麦">大麦</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アイリッシュ・ウイスキー">アイリッシュ・ウイスキー</a> - <a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ジャパニーズ・ウイスキー">ジャパニーズ・ウイスキー</a> - <a href="/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%81%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="スコッチ・ウイスキー">スコッチ・ウイスキー</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7" title="トウモロコシ">トウモロコシ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%83%90%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="バーボン・ウイスキー">バーボン・ウイスキー</a> - <a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="コーン・ウイスキー">コーン・ウイスキー</a> - <a href="/wiki/%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="テネシー・ウイスキー">テネシー・ウイスキー</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E7%B1%B3" title="米">米</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E6%B3%A1%E7%9B%9B" title="泡盛">泡盛</a> - <a href="https://en.wikipedia.org/wiki/Cheongju_(wine)" class="extiw" title="en:Cheongju (wine)">Cheongju</a> - <a href="/wiki/%E7%99%BD%E9%85%92_(%E6%97%A5%E6%9C%AC%E9%85%92)" title="白酒 (日本酒)">白酒 (日本酒)</a> - <a href="/wiki/%E7%84%BC%E9%85%8E" title="焼酎">焼酎</a> - <a href="/wiki/%E3%82%BD%E3%82%B8%E3%83%A5" title="ソジュ">ソジュ</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%A9%E3%82%A4%E9%BA%A6" class="mw-redirect" title="ライ麦">ライ麦</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%B3%E3%83%AB%E3%83%B3" title="コルン">コルン</a> - <a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ライ・ウイスキー">ライ・ウイスキー</a> - <a href="/w/index.php?title=%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%AB&amp;action=edit&amp;redlink=1" class="new" title="スタルカ (存在しないページ)">スタルカ</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7" title="モロコシ">サトウモロコシ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E7%99%BD%E9%85%92_(%E4%B8%AD%E5%9B%BD%E9%85%92)" title="白酒 (中国酒)">白酒 (中国酒)</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;">Multiple grains</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アメリカン・ウイスキー">アメリカン・ウイスキー</a> - <a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="カナディアン・ウイスキー">カナディアン・ウイスキー</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;">その他</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"></div>
+<table class="navbox-subgroup" style="margin:-2px 0;;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%82%A2%E3%82%AC%E3%83%99" class="mw-redirect" title="アガベ">アガベ</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%83%A1%E3%82%B9%E3%82%AB%E3%83%AB" title="メスカル">メスカル</a> - <a href="/wiki/%E3%83%86%E3%82%AD%E3%83%BC%E3%83%A9" title="テキーラ">テキーラ</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;"><a href="/wiki/%E3%82%B5%E3%83%88%E3%82%A6%E3%82%AD%E3%83%93" title="サトウキビ">サトウキビ</a>、<a href="/wiki/%E7%B3%96%E8%9C%9C" title="糖蜜">糖蜜</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em"><a href="https://en.wikipedia.org/wiki/Aguardiente" class="extiw" title="en:Aguardiente">Aguardiente</a> - <a href="/wiki/%E3%82%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%82%B5" title="カシャッサ">カシャッサ</a> - <a href="https://en.wikipedia.org/wiki/Clairin" class="extiw" title="en:Clairin">Clairin</a> - <a href="https://en.wikipedia.org/wiki/Guaro_(drink)" class="extiw" title="en:Guaro (drink)">Guaro</a> - <a href="/wiki/%E3%83%A9%E3%83%A0%E9%85%92" title="ラム酒">ラム酒</a> - <a href="https://en.wikipedia.org/wiki/Seco_Herrerano" class="extiw" title="en:Seco Herrerano">Seco Herrerano</a> - <a href="https://en.wikipedia.org/wiki/Tharra" class="extiw" title="en:Tharra">Tharra</a></div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;;">Various starches</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em"><a href="/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%93%E3%83%83%E3%83%88" title="アクアビット">アクアビット</a> - <a href="/w/index.php?title=%E3%83%9B%E3%83%AA%E3%83%BC%E3%83%AB%E3%82%AB&amp;action=edit&amp;redlink=1" class="new" title="ホリールカ (存在しないページ)">ホリールカ</a> - <a href="/w/index.php?title=%E3%83%9D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="ポイティーン (存在しないページ)">ポイティーン</a> - <a href="/wiki/%E7%84%BC%E9%85%8E" title="焼酎">焼酎</a> - <a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB" title="ウォッカ">ウォッカ</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:22898-0!*!0!!ja!4!* and timestamp 20160813033002 and revision id 60350637
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=ウイスキー&amp;oldid=60350637">https://ja.wikipedia.org/w/index.php?title=ウイスキー&amp;oldid=60350637</a>」から取得					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="Category:ウイスキー">ウイスキー</a></li><li><a href="/wiki/Category:%E8%92%B8%E7%95%99%E9%85%92" title="Category:蒸留酒">蒸留酒</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E7%AF%80%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2010%E5%B9%B41%E6%9C%88-6%E6%9C%88" title="Category:出典を必要とする節のある記事/2010年1月-6月">出典を必要とする節のある記事/2010年1月-6月</a></li><li><a href="/wiki/Category:%E7%84%A1%E5%8A%B9%E3%81%AA%E5%87%BA%E5%85%B8%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B/2014%E5%B9%B4" title="Category:無効な出典が含まれている記事/2014年">無効な出典が含まれている記事/2014年</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=edit"  title="このページを編集 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;returnto=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;oldid=60350637&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>他のプロジェクト</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Whisky" hreflang="en">コモンズ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;oldid=60350637" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q281" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;id=60350637" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Whiskey" title="アフリカーンス語: Whiskey" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D8%B3%D9%83%D9%8A" title="アラビア語: ويسكي" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%88%D9%8A%D8%B3%D9%83%D9%89" title="エジプト・アラビア語: ويسكى" lang="arz" hreflang="arz">مصرى</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Viski" title="アゼルバイジャン語: Viski" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D1%81%D0%BA%D1%96" title="ベラルーシ語: Віскі" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D1%81%D0%BA%D1%96" title="ベラルーシ語（タラシケヴィツァ）: Віскі" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D1%81%D0%BA%D0%B8" title="ブルガリア語: Уиски" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Wiski" title="ブルトン語: Wiski" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Viski" title="ボスニア語: Viski" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Whisky" title="カタロニア語: Whisky" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Whisky" title="チェコ語: Whisky" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BA%D0%B8" title="チュヴァシ語: Виски" lang="cv" hreflang="cv">Чӑвашла</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Wisgi" title="ウェールズ語: Wisgi" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Whisky" title="デンマーク語: Whisky" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Whisky" title="ドイツ語: Whisky" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/W%C4%B1ski" title="ザザキ語: Wıski" lang="diq" hreflang="diq">Zazaki</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9F%CF%85%CE%AF%CF%83%CE%BA%CE%B9" title="ギリシャ語: Ουίσκι" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Whisky" title="英語: Whisky" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Viskio" title="エスペラント語: Viskio" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Whisky" title="スペイン語: Whisky" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Viski" title="エストニア語: Viski" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Whiski" title="バスク語: Whiski" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D8%B3%DA%A9%DB%8C" title="ペルシア語: ویسکی" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Viski" title="フィンランド語: Viski" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Whisky" title="フェロー語: Whisky" lang="fo" hreflang="fo">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Whisky" title="フランス語: Whisky" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Uisce_beatha" title="アイルランド語: Uisce beatha" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Uisge-beatha" title="スコットランド・ゲール語: Uisge-beatha" lang="gd" hreflang="gd">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Whisky" title="ガリシア語: Whisky" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A1%D7%A7%D7%99" title="ヘブライ語: ויסקי" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%80" title="ヒンディー語: व्हिस्की" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Viski" title="クロアチア語: Viski" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Whisky" title="ハンガリー語: Whisky" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D5%BD%D5%AF%D5%AB" title="アルメニア語: Վիսկի" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wiski" title="インドネシア語: Wiski" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Wiskio" title="イド語: Wiskio" lang="io" hreflang="io">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Visk%C3%AD" title="アイスランド語: Viskí" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Whisky" title="イタリア語: Whisky" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%9D%E1%83%A2%E1%83%9A%E1%83%90%E1%83%9C%E1%83%93%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%95%E1%83%98%E1%83%A1%E1%83%99%E1%83%98" title="ジョージア語: შოტლანდიური ვისკი" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BF%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BF" title="カンナダ語: ವಿಸ್ಕಿ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%EC%8A%A4%ED%82%A4" title="韓国語: 위스키" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Vischium" title="ラテン語: Vischium" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Whisky" title="リンブルフ語: Whisky" lang="li" hreflang="li">Limburgs</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Viskis" title="リトアニア語: Viskis" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Viskijs" title="ラトビア語: Viskijs" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BA%D0%B8" title="マケドニア語: Виски" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%95%E0%B4%BF" title="マラヤーラム語: വിസ്കി" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%9D%E1%80%AE%E1%80%85%E1%80%80%E1%80%AE" title="ビルマ語: ဝီစကီ" lang="my" hreflang="my">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Whisky" title="オランダ語: Whisky" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Whisky" title="ノルウェー語(ニーノシュク): Whisky" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Whisky" title="ノルウェー語: Whisky" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Whisky" title="オック語: Whisky" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Whisky" title="ポーランド語: Whisky" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%88%DB%81%D8%B3%DA%A9%DB%8C" title="Western Punjabi: وہسکی" lang="pnb" hreflang="pnb">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/U%C3%ADsque" title="ポルトガル語: Uísque" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Whisky" title="ルーマニア語: Whisky" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BA%D0%B8" title="ロシア語: Виски" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-scn badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="https://scn.wikipedia.org/wiki/Whisky" title="シチリア語: Whisky" lang="scn" hreflang="scn">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Whisky" title="スコットランド語: Whisky" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Whisky" title="セルボ・クロアチア語: Whisky" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Whisky" title="シンプル英語: Whisky" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Whisky" title="スロバキア語: Whisky" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="https://sl.wikipedia.org/wiki/Viski" title="スロベニア語: Viski" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BA%D0%B8" title="セルビア語: Виски" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Wiski" title="スンダ語: Wiski" lang="su" hreflang="su">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Whisky" title="スウェーデン語: Whisky" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AE%BF" title="タミル語: விஸ்கி" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%81%E0%B8%B5%E0%B9%89" title="タイ語: วิสกี้" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Viski" title="トルコ語: Viski" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-tyv"><a href="https://tyv.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BA%D0%B8" title="トゥヴァ語: Виски" lang="tyv" hreflang="tyv">Тыва дыл</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%81%D0%BA%D1%96" title="ウクライナ語: Віскі" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Viski" title="ウズベク語: Viski" lang="uz" hreflang="uz">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Viski" title="ヴェプス語: Viski" lang="vep" hreflang="vep">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Whisky" title="ベトナム語: Whisky" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Wiski" title="ワロン語: Wiski" lang="wa" hreflang="wa">Walon</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%99%D7%A1%D7%A7%D7%99" title="イディッシュ語: וויסקי" lang="yi" hreflang="yi">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A8%81%E5%A3%AB%E5%BF%8C" title="中国語: 威士忌" lang="zh" hreflang="zh">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Whisky" title="閩南語: Whisky" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%A8%81%E5%A3%AB%E5%BF%8C" title="広東語: 威士忌" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q281#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2016年7月6日 (水) 10:57 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.switcher","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.compactlinks","ext.uls.interlanguage","ext.centralNotice.startUp","ext.centralNotice.geoIP"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.484",
+            "walltime": "0.652",
+            "ppvisitednodes": {
+                "value": 10029,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 190867,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 19264,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 28,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "timingprofile": [
+                "100.00%  537.853      1 -total",
+                " 31.12%  167.354      7 Template:Infobox",
+                " 28.97%  155.828      1 Template:栄養価",
+                " 27.47%  147.736      2 Template:Reflist",
+                " 12.39%   66.665      1 Template:Cite",
+                "  9.93%   53.398      1 Template:出典の明記",
+                "  8.82%   47.449      1 Template:Citation/core-ja-jp",
+                "  7.42%   39.917      2 Template:Cite_news",
+                "  7.12%   38.289      3 Template:Cite_web",
+                "  7.01%   37.690      1 Template:Convert"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.053",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2147666,
+                "limit": 52428800
+            }
+        },
+        "EntityAccessCount": 1,
+        "cachereport": {
+            "origin": "mw1306",
+            "timestamp": "20160813033002",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1274"});});</script>
+	</body>
+</html>

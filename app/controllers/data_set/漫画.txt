@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>漫画 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"漫画","wgTitle":"漫画","wgCurRevisionId":60462847,"wgRevisionId":60462847,"wgArticleId":1737920,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記事/2008年3月-4月","漫画関連のスタブ項目","漫画","フィクションの諸形式","和製漢語"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"漫画","wgRelevantArticleId":1737920,"wgRequestId":"V7ANKgpAAEMAAJqGk3AAAACM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1004","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);mw.loader.state({"ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.legacy.shared":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","site.styles":"ready","noscript":"ready","user.cssprefs":"ready","user.styles":"ready"});});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%2Cswitcher%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E6%BC%AB%E7%94%BB"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E6%BC%AB%E7%94%BB"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-漫画 rootpage-漫画 skin-vector action-view feature-page-action-bar-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">漫画</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div class="dablink noprint">
+<table style="width:100%; background:transparent;">
+<tr>
+<td style="width:25px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Disambig_gray.svg" class="image" title="曖昧さ回避"><img alt="曖昧さ回避" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" width="25" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></td>
+<td>この項目では、漫画全般について説明しています。
+<ul>
+<li><b>マンガ</b>のその他の用例については「<a href="/wiki/%E3%83%9E%E3%83%B3%E3%82%AC_(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF)" class="mw-disambig" title="マンガ (曖昧さ回避)">マンガ (曖昧さ回避)</a>」をご覧ください。</li>
+<li>日本の漫画の歴史・特徴については「<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB" title="日本の漫画">日本の漫画</a>」をご覧ください。</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<table class="plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Question_book-4.svg" class="image"><img alt="Question book-4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/50px-Question_book-4.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/75px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/100px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span"><b>この記事は<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">検証可能</a>な<a href="/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90" title="Wikipedia:信頼できる情報源">参考文献や出典</a>が全く示されていないか、不十分です。</b><br />
+<a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B" title="Wikipedia:出典を明記する">出典を追加</a>して記事の信頼性向上にご協力ください。<small>（<span title="2008年3月">2008年3月</span>）</small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;margin:1px 1px 0.5em 0.5em;">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/%E6%BC%AB%E7%94%BB" title="漫画"><img alt="Logo serie manga.png" src="//upload.wikimedia.org/wikipedia/commons/0/04/Logo_serie_manga.png" width="119" height="63" data-file-width="119" data-file-height="63" /></a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;min-width:12em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">関連項目</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;">
+<dl>
+<dt>一覧</dt>
+<dd><a href="/wiki/%E6%BC%AB%E7%94%BB%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7" title="漫画作品一覧">漫画作品</a>（<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7" title="日本の漫画作品一覧">日本</a>）</dd>
+<dd><a href="/wiki/%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%B8%80%E8%A6%A7" title="漫画家一覧">漫画家</a>（<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%B8%80%E8%A6%A7" title="日本の漫画家一覧">日本</a>）</dd>
+<dd><a href="/wiki/%E6%BC%AB%E7%94%BB%E5%8E%9F%E4%BD%9C%E8%80%85" title="漫画原作者">漫画原作者</a></dd>
+<dd><a href="/wiki/%E6%BC%AB%E7%94%BB%E9%9B%91%E8%AA%8C" title="漫画雑誌">漫画雑誌</a>（<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB%E9%9B%91%E8%AA%8C" title="日本の漫画雑誌">日本</a>）</dd>
+<dt>カテゴリ</dt>
+<dd><a href="/wiki/Category:%E6%BC%AB%E7%94%BB%E4%BD%9C%E5%93%81" title="Category:漫画作品">漫画作品</a></dd>
+<dd><a href="/wiki/Category:%E6%BC%AB%E7%94%BB" title="Category:漫画">漫画</a></dd>
+<dd><a href="/wiki/Category:%E6%BC%AB%E7%94%BB%E5%AE%B6" title="Category:漫画家">漫画家</a></dd>
+<dt>プロジェクト</dt>
+<dd><a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E6%BC%AB%E7%94%BB" title="プロジェクト:漫画">漫画作品</a></dd>
+<dd><a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E6%BC%AB%E7%94%BB%E5%AE%B6" title="プロジェクト:漫画家">漫画家</a></dd>
+<dd><a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E6%BC%AB%E7%94%BB%E9%9B%91%E8%AA%8C" title="プロジェクト:漫画雑誌">漫画雑誌</a></dd>
+<dt>ポータル</dt>
+<dd><a href="/wiki/Portal:%E6%BC%AB%E7%94%BB" title="Portal:漫画">漫画</a></dd>
+</dl>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<p><b>漫画</b>（まんが、<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>: <span lang="en" xml:lang="en">comics</span>（<b>コミック</b>）、cartoon、manga）とは、狭い定義では<a href="/wiki/%E7%AC%91%E3%81%84" title="笑い">笑い</a>を企図した絵をいい、「<a href="/wiki/%E6%88%AF%E7%94%BB" title="戯画">戯画</a>（<a href="/wiki/%E3%82%AB%E3%83%AA%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A2" title="カリカチュア">カリカチュア</a>）」の概念と近い。広い定義では、必ずしも笑いを目的としない「<a href="/wiki/%E5%8A%87%E7%94%BB" title="劇画">劇画</a>」「<a href="/wiki/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E6%BC%AB%E7%94%BB" title="ストーリー漫画">ストーリー漫画</a>」「<a href="/wiki/%E8%90%BD%E6%9B%B8%E3%81%8D" title="落書き">落書き</a>」「<a href="/wiki/%E3%82%A2%E3%83%8B%E3%83%A1" title="アニメ">アニメ</a>」なども含み、幅広い意味を持つ。</p>
+<p>日本では<a href="/wiki/%E6%98%8E%E6%B2%BB" title="明治">明治</a>時代に輸入された"comic"、"cartoon"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[注 1]</a></sup>の日本語訳として「漫画」という言葉を<a href="/wiki/%E5%8C%97%E6%BE%A4%E6%A5%BD%E5%A4%A9" title="北澤楽天">北澤楽天</a>や<a href="/wiki/%E4%BB%8A%E6%B3%89%E4%B8%80%E7%93%A2" title="今泉一瓢">今泉一瓢</a>が使用したことに始まって以後、漫画はcomicと同義として扱われる様になり、その意味での「漫画」が<a href="/wiki/%E6%98%AD%E5%92%8C" title="昭和">昭和</a>初期に普及し、現代における漫画という語へ定着するようになった<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>。本項では、日本の漫画のみではなく、漫画全般について説明する。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.BC.AB.E7.94.BB.E3.81.AE.E5.BD.A2.E5.BC.8F"><span class="tocnumber">1</span> <span class="toctext">漫画の形式</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.E5.AE.9A.E7.BE.A9"><span class="tocnumber">1.1</span> <span class="toctext">定義</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.E8.AA.9E.E6.BA.90"><span class="tocnumber">1.2</span> <span class="toctext">語源</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#.E5.90.84.E8.A8.80.E8.AA.9E.E3.81.AB.E3.81.8A.E3.81.91.E3.82.8B.E6.BC.AB.E7.94.BB.E3.81.AE.E5.91.BC.E3.81.B3.E5.90.8D"><span class="tocnumber">1.2.1</span> <span class="toctext">各言語における漫画の呼び名</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#.E6.AD.B4.E5.8F.B2"><span class="tocnumber">2</span> <span class="toctext">歴史</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#.E5.8F.A4.E4.BB.A3.E3.81.A8.E4.B8.AD.E4.B8.96"><span class="tocnumber">2.1</span> <span class="toctext">古代と中世</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.E8.BF.91.E4.B8.96"><span class="tocnumber">2.2</span> <span class="toctext">近世</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#19.E4.B8.96.E7.B4.80"><span class="tocnumber">2.3</span> <span class="toctext">19世紀</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#20.E4.B8.96.E7.B4.80"><span class="tocnumber">2.4</span> <span class="toctext">20世紀</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#.E5.90.84.E5.9B.BD.E3.81.AE.E6.BC.AB.E7.94.BB"><span class="tocnumber">3</span> <span class="toctext">各国の漫画</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">4</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">5</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">6</span> <span class="toctext">外部リンク</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E6.BC.AB.E7.94.BB.E3.81.AE.E5.BD.A2.E5.BC.8F">漫画の形式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=1" title="節を編集: 漫画の形式">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:272px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Petit_Sammy_%C3%A9ternue.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Petit_Sammy_%C3%A9ternue.jpg/270px-Petit_Sammy_%C3%A9ternue.jpg" width="270" height="349" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/e9/Petit_Sammy_%C3%A9ternue.jpg 1.5x" data-file-width="387" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Petit_Sammy_%C3%A9ternue.jpg" class="internal" title="拡大"></a></div>
+<span style="font-size:90%;"><a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B6%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%83%E3%82%B1%E3%82%A4" title="ウィンザー・マッケイ">ウィンザー・マッケイ</a> 『Little Sammy Sneeze』</span></div>
+</div>
+</div>
+<p>漫画は、現時性と線上性とが複合した一連の<a href="/wiki/%E7%B5%B5" class="mw-redirect" title="絵">絵</a>である。現時性とは「その全てを一望して把握できること」、線上性とは「流れの中で部分を辿り、把握していくこと」である。法隆寺の落書きのような卑俗な笑いから、<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9" title="フランス">フランス</a>革命前夜のビラのような体制への嘲笑であったり、また時に、ゴヤのような人間存在を揺るがす鋭い<a href="/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2" class="mw-redirect" title="ブラックユーモア">ブラックユーモア</a>であったりする。その歴史は長く、時代・地域・社会層によりさまざまな形で存在してきた。形式は極めて多様であり、厳格な定義は殆ど意味をなさない。</p>
+<p>漫画は、<b>簡略化</b>と事象の<b>抽象化</b>が特徴とされる。現代漫画は、<a href="/wiki/%E6%98%A0%E7%94%BB" title="映画">映画</a>などの影響を受けて<a href="/wiki/20%E4%B8%96%E7%B4%80" title="20世紀">20世紀</a>に世界的に発展した、ストーリーのある「コマ割り漫画」の comics （コミック）と、「<a href="/wiki/%E4%B8%80%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB" title="一コマ漫画">一コマ漫画</a>」の cartoon （カートゥーン）に分類できる。</p>
+<h3><span class="mw-headline" id=".E5.AE.9A.E7.BE.A9">定義</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=2" title="節を編集: 定義">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol>
+<li>視覚情報を絵として提示する（文章による説明ではない）。</li>
+<li>絵は話の展開を動的に描写し、情報の本質部分を占める（<a href="/wiki/%E6%8C%BF%E7%B5%B5" title="挿絵">挿絵</a>とは異なる）。</li>
+<li>聴覚情報は人物のセリフは文字として、音が擬音として表現される。ただし、音楽は擬音ではなく絵やコマの行間のようなもので表現される場合が多い。</li>
+<li><a href="/wiki/%E9%BD%A3" class="mw-redirect" title="齣">コマ</a>や<a href="/wiki/%E3%81%B5%E3%81%8D%E3%81%A0%E3%81%97" title="ふきだし">フキダシ</a>など独特の形式に沿っている。</li>
+</ol>
+<p>漫画では情景や人物の動作などは情報伝達の際に、その絵を提示する事で表現されることがある。<a href="/wiki/%E8%A6%96%E8%A6%9A%E8%8A%B8%E8%A1%93" title="視覚芸術">視覚芸術</a>の一分野に位置付けられるが、1つの画面で完結しない「時間の継起性」において、時間の一瞬を切り取った（近代以降の）<a href="/wiki/%E7%B5%B5%E7%94%BB" title="絵画">絵画</a>とは区別され、1つの画面（フレーム）がコマを指すのか紙面を指すのか不確定なところに、フレームが1つしかない映画との区別がなされる。</p>
+<p>本記事においては漫画と表記されているが、「<b>マンガ</b>」や「<b>まんが</b>」と表記される場合、これらの表記は意図的に用いられている場合もある。個々の<a href="/wiki/%E8%A9%95%E8%AB%96%E5%AE%B6" title="評論家">評論家</a>や<a href="/wiki/%E7%A0%94%E7%A9%B6%E8%80%85" class="mw-redirect" title="研究者">研究者</a>によって定義は異なる。</p>
+<dl>
+<dd>
+<table class="wikitable" style="text-align:center; font-size:90%;">
+<caption>漫画と他のメディアの比較</caption>
+<tr>
+<th>メディア</th>
+<th>視覚情報の表現</th>
+<th>聴覚情報の表現</th>
+<th>画像の連続性</th>
+</tr>
+<tr>
+<th>漫画</th>
+<td>絵を提示</td>
+<td>声は文字化<br />
+音は擬音</td>
+<td>動的</td>
+</tr>
+<tr>
+<th>絵本</th>
+<td style="white-space:nowrap;">絵の提示と文章での説明</td>
+<td>声は文字化<br />
+音は文章表現か擬音</td>
+<td>静的・挿絵的</td>
+</tr>
+<tr>
+<th>小説</th>
+<td style="white-space:nowrap;">文章のみで説明<br />
+（挿絵が入る場合がある）</td>
+<td>声は文字化<br />
+音は文章表現か擬音</td>
+<td style="white-space:nowrap;">なし（挿絵は静的）</td>
+</tr>
+<tr>
+<th>オーディオドラマ</th>
+<td>音声のみで説明</td>
+<td>声も音も直接提示</td>
+<td>なし</td>
+</tr>
+<tr>
+<th style="white-space:nowrap;">映画・アニメ・ドラマ</th>
+<td>映像を直接提示</td>
+<td style="white-space:nowrap;">声も音も直接提示<br />
+テロップによって表現されることもある</td>
+<td>動的・実時間的</td>
+</tr>
+<tr>
+<th>紙芝居</th>
+<td>絵を提示</td>
+<td style="white-space:nowrap;">声は読み手の発声<br />
+音は読み手の発声による文章表現か擬音</td>
+<td>静的・挿絵的</td>
+</tr>
+<tr>
+<th>絵画</th>
+<td>絵を提示</td>
+<td>なし</td>
+<td>静的</td>
+</tr>
+</table>
+</dd>
+</dl>
+<h3><span class="mw-headline" id=".E8.AA.9E.E6.BA.90">語源</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=3" title="節を編集: 語源">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB#.E8.AA.9E.E6.BA.90" title="日本の漫画">日本の漫画</a>」を参照</div>
+<p>「漫画」という言葉は、字義的には「気の向くままに漫然と描いた画」という意味である。語源は、よくわかっていないが、随筆を意味する漢語「漫筆」が「漫筆画」を経て「漫画」になったとする説と、「漫画（まんかく）」という名のヘラサギに由来するとの説がある。<a href="/wiki/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3" title="江戸時代">江戸時代</a>には、<a href="/wiki/%E5%B1%B1%E6%9D%B1%E4%BA%AC%E4%BC%9D" title="山東京伝">山東京伝</a>（『四時交加』、<a href="/wiki/1798%E5%B9%B4" title="1798年">1798年</a>）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>や<a href="/wiki/%E6%B5%AE%E4%B8%96%E7%B5%B5" title="浮世絵">浮世絵</a>師の<a href="/wiki/%E8%91%9B%E9%A3%BE%E5%8C%97%E6%96%8E" title="葛飾北斎">葛飾北斎</a>（<a href="/wiki/%E5%8C%97%E6%96%8E%E6%BC%AB%E7%94%BB" title="北斎漫画">北斎漫画</a>初版、文化11年（<a href="/wiki/1814%E5%B9%B4" title="1814年">1814年</a>））<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>の作品の序文や題名で、用語「漫画」が「絵による随筆」「戯画風のスケッチ」という意味で使用されている。</p>
+<p>明治時代になると、<a href="/wiki/%E4%BB%8A%E6%B3%89%E4%B8%80%E7%93%A2" title="今泉一瓢">今泉一瓢</a>が"caricature"や"cartoon"の訳語として「漫画」を用いた。<a href="/wiki/%E5%8C%97%E6%BE%A4%E6%A5%BD%E5%A4%A9" title="北澤楽天">北澤楽天</a>は"comic"の訳語として「漫画」を使用し、以降はこの意味が「漫画」の最も一般的な用法として定着した。</p>
+<h4><span class="mw-headline" id=".E5.90.84.E8.A8.80.E8.AA.9E.E3.81.AB.E3.81.8A.E3.81.91.E3.82.8B.E6.BC.AB.E7.94.BB.E3.81.AE.E5.91.BC.E3.81.B3.E5.90.8D">各言語における漫画の呼び名</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=4" title="節を編集: 各言語における漫画の呼び名">編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>でコマ割り漫画を意味する <b>comics</b> （コミック）は、<a href="/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E8%AA%9E" class="mw-redirect" title="ギリシャ語">ギリシャ語</a>で「喜劇」を意味する<span lang="el" xml:lang="el">Κωμικός</span>（コーミコス）から派生した、「滑稽な」を意味する形容詞 comic に由来する言葉である（現代のギリシャ語でも、同じ語源を持ち、おそらくは英語の影響をも受けた用語<b><span lang="el" xml:lang="el">Κόμικς</span></b>（コーミクス）が、漫画の意味で使われている）。初期の漫画の多くはほぼ同じサイズのコマを一列に並べた物であり、また、ほとんどは滑稽な内容を扱っていたために、これらのジャンルには <b>comic strip</b> （<a href="/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97" title="コミック・ストリップ">コミック・ストリップ</a>、滑稽な端切れ）という呼び名が与えられた。それらを一冊の冊子にまとめた物は、 <b>comic book</b> （<a href="/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%96%E3%83%83%E3%82%AF" class="mw-redirect" title="コミック・ブック">コミック・ブック</a>、滑稽な本）と呼ばれ、それが短縮されて comic となった。しかしながら、漫画が深刻なテーマを取り扱うようになると、それらに冠された comic という名は混乱をもたらし、 これを嫌ったアメリカ合衆国の漫画家<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%BA%E3%83%8A%E3%83%BC" title="ウィル・アイズナー">ウィル・アイズナー</a>は <b>sequential art</b> （シーケンシャル・アート、「連続された絵画」の意味）という呼び名を導入した。なお、英語の comic はアイズナーが代替語として sequential art という用語を提案した事からも分かる通り、原則的には複数のコマで構成される漫画のみを指す用語である。英語では一コマ漫画は <b>cartoon</b> （<a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3" title="カートゥーン">カートゥーン</a>）あるいは panel （パネル）と呼ばれる。現代の英語の cartoon という用語が、専ら animated cartoon （アニメーション作品）を指す言葉として使われるようになったため、印刷媒体の上での一コマ漫画である事を強調したい時は、printed cartoon と表記される。</p>
+<p>英語の comic という言葉はヨーロッパ諸国へも輸出され、<a href="/wiki/%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E" title="ドイツ語">ドイツ語</a>の <b>Comic</b>（コミーク）や<a href="/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E" title="ロシア語">ロシア語</a>の <b><span lang="ru" xml:lang="ru">Комикс</span></b> 等の呼び名は、英語の comic に由来する。そして<a href="/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E8%AA%9E" title="オランダ語">オランダ語</a>では主に <b>strip</b> が漫画の呼び名として使われている。ただし、ドイツ語でも漫画に対して自国語由来の <b>Bildergeschichte</b> （ビルダーゲシヒテ、絵の物語）という言葉が使われる事がある。</p>
+<p>一方、漫画に対して英語の comic とは異なる呼び名を持つ言語圏も多数あり、<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9" title="フランス">フランス</a>や<a href="/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC" title="ベルギー">ベルギー</a>といった<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E" title="フランス語">フランス語</a>圏では <b><span lang="fr" xml:lang="fr">bande dessinée</span></b> （<a href="/wiki/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%87%E3%82%B7%E3%83%8D" title="バンド・デシネ">バンド・デシネ</a>）が使われている。これは「絵の描かれた帯」という意味で、英語の comic strip と同様に、漫画のコマの配列について言及した言葉である。</p>
+<p><a href="/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E" title="フィンランド語">フィンランド語</a>の <b>sarjakuva</b> （サルヤクヴァ、「連結した（sarja）」+「画像（kuva）」）も、やはり同様の意味の言葉である。</p>
+<p><a href="/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E8%AA%9E" title="スペイン語">スペイン語</a>では、アメリカンコミックのようなストーリー性のあるものはそのまま <b>comic</b>（コミック） 、もっと軽い、どちらかと言えば子供向けのものは <b>tebeo</b>（テベオ、単語の由来は後述**） 、風刺画、戯画のようなものは <b>historieta</b> （イストリエタ）、<b>viñeta</b> （ビニェータ）、<b>caricatura</b> （カリカトゥーラ）等と呼ばれる。近年スペインでは絵やストーリーのスタイルが日本の漫画から大きな影響を受けている作品群はそのまま <b>manga</b>（マンガ） と呼ばれ、2012年には王立スペイン語アカデミー編纂のスペイン語辞書第23版にも外来語として記載されるようになった。　</p>
+<ul>
+<li><b>tebeo</b> （テベオ）は1917年に<a href="/wiki/%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A" title="バルセロナ">バルセロナ</a>で創刊された長寿漫画雑誌 <i>TBO</i> に由来する。<i>TBO</i> はスペイン語の te veo （私は君を見る）から付けられたタイトルである。</li>
+</ul>
+<p><a href="/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E8%AA%9E" title="イタリア語">イタリア語</a>では漫画は <b>fumetto</b> （フメット）と呼ばれる。これはイタリア語で「煙」を表す fumo （フーモ）に由来する言葉で、漫画のフキダシの形からこの呼び名が生まれた。fumetto の複数形は fumetti （フメッティ）であるが、この言葉はアメリカではイタリアの漫画よりも、むしろ写真を用いた漫画を表す言葉として使われている。</p>
+<p><a href="/wiki/%E4%B8%AD%E5%9B%BD%E8%AA%9E" title="中国語">中国語</a>圏や<a href="/wiki/%E9%9F%93%E5%9B%BD%E8%AA%9E" class="mw-redirect" title="韓国語">韓国語</a>圏では、日本から輸出された「漫画」の表記のそれぞれの現地発音による「<b><span lang="zh" xml:lang="zh">漫画</span></b>」（台湾と香港では「<b><span lang="zh" xml:lang="zh">漫畫</span></b>」）（<a href="/wiki/%E4%B8%AD%E5%9B%BD%E3%81%AE%E6%BC%AB%E7%94%BB" title="中国の漫画">マンホア</a>）や <b><span lang="ko" xml:lang="ko">만화</span></b> （<a href="/wiki/%E9%9F%93%E5%9B%BD%E3%81%AE%E6%BC%AB%E7%94%BB" title="韓国の漫画">マンファ</a>）という呼び名を使う。</p>
+<p><a href="/wiki/%E3%82%A8%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%B3%E3%83%88%E8%AA%9E" class="mw-redirect" title="エスペラント語">エスペラント語</a>では漫画一般を指す言葉として、bildo（画像）とliteraturo（文学）を組み合わせた言葉 <b>bildliteraturo</b>（ビルドリテラツロ）が作られたが、日本風の漫画に関しては<b>mangao</b>（マンガーオ）と表記することもある。</p>
+<p>日本では、「漫画」「マンガ」「まんが」「コミック」などと呼称されている。詳細は「<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB" title="日本の漫画">日本の漫画</a>」項を参照。</p>
+<h2><span class="mw-headline" id=".E6.AD.B4.E5.8F.B2">歴史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=5" title="節を編集: 歴史">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>漫画発祥の時期と場所については、主に漫画の定義に依存する多数の異なった説が存在する。</p>
+<h3><span class="mw-headline" id=".E5.8F.A4.E4.BB.A3.E3.81.A8.E4.B8.AD.E4.B8.96">古代と中世</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=6" title="節を編集: 古代と中世">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>戯画的漫画・落書きは、その大衆的性格から（また時に体制批判的な内容から）、<a href="/wiki/%E7%BE%8E%E8%A1%93" title="美術">美術</a>が権力者や<a href="/wiki/%E5%AE%97%E6%95%99" title="宗教">宗教</a>に従事していた古代や中世には、積極的に残される努力はされなかった。それ故に、作例がかなり限られてくる。日本の現存する最古の漫画の作例では、<a href="/wiki/%E6%B3%95%E9%9A%86%E5%AF%BA" title="法隆寺">法隆寺</a>に残された漫画が挙げられる。古代エジプトの漫画としては、権力者を動物化して表現した漫画が存在している。これは壁画や壷絵等、複数残されている。古代<a href="/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2" class="mw-redirect" title="ギリシア">ギリシア</a>でも、壷絵には、割と多くの戯画的表現を見出すことが出来るが、古代世界で多くの漫画が残されているのは<a href="/wiki/%E3%83%9D%E3%83%B3%E3%83%9A%E3%82%A4" title="ポンペイ">ポンペイ</a>である。この古代<a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E" title="ローマ">ローマ</a>時代の地方都市は、ある日突然に火山の噴火によって町が灰に埋もれたことから、普通では残ることのないような極々日常的な絵画や漫画の類まで残されている。これらは偶然に残されたこと、庶民的性格、おおらかな性の表現といった点で似ている。</p>
+<p>また、宗教において写本画のごくごく目立たない部分に落書きがあったり、後期中世を通じて大量に流布していた木版画には、民衆的ユーモアを確認することができる。日本の仏典の端には、写学生の気晴らしと思われる漫画などが見られる。ゴシック末期の例えば、ショーンガウアーやボッスの作品には、様々な戯画的世界が見られる。 宗教関連では、<a href="/wiki/%E4%BB%8F%E6%95%99" title="仏教">仏教</a>では、<a href="/wiki/%E9%87%88%E8%BF%A6" title="釈迦">釈迦</a>一代記曼荼羅が描かれた。これは、釈迦の両親から、像の夢の妊娠に始まって、出家、涅槃までを、中央の釈迦を中心に、左下から反時計回りに展開したものである。一方、<a href="/wiki/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99" title="キリスト教">キリスト教</a>では、<a href="/wiki/%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88" title="イエス・キリスト">イエス</a>の物語を語り継ぐことが信仰の中心となったこともあり、十字架の道(Via Crucis)が多くの<a href="/wiki/%E6%95%99%E4%BC%9A" title="教会">教会</a>の内部（巡礼に倣うために、各柱の下）に描かれた。これは、イエスの死刑宣告から復活まで、14コマ+1コマで描くものであり、イエスやピラト、マリア、シモン、ベロニカなどのキャラクターが定型的に描かれる。これらを原点として、仏教でも、キリスト教でも、さまざまな時間的な物語が、絵や彫刻、ステンドグラスのコマ、ないし連続的展開によって説明される形式が確立されていた。ただし、当時の民衆は文字が読めない場合が多かったために、説明は、宗教家の活弁によって補われる必要があった。</p>
+<h3><span class="mw-headline" id=".E8.BF.91.E4.B8.96">近世</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=7" title="節を編集: 近世">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ルネサンス美術は、極めて多様な作例を残している。特に、16世紀以降は、美術に従事するものは個性的であることが優れていると考えられ、そのために、表現の幅が広げられた。レオナルド・ダ・ヴィンチは、奇妙・奇怪なものに非常に関心を示し、彼の手稿には、多くの戯画が残されている。レオナルドの興味は、<a href="/wiki/%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AA%E3%82%B9%E3%83%A0" title="マニエリスム">マニエリスム</a>を予感させる。そしてもまた、民衆的な笑いのセンスが、芸術的な形に現れた時代でもあった。後期ルネサンスやマニエリスムには、下卑た笑い、エロティックなもの、世相批判的なもの、そういったまるで<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF%E3%83%BB%E3%83%A9%E3%83%96%E3%83%AC%E3%83%BC" title="フランソワ・ラブレー">フランソワ・ラブレー</a>の世界が、美術に展開し、枚挙に暇がない。それは漫画と密に通じている。代表的な美術家としては、<a href="/wiki/%E3%83%94%E3%83%BC%E3%83%86%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B2%E3%83%AB" title="ピーテル・ブリューゲル">ピーテル・ブリューゲル</a>（父）、<a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AB%E3%83%AD" title="ジャック・カロ">ジャック・カロ</a>、<a href="/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%AD%E3%83%9E%E3%83%BC%E3%83%8E" title="ジュリオ・ロマーノ">ジュリオ・ロマーノ</a>、<a href="/wiki/%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%83%8A%E3%83%8F" class="mw-redirect" title="ルーカス・クラーナハ">ルーカス・クラーナハ</a>（父）などがいる。カロや、クラーナハの場合、当時飛躍的に発展しつつあった印刷技術との関連においても重要である。</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:The_Rake%27s_Progress_8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Rake%27s_Progress_8.jpg/200px-The_Rake%27s_Progress_8.jpg" width="200" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Rake%27s_Progress_8.jpg/300px-The_Rake%27s_Progress_8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Rake%27s_Progress_8.jpg/400px-The_Rake%27s_Progress_8.jpg 2x" data-file-width="2042" data-file-height="1782" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:The_Rake%27s_Progress_8.jpg" class="internal" title="拡大"></a></div>
+ウィリアム・ホガースによる連作『The Rake's Progress（道楽者のなりゆき）』（<a href="/wiki/1733%E5%B9%B4" title="1733年">1733年</a>）の最後の一枚</div>
+</div>
+</div>
+<p>「コミック・アートの歴史」を著したR. セービンは、漫画は本質的に印刷媒体と関連付けられているという主張の下に、<a href="/wiki/%E5%8D%B0%E5%88%B7" title="印刷">印刷</a>術の発明により漫画の形式が具体化されたとの見解に立っている。したがって、印刷術に先立つすべての漫画のバリエーションは、あくまで漫画の先行形式であり、漫画の系譜に属するものとは見なせないとするのが、セービンの見解であった。</p>
+<p>漫画の形式を備えていると見なせる、現在残されている初期の作品はフランシス・バーローによる『A True Narrative of the Horrid Hellish Popish Plot（恐るべき地獄のようなカトリック陰謀事件についての真実の物語）』（1682年）である。これは、コマ絵の連続で経緯が描かれ、セリフはフキダシによって表現されている。その後、同様の形式を持つものはいくつも発表されているが、エディ・キャンベルは「それらの作品は漫画と言うよりも、<a href="/wiki/%E9%A2%A8%E5%88%BA%E7%94%BB" class="mw-redirect" title="風刺画">風刺画</a>の連作ではないか」と反論している。この時期の特筆すべき制作者としては、<a href="/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BD%E3%83%B3" title="トマス・ローランドソン">トマス・ローランドソン</a>、ジャン・ヴァンデルフフト、<a href="/w/index.php?title=%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%AE%E3%83%AB%E3%83%AC%E3%82%A4&amp;action=edit&amp;redlink=1" class="new" title="ジェームズ・ギルレイ (存在しないページ)">ジェームズ・ギルレイ</a>、<a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AF%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%AF" title="ジョージ・クルックシャンク">ジョージ・クルックシャンク</a>がいる。ローランドソンとギルレイの作品の中には、フキダシを導入しているものも見られる。</p>
+<p>それらの中でも、当時の政治を風刺したローランドソンの1784年の作品『The loves of the fox and the badger,or the coalition wedding』は、キャプション、フキダシ、きちんと展開するコマ形式を備えた上に、思考表現のフキダシも持ち、コマ漫画のプロトタイプであると見做せる。このローランドソンの作品は、絵物語の連続表現としてのコマ漫画形式の普及を促進したといえる。<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></p>
+<h3><span class="mw-headline" id="19.E4.B8.96.E7.B4.80">19世紀</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=8" title="節を編集: 19世紀">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Jabot_1833_p_27.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jabot_1833_p_27.jpg/200px-Jabot_1833_p_27.jpg" width="200" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jabot_1833_p_27.jpg/300px-Jabot_1833_p_27.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jabot_1833_p_27.jpg/400px-Jabot_1833_p_27.jpg 2x" data-file-width="1205" data-file-height="723" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Jabot_1833_p_27.jpg" class="internal" title="拡大"></a></div>
+<a href="/wiki/%E3%83%AD%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%83%86%E3%83%97%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB" title="ロドルフ・テプフェール">ロドルフ・テプフェール</a>による絵物語『Histoire de monsieur Jabot（ジャボ氏物語）』（<a href="/wiki/1833%E5%B9%B4" title="1833年">1833年</a>）</div>
+</div>
+</div>
+<p>スイスの<a href="/wiki/%E3%83%AD%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%83%86%E3%83%97%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB" title="ロドルフ・テプフェール">ロドルフ・テプフェール</a>は、19世紀前半の漫画史における重要人物である。コマ絵とその下に添えられた文から成るテプフェールによる一連の作品は、ヨーロッパとアメリカの様々な地域で出版された（ただし、この作品にはフキダシは用いられていない）。当時の著作権法の不在により海賊出版されたこれらの翻訳版は、両大陸で漫画という形式を持つ作品のための市場を整えた。<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></p>
+<p>1845年に、テプフェールは著書『Essai de Physiognomonie（人相学エッセイ）』の中で、彼の考えを形式付けている。「絵物語を構築し、しばしば澱となって沈んでいる素材から可能性を余さず引き出してやるのに、名匠の業を身に付ける必要はない。絵物語の構築は、単に鉛筆画で軽佻浮薄なカリカチュアを描き出すことではない。また、単に世間の噂話を物語にすることでも、駄洒落を絵画化することでもない。あなたは実際にある種の演劇を発明し、企画に沿った形で部品を配置し、全体を満足な形に整えねばならない。ただジョークを書き綴ったり、対句を繰り返したりするだけでは駄目なのだ。それが優れたものであるにせよ、劣ったものであるにせよ、真面目なものであるにせよ、馬鹿げたものであるにせよ、狂ったものであるにせよ、正常なものであるにせよ、あなたは『本』を作るのである」<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup></p>
+<p>美術史家<a href="/wiki/%E3%82%A8%E3%83%AB%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B4%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%83%81" title="エルンスト・ゴンブリッチ">エルンスト・ゴンブリッチ</a>は、テプフェールを新たな絵画言語の発明者として認識している。これは読者自身の想像力によって補われる、省略された表現形式であった。</p>
+<p>デイヴィド・カンズル（アメリカ）やティエリ・グルンステン（フランス）などの漫画史の研究者によれば、テプフェールは現代的な意味でのコマ漫画（<a href="/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97" title="コミック・ストリップ">コミック・ストリップ</a>、<a href="/wiki/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%87%E3%82%B7%E3%83%8D" title="バンド・デシネ">バンド・デシネ</a>）という表現形式を事実上発明した人として評価され、「コマ漫画の父」とも呼ばれている。</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:SubstanceandShadow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SubstanceandShadow.jpg/200px-SubstanceandShadow.jpg" width="200" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SubstanceandShadow.jpg/300px-SubstanceandShadow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SubstanceandShadow.jpg/400px-SubstanceandShadow.jpg 2x" data-file-width="1392" data-file-height="1103" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:SubstanceandShadow.jpg" class="internal" title="拡大"></a></div>
+<a href="/w/index.php?title=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%81&amp;action=edit&amp;redlink=1" class="new" title="ジョン・リーチ (存在しないページ)">ジョン・リーチ</a>による風刺漫画『Substance and Shadow（実体と影）』（<a href="/wiki/1843%E5%B9%B4" title="1843年">1843年</a>）</div>
+</div>
+</div>
+<p>19世紀には、新聞紙上での風刺漫画が人気を博した。1841年、イギリスで風刺漫画雑誌『<a href="/wiki/%E3%83%91%E3%83%B3%E3%83%81_(%E9%9B%91%E8%AA%8C)" title="パンチ (雑誌)">パンチ</a>』が創刊された。1843年に、『パンチ』は当時フレスコ画の下絵（カートゥーン）展示会を行っていたイギリスの国会議事堂を揶揄して、誌上に掲載された<a href="/wiki/%E9%A2%A8%E5%88%BA%E6%BC%AB%E7%94%BB" title="風刺漫画">風刺漫画</a>を「<a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3" title="カートゥーン">カートゥーン</a>（cartoon）」と名付けた。この用語は漫画を表す一般的な英語となり、現代でも使われている。同種の風刺漫画雑誌として、<a href="/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91" title="ヨーロッパ">ヨーロッパ</a>大陸ではドイツの『フリーゲンデ・ブレッター』やフランスの『シャリバリ』があり、アメリカ合衆国では『ジャッジ』と『パック』が人気を博していた。</p>
+<p>1865年に、ドイツでヴィルヘルム・ブッシュによる『<a href="/wiki/%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%81%A8%E3%83%A2%E3%83%BC%E3%83%AA%E3%83%83%E3%83%84" title="マックスとモーリッツ">マックスとモーリッツ</a>』が新聞紙上で発表された。この絵物語は漫画の重要な先駆作品であると考えられている。この頃から<a href="/wiki/%E4%B8%AD%E5%9B%BD" title="中国">中国</a>では漫画の形式が整い始め、1927年には完成した。</p>
+<p>1884年にイギリスで雑誌形式により出版された『アリー・スローパーの半休日』は、特定の主人公（アリー・スローパー）による最初の連載漫画として評価されている。1890年には、イギリスで更に二冊の漫画雑誌『コミック・カッツ』と『イラストレーテッド・チップス』が登場した。これらの漫画はアメリカでも新聞連載された。これらの作品により、定期刊行雑誌としてのブリティッシュ・コミックの伝統が確立された。</p>
+<p>一般的な基準による、特定の登場人物が登場する最初の成功した連載漫画は、アメリカのリチャード・F・アウトコールトによる連載一コマ漫画『<a href="/wiki/%E3%83%9B%E3%83%BC%E3%82%AC%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%A4" class="mw-redirect" title="ホーガンズ・アレイ">ホーガンズ・アレイ</a>』（1895年）か、ドイツ系アメリカ移民のルドルフ・ダークスによる連載コマ漫画『カッツェンジャマー・キッズ』（1897年）であった。『ホーガンズ・アレイ』の主人公であるイエロー・キッドの人気は連載された新聞の売り上げ拡大に貢献し、その他の連載漫画の誕生を促した。この漫画ブームは、大衆芸術としての漫画の始まりを示すものであった。</p>
+<h3><span class="mw-headline" id="20.E4.B8.96.E7.B4.80">20世紀</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=9" title="節を編集: 20世紀">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>アメリカ合衆国において漫画を示す用語である「コミックス（comics）」は、<a href="/wiki/%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2" title="ユーモア">ユーモラス</a>な物語を特徴とした初期の<a href="/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97" title="コミック・ストリップ">コミック・ストリップ</a>（新聞漫画）に用いられた形容詞「滑稽な（comic）」に由来する。</p>
+<p>1929年に、アクション漫画である『バック・ロジャーズ』と『ターザン』の連載開始により、コミックはその分野を拡大し始めた。更に多くの漫画が誕生する内に、「コミックス」という用語は、やがて作品の内容よりも形式を指す用語となっていった。また、同年には<a href="/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC" title="ベルギー">ベルギー</a>の新聞『ル・ヴァンティエーム・シェクル（20世紀新聞）』付録の白黒漫画で、<a href="/wiki/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%B3%E3%81%AE%E5%86%92%E9%99%BA" title="タンタンの冒険">タンタンの冒険</a>が初登場した。タンタンの物語は1930年に『タンタンソビエトへ』の一冊にまとめられ、ユーロピアン・コミックスのコミック・アルバムの形式で出版された。</p>
+<p>その他にも、1929年には新聞漫画を再版した『ザ・ファニーズ』が出版されている。この漫画はアメリカ合衆国においてニューススタンドで発売された、最初の4色印刷の漫画として評価されており、タブロイド判のサイズで印刷されていた。この判型は当時の新聞の日曜版と混同されやすく、売り上げを伸ばせなかったため、36号で廃刊となった。</p>
+<p>現在のアメリカン・コミックス形式で出版された最初の漫画は、日曜版のタブロイド判サイズを二つ折りにした形式による、『ファニーズ・オン・パレード』であった。ニューヨークのイースタン・カラー・プリンティング社で働いていたハリー・L・ウィルデンバーグとマックス・C・ゲインズにより、広告用の景品として1933年に出版されたこの雑誌の成功は、同種の景品雑誌出版の呼び水となった。やがてゲインズは余った雑誌に10セントの価格を表示したカバーを掛けて、ニューススタンドで販売することを思い付き、それらをすべて売り切った。これにより、イースタン社はニューススタンドで販売される漫画雑誌『フェイマス・ファニーズ』を1934年5月に創刊した。</p>
+<p>1935年までの漫画は、主に当時のパルプ雑誌に影響された独自の素材を利用していたが、この頃から漫画外の素材が漫画に用いられるようになった。<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%BA%E3%83%8A%E3%83%BC" title="ウィル・アイズナー">ウィル・アイズナー</a>は漫画外の素材を漫画に持ち込んだ漫画家であり、漫画外の素材を漫画に適用すべく改良し、漫画の文法を発明した事により高く評価されている。アイズナーにより案出された漫画の手法としては、場面を突然に切り替える「ジャンプ・カット」などがある。</p>
+<p>アメリカでは1938年に、『アクション・コミックス』第1号でスーパーマンが初登場し、<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9" title="アメリカン・コミックス">アメリカン・コミックス</a>の黄金時代と呼ばれる期間が到来した。また同年にベルギーでは、<a href="/wiki/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%87%E3%82%B7%E3%83%8D" title="バンド・デシネ">バンド・デシネ</a>の特徴である週刊形式の漫画雑誌『<a href="/wiki/%E3%82%B9%E3%83%94%E3%83%AB%E3%83%BC" title="スピルー">スピルー</a>』が創刊された。</p>
+<p>日本では、戦後の漫画の表現技法が後の漫画家たちに大きな影響を与え、現在まで日本の漫画の表現技法として定着している。日本の漫画の歴史については、「<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB" title="日本の漫画">日本の漫画</a>」「<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AE%E6%AD%B4%E5%8F%B2" title="日本の漫画の歴史">日本の漫画の歴史</a>」項を参照。</p>
+<h2><span class="mw-headline" id=".E5.90.84.E5.9B.BD.E3.81.AE.E6.BC.AB.E7.94.BB">各国の漫画</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=10" title="節を編集: 各国の漫画">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB" title="日本の漫画">日本の漫画</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9" title="アメリカン・コミックス">アメリカン・コミックス</a>（アメリカ合衆国の漫画）</li>
+<li><a href="/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97" title="コミック・ストリップ">コミック・ストリップ</a>（アメリカ合衆国の新聞漫画）</li>
+<li><a href="/wiki/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%87%E3%82%B7%E3%83%8D" title="バンド・デシネ">バンド・デシネ</a>（フランス語圏の漫画）</li>
+<li><a href="/wiki/%E4%B8%AD%E5%9B%BD%E3%81%AE%E6%BC%AB%E7%94%BB" title="中国の漫画">中国の漫画</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%BC%AB%E7%94%BB" title="香港の漫画">香港の漫画</a></li>
+<li><a href="/wiki/%E9%9F%93%E5%9B%BD%E3%81%AE%E6%BC%AB%E7%94%BB" title="韓国の漫画">韓国の漫画</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E3%81%AE%E6%BC%AB%E7%94%BB" title="マレーシアの漫画">マレーシアの漫画</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=11" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E5%8D%94%E4%BC%9A" title="日本漫画家協会">日本漫画家協会</a>の英称はTHE JAPAN CARTOONISTS ASSOCIATIONであり、<a href="/wiki/%E3%83%9E%E3%83%B3%E3%82%AC%E5%A4%A7%E8%B3%9E" title="マンガ大賞">マンガ大賞</a>の英称もCartoon grand prizeである。</span></li>
+</ol>
+</div>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text"><cite class="book" style="font-style:normal" id="Reference-.E8.8C.A8.E6.9C.A8.E6.AD.A3.E6.B2.BB-2007">茨木正治 『メディアのなかのマンガ』 臨川書店、<span title="">2007年</span>。</cite></span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.plazanorth.jp/events/jigyo/image/2010/hall_gallery/110113-23%E6%A5%BD%E5%A4%A9%E3%82%92%E3%82%81%E3%81%90%E3%81%A3%E3%81%A6.jpg">漫画会館所蔵品展「楽天・異国へのまなざし」</a>”.  さいたま市プラザノース (<span title="">2011年1月</span>). <span title="">2013年12月10日</span>閲覧。&#160;“(北沢)楽天は政治風刺画や風俗漫画の執筆で活躍した日本で初めての職業漫画家でした。明治期に外国から入ってきた「comic（コミック）」「cartoon（カートゥーン）」の訳語として漫画という言葉を広めたのもまた、楽天でした。”</cite></span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text">「平常、舗中ニ在ツテ梧ニ凭リ、偶、夫ノ貴賎士女老少等ノ大路ニ交加スル所ヲ<b>漫畫</b>シ」 山東京伝『四時交加』(1798年) 序文</span></li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://iss.ndl.go.jp/api/openurl?ndl_jpno=40070806">北斎漫画</a> - 近代デジタルライブラリー</span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text">Perry, George; Aldridge, Alan (1989 reprint with introduction). The Penguin Book Of Comics. Penguin. <a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0140028021" class="internal mw-magiclink-isbn">ISBN 0-14-002802-1</a>. p.31</span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text">Beerbohm, Robert (2003) <a rel="nofollow" class="external text" href="http://scoop.diamondgalleries.com/scoop_article.asp?ai=2808&amp;si=124">The Adventures of Obadiah Oldbuck Part III</a>. <i>The Search For Töpffer In America</i>. Retrieved on May 30, 2005.</span></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="reference-text">Weiss, E. <i>Enter: The Comics</i>, University of Nebraska Press, Lincoln, pp.4. (1969)</span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text">日本の漫画と西洋漫画の違いを<a href="/wiki/%E5%B1%B1%E8%97%A4%E7%AB%A0%E4%BA%8C" title="山藤章二">山藤章二</a>は『ヘタウマ文化論』（<a href="/wiki/%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8" title="岩波新書">岩波新書</a>）p.159で“日本漫画のそれは、筆の運びが持つ「徘味」と「描いてないところを想像させる空間の面白さ」と言った、いわば「落語の間（ま）に通ずる空気感があるのです。／西洋漫画のそれは、「面白い所（アイデア）は描く」のです。描かないで読者の想像力にまかせる、ということはほとんどない、文化の違いでしょう。”と書いている。</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=12" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small portal plainlinks noprint" style="border:1px solid #aaa;background-color:#f9f9f9;background:#f6ffff; width:220px;">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Portal.svg" class="image" title="ポータル 漫画"><img alt="ポータル 漫画" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/36px-Portal.svg.png" width="36" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/54px-Portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/72px-Portal.svg.png 2x" data-file-width="36" data-file-height="32" /></a></td>
+<td class="mbox-text plainlist" style="font-size:100%;"><b><a href="/wiki/Portal:%E6%BC%AB%E7%94%BB" title="Portal:漫画">ポータル&#160;漫画</a></b></td>
+</tr>
+</table>
+<table class="mbox-small plainlinks noprint" style="border:1px solid #aaa;background-color:#f9f9f9;background:#f6ffff; width:220px;">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Project.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Project.svg/36px-Project.svg.png" width="36" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Project.svg/54px-Project.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Project.svg/72px-Project.svg.png 2x" data-file-width="144" data-file-height="128" /></a></td>
+<td class="mbox-text plainlist" style="font-size:100%;"><b><a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E6%BC%AB%E7%94%BB" title="プロジェクト:漫画">プロジェクト&#160;漫画</a></b></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/%E6%BC%AB%E7%94%BB%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7" title="漫画作品一覧">漫画作品一覧</a></li>
+<li><a href="/wiki/%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%B8%80%E8%A6%A7" title="漫画家一覧">漫画家一覧</a></li>
+<li><a href="/wiki/%E6%BC%AB%E7%94%BB%E5%AE%B6" title="漫画家">漫画家</a></li>
+<li><a href="/wiki/%E6%BC%AB%E7%94%BB%E5%8E%9F%E4%BD%9C" title="漫画原作">漫画原作</a> ： 漫画、劇画における<a href="/wiki/%E5%8F%B0%E6%9C%AC" title="台本">台本</a>、<a href="/wiki/%E8%84%9A%E6%9C%AC" title="脚本">脚本</a></li>
+<li><a href="/wiki/%E6%BC%AB%E7%94%BB%E9%9B%91%E8%AA%8C" title="漫画雑誌">漫画雑誌</a></li>
+<li><a href="/wiki/%E6%BC%AB%E7%94%BB%E6%83%85%E5%A0%B1%E8%AA%8C" title="漫画情報誌">漫画情報誌</a></li>
+<li><a href="/wiki/%E6%BC%AB%E7%94%BB%E8%A9%95%E8%AB%96" title="漫画評論">漫画評論</a></li>
+<li><a href="/wiki/MAG" class="mw-disambig" title="MAG">MAG</a></li>
+<li><a href="/wiki/%E5%8E%9F%E4%BD%9C" title="原作">原作</a></li>
+<li><a href="/wiki/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="イラストレーション">イラストレーション</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3" title="カートゥーン">カートゥーン</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC" title="キャラクター">キャラクター</a> - <a href="/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="キャラクターデザイン">キャラクターデザイン</a></li>
+<li>「まんがの日」- <a href="/wiki/11%E6%9C%883%E6%97%A5" title="11月3日">11月3日</a></li>
+<li>「漫画の日」- <a href="/wiki/2%E6%9C%889%E6%97%A5" title="2月9日">2月9日</a>・<a href="/wiki/7%E6%9C%8817%E6%97%A5" title="7月17日">7月17日</a></li>
+<li><a href="/wiki/%E6%90%BA%E5%B8%AF%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF" title="携帯コミック">携帯コミック</a></li>
+<li><a href="/wiki/%E6%96%B0%E8%81%9E" title="新聞">新聞</a>の「漫画」の節</li>
+<li><a href="/wiki/%E5%9B%B3%E5%83%8F%E8%B3%87%E6%96%99" title="図像資料">図像資料</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0" title="マンガ・アニメミュージアム">マンガ・アニメミュージアム</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88" title="マンガサミット">マンガサミット</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%B2%E3%83%83%E3%83%88" class="mw-redirect" title="マンガゲット">マンガゲット</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit&amp;section=13" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Comics?uselang=ja">漫画</a></span></b>に関連するカテゴリがあります。</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/40px-Wiktionary-logo.svg.png" width="40" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/60px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/80px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;"><a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">ウィクショナリー</a>に<b><a href="https://ja.wiktionary.org/wiki/Special:Search/%E6%BC%AB%E7%94%BB" class="extiw" title="wikt:Special:Search/漫画">漫画</a></b>の項目があります。</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.dailypooper.com/page/article/186/7-best-selling-comic-books-of-all-time">ベストセラーコミック</a> 世界中で販売されてコピーのリストに従って号。</li>
+<li><a rel="nofollow" class="external text" href="http://www.jsscc.net/">日本マンガ学会</a></li>
+<li><a rel="nofollow" class="external text" href="http://mang.jp">無料Webマンガのマンガ★ゲット</a></li>
+<li><a rel="nofollow" class="external text" href="http://mang.jp/recruitment/">漫画家募集|マンガ★ゲット</a></li>
+</ul>
+<table class="navbox" style="border-collapse:collapse;;">
+<tr>
+<td>
+<table class="hlist hlist-hyphen collapsible autocollapse" style="background:transparent;color:inherit;border:1px solid #fff;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<th style="" colspan="3" class="navbox-title">
+<div style="float:left;width6em;text-align:left;">
+<div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;border:none;">
+<ul style="display:inline;">
+<li><a href="/wiki/Template:%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="Template:イラストレーション"><span title="このテンプレートを表示します" style="font-size:125%;border:none;">表</span></a></li>
+<li><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:イラストレーション (存在しないページ)"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;border:none;">話</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:イラストレーション&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;border:none;">編</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:イラストレーション&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;border:none;">歴</span></a></li>
+</ul>
+</div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="イラストレーション">イラストレーション</a></span></th>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;text-align:center;;">活動領域</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E6%8C%BF%E7%B5%B5" title="挿絵">挿絵</a></li>
+<li><a href="/wiki/%E8%A1%A8%E7%B4%99" title="表紙">表紙</a></li>
+<li><a href="/wiki/%E7%94%BB%E9%9B%86" title="画集">画集</a></li>
+<li><a href="/wiki/%E7%B5%B5%E6%9C%AC" title="絵本">絵本</a></li>
+<li><a href="/wiki/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC" title="ポスター">ポスター</a></li>
+<li><a href="/wiki/%E5%BA%83%E5%91%8A" title="広告">広告</a></li>
+<li><a href="/wiki/%E4%BC%BC%E9%A1%94%E7%B5%B5" title="似顔絵">似顔絵</a></li>
+<li><a href="/wiki/%E6%88%AF%E7%94%BB" title="戯画">風刺画</a></li>
+<li><strong class="selflink">漫画</strong></li>
+<li><a href="/wiki/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" title="イラストーリー">イラストーリー</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3" title="カートゥーン">カートゥーン</a></li>
+<li><a href="/wiki/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%82%A2%E3%83%BC%E3%83%88" title="クリップアート">クリップアート</a></li>
+<li><a href="/wiki/%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="テクニカルイラストレーション">テクニカルイラストレーション</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%82%A2%E3%83%BC%E3%83%88" title="コンセプトアート">コンセプトアート</a></li>
+<li><a href="/wiki/%E5%AE%8C%E6%88%90%E4%BA%88%E6%83%B3%E5%9B%B3" title="完成予想図">完成予想図</a></li>
+</ul>
+</div>
+</td>
+<td style="width:0%;padding:0 0 0 2px;" rowspan="5"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Martinez_Delgado_8.jpg" class="image"><img alt="Martinez Delgado 8.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Martinez_Delgado_8.jpg/60px-Martinez_Delgado_8.jpg" width="60" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Martinez_Delgado_8.jpg/90px-Martinez_Delgado_8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Martinez_Delgado_8.jpg/120px-Martinez_Delgado_8.jpg 2x" data-file-width="330" data-file-height="301" /></a></td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;text-align:center;;"><a href="/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="デザイン">デザイン</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="グラフィックデザイン">グラフィックデザイン</a></li>
+<li><a href="/wiki/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="ビジュアルデザイン">ビジュアルデザイン</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="パッケージデザイン">パッケージデザイン</a></li>
+<li><a href="/wiki/%E8%A3%85%E5%B9%80" title="装幀">装幀</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="キャラクターデザイン">キャラクターデザイン</a></li>
+<li><a href="/wiki/%E3%83%A1%E3%82%AB%E3%83%8B%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="メカニックデザイン">メカニックデザイン</a></li>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF" title="インフォグラフィック">インフォグラフィック</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;text-align:center;;">人物/一覧</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC" title="イラストレーター">イラストレーター</a></li>
+<li><a href="/wiki/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E4%B8%80%E8%A6%A7" title="イラストレーター一覧">イラストレーター一覧</a>（<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E4%B8%80%E8%A6%A7" title="日本のイラストレーター一覧">日本</a>）</li>
+<li><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC" title="グラフィックデザイナー">グラフィックデザイナー</a>&#160;/ <span class="nowrap"><a href="/wiki/Category:%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="Category:イラストレーション">カテゴリ</a></span></li>
+<li><span class="nowrap"><a class="external text" href="http://commons.wikimedia.org/wiki/Category:Illustrations">コモンズ</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="asbox plainlinks noprint" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Manga-stub.svg" class="image" title="執筆の途中です"><img alt="執筆の途中です" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Manga-stub.svg/45px-Manga-stub.svg.png" width="45" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Manga-stub.svg/68px-Manga-stub.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Manga-stub.svg/90px-Manga-stub.svg.png 2x" data-file-width="55" data-file-height="54" /></a></td>
+<td class="mbox-text">この項目は、<strong class="selflink">漫画</strong>に関連した<b><a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%83%96" title="Wikipedia:スタブ">書きかけの項目</a></b>です。<a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit">この項目を加筆・訂正</a>などしてくださる<a href="/wiki/Category:%E6%BC%AB%E7%94%BB%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:漫画関連のスタブ項目">協力者を求めています</a>（<a href="/wiki/Portal:%E6%BC%AB%E7%94%BB" title="Portal:漫画">P:漫画</a>/<a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E6%BC%AB%E7%94%BB" title="プロジェクト:漫画">PJ漫画</a>/<a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E6%BC%AB%E7%94%BB%E9%9B%91%E8%AA%8C" title="プロジェクト:漫画雑誌">PJ漫画雑誌</a>）。<br />
+<span style="font-style:normal; font-size:90%;">項目が漫画家・漫画原作者の場合には{{<a href="/wiki/Template:Manga-artist-stub" title="Template:Manga-artist-stub">Manga-artist-stub</a>}}を貼り付けてください。</span></td>
+</tr>
+</table>
+
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:1737920-0!*!0!!ja!4!* and timestamp 20160814061818 and revision id 60462847
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=漫画&amp;oldid=60462847">https://ja.wikipedia.org/w/index.php?title=漫画&amp;oldid=60462847</a>」から取得					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E6%BC%AB%E7%94%BB" title="Category:漫画">漫画</a></li><li><a href="/wiki/Category:%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%AB%B8%E5%BD%A2%E5%BC%8F" title="Category:フィクションの諸形式">フィクションの諸形式</a></li><li><a href="/wiki/Category:%E5%92%8C%E8%A3%BD%E6%BC%A2%E8%AA%9E" title="Category:和製漢語">和製漢語</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B/2008%E5%B9%B43%E6%9C%88-4%E6%9C%88" title="Category:出典を必要とする記事/2008年3月-4月">出典を必要とする記事/2008年3月-4月</a></li><li><a href="/wiki/Category:%E6%BC%AB%E7%94%BB%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:漫画関連のスタブ項目">漫画関連のスタブ項目</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E6%BC%AB%E7%94%BB" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E6%BC%AB%E7%94%BB" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E6%BC%AB%E7%94%BB"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E6%BC%AB%E7%94%BB"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E6%BC%AB%E7%94%BB" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=edit"  title="このページを編集 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E6%BC%AB%E7%94%BB">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E6%BC%AB%E7%94%BB&amp;returnto=%E6%BC%AB%E7%94%BB&amp;oldid=60462847&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>他のプロジェクト</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Comics" hreflang="en">コモンズ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E6%BC%AB%E7%94%BB" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E6%BC%AB%E7%94%BB" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;oldid=60462847" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1004" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E6%BC%AB%E7%94%BB&amp;id=60462847" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="https://af.wikipedia.org/wiki/Strokiesverhaal" title="アフリカーンス語: Strokiesverhaal" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Comic" title="アレマン語: Comic" lang="als" hreflang="als">Alemannisch</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/C%C3%B3mic" title="アラゴン語: Cómic" lang="an" hreflang="an">Aragonés</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B5_%D9%85%D8%B5%D9%88%D8%B1%D8%A9" title="アラビア語: قصص مصورة" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%83%D9%88%D9%85%D9%8A%D9%83%D8%B3" title="エジプト・アラビア語: كوميكس" lang="arz" hreflang="arz">مصرى</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%8D%E2%80%8C%E0%A6%9B" title="アッサム語: কমিক্‌ছ" lang="as" hreflang="as">অসমীয়া</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/C%C3%B3mic" title="アストゥリアス語: Cómic" lang="ast" hreflang="ast">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Komiks" title="アゼルバイジャン語: Komiks" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Kuom%C4%97ks%C4%81" title="サモギティア語: Kuomėksā" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D1%96%D0%BA%D1%81" title="ベラルーシ語: Комікс" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D1%96%D0%BA%D1%81" title="ベラルーシ語（タラシケヴィツァ）: Комікс" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81" title="ブルガリア語: Комикс" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%B8" title="ベンガル語: কমিকস" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Banno%C3%B9-treset" title="ブルトン語: Bannoù-treset" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Strip" title="ボスニア語: Strip" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-bug"><a href="https://bug.wikipedia.org/wiki/%E1%A8%80%E1%A8%9A%E1%A8%86%E1%A8%97%E1%A8%80%E1%A8%9B" title="ブギ語: ᨀᨚᨆᨗᨀᨛ" lang="bug" hreflang="bug">ᨅᨔ ᨕᨘᨁᨗ</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/C%C3%B2mic" title="カタロニア語: Còmic" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D9%85%DB%8C%DA%A9" title="クルド語(ソラニー): کۆمیک" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Komiks" title="チェコ語: Komiks" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Comic" title="ウェールズ語: Comic" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tegneserie" title="デンマーク語: Tegneserie" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="https://de.wikipedia.org/wiki/Comic" title="ドイツ語: Comic" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CF%8C%CE%BC%CE%B9%CE%BA%CF%82" title="ギリシャ語: Κόμικς" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-en badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="https://en.wikipedia.org/wiki/Comics" title="英語: Comics" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Bildliteraturo" title="エスペラント語: Bildliteraturo" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Historieta" title="スペイン語: Historieta" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Koomiks" title="エストニア語: Koomiks" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Komiki" title="バスク語: Komiki" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%85%DB%8C%DA%A9" title="ペルシア語: کمیک" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Sarjakuva" title="フィンランド語: Sarjakuva" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bande_dessin%C3%A9e" title="フランス語: Bande dessinée" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Histou%C3%A8re_ilustr%C3%A2ye" title="アルピタン語: Histouère ilustrâye" lang="frp" hreflang="frp">Arpetan</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Bilet%C3%A4%C3%A4le" title="北フリジア語: Biletääle" lang="frr" hreflang="frr">Nordfriisk</a></li><li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Fumut" title="フリウリ語: Fumut" lang="fur" hreflang="fur">Furlan</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Tekenteltsje" title="西フリジア語: Tekenteltsje" lang="fy" hreflang="fy">Frysk</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E4%BA%BA%E9%AA%A8%E5%AD%90%E9%A0%AD%E7%95%AB" title="贛語: 人骨子頭畫" lang="gan" hreflang="gan">贛語</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/P%C3%A0ipear-%C3%A8ibhinn" title="スコットランド・ゲール語: Pàipear-èibhinn" lang="gd" hreflang="gd">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Banda_dese%C3%B1ada" title="ガリシア語: Banda deseñada" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-gv badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="https://gv.wikipedia.org/wiki/Caslys-skeeal" title="マン島語: Caslys-skeeal" lang="gv" hreflang="gv">Gaelg</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9E%D7%99%D7%A7%D7%A1" title="ヘブライ語: קומיקס" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%89%E0%A4%AE%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8" title="ヒンディー語: कॉमिक्स" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Comics" title="フィジー・ヒンディー語: Comics" lang="hif" hreflang="hif">Fiji Hindi</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Strip" title="クロアチア語: Strip" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%A9preg%C3%A9ny" title="ハンガリー語: Képregény" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%B4%D5%AB%D6%84%D5%BD" title="アルメニア語: Կոմիքս" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Comic" title="インターリングア: Comic" lang="ia" hreflang="ia">Interlingua</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Komik" title="インドネシア語: Komik" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Komiks" title="イロカノ語: Komiks" lang="ilo" hreflang="ilo">Ilokano</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Teiknimyndasaga" title="アイスランド語: Teiknimyndasaga" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Fumetto" title="イタリア語: Fumetto" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Kamik" title="ジャマイカ・クレオール語: Kamik" lang="jam" hreflang="jam">Patois</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Komik" title="ジャワ語: Komik" lang="jv" hreflang="jv">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A5%E1%83%A1%E1%83%98" title="ジョージア語: კომიქსი" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81" title="カザフ語: Комикс" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A7%8C%ED%99%94" title="韓国語: 만화" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Narratio_picta" title="ラテン語: Narratio picta" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Comics" title="ルクセンブルク語: Comics" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Stripverhaol" title="リンブルフ語: Stripverhaol" lang="li" hreflang="li">Limburgs</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Komiksas" title="リトアニア語: Komiksas" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Komikss" title="ラトビア語: Komikss" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81" title="東部マリ語: Комикс" lang="mhr" hreflang="mhr">Олык марий</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%BF" title="マケドニア語: Стрип" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%95%E0%B4%A5" title="マラヤーラム語: ചിത്രകഥ" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81" title="モンゴル語: Комикс" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Komik" title="マレー語: Komik" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Cuontas_an_zenhicos" title="ミランダ語: Cuontas an zenhicos" lang="mwl" hreflang="mwl">Mirandés</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Comic" title="低地ドイツ語: Comic" lang="nds" hreflang="nds">Plattdüütsch</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%95%E0%A4%AE%E0%A4%BF%E0%A4%95" title="ネワール語: कमिक" lang="new" hreflang="new">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Stripverhaal" title="オランダ語: Stripverhaal" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Teikneserie" title="ノルウェー語(ニーノシュク): Teikneserie" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no badge-Q17437798 badge-goodarticle" title="良質な記事"><a href="https://no.wikipedia.org/wiki/Tegneserie" title="ノルウェー語: Tegneserie" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Sornette_en_portraits" title="ノルマン語: Sornette en portraits" lang="nrm" hreflang="nrm">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Benda_dessenhada" title="オック語: Benda dessenhada" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%8C%E0%A8%AE%E0%A8%BF%E0%A8%95%E0%A8%B8" title="パンジャブ語: ਕੌਮਿਕਸ" lang="pa" hreflang="pa">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Bindes_%C3%A0_dessin" title="ピカルディ語: Bindes à dessin" lang="pcd" hreflang="pcd">Picard</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Komiks" title="ポーランド語: Komiks" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%A9%D9%88%D9%85%DA%A9%D8%B3" title="Western Punjabi: کومکس" lang="pnb" hreflang="pnb">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Banda_desenhada" title="ポルトガル語: Banda desenhada" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Siq%27isqa_rikchasapa_willakuy" title="ケチュア語: Siq'isqa rikchasapa willakuy" lang="qu" hreflang="qu">Runa Simi</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Band%C4%83_desenat%C4%83" title="ルーマニア語: Bandă desenată" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81" title="ロシア語: Комикс" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Fumetu" title="サルデーニャ語: Fumetu" lang="sc" hreflang="sc">Sardu</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Fumettu" title="シチリア語: Fumettu" lang="scn" hreflang="scn">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Comics" title="スコットランド語: Comics" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Strip" title="セルボ・クロアチア語: Strip" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Comics" title="シンプル英語: Comics" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Komiks" title="スロバキア語: Komiks" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Strip" title="スロベニア語: Strip" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Stripi" title="アルバニア語: Stripi" lang="sq" hreflang="sq">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%BF" title="セルビア語: Стрип" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Bieldet%C3%A4lster" title="ザーターフリジア語: Bieldetälster" lang="stq" hreflang="stq">Seeltersk</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Komik" title="スンダ語: Komik" lang="su" hreflang="su">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tecknad_serie" title="スウェーデン語: Tecknad serie" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Kibonzo" title="スワヒリ語: Kibonzo" lang="sw" hreflang="sw">Kiswahili</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%A4%E0%AF%88" title="タミル語: வரைகதை" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%BE%E0%B0%AE%E0%B0%BF%E0%B0%95%E0%B1%8D%E0%B0%B8%E0%B1%8D" title="テルグ語: కామిక్స్" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81" title="タジク語: Комикс" lang="tg" hreflang="tg">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87" title="タイ語: การ์ตูนช่อง" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Komiks" title="タガログ語: Komiks" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Karikat%C3%BCr_band%C4%B1" title="トルコ語: Karikatür bandı" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D1%96%D0%BA%D1%81" title="ウクライナ語: Комікс" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D8%A7%D9%85%DA%A9%D8%B3" title="ウルドゥー語: کامکس" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Komiks" title="ウズベク語: Komiks" lang="uz" hreflang="uz">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Strisia_a_fumeti" title="ヴェネト語: Strisia a fumeti" lang="vec" hreflang="vec">Vèneto</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Komiks" title="ヴェプス語: Komiks" lang="vep" hreflang="vep">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Truy%E1%BB%87n_tranh" title="ベトナム語: Truyện tranh" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Strip" title="西フラマン語: Strip" lang="vls" hreflang="vls">West-Vlams</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Binde_d%27_im%C3%A5djes" title="ワロン語: Binde d' imådjes" lang="wa" hreflang="wa">Walon</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Komix" title="ワライ語: Komix" lang="war" hreflang="war">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E8%BF%9E%E7%8E%AF%E7%94%BB" title="呉語: 连环画" lang="wuu" hreflang="wuu">吴语</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%9E%D7%99%D7%A7%D7%A1" title="イディッシュ語: קאמיקס" lang="yi" hreflang="yi">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%BC%AB%E7%94%BB" title="中国語: 漫画" lang="zh" hreflang="zh">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ang-%C3%A1-o%C4%93" title="閩南語: Ang-á-oē" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%BC%AB%E7%95%AB" title="広東語: 漫畫" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1004#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2016年7月17日 (日) 06:25 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E6%BC%AB%E7%94%BB&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.switcher","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.compactlinks","ext.uls.interlanguage","ext.centralNotice.startUp","ext.centralNotice.geoIP"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.256",
+            "walltime": "0.370",
+            "ppvisitednodes": {
+                "value": 2550,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 31807,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 4679,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 23,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "timingprofile": [
+                "100.00%  284.275      1 -total",
+                " 27.71%   78.763      2 Template:Reflist",
+                " 27.38%   77.846      1 Template:出典の明記",
+                " 20.49%   58.242      1 Template:Ambox",
+                " 13.63%   38.755      1 Template:Cite_book",
+                " 11.21%   31.867      4 Template:Side_box",
+                "  9.28%   26.382      1 Template:Cite_web",
+                "  9.04%   25.696      1 Template:Cite_book/和書",
+                "  8.36%   23.767      2 Template:Citation/showdate",
+                "  7.44%   21.162      1 Template:Lang-en"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.029",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1402863,
+                "limit": 52428800
+            }
+        },
+        "EntityAccessCount": 1,
+        "cachereport": {
+            "origin": "mw1272",
+            "timestamp": "20160814061819",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":470,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

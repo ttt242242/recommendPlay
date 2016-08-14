@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>カフェ・オ・レ - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"カフェ・オ・レ","wgTitle":"カフェ・オ・レ","wgCurRevisionId":60730192,"wgRevisionId":60730192,"wgArticleId":47338,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["コーヒー","喫茶文化","フランスの食文化","フランス語の語句"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"カフェ・オ・レ","wgRelevantArticleId":47338,"wgRequestId":"V6-chwpAMFoAAHy4u5MAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"カフェオレ","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC","wgWikibaseItemId":"Q259109","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);mw.loader.state({"ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.legacy.shared":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","site.styles":"ready","noscript":"ready","user.cssprefs":"ready","user.styles":"ready"});});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%2Cswitcher%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-カフェ・オ・レ rootpage-カフェ・オ・レ skin-vector action-view feature-page-action-bar-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">カフェ・オ・レ</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">（<a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%82%AA%E3%83%AC&amp;redirect=no" class="mw-redirect" title="カフェオレ">カフェオレ</a>から転送）</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div class="dablink noprint">
+<table style="width:100%; background:transparent;">
+<tr>
+<td style="width:25px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Disambig_gray.svg" class="image" title="曖昧さ回避"><img alt="曖昧さ回避" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" width="25" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></td>
+<td>この項目では、コーヒーについて説明しています。
+<ul>
+<li>JR西日本の体質改善車両にみられる塗装については「<a href="/wiki/%E5%9B%BD%E9%89%84113%E7%B3%BB%E9%9B%BB%E8%BB%8A#.E4.BD.93.E8.B3.AA.E6.94.B9.E5.96.84.E8.89.B2" title="国鉄113系電車">国鉄113系電車#体質改善色</a>」をご覧ください。</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Caf%C3%A9_au_lait.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caf%C3%A9_au_lait.jpg/160px-Caf%C3%A9_au_lait.jpg" width="160" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caf%C3%A9_au_lait.jpg/240px-Caf%C3%A9_au_lait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caf%C3%A9_au_lait.jpg/320px-Caf%C3%A9_au_lait.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Caf%C3%A9_au_lait.jpg" class="internal" title="拡大"></a></div>
+カフェオレ</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg/160px-Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg" width="160" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg/240px-Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg/320px-Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Cafe_au_lait_by_Kanko_at_Mister_Donut.jpg" class="internal" title="拡大"></a></div>
+カフェ・オ・レ</div>
+</div>
+</div>
+<p><b>カフェ・オ・レ</b>（<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E" title="フランス語">フランス語</a>: <span lang="fr" xml:lang="fr">café au lait</span>）は、<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9" title="フランス">フランス</a>で好まれる<a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="コーヒー">コーヒー</a>の飲み方。"café カフェ" はコーヒーのことであり、"au オ" は<a href="/wiki/%E5%89%8D%E7%BD%AE%E8%A9%9E" class="mw-redirect" title="前置詞">前置詞</a> "à" +男性型単数形<a href="/wiki/%E5%AE%9A%E5%86%A0%E8%A9%9E" class="mw-redirect" title="定冠詞">定冠詞</a> "le" の縮約型であり、"lait レ" は<a href="/wiki/%E7%89%9B%E4%B9%B3" title="牛乳">牛乳</a>のことである。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.B7.B9.E3.82.8C.E6.96.B9"><span class="tocnumber">1</span> <span class="toctext">淹れ方</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.A6.82.E8.A6.81"><span class="tocnumber">2</span> <span class="toctext">概要</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">3</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">4</span> <span class="toctext">関連項目</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E6.B7.B9.E3.82.8C.E6.96.B9">淹れ方</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=edit&amp;section=1" title="節を編集: 淹れ方">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>淹れ方には2種類ある。</p>
+<ol>
+<li>濃く淹れたコーヒーと熱い<a href="/wiki/%E7%89%9B%E4%B9%B3" title="牛乳">牛乳</a>同量を、カップに同時に注いだもの。持ち手のないカップ（café au lait bol）で供されることもある。</li>
+<li><a href="/wiki/%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD" title="エスプレッソ">エスプレッソ</a>を淹れ、同量のやや薄いふ温めた牛乳と混ぜたもの。</li>
+</ol>
+<h2><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=edit&amp;section=2" title="節を編集: 概要">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>日本では1と2を区別するため、</p>
+<dl>
+<dd>1を<a href="/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E" title="フランス語">フランス語</a>に基づく<b>カフェ・オ・レ</b>、</dd>
+<dd>2を<a href="/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E8%AA%9E" title="イタリア語">イタリア語</a>に基づく<b><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%A9%E3%83%83%E3%83%86" title="カフェ・ラッテ">カフェ・ラッテ</a></b>と表記することがある。</dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Cafe_au_lait_bowls.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cafe_au_lait_bowls.jpeg/160px-Cafe_au_lait_bowls.jpeg" width="160" height="213" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cafe_au_lait_bowls.jpeg/240px-Cafe_au_lait_bowls.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cafe_au_lait_bowls.jpeg/320px-Cafe_au_lait_bowls.jpeg 2x" data-file-width="600" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Cafe_au_lait_bowls.jpeg" class="internal" title="拡大"></a></div>
+フランスの家庭で使われるカフェオレ・ボウル</div>
+</div>
+</div>
+<p>フランスの<a href="/wiki/%E5%AE%B6%E5%BA%AD" title="家庭">家庭</a>では<a href="/wiki/%E6%9C%9D%E9%A3%9F" title="朝食">朝食</a>時にカフェオレをたっぷりと飲むのを好む人が多い。朝、目を覚ますために濃いコーヒーを飲みたいが、朝っ腹（すきっ腹）に濃いコーヒーは胃に刺激が強い為、牛乳で和らげ飲みやすくしたものである。カップではなく<b>カフェ・オ・レ・ボウル</b>（日本のドンブリのような大きな<a href="/wiki/%E9%99%B6%E5%99%A8" class="mw-redirect" title="陶器">陶器</a>のうつわ。単に「Bol<a href="https://fr.wikipedia.org/wiki/Bol_(vaisselle)" class="extiw" title="fr:Bol (vaisselle)">（仏語Bol）</a>」とも。「Petit dejeuner bol（朝食ボウル）」とも。）で飲まれることが現在でも多い<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=edit&amp;section=3" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="noprint" style="float:right; font-size:90%;">
+<tr>
+<td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">ヘルプ</span></a>]</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text">なお、映画『<a href="/wiki/%E7%A6%81%E3%81%98%E3%82%89%E3%82%8C%E3%81%9F%E9%81%8A%E3%81%B3" title="禁じられた遊び">禁じられた遊び</a>』では、5歳のポレットが貧しい食事を補うためにリンゴをくれた兄のミシェルに「リンゴは嫌い、カフェ・オ・レがいい」とごねる場面があり、パリの都会っ子ということが表現されていた。</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=edit&amp;section=4" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%A9%E3%83%83%E3%83%86" title="カフェ・ラッテ">カフェ・ラッテ</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%87%E3%83%A5%E3%83%A2%E3%83%B3%E3%83%89" title="カフェデュモンド">カフェデュモンド</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%89%9B%E4%B9%B3" title="コーヒー牛乳">コーヒー牛乳</a></li>
+</ul>
+<p><br /></p>
+<table class="navbox" style="border-collapse:collapse;;">
+<tr>
+<td>
+<table class="hlist hlist-hyphen collapsible collapsed" style="background:transparent;color:inherit;border:1px solid #fff;width:100%;border-spacing:0;border-collapse:collapse;">
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<th style="background-color: #AA5303; color: white;" colspan="2" class="navbox-title">
+<div style="float:left;width6em;text-align:left;">
+<div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;background-color: #AA5303; color: white;border:none;">
+<ul style="display:inline;">
+<li><a href="/wiki/Template:%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="Template:コーヒー"><span title="このテンプレートを表示します" style="font-size:125%;background-color: #AA5303; color: white;border:none;">表</span></a></li>
+<li><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:コーヒー (存在しないページ)"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;background-color: #AA5303; color: white;border:none;">話</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:コーヒー&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;background-color: #AA5303; color: white;border:none;">編</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:コーヒー&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;background-color: #AA5303; color: white;border:none;">歴</span></a></li>
+</ul>
+</div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="コーヒー"><span style="color: white;">コーヒー</span></a></span></th>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;">主要項目</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E7%B5%8C%E6%B8%88&amp;action=edit&amp;redlink=1" class="new" title="コーヒーの経済 (存在しないページ)">経済</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Economics_of_coffee" class="extiw" title="en:Economics of coffee">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%95%E3%82%A7%E3%82%A2%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="フェアトレードコーヒー (存在しないページ)">フェアトレード</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Fair_trade_coffee" class="extiw" title="en:Fair trade coffee">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF&amp;action=edit&amp;redlink=1" class="new" title="コーヒーの健康への影響 (存在しないページ)">コーヒー</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Health_effects_of_coffee" class="extiw" title="en:Health effects of coffee">英語版</a>）</span></span>と<span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF&amp;action=edit&amp;redlink=1" class="new" title="カフェインの健康への影響 (存在しないページ)">カフェインの健康への影響</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Health_effects_of_caffeine" class="extiw" title="en:Health effects of caffeine">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E6%AD%B4%E5%8F%B2" title="コーヒーの歴史">歴史</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;"><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%BC%B8%E5%87%BA%E5%9B%BD%E3%81%AE%E4%B8%80%E8%A6%A7" title="コーヒー輸出国の一覧">生産国・地域</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%8F%E3%83%AF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ハワイにおけるコーヒー生産">アメリカ合衆国</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="アンゴラにおけるコーヒー生産">アンゴラ</a></li>
+<li><a href="/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="エチオピアにおけるコーヒー生産">エチオピア</a></li>
+<li><a href="/wiki/%E3%82%B0%E3%82%A2%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="グアムにおけるコーヒー生産">グアム</a></li>
+<li><a href="/wiki/%E3%82%B1%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ケニアにおけるコーヒー生産">ケニア</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B8%E3%83%9C%E3%83%AF%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="コートジボワールにおけるコーヒー生産">コートジボワール</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%B3%E3%82%B4%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="コンゴ民主共和国におけるコーヒー生産">コンゴ民主共和国</a></li>
+<li><a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%A4%E3%82%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ジャマイカにおけるコーヒー生産">ジャマイカ</a></li>
+<li><a href="/wiki/%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="タイにおけるコーヒー生産">タイ</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%82%A4%E3%83%81%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ハイチにおけるコーヒー生産">ハイチ</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="パナマにおけるコーヒー生産">パナマ</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="パラグアイにおけるコーヒー生産">パラグアイ</a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="フィリピンにおけるコーヒー生産">フィリピン</a></li>
+<li><a href="/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="プエルトリコにおけるコーヒー生産">プエルトリコ</a></li>
+<li><a href="/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ブラジルにおけるコーヒー生産">ブラジル</a></li>
+<li><a href="/wiki/%E3%83%9C%E3%83%AA%E3%83%93%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ボリビアにおけるコーヒー生産">ボリビア</a></li>
+<li><a href="/wiki/%E3%83%9B%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ホンジュラスにおけるコーヒー生産">ホンジュラス</a></li>
+<li><a href="/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ドミニカ共和国におけるコーヒー生産">ドミニカ共和国</a></li>
+<li><a href="/wiki/%E3%83%8B%E3%82%AB%E3%83%A9%E3%82%B0%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ニカラグアにおけるコーヒー生産">ニカラグア</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="マルティニークにおけるコーヒー生産">マルティニーク</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%82%AA%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3" title="ラオスにおけるコーヒー生産">ラオス</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="コロンビアにおけるコーヒー生産 (存在しないページ)">コロンビア</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Colombia" class="extiw" title="en:Coffee production in Colombia">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="コスタリカにおけるコーヒー生産 (存在しないページ)">コスタリカ</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Costa_Rica" class="extiw" title="en:Coffee production in Costa Rica">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="エクアドルにおけるコーヒー生産 (存在しないページ)">エクアドル</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Ecuador" class="extiw" title="en:Coffee production in Ecuador">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A8%E3%83%AB%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="エルサルバドルにおけるコーヒー生産 (存在しないページ)">エルサルバドル</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_El_Salvador" class="extiw" title="en:Coffee production in El Salvador">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="グアテマラにおけるコーヒー生産 (存在しないページ)">グアテマラ</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Guatemala" class="extiw" title="en:Coffee production in Guatemala">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="インドにおけるコーヒー生産 (存在しないページ)">インド</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_India" class="extiw" title="en:Coffee production in India">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="インドネシアにおけるコーヒー生産 (存在しないページ)">インドネシア</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Indonesia" class="extiw" title="en:Coffee production in Indonesia">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="メキシコにおけるコーヒー生産 (存在しないページ)">メキシコ</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Mexico" class="extiw" title="en:Coffee production in Mexico">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%91%E3%83%97%E3%82%A2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="パプアニューギニアにおけるコーヒー生産 (存在しないページ)">パプアニューギニア</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Papua_New_Guinea" class="extiw" title="en:Coffee production in Papua New Guinea">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="タンザニアにおけるコーヒー生産 (存在しないページ)">タンザニア</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Tanzania" class="extiw" title="en:Coffee production in Tanzania">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%94%9F%E7%94%A3&amp;action=edit&amp;redlink=1" class="new" title="ベトナムにおけるコーヒー生産 (存在しないページ)">ベトナム</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_production_in_Vietnam" class="extiw" title="en:Coffee production in Vietnam">英語版</a>）</span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;"><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8E%E3%82%AD" title="コーヒーノキ">品種</a>&#160;<b>·</b> 種類</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E5%93%81%E7%A8%AE%E4%B8%80%E8%A6%A7&amp;action=edit&amp;redlink=1" class="new" title="コーヒーの品種一覧 (存在しないページ)">品種一覧</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/List_of_coffee_varieties" class="extiw" title="en:List of coffee varieties">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8E%E3%82%AD" title="アラビカコーヒーノキ">アラビカ</a> （<a href="/wiki/S795" title="S795">S795</a>）</li>
+<li><a href="/wiki/%E3%83%AA%E3%83%99%E3%83%AA%E3%82%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8E%E3%82%AD" title="リベリカコーヒーノキ">リベリカ</a></li>
+<li><a href="/wiki/%E3%83%AD%E3%83%96%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8E%E3%82%AD" title="ロブスタコーヒーノキ">ロブスタ</a></li>
+<li><a href="/wiki/%E3%83%96%E3%83%AB%E3%83%9C%E3%83%B3%E7%A8%AE" title="ブルボン種">ブルボン</a></li>
+<li><a href="/w/index.php?title=%E3%83%86%E3%82%A3%E3%83%94%E3%82%AB%E7%A8%AE&amp;action=edit&amp;redlink=1" class="new" title="ティピカ種 (存在しないページ)">ティピカ</a></li>
+<li><a href="/wiki/%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%A8%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8E%E3%82%AD" title="シャリエコーヒーノキ">シャリエ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;">構成物</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB" title="カフェストール">カフェストール</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E9%85%B8" title="コーヒー酸">コーヒー酸</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3" title="カフェイン">カフェイン</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;"><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E5%8A%A0%E5%B7%A5&amp;action=edit&amp;redlink=1" class="new" title="コーヒーの加工 (存在しないページ)">加工</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_processing" class="extiw" title="en:Coffee processing">英語版</a>）</span></span></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%81%AE%E7%84%99%E7%85%8E&amp;action=edit&amp;redlink=1" class="new" title="コーヒー豆の焙煎 (存在しないページ)">コーヒー豆の焙煎</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_roasting" class="extiw" title="en:Coffee roasting">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%87%E3%82%AB%E3%83%95%E3%82%A7" title="デカフェ">デカフェ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%81%AE%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E&amp;action=edit&amp;redlink=1" class="new" title="コーヒー豆の自家焙煎 (存在しないページ)">自家焙煎</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Home_roasting_coffee" class="extiw" title="en:Home roasting coffee">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E5%BB%83%E6%B0%B4&amp;action=edit&amp;redlink=1" class="new" title="コーヒー廃水 (存在しないページ)">排水副産物</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_wastewater" class="extiw" title="en:Coffee wastewater">英語版</a>）</span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;"><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E6%B7%B9%E3%82%8C%E6%96%B9&amp;action=edit&amp;redlink=1" class="new" title="コーヒーの淹れ方 (存在しないページ)">淹れ方</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_preparation" class="extiw" title="en:Coffee preparation">英語版</a>）</span></span></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9" title="エアロプレス">エアロプレス</a></li>
+<li><a href="/wiki/%E3%83%81%E3%83%A7%E3%83%AC%E3%82%A2%E3%83%89%E3%83%BC%E3%83%AB" title="チョレアドール">チョレアドール</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC" title="コーヒーメーカー">コーヒーメーカー</a></li>
+<li><a href="/wiki/%E3%83%91%E3%83%BC%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%BF" title="パーコレータ">パーコレータ</a></li>
+<li><a href="/wiki/%E3%83%80%E3%83%83%E3%83%81%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="ダッチ・コーヒー">水出し</a></li>
+<li><a href="/wiki/%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" class="mw-redirect" title="ドリップコーヒー">ドリップコーヒー</a></li>
+<li><a href="/wiki/%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD" title="エスプレッソ">エスプレッソ</a>（<a href="/wiki/%E3%83%AB%E3%83%B3%E3%82%B4" title="ルンゴ">ルンゴ</a>&#160;<b>·</b> <span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%AA%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="リストレット (存在しないページ)">リストレット</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/ristretto" class="extiw" title="en:ristretto">英語版</a>）</span></span>）</li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD%E3%83%9E%E3%82%B7%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="エスプレッソマシン (存在しないページ)">エスプレッソマシン</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Espresso_machine" class="extiw" title="en:Espresso machine">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9" title="フレンチプレス">フレンチプレス</a></li>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="インスタントコーヒー">インスタントコーヒー</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%8E%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="ノックボックス (存在しないページ)">ノックボックス</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Knockbox" class="extiw" title="en:Knockbox">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9" title="モカエキスプレス">モカエキスプレス</a></li>
+<li><a href="/wiki/%E3%83%88%E3%83%AB%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="トルココーヒー">トルココーヒー</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3" title="コーヒーサイフォン">コーヒーサイフォン</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;"><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E9%A3%B2%E6%96%99%E4%B8%80%E8%A6%A7&amp;action=edit&amp;redlink=1" class="new" title="コーヒー飲料一覧 (存在しないページ)">主な飲み物</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/List_of_coffee_beverages" class="extiw" title="en:List of coffee beverages">英語版</a>）</span></span></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%A2%E3%83%95%E3%82%A9%E3%82%AC%E3%83%BC%E3%83%88" title="アフォガート">アフォガート</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%8E_(%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)" title="アメリカーノ (コーヒー)">アメリカーノ</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="アメリカン・コーヒー">アメリカン・コーヒー</a></li>
+<li><a href="/wiki/%E3%83%93%E3%82%AB_(%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)" title="ビカ (コーヒー)">ビカ</a></li>
+<li><a href="/wiki/%E3%83%93%E3%83%81%E3%82%A7%E3%83%AA%E3%83%B3" title="ビチェリン">ビチェリン</a></li>
+<li><a href="/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="ベトナムコーヒー">ベトナムコーヒー</a></li>
+<li><a href="/wiki/%E3%82%A8%E3%83%83%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="エッグ・コーヒー">エッグ・コーヒー</a></li>
+<li><strong class="selflink">カフェ・オ・レ</strong></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%BB%E3%83%AC%E3%83%81%E3%82%A7" title="カフェ・コン・レチェ">カフェ・コン・レチェ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD&amp;action=edit&amp;redlink=1" class="new" title="キューバエスプレッソ (存在しないページ)">カフェ・キュバーノ</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Cuban_espresso" class="extiw" title="en:Cuban espresso">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A2%E3%82%AB" title="カフェモカ">カフェモカ</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%B3%E3%83%AC%E3%83%83%E3%83%88" title="カフェ・コレット">カフェ・コレット</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%88%E3%82%A5%E3%83%BC%E3%83%90" title="カフェトゥーバ">カフェ・トゥーバ</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%83%88" title="カフェ・マキアート">カフェ・マキアート</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%97%E3%83%81%E3%83%BC%E3%83%8E" title="カプチーノ">カプチーノ</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%A9%E3%83%92%E3%83%BC%E3%82%B8%E3%83%A7" title="カラヒージョ">カラヒージョ</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E7%89%9B%E4%B9%B3" title="コーヒー牛乳">コーヒー牛乳</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%89" title="コルタード">コルタード</a></li>
+<li><a href="/wiki/%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD" title="エスプレッソ">エスプレッソ</a></li>
+<li><a href="/wiki/%E9%B4%9B%E9%B4%A6%E8%8C%B6" title="鴛鴦茶">鴛鴦茶</a></li>
+<li><a href="/wiki/%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88" title="フラットホワイト">フラットホワイト</a></li>
+<li><a href="/wiki/%E3%83%95%E3%83%A9%E3%83%9A%E3%83%81%E3%83%BC%E3%83%8E" title="フラペチーノ">フラペチーノ</a></li>
+<li><a href="/wiki/%E3%82%AC%E3%83%A9%E3%82%AA%E3%83%B3_(%E9%A3%B2%E6%96%99)" title="ガラオン (飲料)">ガラオン</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%95%E3%83%A9%E3%83%83%E3%83%9A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="フラッペコーヒー (存在しないページ)">ギリシャフラッペコーヒー</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Frapp%C3%A9_coffee" class="extiw" title="en:Frappé coffee">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="アイスコーヒー">アイスコーヒー</a></li>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="インディアンコーヒー">インディアンコーヒー</a></li>
+<li><a href="/wiki/%E3%82%A4%E3%83%9D%E3%83%BC%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="イポーホワイトコーヒー">イポーホワイトコーヒー</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="アイリッシュ・コーヒー">アイリッシュ・コーヒー</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%94%E3%83%BB%E3%83%AB%E3%82%A2%E3%82%AF" title="コピ・ルアク">コピ・ルアク</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%A9%E3%83%83%E3%83%86" title="カフェ・ラッテ">カフェ・ラッテ</a></li>
+<li><a href="/wiki/%E3%83%A9%E3%83%83%E3%83%86%E3%83%BB%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%83%88" title="ラッテ・マキアート">ラッテ・マキアート</a></li>
+<li><a href="/wiki/%E9%85%92%E5%85%A5%E3%82%8A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="酒入りコーヒー">酒入りコーヒー</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="ロングブラック (存在しないページ)">ロングブラック</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Long_black" class="extiw" title="en:Long black">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4_(%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)&amp;action=edit&amp;redlink=1" class="new" title="レッドアイ (コーヒー) (存在しないページ)">レッドアイ</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Red_eye_(drink)" class="extiw" title="en:Red eye (drink)">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%AA%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="リストレット (存在しないページ)">リストレット</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/ristretto" class="extiw" title="en:ristretto">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%88%E3%83%AB%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="トルココーヒー">トルココーヒー</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="ウィンナ・コーヒー">ウィンナ・コーヒー</a></li>
+<li><a href="/wiki/%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7" title="メランジェ">メランジェ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;"><a href="/wiki/%E4%BB%A3%E7%94%A8%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" class="mw-redirect" title="代用コーヒー">代用</a></td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E9%BA%A6%E8%8C%B6" title="麦茶">麦茶</a></li>
+<li><a href="/wiki/%E3%83%90%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%83%E3%83%97" title="バーリーカップ">バーリーカップ</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%AD_(%E9%A3%B2%E6%96%99)" title="カロ (飲料)">カロ</a></li>
+<li><a href="/wiki/%E3%83%81%E3%82%B3%E3%83%AA%E3%83%BC" title="チコリー">チコリー</a></li>
+<li><a href="/wiki/%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="たんぽぽコーヒー">たんぽぽコーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%82%B4%E3%83%9C%E3%82%A6%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="ゴボウコーヒー (存在しないページ)">ゴボウコーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%82%B8%E3%83%A3%E3%82%AC%E3%82%A4%E3%83%A2%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="ジャガイモコーヒー (存在しないページ)">ジャガイモコーヒー</a></li>
+<li><a href="/w/index.php?title=%E7%99%BE%E5%90%88%E6%A0%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="百合根コーヒー (存在しないページ)">百合根コーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%82%B5%E3%82%AF%E3%83%A9%E3%81%AE%E6%A0%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="サクラの根コーヒー (存在しないページ)">サクラの根コーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%82%AB%E3%83%9C%E3%83%81%E3%83%A3%E3%81%AE%E7%A8%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="カボチャの種コーヒー (存在しないページ)">カボチャの種コーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%83%96%E3%83%89%E3%82%A6%E3%81%AE%E7%A8%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="ブドウの種コーヒー (存在しないページ)">ブドウの種コーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="ピーナッツコーヒー (存在しないページ)">ピーナッツコーヒー</a></li>
+<li><a href="/w/index.php?title=%E5%A4%A7%E8%B1%86%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="大豆コーヒー (存在しないページ)">大豆コーヒー</a></li>
+<li><a href="/wiki/%E3%81%A9%E3%82%93%E3%81%90%E3%82%8A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="どんぐりコーヒー">どんぐりコーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%82%AA%E3%82%AA%E3%83%A0%E3%82%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="オオムギコーヒー (存在しないページ)">オオムギコーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="トウモロコシコーヒー (存在しないページ)">トウモロコシコーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%83%81%E3%82%B3%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="チコリコーヒー (存在しないページ)">チコリコーヒー</a></li>
+<li><a href="/w/index.php?title=%E7%8E%84%E7%B1%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="玄米コーヒー (存在しないページ)">玄米コーヒー</a></li>
+<li><a href="/w/index.php?title=%E6%A0%B9%E3%82%BB%E3%83%AD%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="根セロリコーヒー (存在しないページ)">根セロリコーヒー</a></li>
+<li><a href="/w/index.php?title=%E3%83%91%E3%83%B3%E3%81%AE%E8%80%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="パンの耳コーヒー (存在しないページ)">パンの耳コーヒー</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A4%E3%83%B3%E3%82%AB_(%E9%A3%B2%E6%96%99)&amp;action=edit&amp;redlink=1" class="new" title="インカ (飲料) (存在しないページ)">インカ</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Inka_(beverage)" class="extiw" title="en:Inka (beverage)">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%A0&amp;action=edit&amp;redlink=1" class="new" title="ポスタム (存在しないページ)">ポスタム</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Postum" class="extiw" title="en:Postum">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%AD%E3%82%B7%E3%83%AB" title="キシル">キシル</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC" title="コーヒーチェリーティー">カスカラコーヒー</a></li>
+<li><a href="/wiki/%E7%84%99%E7%85%8E%E7%A9%80%E7%89%A9%E9%A3%B2%E6%96%99" title="焙煎穀物飲料">焙煎穀物飲料</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;">生活</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%83%90%E3%83%AA%E3%82%B9%E3%82%BF_(%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)" title="バリスタ (コーヒー)">バリスタ</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7" title="カフェ">カフェ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%AB%E3%83%83%E3%83%95%E3%82%A7_(%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)&amp;action=edit&amp;redlink=1" class="new" title="カッフェ (コーヒー) (存在しないページ)">カッフェ</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Caff%C3%A8" class="extiw" title="en:Caffè">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%BD%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%BE" title="カフェ・ソスペーゾ">カフェ・ソスペーゾ</a></li>
+<li><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="コーヒーブレイク (存在しないページ)">コーヒーブレイク</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%AC%E3%83%A2%E3%83%8B%E3%83%BC" title="コーヒー・セレモニー">コーヒー・セレモニー</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E6%96%87%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="コーヒー文化 (存在しないページ)">コーヒー文化</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_culture" class="extiw" title="en:Coffee culture">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0&amp;action=edit&amp;redlink=1" class="new" title="コーヒーカッピング (存在しないページ)">コーヒーカッピング</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_cupping" class="extiw" title="en:Coffee cupping">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E5%AE%AE%E6%AE%BF&amp;action=edit&amp;redlink=1" class="new" title="コーヒー宮殿 (存在しないページ)">コーヒー宮殿</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Coffee_Palace" class="extiw" title="en:Coffee Palace">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%BB%E3%83%8F%E3%82%A6%E3%82%B9" title="コーヒー・ハウス">コーヒー・ハウス</a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%82%AB" title="フィーカ">フィーカ</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%94%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A0" title="コピティアム">コピティアム</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E4%B8%80%E8%A6%A7&amp;action=edit&amp;redlink=1" class="new" title="コーヒーハウスチェーン一覧 (存在しないページ)">コーヒーハウスチェーン一覧</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/List_of_coffeehouse_chains" class="extiw" title="en:List of coffeehouse chains">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や、他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="ウィーン・コーヒーハウス (存在しないページ)">ウィーン・コーヒーハウス</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Viennese_coffee_house" class="extiw" title="en:Viennese coffee house">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84" title="コーヒーとドーナツ">コーヒーとドーナツ</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="コンビニコーヒー">コンビニコーヒー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;">食器類</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%83%E3%83%97" title="コーヒーカップ">コーヒーカップ</a></li>
+<li><a href="/wiki/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%BC" title="ソーサー">ソーサー</a></li>
+<li><a href="/wiki/%E3%83%87%E3%83%9F%E3%82%BF%E3%82%B9" title="デミタス">デミタス</a></li>
+<li><a href="/wiki/%E3%83%87%E3%83%9F%E3%82%BF%E3%82%B9%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3" title="デミタススプーン">デミタススプーン</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-group" style="border-right:2px solid #fff;background-color: #EEE8AA;;">関連項目</td>
+<td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd">
+<div style="padding:0 0.25em">
+<ul>
+<li><a href="/wiki/%E5%9B%BD%E9%9A%9B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E6%A9%9F%E9%96%A2" title="国際コーヒー機関">国際コーヒー機関</a></li>
+<li><a href="/wiki/%E5%9B%BD%E9%9A%9B%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E6%97%A5" title="国際コーヒーの日">国際コーヒーの日</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3_(%E7%BE%8A%E9%A3%BC%E3%81%84)" title="カルディ (羊飼い)">カルディ</a></li>
+<li><a href="/wiki/%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%89%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%A5%E3%83%BC" title="ガブリエル・ド・クリュー">ガブリエル・ド・クリュー</a></li>
+<li><a href="/wiki/%E7%BC%B6%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="缶コーヒー">缶コーヒー</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%BB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB" title="コーヒー・リキュール">コーヒー・リキュール</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BC%E3%83%AA%E3%83%BC" title="コーヒーゼリー">コーヒーゼリー</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%93%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88" title="コーヒービーンズチョコレート">コーヒービーンズチョコ</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9" title="コーヒーソース">コーヒーソース</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8E%E3%82%AD" title="コーヒーノキ">コーヒーノキ</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86" title="コーヒー豆">コーヒー豆</a></li>
+<li><a href="/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="グリーンコーヒー">グリーンコーヒー</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="border-width:2px;border-style:solid none;border-color:#fff">
+<td class="navbox-abovebelow" style="background-color: #AA5303; color: white; font-weight: bold;" colspan="2">
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Video-x-generic.svg" class="image" title="メディアファイル"><img alt="メディアファイル" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Video-x-generic.svg/16px-Video-x-generic.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Video-x-generic.svg/24px-Video-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Video-x-generic.svg/32px-Video-x-generic.svg.png 2x" data-file-width="48" data-file-height="48" /></a> <a href="https://commons.wikimedia.org/wiki/Coffee" class="extiw" title="commons:Coffee"><span style="color:white;">コモンズにあるコーヒー画像</span></a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Folder_Hexagonal_Icon.svg" class="image" title="カテゴリ"><img alt="カテゴリ" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /></a> <a href="/wiki/Category:%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="Category:コーヒー"><span style="color:white;">Category:コーヒー</span></a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Portal.svg" class="image" title="ポータル"><img alt="ポータル" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/16px-Portal.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/24px-Portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/32px-Portal.svg.png 2x" data-file-width="36" data-file-height="32" /></a> <a href="/wiki/Portal:%E9%A3%9F" title="Portal:食"><span style="color:white;">食ポータル</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:47338-0!*!0!!ja!4!* and timestamp 20160813042124 and revision id 60730192
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=カフェ・オ・レ&amp;oldid=60730192">https://ja.wikipedia.org/w/index.php?title=カフェ・オ・レ&amp;oldid=60730192</a>」から取得					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" title="Category:コーヒー">コーヒー</a></li><li><a href="/wiki/Category:%E5%96%AB%E8%8C%B6%E6%96%87%E5%8C%96" title="Category:喫茶文化">喫茶文化</a></li><li><a href="/wiki/Category:%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E9%A3%9F%E6%96%87%E5%8C%96" title="Category:フランスの食文化">フランスの食文化</a></li><li><a href="/wiki/Category:%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E%E3%81%AE%E8%AA%9E%E5%8F%A5" title="Category:フランス語の語句">フランス語の語句</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=edit"  title="このページを編集 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;returnto=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;oldid=60730192&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;oldid=60730192" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q259109" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;id=60730192" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D9%87%D9%88%D8%A9_%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A8" title="アラビア語: قهوة بالحليب" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="デンマーク語: Café au lait" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Milchkaffee" title="ドイツ語: Milchkaffee" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="英語: Café au lait" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="エストニア語: Café au lait" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="フィンランド語: Café au lait" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="フランス語: Café au lait" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tejesk%C3%A1v%C3%A9" title="ハンガリー語: Tejeskávé" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="インドネシア語: Café au lait" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B9%B4%ED%8E%98%EC%98%A4%EB%A0%88" title="韓国語: 카페오레" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="マレー語: Café au lait" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Koffie_verkeerd" title="オランダ語: Koffie verkeerd" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="ノルウェー語: Café au lait" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="ポーランド語: Café au lait" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Caf%C3%A9_com_leite" title="ポルトガル語: Café com leite" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%84%D0%B5_%D1%81_%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC" title="ロシア語: Кофе с молоком" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="スウェーデン語: Café au lait" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="トルコ語: Café au lait" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Caf%C3%A9_au_lait" title="ベトナム語: Café au lait" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%98%82%E5%88%97%E5%92%96%E5%95%A1" title="中国語: 昂列咖啡" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q259109#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2016年8月11日 (木) 01:43 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%AC&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.switcher","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.compactlinks","ext.uls.interlanguage","ext.centralNotice.startUp","ext.centralNotice.geoIP"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.138",
+            "walltime": "0.185",
+            "ppvisitednodes": {
+                "value": 1701,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 96960,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 5028,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 8,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 37,
+                "limit": 500
+            },
+            "timingprofile": [
+                "100.00%  118.069      1 -total",
+                " 73.20%   86.428      1 Template:コーヒー",
+                " 66.78%   78.845      1 Template:Navbox",
+                " 31.58%   37.285     38 Template:仮リンク",
+                " 17.51%   20.672      1 Template:Lang-fr",
+                " 16.03%   18.932      1 Template:LangWithName",
+                " 12.77%   15.082      1 Template:ISO639言語名",
+                "  7.62%    8.996      3 Template:CI",
+                "  4.59%    5.423      2 Template:,",
+                "  3.29%    3.879      1 Template:Reflist"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.012",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1219250,
+                "limit": 52428800
+            }
+        },
+        "EntityAccessCount": 0,
+        "cachereport": {
+            "origin": "mw1237",
+            "timestamp": "20160813042124",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

@@ -1,1 +1,2 @@
-$('#result').html("<%= @greeting %>");
+$('#result').html("<% @greeting.each do |play| %><div class='well'><%= play %></div><% end %>");
+                

@@ -24,18 +24,10 @@
                 <%= text_field_tag :word%>
                 <%= submit_tag "Show!" %>
             <% end %>
+            <br>
             <div id="result"></div>
 
-
-            <% @plays.each do |play| %>
-                <div class="well">
-                    <%= play.name %>
-                    <%= link_to 'Show', play %>
-                    <%= link_to 'Edit', edit_play_path(play) %>
-                    <%= link_to 'Destroy', play, method: :delete, data: { confirm: 'Are you sure?' } %>
-                </div>
-            <% end %>
-        </div>
+              </div>
 
 
 

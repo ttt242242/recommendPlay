@@ -1,0 +1,43 @@
+current directory: /home/okano/lab/recommendPlay/vendor/bundle/ruby/2.3.0/gems/mecab-0.996/ext/mecab
+/home/okano/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20160814-8136-58etvc.rb extconf.rb
+checking for make... yes
+checking for main() in -lstdc++... yes
+checking for main() in -lmecab... yes
+checking for main() in -lstdc++... yes
+checking for mecab.h... yes
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /home/okano/lab/recommendPlay/vendor/bundle/ruby/2.3.0/extensions/x86_64-linux/2.3.0-static/mecab-0.996/mkmf.log
+
+current directory: /home/okano/lab/recommendPlay/vendor/bundle/ruby/2.3.0/gems/mecab-0.996/ext/mecab
+make "DESTDIR=" clean
+
+current directory: /home/okano/lab/recommendPlay/vendor/bundle/ruby/2.3.0/gems/mecab-0.996/ext/mecab
+make "DESTDIR="
+compiling mecab_wrap.cpp
+cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++
+mecab_wrap.cpp:1862:0: warning: "rb_str_new" redefined
+ #define rb_str_new rb_external_str_new
+ ^
+In file included from /home/okano/.rbenv/versions/2.3.0/include/ruby-2.3.0/ruby/ruby.h:1985:0,
+                 from /home/okano/.rbenv/versions/2.3.0/include/ruby-2.3.0/ruby.h:33,
+                 from mecab_wrap.cpp:856:
+/home/okano/.rbenv/versions/2.3.0/include/ruby-2.3.0/ruby/intern.h:797:0: note: this is the location of the previous definition
+ #define rb_str_new(str, len) __extension__ ( \
+ ^
+mecab_wrap.cpp: In function ‘void SWIG_Ruby_define_class(swig_type_info*)’:
+mecab_wrap.cpp:1517:9: warning: variable ‘klass’ set but not used [-Wunused-but-set-variable]
+   VALUE klass;
+         ^
+mecab_wrap.cpp: In function ‘VALUE SWIG_AUX_NUM2DBL(VALUE*)’:
+mecab_wrap.cpp:2019:9: warning: unused variable ‘type’ [-Wunused-variable]
+   VALUE type = TYPE(obj);
+         ^
+linking shared-object mecab.so
+
+current directory: /home/okano/lab/recommendPlay/vendor/bundle/ruby/2.3.0/gems/mecab-0.996/ext/mecab
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 mecab.so ./.gem.20160814-8136-1t84847

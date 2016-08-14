@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>エア・コンディショナー - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"エア・コンディショナー","wgTitle":"エア・コンディショナー","wgCurRevisionId":59916738,"wgRevisionId":59916738,"wgArticleId":17034,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["空気調和設備","家電機器","建築環境工学","冷却"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"エア・コンディショナー","wgRelevantArticleId":17034,"wgRequestId":"V6-kAgpAIDUAAFNsCZ8AAAAA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"エアコン","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC","wgWikibaseItemId":"Q1265533","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);mw.loader.state({"ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.legacy.shared":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","site.styles":"ready","noscript":"ready","user.cssprefs":"ready","user.styles":"ready"});});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%2Cswitcher%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-エア・コンディショナー rootpage-エア・コンディショナー skin-vector action-view feature-page-action-bar-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">エア・コンディショナー</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">（<a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3&amp;redirect=no" class="mw-redirect" title="エアコン">エアコン</a>から転送）</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Corona_Air_conditioner.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corona_Air_conditioner.jpg/220px-Corona_Air_conditioner.jpg" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corona_Air_conditioner.jpg/330px-Corona_Air_conditioner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corona_Air_conditioner.jpg/440px-Corona_Air_conditioner.jpg 2x" data-file-width="1920" data-file-height="1080" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Corona_Air_conditioner.jpg" class="internal" title="拡大"></a></div>
+エアコン</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Rimokon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Rimokon.jpg/220px-Rimokon.jpg" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Rimokon.jpg/330px-Rimokon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Rimokon.jpg/440px-Rimokon.jpg 2x" data-file-width="5184" data-file-height="2916" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Rimokon.jpg" class="internal" title="拡大"></a></div>
+エアコンの<a href="/wiki/%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3" title="リモコン">リモコン</a></div>
+</div>
+</div>
+<p><b>エア・コンディショナー</b>（<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英</a>: <span lang="en" xml:lang="en">air conditioner</span>）とは、<a href="/wiki/%E7%A9%BA%E6%B0%97%E8%AA%BF%E5%92%8C%E8%A8%AD%E5%82%99" title="空気調和設備">空調設備</a>のひとつで、部屋内の空気の温度や湿度などを調整する<a href="/wiki/%E6%A9%9F%E6%A2%B0" title="機械">機械</a>である。狭い意味では、<a href="/wiki/%E5%86%B7%E5%AA%92" title="冷媒">冷媒</a>による<a href="/wiki/%E8%92%B8%E6%B0%97%E5%9C%A7%E7%B8%AE%E5%86%B7%E5%87%8D%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB" title="蒸気圧縮冷凍サイクル">蒸気圧縮冷凍サイクル</a>の<a href="/wiki/%E8%92%B8%E6%B0%97%E5%9C%A7%E7%B8%AE%E5%86%B7%E5%87%8D%E6%A9%9F" title="蒸気圧縮冷凍機">蒸気圧縮冷凍機</a>のパッケージ・エア・コンディショナーや家庭用のルーム・エア・コンディショナーのうち、水以外の熱媒体で<a href="/wiki/%E7%86%B1" title="熱">熱</a>を搬送する装置、つまり<a href="/wiki/%E3%83%92%E3%83%BC%E3%83%88%E3%83%9D%E3%83%B3%E3%83%97" title="ヒートポンプ">ヒートポンプ</a>を指す。通称<b>エアコン</b>。以降、エアコンと表記。なお「エアコン」は「エアー・コンディショニング」または「エアー・コンディション」の略として使用される場合もある。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.AD.B4.E5.8F.B2"><span class="tocnumber">1</span> <span class="toctext">歴史</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.9E.8B.E5.BC.8F"><span class="tocnumber">2</span> <span class="toctext">型式</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E3.83.A6.E3.83.8B.E3.83.83.E3.83.88.E3.81.AE.E5.BD.A2.E6.85.8B"><span class="tocnumber">2.1</span> <span class="toctext">ユニットの形態</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E5.AE.A4.E5.86.85.E6.A9.9F.E3.81.AE.E5.BD.A2.E6.85.8B"><span class="tocnumber">2.2</span> <span class="toctext">室内機の形態</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E5.86.B7.E6.88.BF.E5.B0.82.E7.94.A8.E5.8F.8A.E3.81.B3.E6.9A.96.E6.88.BF.E5.B0.82.E7.94.A8.E6.A9.9F.E7.A8.AE"><span class="tocnumber">2.3</span> <span class="toctext">冷房専用及び暖房専用機種</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#.E5.AE.B6.E5.BA.AD.E7.94.A8"><span class="tocnumber">3</span> <span class="toctext">家庭用</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E6.A5.AD.E5.8B.99.E7.94.A8"><span class="tocnumber">4</span> <span class="toctext">業務用</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.E3.83.93.E3.83.AB.E7.94.A8.E3.83.BB.E3.83.9E.E3.83.AB.E3.83.81.E3.83.BB.E3.82.A8.E3.82.A2.E3.82.B3.E3.83.B3"><span class="tocnumber">4.1</span> <span class="toctext">ビル用・マルチ・エアコン</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E3.82.B3.E3.83.B3.E3.83.93.E3.83.8B.E3.82.A8.E3.83.B3.E3.82.B9.E3.82.B9.E3.83.88.E3.82.A2.E7.94.A8"><span class="tocnumber">4.2</span> <span class="toctext">コンビニエンスストア用</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.E3.82.AC.E3.82.B9.E3.82.A8.E3.83.B3.E3.82.B8.E3.83.B3.E3.83.92.E3.83.BC.E3.83.88.E3.83.9D.E3.83.B3.E3.83.97.EF.BC.88GHP.EF.BC.89.E3.83.BB.E7.81.AF.E6.B2.B9.E3.82.A8.E3.83.B3.E3.82.B8.E3.83.B3.E3.83.92.E3.83.BC.E3.83.88.E3.83.9D.E3.83.B3.E3.83.97.EF.BC.88KHP.EF.BC.89"><span class="tocnumber">4.3</span> <span class="toctext">ガスエンジンヒートポンプ（GHP）・灯油エンジンヒートポンプ（KHP）</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#.E8.BB.8A.E4.B8.A1.E7.94.A8"><span class="tocnumber">5</span> <span class="toctext">車両用</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#.E3.82.AB.E3.83.BC.E3.82.A8.E3.82.A2.E3.82.B3.E3.83.B3"><span class="tocnumber">5.1</span> <span class="toctext">カーエアコン</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.E9.89.84.E9.81.93.E7.94.A8"><span class="tocnumber">5.2</span> <span class="toctext">鉄道用</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#.E6.B8.A9.E5.BA.A6.E3.81.A8.E6.B9.BF.E5.BA.A6.E3.81.AE.E8.AA.BF.E7.AF.80"><span class="tocnumber">6</span> <span class="toctext">温度と湿度の調節</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#.E7.9B.B8.E5.AF.BE.E6.B9.BF.E5.BA.A6.E3.81.AE.E4.BD.8E.E4.B8.8B"><span class="tocnumber">6.1</span> <span class="toctext">相対湿度の低下</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#.E5.86.B7.E6.88.BF.E3.81.A8.E9.99.A4.E6.B9.BF"><span class="tocnumber">6.2</span> <span class="toctext">冷房と除湿</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#.E3.83.A1.E3.83.B3.E3.83.86.E3.83.8A.E3.83.B3.E3.82.B9"><span class="tocnumber">7</span> <span class="toctext">メンテナンス</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#.E5.95.8F.E9.A1.8C.E7.82.B9"><span class="tocnumber">8</span> <span class="toctext">問題点</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#.E3.82.A8.E3.82.A2.E3.82.B3.E3.83.B3.E3.83.A1.E3.83.BC.E3.82.AB.E3.83.BC"><span class="tocnumber">9</span> <span class="toctext">エアコンメーカー</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">10</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">11</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">12</span> <span class="toctext">外部リンク</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E6.AD.B4.E5.8F.B2">歴史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=1" title="節を編集: 歴史">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/1758%E5%B9%B4" title="1758年">1758年</a>、<a href="/wiki/%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%B3" title="ベンジャミン・フランクリン">ベンジャミン・フランクリン</a>と<a href="/wiki/%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E5%A4%A7%E5%AD%A6" title="ケンブリッジ大学">ケンブリッジ大学</a>で化学の教授を務めていたジョン・ハドリーは、蒸発の原理（<a href="/wiki/%E8%92%B8%E7%99%BA%E7%86%B1" title="蒸発熱">蒸発熱</a>）を使って物体を急速に冷却する実験を行った。フランクリンとハドリーは<a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB" title="アルコール">アルコール</a>などの<a href="/wiki/%E6%8F%AE%E7%99%BA%E6%80%A7" class="mw-disambig" title="揮発性">揮発性</a>の高い液体の蒸発を試し、<a href="/wiki/%E3%82%A8%E3%83%BC%E3%83%86%E3%83%AB_(%E5%8C%96%E5%AD%A6)" title="エーテル (化学)">エーテル</a>を使うと物体を<a href="/wiki/%E6%B0%B7%E7%82%B9%E4%B8%8B" title="氷点下">氷点下</a>にまで冷却できることを発見した。実験では水銀<a href="/wiki/%E6%B8%A9%E5%BA%A6%E8%A8%88" title="温度計">温度計</a>の球部を冷却対象とし、蒸発を早めるために<a href="/wiki/%E3%81%B5%E3%81%84%E3%81%94" class="mw-redirect" title="ふいご">ふいご</a>を使った。周囲の気温が<span lang="en" xml:lang="en">65&#160;°F (18&#160;°C)</span>の状態で、温度計の球部を 7<span lang="en" xml:lang="en">°F</span>（−14℃）にまで冷却することができた。フランクリンは、温度が氷点下になると間もなく温度計の球部表面に薄く氷が張ったことに気づいた。そして 7<span lang="en" xml:lang="en">°F</span>（−14℃）にまで達したとき、氷の厚さは6ミリ（4分の1インチ）ほどになっていた。フランクリンは「この実験で、暖かい夏の日に人間を凍死させられる可能性があることがわかった」と結論付けた<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。</p>
+<p><a href="/wiki/1820%E5%B9%B4" title="1820年">1820年</a>、<a href="/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%96%E3%83%AA%E3%83%86%E3%83%B3%E3%81%8A%E3%82%88%E3%81%B3%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E9%80%A3%E5%90%88%E7%8E%8B%E5%9B%BD" class="mw-redirect" title="グレートブリテンおよびアイルランド連合王国">イギリス</a>の科学者で<a href="/wiki/%E7%99%BA%E6%98%8E" title="発明">発明</a>家の<a href="/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A1%E3%83%A9%E3%83%87%E3%83%BC" title="マイケル・ファラデー">マイケル・ファラデー</a>は、圧縮により<a href="/wiki/%E6%B6%B2%E5%8C%96" class="mw-redirect" title="液化">液化</a>した<a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2" title="アンモニア">アンモニア</a>を蒸発できるようにすると、周囲の空気を冷却できることを発見した。<a href="/wiki/1842%E5%B9%B4" title="1842年">1842年</a>、フロリダの医師<a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B4%E3%83%AA%E3%83%BC" title="ジョン・ゴリー">ジョン・ゴリー</a>は圧縮技術を使って氷を作り、アパラチコーラの彼の病院でそれを使い、患者のために病室を冷やした<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。彼はさらにその製氷機を使って建物全体の温度を調節しようと考えた。そして、都市全体の<a href="/wiki/%E7%A9%BA%E6%B0%97%E8%AA%BF%E5%92%8C" title="空気調和">空調</a>を集中制御するという構想まで描いた。彼の試作品は常にうまく機能するわけではなかったが、ゴリーは製氷機の特許を1851年に取得した。しかし、彼の財政上の後援者が死に、その希望は潰えた。彼はその機械を本格的に開発する資金を集められなかった。ゴリーの伝記を書いたVivian M. Sherlockによれば、ゴリーは製氷で財を成したフレデリック・チューダー（<a href="https://en.wikipedia.org/wiki/Frederic_Tudor" class="extiw" title="en:Frederic Tudor">en</a>）が彼の発明を誹謗するキャンペーンを行ったと疑い、チューダーを非難した。ゴリーは貧困の中で<a href="/wiki/1855%E5%B9%B4" title="1855年">1855年</a>に亡くなり、その空調のアイディアは約50年間顧みられなかった。</p>
+<p><a href="/wiki/%E7%A9%BA%E6%B0%97%E8%AA%BF%E5%92%8C" title="空気調和">空気調和</a>の初期の商業利用は、個人の快適さのためではなく、工業生産過程で必要とされる冷気を生み出すのに使われた。最初の電気式エア・コンディショナーは<a href="/wiki/1902%E5%B9%B4" title="1902年">1902年</a>、<a href="/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B7%9E" title="ニューヨーク州">ニューヨーク州</a><a href="/wiki/%E3%82%B7%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%B9_(%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B7%9E)" title="シラキュース (ニューヨーク州)">シラキュース</a>の<a href="/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2" title="ウィリス・キャリア">ウィリス・キャリア</a>が<a href="/wiki/%E7%99%BA%E6%98%8E" title="発明">発明</a>した。印刷工場の製造工程を改善するために設計されており、<a href="/wiki/%E6%B8%A9%E5%BA%A6" title="温度">温度</a>だけでなく<a href="/wiki/%E6%B9%BF%E5%BA%A6" title="湿度">湿度</a>も制御できるようになっていた。温度と湿度を低く保つことで、紙の状態が一定となり、インクの付き方が一定になる。その後もキャリアの技術は様々な仕事場の生産性向上に使われ、増大する需要に応えるために The Carrier Air Conditioning Company of America（<a href="/wiki/%E3%82%AD%E3%83%A4%E3%83%AA%E3%82%A2_(%E7%A9%BA%E8%AA%BF%E8%A8%AD%E5%82%99%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC)" title="キヤリア (空調設備メーカー)">キヤリア</a>社）を創設した。その後、エア・コンディショナーは住宅や<a href="/wiki/%E8%87%AA%E5%8B%95%E8%BB%8A" title="自動車">自動車</a>の快適さを向上させる手段として使われるようになっていった。アメリカでは<a href="/wiki/1950%E5%B9%B4%E4%BB%A3" title="1950年代">1950年代</a>に家庭用エア・コンディショナーが爆発的に売れるようになった。</p>
+<p><a href="/wiki/1906%E5%B9%B4" title="1906年">1906年</a>、<a href="/wiki/%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E" title="ノースカロライナ州">ノースカロライナ州</a><a href="/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88_(%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E)" title="シャーロット (ノースカロライナ州)">シャーロット</a>のスチュアート・W・クラマーは、自身の経営する織物工場内に湿気を追加する方法を探していた。クラマーは同年出願した特許で初めて「エア・コンディショニング（<a href="/wiki/%E7%A9%BA%E6%B0%97%E8%AA%BF%E5%92%8C" title="空気調和">空気調和</a>）」という言葉を使った。これは、織物製造工程として当時よく行われていた "water conditioning" を真似て名付けたものだった。彼は加湿と換気を組み合わせて工場内の湿度を制御し、織物工場に最適な湿度を実現した。ウィリス・キャリアはこの用語を採用し、社名にも組み込んだ。水分を空気中に蒸発させるこの方式には冷却効果があり、現在では<a href="/wiki/%E3%83%9F%E3%82%B9%E3%83%88%E6%95%A3%E5%B8%83" title="ミスト散布">ミスト散布</a>として知られている。</p>
+<p>初期のエア・コンディショナーや<a href="/wiki/%E5%86%B7%E8%94%B5%E5%BA%AB" title="冷蔵庫">冷蔵庫</a>は、<a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2" title="アンモニア">アンモニア</a>、<a href="/wiki/%E3%82%AF%E3%83%AD%E3%83%AD%E3%83%A1%E3%82%BF%E3%83%B3" title="クロロメタン">クロロメタン</a>、<a href="/wiki/%E3%83%97%E3%83%AD%E3%83%91%E3%83%B3" title="プロパン">プロパン</a>といった有毒または可燃性のガスを使用しており、それらが漏れ出すと死亡事故に繋がる危険性があった。<a href="/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%9F%E3%82%B8%E3%83%AA%E3%83%BC" title="トマス・ミジリー">トマス・ミジリー</a>は世界初の<a href="/wiki/%E3%83%95%E3%83%AD%E3%83%B3%E9%A1%9E" title="フロン類">フロン類</a>である<a href="/wiki/%E3%83%95%E3%83%AC%E3%82%AA%E3%83%B3" class="mw-redirect" title="フレオン">フレオン</a>を<a href="/wiki/1928%E5%B9%B4" title="1928年">1928年</a>に開発した。この<a href="/wiki/%E5%86%B7%E5%AA%92" title="冷媒">冷媒</a>は人間には安全だったが、後になって大気の<a href="/wiki/%E3%82%AA%E3%82%BE%E3%83%B3%E5%B1%A4" title="オゾン層">オゾン層</a>にとって有害だということがわかった。「フレオン」は<a href="/wiki/%E3%83%87%E3%83%A5%E3%83%9D%E3%83%B3" title="デュポン">デュポン</a>社の<a href="/wiki/%E5%95%86%E6%A8%99" title="商標">商標</a>であり、実際はクロロフルオロカーボン（CFC）、ハイドロクロロフルオロカーボン（HCFC）、<a href="/wiki/%E3%83%95%E3%83%AB%E3%82%AA%E3%83%AD%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3" title="フルオロカーボン">ハイドロフルオロカーボン</a>（HFC）といった物質で、商品名（R-11, R-12, R-22, R-134A）には分子構成を示す数が付けられている。住宅などの空調によく使われたものはR-22という商品名のHCFCである。これは<a href="/wiki/2010%E5%B9%B4" title="2010年">2010年</a>までに新製品には使われなくなり、<a href="/wiki/2020%E5%B9%B4" title="2020年">2020年</a>には完全に使用されなくなる予定である。アメリカでは自動車のエア・コンディショナーのほとんどがR-12を使っていたが、<a href="/wiki/1994%E5%B9%B4" title="1994年">1994年</a>にR-134Aに切り替えられた。R-11とR-12はアメリカ合衆国内では既に生産されておらず、廃棄されたエア・コンディショナーから回収したガスをきれいにしたものが売られているだけとなっている。オゾン層に影響しないいくつかの冷媒が代替フロンとして開発されており、例えば<a href="/w/index.php?title=R-410A&amp;action=edit&amp;redlink=1" class="new" title="R-410A (存在しないページ)">R-410A</a>はブランド名 <i>Puron</i>で販売されている。オゾン層に悪影響を与える主な冷媒はR-22、R-11、R-123である。ただし、R-410A冷媒などの代替フロンは地球温暖化係数が高いため、これに代わる次世代冷媒の開発が行われている。</p>
+<p>空気調和テクノロジーにおける技術革新は続き、近年ではエネルギー効率と屋内の<a href="/wiki/%E7%A9%BA%E6%B0%97%E8%B3%AA" title="空気質">空気質</a>の改善が中心テーマとなっている。従来の冷媒の代替として<a href="/wiki/%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0" title="二酸化炭素">二酸化炭素</a>（R-744）のような自然に存在する物質も提案されている<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E5.9E.8B.E5.BC.8F">型式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=2" title="節を編集: 型式">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Heatpump.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heatpump.svg/200px-Heatpump.svg.png" width="200" height="117" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heatpump.svg/300px-Heatpump.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heatpump.svg/400px-Heatpump.svg.png 2x" data-file-width="750" data-file-height="438" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Heatpump.svg" class="internal" title="拡大"></a></div>
+気体液化ヒートポンプのしくみ。<br />
+1：凝縮器、2：膨張弁、3：蒸発器、4：圧縮機<br />
+赤が高温、青が低温。</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ja/thumb/1/1b/Air_conditioner_02.jpg/100px-Air_conditioner_02.jpg" width="100" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ja/thumb/1/1b/Air_conditioner_02.jpg/150px-Air_conditioner_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/ja/thumb/1/1b/Air_conditioner_02.jpg/200px-Air_conditioner_02.jpg 2x" data-file-width="245" data-file-height="655" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_02.jpg" class="internal" title="拡大"></a></div>
+室外機と室内機を接続する冷媒配管。断熱材で覆われる。</div>
+</div>
+</div>
+<p>基本機能として冷房専用形と冷暖房兼用の<a href="/wiki/%E3%83%92%E3%83%BC%E3%83%88%E3%83%9D%E3%83%B3%E3%83%97" title="ヒートポンプ">ヒートポンプ</a>形がある。</p>
+<p>また、次のような形態がある。</p>
+<h3><span class="mw-headline" id=".E3.83.A6.E3.83.8B.E3.83.83.E3.83.88.E3.81.AE.E5.BD.A2.E6.85.8B">ユニットの形態</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=3" title="節を編集: ユニットの形態">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>一体型 - <a href="/wiki/%E5%9C%A7%E7%B8%AE%E6%A9%9F" title="圧縮機">圧縮機</a>・<a href="/w/index.php?title=%E5%87%9D%E7%B8%AE%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="凝縮器 (存在しないページ)">凝縮器</a>・<a href="/w/index.php?title=%E8%92%B8%E7%99%BA%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="蒸発器 (存在しないページ)">蒸発器</a>が一体となったもの。冷媒配管が不要である。家庭用の窓型や鉄道車両用に使われる。</li>
+<li>リモートコンデンサ型 - 圧縮機・蒸発器が一体となった室内機と、凝縮器のみを内蔵した室外機を冷媒配管で接続したもの。室内側に圧縮機があるためメンテナンスが容易で、カスタマイズ（<a href="/wiki/%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC" class="mw-disambig" title="ヒーター">ヒーター</a>や<a href="/wiki/%E5%8A%A0%E6%B9%BF%E5%99%A8" title="加湿器">加湿器</a>の取り付けなど）を必要とする工場（設備）用や、業務（ビル）用の一部で使われていたが、室内に圧縮機の<a href="/wiki/%E9%A8%92%E9%9F%B3" title="騒音">騒音</a>や<a href="/wiki/%E6%8C%AF%E5%8B%95" title="振動">振動</a>が発生することや、室内機に圧縮機を内蔵する構造から室内機のバリエーションが限られ（基本的に床置き形のみ）、室内の状況に応じた機器（室内機）の配置がしにくいことなどから、近年では後述するリモートコンデンシングユニット型（家庭用のセパレートタイプまたはセパレート型）やマルチ式（ビル用など）が主流となっている。通称「中コン（なかこん：室内機側に圧縮機（=<a href="/wiki/%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BC" class="mw-disambig" title="コンプレッサー">コンプレッサー</a>）があるため）」または「<a rel="nofollow" class="external text" href="http://www.hitachi-ap.co.jp/products/business/ac/equipment/general/tatujin/index.html">リモコン型</a>（一部のエアコンメーカー）」。</li>
+<li>リモートコンデンシングユニット型 - 圧縮機・凝縮器が一体となった室外機と、蒸発器が内蔵された室内機を冷媒配管で接続したもの。家庭用のセパレートタイプはこの方式。</li>
+<li>マルチ式 - 圧縮機・凝縮器が一体となった室外機と、蒸発器が内蔵された複数の室内機を冷媒配管で接続したもの。業務（ビル）用の主流。家庭用にも販売されているが、実例は少ない。</li>
+</ul>
+<h3><span class="mw-headline" id=".E5.AE.A4.E5.86.85.E6.A9.9F.E3.81.AE.E5.BD.A2.E6.85.8B">室内機の形態</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=4" title="節を編集: 室内機の形態">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>床置き型（スタンドスタイル） - 業務（ビル）用の古い（<a href="/wiki/1970%E5%B9%B4%E4%BB%A3" title="1970年代">1970年代</a>まで使われた）タイプ。<a href="/wiki/%E3%82%BF%E3%83%B3%E3%82%B9" class="mw-redirect" title="タンス">タンス</a>程度の大きさ、あるいは窓際に高さ1メートル程度の上部に噴出し口を持つ室内機が、壁際にむき出しで設置されている。室内機の分、床面積が減るために新規の建物では使われなくなった。現在でも古い地下鉄の駅や工場、事務室などでよく見かける事ができる。<a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD" title="大韓民国">韓国</a>では家庭用タイプにおいても室内機が壁掛け型よりも床置き型の方が多い。なお、室外機と一体として、キャスターがついて自由に移動できるものは<a href="/wiki/%E5%86%B7%E9%A2%A8%E6%A9%9F" title="冷風機">冷風機</a>として、業務用・家庭用共に販売されている。</li>
+<li>壁掛け型 - 家庭用セパレートタイプ。</li>
+<li>天井吊型 - 倉庫などのような天井骨組みがむき出しの場合に使われる。</li>
+<li>天井埋め込みカセット型 - 通称「天カセ」。表面に吸込口・吹出し口のある蒸発器内蔵ユニットを天井内に埋め込むもの。天井面がフラットになり、床置き形のように床面積も減らないため、<a href="/wiki/%E5%BA%97%E8%88%97" class="mw-redirect" title="店舗">店舗</a>やオフィスビルなど業務用で多く用いられている。</li>
+<li>床置き型（<a href="/wiki/%E7%9F%B3%E6%B2%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC" title="石油ファンヒーター">ファンヒーター</a>スタイル） - 家庭用セパレートタイプのバリエーションの1つで、<a href="/wiki/%E7%9F%B3%E6%B2%B9%E3%82%B9%E3%83%88%E3%83%BC%E3%83%96" title="石油ストーブ">石油ストーブ</a>類似の形態をしている。<a href="/wiki/1980%E5%B9%B4%E4%BB%A3" title="1980年代">1980年代</a>頃までは主に和室用に使われたが、冷房能力上の問題点（熱対流上壁掛け型・天井埋め込みカセット型に比べて不利）から急速に数を減らした。しかし完全な消滅には至っていない。また、同様の理由で暖房時は有利という面もある。</li>
+<li>ダクト接続型 - ユニットとダクトを接続し、任意の場所に吸込口・吹出し口を設けられるもの。大型ビルやホテル用。</li>
+</ul>
+<h3><span class="mw-headline" id=".E5.86.B7.E6.88.BF.E5.B0.82.E7.94.A8.E5.8F.8A.E3.81.B3.E6.9A.96.E6.88.BF.E5.B0.82.E7.94.A8.E6.A9.9F.E7.A8.AE">冷房専用及び暖房専用機種</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=5" title="節を編集: 冷房専用及び暖房専用機種">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>冷房または暖房のみを必要とする消費者のために、それぞれに特化した機種がある。長所は、特化することで、価格が安く、消費電力が少なく、室内機や室外機が小さく、操作が簡単なことである。機種によっては、広い場所で使用するために強力な性能を持っている物もある。</p>
+<h2><span class="mw-headline" id=".E5.AE.B6.E5.BA.AD.E7.94.A8">家庭用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=6" title="節を編集: 家庭用">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ja/thumb/e/ea/Air_conditioner_01.jpg/200px-Air_conditioner_01.jpg" width="200" height="114" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ja/thumb/e/ea/Air_conditioner_01.jpg/300px-Air_conditioner_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/ja/thumb/e/ea/Air_conditioner_01.jpg/400px-Air_conditioner_01.jpg 2x" data-file-width="853" data-file-height="487" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_01.jpg" class="internal" title="拡大"></a></div>
+蒸発器 （暖房時は凝縮器として働く）</div>
+</div>
+</div>
+<p>ルーム・エア・コンとも呼ばれる家庭用エアコンには、形態として、圧縮機・凝縮器・蒸発器が一体となった<b>窓型</b>と、圧縮機・凝縮器が一体となった室外機と、蒸発器が内蔵された室内機とで構成される<b>セパレート型</b>（<a href="/wiki/%E6%9D%B1%E8%8A%9D" title="東芝">東芝</a>では「<b>スプリット型</b>」という）の2種類がある。セパレート型では、<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>などの<a href="/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2" title="東アジア">東アジア</a>圏では壁掛け型が主流である。一方、<a href="/wiki/%E6%AC%A7%E7%B1%B3" title="欧米">欧米</a>では横長長方形の窓型がほとんどである。能力によって、2.2kW、2.5kW、2.8kW、3.6kW、4.0kW、4.5kW、5.0kW、5.6kW、6.3kW、7.1kW などがある。使用する電圧も、単相100Vと、単相200Vと、動力の<a href="/wiki/%E4%B8%89%E7%9B%B8%E4%BA%A4%E6%B5%81" title="三相交流">三相</a>200Vがある。通常、エアコン一台に子ブレーカー一個を用意する。なお、家庭用のエアコンは窓型、セパレート型とも、<a href="/wiki/2001%E5%B9%B4" title="2001年">2001年</a>より<a href="/wiki/%E5%AE%B6%E9%9B%BB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E6%B3%95" class="mw-redirect" title="家電リサイクル法">家電リサイクル法</a>の対象となり、廃棄の際に適正な処理が義務付けられた。</p>
+<p>動力の三相200Vエアコンは室外ユニットや室内ユニット共外観上一般の100/200V単相エアコンと同じであるが、省令による規制があるため受電方法が異なる。</p>
+<p><a href="/wiki/%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93%E5%9F%BA%E6%BA%96%E3%82%92%E5%AE%9A%E3%82%81%E3%82%8B%E7%9C%81%E4%BB%A4" title="電気設備に関する技術基準を定める省令">電気設備技術基準</a>（経産省令）の規定では家庭で3相200Vを使用できるのは屋外機器のみとされている<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。そのため動力エアコンは室外電源のみ3相200Vであり室内ユニットの運転および通信制御は別途室内側で受電した単相100/200Vで行われる。従って一部のメーカー（<a href="/wiki/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3%E5%B7%A5%E6%A5%AD" title="ダイキン工業">ダイキン工業</a>など室内電源を室外ユニット送り以外で受電不可能な機種）での業務用エアコンを住宅へ設置した場合、電力会社との図面協議で指摘され送電拒否や変更を求められるケースが生じる。</p>
+<p>家庭用エアコンは、冷房・暖房・ドライ（除湿）など多様な空気調整が可能な機種が製造・販売の多くをしめる。最近は<a href="/wiki/%E3%83%88%E3%83%83%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E6%96%B9%E5%BC%8F" title="トップランナー方式">トップランナー方式</a>による<a href="/wiki/%E7%9C%81%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC" title="省エネルギー">省エネ</a>化が進み、内部の改良とも相まって以前のものよりも消費電力が少なくなっている。日本国内で発売されるセパレート型のエアコンはほぼ全て<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF" title="インバータ">インバータ</a>制御を内蔵した機種になっている（ただし、窓型エアコンについては非インバータのものが大半を占めている）。インバータエアコンは<a href="/wiki/1981%E5%B9%B4" title="1981年">1981年</a>に当時の東京芝浦電気（現・東芝）が世界で初めて発売した。当初は、圧縮機には<a href="/wiki/%E8%AA%98%E5%B0%8E%E9%9B%BB%E5%8B%95%E6%A9%9F" title="誘導電動機">誘導電動機</a>を用いていたが、<a href="/wiki/1990%E5%B9%B4%E4%BB%A3" title="1990年代">1990年代</a>に高効率な<a href="/wiki/%E3%83%96%E3%83%A9%E3%82%B7%E3%83%AC%E3%82%B9DC%E3%83%A2%E3%83%BC%E3%82%BF" class="mw-redirect" title="ブラシレスDCモータ">ブラシレスDCモータ</a>が開発されて以来、現在では、日本で発売される家庭用エアコンに搭載される圧縮機用・ファン用のモータは、ほぼ全てがブラシレスDCモータになっている。日本ではインバータエアコンが主流であるが、世界的に見れば一定速である非インバータエアコンがまだまだ主流である。</p>
+<p>また、非インバータエアコンでは<a href="/wiki/%E5%95%86%E7%94%A8%E9%9B%BB%E6%BA%90%E5%91%A8%E6%B3%A2%E6%95%B0" title="商用電源周波数">商用電源周波数</a>による能力の差があり、50Hz地域では60Hz地域より1 - 2割能力が落ちるが、インバータエアコンではそれがない。そのため、非インバータが主流であった当時のエアコンのカタログは50Hz・60Hz地域で別々に作成していた。現在では、非インバータの窓型エアコンのカタログで、50Hz・60Hzそれぞれの場合の能力が併記されているのが見受けられる。能力の違いは圧縮機に用いる誘導電動機の回転数が電源周波数に依存するためである。なお日本での窓用エアコンでのインバータ採用例は松下電器産業（現・<a href="/wiki/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF" title="パナソニック">パナソニック</a>）のCW-G18系が空前にして絶後になった。同機種は年毎の僅かなマイナーチェンジのみで20年以上発売され続けた。窓用インバータエアコンは森田電工（現・<a href="/wiki/%E3%83%A6%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0_(%E4%BC%81%E6%A5%AD)" title="ユーイング (企業)">ユーイング</a>）からも発売されていたが、現在同社はエアコン事業から撤退している。</p>
+<p>差別化機能として<a href="/wiki/%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%82%A4%E3%82%AA%E3%83%B3" title="マイナスイオン">マイナスイオン</a>の発生、<a href="/wiki/%E3%82%A8%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF" title="エアフィルタ">フィルタ</a>の自動清掃機能などをうたったものも存在する。また、<a href="/wiki/%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F" title="空気清浄機">空気清浄機</a>機能や<a href="/wiki/%E6%8F%9B%E6%B0%97" title="換気">換気</a>機能、<a href="/wiki/%E5%8A%A0%E6%B9%BF%E5%99%A8" title="加湿器">加湿</a>機能、HA JEMA標準端子-Aが付いたものもある。</p>
+<p>シーズンオフには、プラグを抜いたりブレーカーを落とすことにより、待機電力をなくす家庭がある。家庭用での暖房では、「すぐに温風がふき出して欲しい」という需要が高い。そのため、外気温が低い場合は、停止中でも機器を予熱をする機能を持つ機種がある。また、冷媒寝込みを防ぐためのヒーターをもつ機種もある。このような機種では冬場の待機電力は多い。</p>
+<p>また、寒冷地など暖房時に外気温が低すぎる場合は、屋外で燃焼をした熱をヒートポンプする「石油エアコンディショナー」がある。同様にガス<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>の火で熱を発生させ、その熱を室内へ送る「ガスエアコンディショナー」もある。寒冷地で、除霜運転が多いことが予想される場合は有効な選択である。なお、家庭用では、冷房にガスや石油の力はあまり使用されていない。過去にパナソニックや東芝なども石油や都市ガス等を使ったエアコンも販売されていたが<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>、暖房時におけるエアコン自体の性能向上に伴い、採用されるケースが少なくなった。</p>
+<p>窓型エアコンは、「ウインドエアコン」とも呼ばれる。長所は、壁掛け型に比べ、小型であり、安く、個人で取り付け(取り外し)ができることである。壁に配管用の穴を開けたり、室内機の固定工事を施す必要が無く、窓さえあれば設置できるため、賃貸物件等でエアコンの設置に制限がある場合にも向いている。</p>
+<p>ちなみに海外にも日本と同様の壁掛け型（欧米では窓型の方が主流）のエアコンが普及しているが、日本のエアコンほど機能面では豊富でなく、シンプルな単機能のものが多い。また欧米では暖房として<a href="/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%92%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" title="セントラルヒーティング">セントラルヒーティング</a>や<a href="/wiki/%E6%9A%96%E7%82%89" title="暖炉">暖炉</a>などが住宅に備わっているケースもあるため、「<span lang="en" xml:lang="en">air conditioner</span>」というと冷房を前提に話をしているケースが多々ある。</p>
+<h2><span class="mw-headline" id=".E6.A5.AD.E5.8B.99.E7.94.A8">業務用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=7" title="節を編集: 業務用">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>業務用エアコンは、大型のものや各種<a href="/wiki/%E5%8E%9F%E5%8B%95%E6%A9%9F" title="原動機">原動機</a>を使用したものが存在する。<a href="/wiki/2002%E5%B9%B4" title="2002年">2002年</a>から<a href="/wiki/%E3%83%95%E3%83%AD%E3%83%B3%E9%A1%9E" title="フロン類">フロン類</a>を冷媒とする業務用機器は、<a href="/wiki/%E3%83%95%E3%83%AD%E3%83%B3%E5%9B%9E%E5%8F%8E%E7%A0%B4%E5%A3%8A%E6%B3%95" class="mw-redirect" title="フロン回収破壊法">フロン回収破壊法</a>の対象となり、廃棄する場合、適正な処理が義務付けられた。</p>
+<h3><span class="mw-headline" id=".E3.83.93.E3.83.AB.E7.94.A8.E3.83.BB.E3.83.9E.E3.83.AB.E3.83.81.E3.83.BB.E3.82.A8.E3.82.A2.E3.82.B3.E3.83.B3">ビル用・マルチ・エアコン</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=8" title="節を編集: ビル用・マルチ・エアコン">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_04.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ja/thumb/0/04/Air_conditioner_04.jpg/200px-Air_conditioner_04.jpg" width="200" height="182" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ja/thumb/0/04/Air_conditioner_04.jpg/300px-Air_conditioner_04.jpg 1.5x, //upload.wikimedia.org/wikipedia/ja/thumb/0/04/Air_conditioner_04.jpg/400px-Air_conditioner_04.jpg 2x" data-file-width="625" data-file-height="569" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_04.jpg" class="internal" title="拡大"></a></div>
+業務用エアコンの室外機</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Coolingtower.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Coolingtower.JPG/220px-Coolingtower.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Coolingtower.JPG/330px-Coolingtower.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Coolingtower.JPG/440px-Coolingtower.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Coolingtower.JPG" class="internal" title="拡大"></a></div>
+ビルの屋上に設置してあるクーリングタワー</div>
+</div>
+</div>
+<p>ビル用・マルチ・エアコンは、一つの室外機で複数の室内機を使用し空調を行うものである。中小規模の<a href="/wiki/%E5%BB%BA%E7%AF%89%E7%89%A9" title="建築物">建築物</a>で一般に使用されていて、以下の特徴がある。</p>
+<ul>
+<li>室内機の個別起動・停止が可能である。</li>
+<li>増設が容易に出来る。</li>
+</ul>
+<p>大型又は大規模のビルの空調装置は、冷媒に水を使用しており、冷房の場合には、チリングユニット、<a href="/wiki/%E5%90%B8%E5%8F%8E%E5%BC%8F%E5%86%B7%E5%87%8D%E6%A9%9F" title="吸収式冷凍機">吸収式冷凍機</a>、<a href="/wiki/%E3%82%BF%E3%83%BC%E3%83%9C%E5%86%B7%E5%87%8D%E6%A9%9F" class="mw-redirect" title="ターボ冷凍機">ターボ冷凍機</a>などの吸収式冷凍サイクル又はヒートポンプ式冷凍サイクルを使用した熱源機器類と冷水槽との間でポンプによる循環を行い、熱源機器類で作られた冷水が冷水槽に溜まる。そこから別のポンプにより、部屋の天井に設置された<a href="/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%AB%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88" title="ファンコイルユニット">ファンコイルユニット</a>又はビルの屋上に設置されている<a href="/wiki/%E3%82%A8%E3%82%A2%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88" title="エアハンドリングユニット">エアハンドリングユニット</a>にある熱交換器との間で冷水が循環して部屋の空調を行う。また、熱源機器類の運転時に、冷凍サイクルの凝縮器から発生する熱は、熱交換器で冷却水（水を使用する）と熱交換を行い、ポンプによりビルの屋上に設置してある<a href="/wiki/%E3%82%AF%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%BF%E3%83%AF%E3%83%BC" class="mw-redirect" title="クーリングタワー">クーリングタワー</a>との間で冷却水が循環して冷却されるシステムとなっている為、広い意味での「エア・コンディショナー」と言える</p>
+<h3><span class="mw-headline" id=".E3.82.B3.E3.83.B3.E3.83.93.E3.83.8B.E3.82.A8.E3.83.B3.E3.82.B9.E3.82.B9.E3.83.88.E3.82.A2.E7.94.A8">コンビニエンスストア用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=9" title="節を編集: コンビニエンスストア用">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E3%82%A8%E3%83%B3%E3%82%B9%E3%82%B9%E3%83%88%E3%82%A2" title="コンビニエンスストア">コンビニエンスストア</a>専用の冷凍・空調統合システムが存在し、以下のような特徴がある。</p>
+<ul>
+<li>冷凍・空調統合システムであるため冷媒の総使用量が少ない。</li>
+<li>冷蔵・冷凍ショーケースの廃熱で暖房するため効率が高い。</li>
+<li>冷房時も制御の工夫により最大需要電力・使用電力量とも少なくなっている。</li>
+</ul>
+<p>メーカーの発想に違いがあり冷媒回路を空調、冷蔵、冷凍で共有する方式（システムダウン時、どちらも運転不能）や<a href="/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F" title="三菱電機">三菱電機</a>のように相互の熱のやりとりを熱交換器ですることで冷媒回路や通信制御が全く独立していて単独で機能するのもある。</p>
+<h3><span class="mw-headline" id=".E3.82.AC.E3.82.B9.E3.82.A8.E3.83.B3.E3.82.B8.E3.83.B3.E3.83.92.E3.83.BC.E3.83.88.E3.83.9D.E3.83.B3.E3.83.97.EF.BC.88GHP.EF.BC.89.E3.83.BB.E7.81.AF.E6.B2.B9.E3.82.A8.E3.83.B3.E3.82.B8.E3.83.B3.E3.83.92.E3.83.BC.E3.83.88.E3.83.9D.E3.83.B3.E3.83.97.EF.BC.88KHP.EF.BC.89">ガスエンジンヒートポンプ（GHP）・灯油エンジンヒートポンプ（KHP）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=10" title="節を編集: ガスエンジンヒートポンプ（GHP）・灯油エンジンヒートポンプ（KHP）">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ガスエンジンで圧縮機を駆動し、冷暖房を行うガスエンジンヒートポンプもガス供給会社が当初<a href="/wiki/%E3%83%AC%E3%82%B7%E3%83%97%E3%83%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3" title="レシプロエンジン">レシプロエンジン</a>で駆動することを隠したという営業努力により近年普及が進んでいて、以下のような特徴がある。</p>
+<ul>
+<li>消費電力が小さく、電力ピークカットの効果も高い。</li>
+<li><a href="/wiki/%E7%99%BA%E9%9B%BB%E6%A9%9F" title="発電機">発電機</a>を搭載した機種も登場、自己消費電力のほとんどをまかなう為、商用の消費電力はごく僅かである。</li>
+<li>電動機駆動のものよりエアクリーナー、点火プラグ、エンジンオイルとフィルターといった整備・点検費用が多くかかる。</li>
+<li>初期導入費用が電気式より高い（<a href="/wiki/%E9%83%BD%E5%B8%82%E3%82%AC%E3%82%B9" title="都市ガス">都市ガス</a>用はメーカー系販社と取引があっても都市ガス供給事業者を経由しないと購入できないため割高である）。</li>
+<li>室外機の設置スペースまたは高さが電気式に比べ大きく必要（20馬力システムだと電気式と比較した場合占有面積は2割増し、高さは1.5倍、重量は2倍ある）、受電設備を小型化したメリットを帳消しにする。</li>
+<li><a href="/wiki/%E3%83%AC%E3%82%B7%E3%83%97%E3%83%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3" title="レシプロエンジン">レシプロエンジン</a>でコンプレッサーを駆動するもの(この分野では、レシプロエンジン以外のエンジンが採用された例はない)はモーターに比べ騒音が大きい。またガス燃焼特有の主として<a href="/wiki/%E7%AA%92%E7%B4%A0%E9%85%B8%E5%8C%96%E7%89%A9" title="窒素酸化物">窒素酸化物</a>に加えて、燃料ガスの<a href="/wiki/%E4%BB%98%E8%87%AD%E5%89%A4" class="mw-redirect" title="付臭剤">付臭剤</a>が<a href="/wiki/TBM" class="mw-disambig" title="TBM">TBM</a>に代表される<a href="/wiki/%E7%A1%AB%E9%BB%84" title="硫黄">硫黄</a>化合物であれば硫黄酸化物いわゆる<a href="/wiki/%E4%BA%9C%E7%A1%AB%E9%85%B8%E3%82%AC%E3%82%B9" class="mw-redirect" title="亜硫酸ガス">亜硫酸ガス</a>による臭気が発生する（エンジン自体は<a href="/wiki/%E6%B6%B2%E5%8C%96%E7%9F%B3%E6%B2%B9%E3%82%AC%E3%82%B9" title="液化石油ガス">LPG</a><a href="/wiki/%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC" title="タクシー">タクシー</a>や<a href="/wiki/%E5%A4%A9%E7%84%B6%E3%82%AC%E3%82%B9%E8%87%AA%E5%8B%95%E8%BB%8A" title="天然ガス自動車">CNG車</a>と同じだが、排気ガスに関する厳しい規制が無く野放し状態だったが、2003年現在100ppm、東京都における火力発電所の10ppmより一桁甘い規制がなされ、壊滅状態）。</li>
+<li>上記窒素酸化物を含んだ燃焼排気ガスから<a href="/wiki/%E4%BA%9C%E7%A1%9D%E9%85%B8" title="亜硝酸">亜硝酸</a>を含んだドレン排水が発生するが、強酸性であるため中和処置を行わず垂れ流しにするとコンクリートの腐食を誘発する</li>
+<li>ガスエンジンの廃熱を暖房に利用できるため、<a href="/wiki/%E5%AF%92%E5%86%B7%E5%9C%B0" title="寒冷地">寒冷地</a>においても暖房運転の立ち上がりが良い。また暖房時の室外熱交換器の除霜にもエンジン廃熱を用いるため、暖房能力の低下を抑えることができる。</li>
+<li>エンジンがコスト面から旧式を使っており総合効率は１を少し上回る程度（エンジンが30%程度、ヒートポンプがEER値が3～4の場合システムCOP値は1～1.2）で近年の電気式の省エネ化（特にマルチでなく1:1システムが顕著）でCOP値が4以上と従来機の半分の電気代で運転できる事から、導入費用+保守費用+ガス代を考えてもGHPが割高となるケースがあり、上記排気ガス規制とあいまって新規採用が減少、特に店舗用の小型機器業界は壊滅状態である。</li>
+<li>エンジン式の構造上、現状では冷媒漏れが避けられない。</li>
+<li>燃料（特に都市ガス）の供給が絶たれると運転できない。</li>
+<li>安全装置のエネルギー源は電気であり、停電時には運転できない。</li>
+</ul>
+<p>LPGは災害時に供給が止まることが少なく、発電機で少量の電気を供給すれば稼動する。けれども運搬に必要な道路のインフラの損傷具合によっては都市ガス同様に復旧が遅くなる事もある。ただし、都市ガスは復旧が遅く長期に渡って空調が使えなくなる。したがって都市ガスが無ければ営業自体ができない店舗（飲食店やガス炊きボイラーの<a href="/wiki/%E6%B5%B4%E5%A0%B4" class="mw-redirect" title="浴場">浴場</a>）はともかく、病院や事務所など直接ガスに依存しない施設ではGHPのみに依存すると空調に支障をきたす場合がある。一部の飲食店では厨房の都市ガス器具も撤去され始め、店舗の完全電化が進行している。電力ピークカットを目的とした税優遇措置は、2011年現在も有効である。</p>
+<h2><span class="mw-headline" id=".E8.BB.8A.E4.B8.A1.E7.94.A8">車両用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=11" title="節を編集: 車両用">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E3.82.AB.E3.83.BC.E3.82.A8.E3.82.A2.E3.82.B3.E3.83.B3">カーエアコン</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=12" title="節を編集: カーエアコン">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3" title="カーエアコン">カーエアコン</a>」、「<a href="/wiki/%E3%82%AB%E3%83%BC%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC" title="カークーラー">カークーラー</a>」、および「<a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC" title="カーヒーター">カーヒーター</a>」を参照</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Fiat_Punto_control_panel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fiat_Punto_control_panel.jpg/200px-Fiat_Punto_control_panel.jpg" width="200" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fiat_Punto_control_panel.jpg/300px-Fiat_Punto_control_panel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fiat_Punto_control_panel.jpg/400px-Fiat_Punto_control_panel.jpg 2x" data-file-width="1200" data-file-height="1600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Fiat_Punto_control_panel.jpg" class="internal" title="拡大"></a></div>
+<a href="/wiki/%E3%83%95%E3%82%A3%E3%82%A2%E3%83%83%E3%83%88%E3%83%BB%E3%83%97%E3%83%B3%E3%83%88" title="フィアット・プント">フィアット・プント</a>のエアコン操作パネル</div>
+</div>
+</div>
+<p>自動車に取り付けてあるエアコン。基本的な構造は、冷房の場合は通常のエアコンと変わりなく、<a href="/wiki/%E5%9C%A7%E7%B8%AE%E6%A9%9F" title="圧縮機">コンプレッサー</a>を使う方式である。コンプレッサーは<a href="/wiki/%E9%9B%BB%E7%A3%81%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81" class="mw-redirect" title="電磁クラッチ">電磁クラッチ</a>の断続によってエンジンの動力で冷媒を圧縮し、圧縮されて蓄熱された冷媒は、車両前方の<a href="/wiki/%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC" title="ラジエーター">ラジエーター</a>前などに配置された<b>コンデンサー</b>（凝縮器）で走行風や電動ファンによる強制空冷で冷却されガス状の冷媒が液化される。液化された冷媒は室内エアコンユニットの<b>エバポレーター</b>（蒸発器）に送られる。エバポレーターには<b>エキスパンションバルブ</b>（膨張弁）が内蔵されており、ここで液化された冷媒が一気に気化されることにより、冷房サイクルが成立する。冷房を終えた冷媒はコンプレッサーに返送され、一部の余剰の冷媒は必要に応じて<b>レシーバータンク</b>（貯蔵庫）に蓄えられて再液化及び<a href="/wiki/%E4%B9%BE%E7%87%A5%E5%89%A4" class="mw-redirect" title="乾燥剤">乾燥剤</a>による除湿が行われる。</p>
+<p>暖房は建物用エアコンと違い、<a href="/wiki/%E6%B6%B2%E5%86%B7%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3" title="液冷エンジン">液冷エンジン</a>（<a href="/wiki/%E6%B0%B4%E5%86%B7%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3" title="水冷エンジン">水冷エンジン</a>）においてはエンジンを冷却した冷却液（<a href="/wiki/%E5%86%B7%E5%8D%B4%E6%B0%B4" class="mw-redirect" title="冷却水">冷却水</a>、クーラント）を室内のヒーターコアに導き、熱交換している。すなわちカーエアコンの暖房は、エンジンの廃熱利用にあたる。</p>
+<p>これらの冷温風は電動送風機である<b>ブロワモーター</b>により室内各所に送風される。カーエアコンはこれらの冷温風により、フロントガラスやサイドガラスの霜取りや曇り取り（<a href="/wiki/%E3%83%87%E3%83%95%E3%82%A9%E3%83%83%E3%82%AC%E3%83%BC" title="デフォッガー">デフォッガー</a>/<a href="/wiki/%E3%83%87%E3%83%95%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%BC" title="デフロスター">デフロスター</a>）を行う機能も持たせられている。</p>
+<p>温度調節はドライバーが手動で任意に行う<b>マニュアルエアコン</b>と、あらかじめ設定した室温に室温センサーなどで自動調節を行う<b>オートエアコン</b>が存在し、今日の日本市場ではオートエアコンが主流である。</p>
+<p>クーラーの冷媒には一般的には<a href="/wiki/%E4%BB%A3%E6%9B%BF%E3%83%95%E3%83%AD%E3%83%B3" title="代替フロン">R134a</a>が用いられる。かつては<a href="/wiki/%E3%83%95%E3%83%AD%E3%83%B3" class="mw-redirect" title="フロン">フロン12（R12）</a>が広く用いられていたが、<a href="/wiki/%E3%82%AA%E3%82%BE%E3%83%B3%E5%B1%A4" title="オゾン層">オゾン層</a>破壊が問題になったことにより現在ではR134aに完全に置き換えられている。しかし、R134a冷媒は地球温暖化係数（GWP）が高いことから、欧州F-Gas 規制<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>が制定され、2017年1月までに全ての欧州内の乗用車および軽トラックの新車のカーエアコンに使用される冷媒はGWP が150 以下の冷媒を採用しなければならなくなった。2011年1月から発売される新型車から段階的廃止が始まり、代替冷媒としてCO2やHFO-1234yfが採用される模様である。</p>
+<p>近年では<a href="/wiki/%E8%8A%B1%E7%B2%89%E7%97%87" title="花粉症">花粉症</a>対策などを謡った<a href="/wiki/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A8%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF" class="mw-redirect" title="クリーンエアフィルタ">クリーンエアフィルタ</a>がカーエアコンに装着される事も一般化している。</p>
+<p>バスの冷房装置については、<a href="/wiki/%E6%A9%9F%E9%96%A2%E7%9B%B4%E7%B5%90%E5%BC%8F%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE" title="機関直結式冷房装置">機関直結式冷房装置</a>、<a href="/wiki/%E7%8B%AC%E7%AB%8B%E6%A9%9F%E9%96%A2%E5%BC%8F%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE" title="独立機関式冷房装置">独立機関式冷房装置</a>を参照。</p>
+<h3><span class="mw-headline" id=".E9.89.84.E9.81.93.E7.94.A8">鉄道用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=13" title="節を編集: 鉄道用">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">電車の冷房装置については<a href="/wiki/%E9%9B%86%E4%B8%AD%E5%BC%8F%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE" title="集中式冷房装置">集中式冷房装置</a>、<a href="/wiki/%E5%88%86%E6%95%A3%E5%BC%8F%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE" title="分散式冷房装置">分散式冷房装置</a>、<a href="/wiki/%E9%9B%86%E7%B4%84%E5%88%86%E6%95%A3%E5%BC%8F%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE" title="集約分散式冷房装置">集約分散式冷房装置</a>を、気動車の冷房装置については、<a href="/wiki/%E6%A9%9F%E9%96%A2%E7%9B%B4%E7%B5%90%E5%BC%8F%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE" title="機関直結式冷房装置">機関直結式冷房装置</a>、<a href="/wiki/%E7%8B%AC%E7%AB%8B%E6%A9%9F%E9%96%A2%E5%BC%8F%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE" title="独立機関式冷房装置">独立機関式冷房装置</a>を参照</div>
+<p><a href="/wiki/%E9%89%84%E9%81%93%E8%BB%8A%E4%B8%A1" title="鉄道車両">鉄道車両</a>に取り付けてある冷房装置（一部を除き冷房専用であることから、エアコンと呼ばれることは少ない）。基本的には電気で作動するが、<a href="/wiki/%E6%B0%97%E5%8B%95%E8%BB%8A" title="気動車">気動車</a>ではカーエアコンと同様、走行用エンジンの動力の一部を利用して作動するものが多い。</p>
+<p>電車の場合、屋根にコンプレッサー・エバポレーター・コンデンサーが一体化されたものが搭載され、最近のものでは、換気機能を有するものや空気清浄機を内蔵するものがあり、換気や暖房によって天井に上った空気を下へ戻すために冬でも送風を行うものもある。</p>
+<h2><span class="mw-headline" id=".E6.B8.A9.E5.BA.A6.E3.81.A8.E6.B9.BF.E5.BA.A6.E3.81.AE.E8.AA.BF.E7.AF.80">温度と湿度の調節</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=14" title="節を編集: 温度と湿度の調節">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E7.9B.B8.E5.AF.BE.E6.B9.BF.E5.BA.A6.E3.81.AE.E4.BD.8E.E4.B8.8B">相対湿度の低下</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=15" title="節を編集: 相対湿度の低下">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>冷房は室内機が<a href="/wiki/%E7%B5%90%E9%9C%B2" title="結露">結露</a>し、その水分を屋外へ排水するため、湿度が下がる。これは、<a href="/wiki/%E4%BD%93%E6%84%9F%E6%B8%A9%E5%BA%A6" title="体感温度">体感温度</a>を下げる助けになる。</p>
+<p>しかしインバーターエアコンでは自在に出力を調整出来るため、始動時は高出力運転を行うが、室温が安定した後は低出力の運転を行う。低出力の運転では室内機が結露を起こさないため、室温だけが下がり相対湿度は上昇する。そのためジメジメ感や<a href="/wiki/%E3%82%AB%E3%83%93" title="カビ">カビ</a>、<a href="/wiki/%E3%83%80%E3%83%8B" title="ダニ">ダニ</a>の発生の原因になる事があるため、<a href="/wiki/%E9%99%A4%E6%B9%BF%E6%A9%9F" title="除湿機">除湿機</a>を併用したり、冷房のかわりに再熱除湿を使用して、湿度の上昇に注意する必要がある。</p>
+<p>暖房は室内で燃焼を行わないため、相対湿度が下がる。これは、体感温度を下げる副作用となる。結果、過度な暖房をし、<a href="/wiki/%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%A4%B1%E8%AA%BF%E7%97%87" title="自律神経失調症">自律神経失調症</a>につながる場合もある。エアコンのみで暖房を行う場合は、<a href="/wiki/%E5%8A%A0%E6%B9%BF%E5%99%A8" title="加湿器">加湿器</a>を併用するなど、乾燥に注意する必要がある。</p>
+<h3><span class="mw-headline" id=".E5.86.B7.E6.88.BF.E3.81.A8.E9.99.A4.E6.B9.BF">冷房と除湿</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=16" title="節を編集: 冷房と除湿">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>冷房運転は室温を設定<a href="/wiki/%E6%B8%A9%E5%BA%A6" title="温度">温度</a>に合わせるものであり、除湿運転は<a href="/wiki/%E6%B9%BF%E5%BA%A6" title="湿度">湿度</a>を設定した湿度に合わせるものである。目的で選択することにより快適な状態となる。同じ室温でも湿度が低ければ体感温度が下がり快適に感じるため、日本の夏のような多湿の場合は、室温をあまり下げなくても除湿をすれば快適に感じる場合がある。</p>
+<p>除湿運転には二種類あり、弱冷房除湿と再熱除湿がある。弱冷房除湿では弱く冷房をかけて除湿する。そのため温度を下げる能力は冷房運転より低下するため、当然だが消費電力も少なくなる。この方式では湿度と同時に温度も下がるため、だんだん除湿量が低下していきあまり除湿出来なくなる。また梅雨時など室温がそれほど高くない場合は肌寒く感じることもある。次に室温を保ったまま湿度を下げるのが再熱除湿である。しかし、冷房除湿で温度が下がった空気をヒーターで加熱して一定温度に戻す再熱除湿は、冷房運転よりも消費電力は多い。このタイプの再熱除湿は近年の家庭用エアコンでは採用されていないが、一部の鉄道車両用エアコンなどで採用されている。近年の家庭用エアコンで多く採用されている室外機の廃熱をリサイクルする方式の再熱除湿では、冷房に比べて温度を下げる能力が低下する。そのため、昼間など大きな冷房能力が必要なときに使用すると、室温が下がらずに消費電力だけ大きくなる場合もある。機種によっては温度や湿度を監視し、最適なモードに自動的に切り替える物もある。</p>
+<p>除湿運転の場合、冷房運転だけでは取りきれない湿度を下げる事が出来るため、設定温度を高めにしても体感温度は下がる場合もあり、実際の消費電力は個々のケースによる。</p>
+<h2><span class="mw-headline" id=".E3.83.A1.E3.83.B3.E3.83.86.E3.83.8A.E3.83.B3.E3.82.B9">メンテナンス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=17" title="節を編集: メンテナンス">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_03.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ja/thumb/c/c3/Air_conditioner_03.jpg/200px-Air_conditioner_03.jpg" width="200" height="235" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ja/thumb/c/c3/Air_conditioner_03.jpg/300px-Air_conditioner_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/ja/thumb/c/c3/Air_conditioner_03.jpg/400px-Air_conditioner_03.jpg 2x" data-file-width="466" data-file-height="547" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Air_conditioner_03.jpg" class="internal" title="拡大"></a></div>
+室内機の基板（室温の監視、室外機との通信等を行う）</div>
+</div>
+</div>
+<p>次のようなメンテナンスを行うことが望ましい。</p>
+<ul>
+<li><a href="/wiki/%E3%82%A8%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF" title="エアフィルタ">エアフィルタ</a>の清掃 - 運転時に2週間に一度以上行うことが望ましい。衛生面のみが目的ではなく過負荷運転の防止にもなる。汚損は風量・効率の低下、消費電力の増大をまねき、故障の原因にもなる。近年はエアフィルタの清掃を自動で行う機種もある（<a href="/wiki/2003%E5%B9%B4" title="2003年">2003年</a>に<a href="/wiki/%E5%AF%8C%E5%A3%AB%E9%80%9A%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB" title="富士通ゼネラル">富士通ゼネラル</a>より初登場）。低価格帯の商品ではついていないことが多い。クリーニング業者に依頼する際は、同箇所のみならず、室内機内のクロスファンの洗浄も同時に行うことが望ましい。</li>
+<li>ドレン配管のつまりの点検 - 冷房シーズン前に行う。つまりがあると室内に水漏れをおこすことがある。暖房運転時には室内機側ドレンに水分は発生しない。</li>
+<li>凝縮器・蒸発器の洗浄 - 汚染が激しい場合に行う。通電部に洗浄液がかからないような措置を行ってから実施する。また、後洗浄や排<a href="/wiki/%E6%B0%B4%E5%87%A6%E7%90%86" title="水処理">水処理</a>を行わないと腐食の原因となる。</li>
+</ul>
+<h2><span class="mw-headline" id=".E5.95.8F.E9.A1.8C.E7.82.B9">問題点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=18" title="節を編集: 問題点">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>室外機は、特に冬場、暖房にすると音が強くなることがある。</li>
+</ul>
+<ul>
+<li>エアコンは消費電力が大きく、一般的なピークは夏期の日中である。そのため、設定温度を上げる、<a href="/wiki/%E3%81%99%E3%81%A0%E3%82%8C" title="すだれ">すだれ</a>を降ろして直射日光を遮る、部屋を仕切って冷やす空間を最小限にするなどの節電対策が望まれる。ただし風量を弱くしても、室内機のファンの回転が弱まるだけで、設定温度まで冷やす（または暖める）ことに変わりはなく、設定温度になるまでに時間がかかるため、エアコンの消費電力の大半を占めるコンプレッサーが長く高出力運転し、かえって消費電力量が増える。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+</ul>
+<p>暖房時は、設定温度を下げて風量を強くすると、空気循環（サーキュレーション）も出来て効果的である。ただし、風量を強く設定しても、吹き出し温度が低くなると風量が弱くなる機種も多い。この場合、風量を「強」にしても「自動」にしても同じである。冷房時は設定温度を上げて風量を上げると、除湿能力が低下する場合があるため(湿度が高いと体感温度が上がって設定温度を低くしがちになったり、<a href="/wiki/%E7%86%B1%E4%B8%AD%E7%97%87" title="熱中症">熱中症</a>や<a href="/wiki/%E9%A3%9F%E4%B8%AD%E6%AF%92" title="食中毒">食中毒</a>の原因になる)、設定温度だけを上げて風量は自動に設定し、送風の補助として扇風機などを利用すると良い。</p>
+<ul>
+<li>通常のエアコンは<a href="/wiki/%E6%8F%9B%E6%B0%97" title="換気">換気</a>能力を備えていないが、仕組みを知らないと「室外機との間で空気の出し入れをしている」と誤解する場合がある。なお、エアコンとはまったく別個の装置として、換気装置を内蔵している機種は存在する。当然ながら換気のためのダクトが別に存在し、直接外気に晒すタイプと、室外機に接続するタイプがある。「<a href="/wiki/%E5%8E%9F%E5%AD%90%E5%8A%9B%E4%BA%8B%E6%95%85" title="原子力事故">原発事故</a>が発生し屋内退避指示が出たらエアコンを止めること」と周知する<a href="/wiki/%E5%A0%B1%E9%81%93%E6%A9%9F%E9%96%A2" title="報道機関">報道機関</a>が存在するが<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>、これはエアコンに換気機能が付いている場合であり、換気機能が付いていないエアコンまたは換気をオフにできるエアコンを止める必要はない。</li>
+</ul>
+<ul>
+<li>家電品の中ではメンテナンスコストと掃除の要求頻度が比較的高い。</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:TOTO_C75A-003.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TOTO_C75A-003.jpg/160px-TOTO_C75A-003.jpg" width="160" height="247" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TOTO_C75A-003.jpg/240px-TOTO_C75A-003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0d/TOTO_C75A-003.jpg 2x" data-file-width="316" data-file-height="488" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:TOTO_C75A-003.jpg" class="internal" title="拡大"></a></div>
+エアコンのドレン排水管がタンクに接続された和風便器の例</div>
+</div>
+</div>
+<ul>
+<li>取り廻しの関係で<a href="/wiki/%E3%83%89%E3%83%AC%E3%83%B3" class="mw-disambig" title="ドレン">ドレン</a><a href="/wiki/%E6%8E%92%E6%B0%B4" class="mw-redirect" title="排水">排水</a>の配管を、<a href="/wiki/%E6%B0%B4%E6%B4%97%E4%BE%BF%E6%89%80" class="mw-redirect" title="水洗便所">水洗便所</a>の<a href="/wiki/%E4%BE%BF%E5%99%A8" title="便器">便器</a>洗浄のタンクに接続配管される場合がある。ただし、タンクの水を<a href="/wiki/%E6%B8%A9%E6%B0%B4%E6%B4%97%E6%B5%84%E4%BE%BF%E5%BA%A7" title="温水洗浄便座">温水洗浄便座</a>に使用する場合は<a href="/wiki/%E8%A1%9B%E7%94%9F" title="衛生">衛生</a>面で<a href="/wiki/%E3%83%90%E3%82%AF%E3%83%86%E3%83%AA%E3%82%A2" class="mw-redirect" title="バクテリア">バクテリア</a>や<a href="/wiki/%E9%9B%91%E8%8F%8C" title="雑菌">雑菌</a>による<a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87" title="感染症">感染症</a>や尻かぶれを防止するために、配管を別系統に分ける必要がある。また<a href="/wiki/%E6%B0%B4%E6%B4%97%E5%BC%8F%E4%BE%BF%E6%89%80#.E5.92.8C.E5.BC.8F.EF.BC.88.E5.92.8C.E9.A2.A8.E4.BE.BF.E5.99.A8.EF.BC.89" title="水洗式便所">和式大便器</a>等の<a href="/wiki/%E6%B8%A9%E6%B0%B4%E6%B4%97%E6%B5%84%E4%BE%BF%E5%BA%A7" title="温水洗浄便座">温水洗浄便座</a>を使用しない場合でも、ドレン排水管内からの<a href="/wiki/%E3%83%90%E3%82%AF%E3%83%86%E3%83%AA%E3%82%A2" class="mw-redirect" title="バクテリア">バクテリア</a>による<a href="/wiki/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0" title="スライム">スライム</a>や<a href="/wiki/%E8%8B%94" title="苔">苔</a>、<a href="/wiki/%E3%83%9F%E3%82%BA%E3%82%B4%E3%82%B1%E9%A1%9E" class="mw-redirect" title="ミズゴケ類">ミズゴケ類</a>等の<a href="/wiki/%E8%97%BB%E9%A1%9E" title="藻類">藻類</a>や<a href="/wiki/%E9%8C%86" title="錆">錆</a>がタンク内に流れ込み、タンク内・タンクからの便器へ・便器内いずれの管路でも付着する場合がある。これらドレン排水による故障を未然に防ぐ為に、定期的にタンク内部の点検が必要となる。</li>
+</ul>
+<ul>
+<li>メンテナンスが不十分な水冷式の屋外機内では、<a href="/wiki/%E3%83%AC%E3%82%B8%E3%82%AA%E3%83%8D%E3%83%A9" title="レジオネラ">レジオネラ</a>が発生し、飛沫による拡散が問題となる可能性がある。2012年、<a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%80" title="カナダ">カナダ</a>の<a href="/wiki/%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF" class="mw-disambig" title="ケベック">ケベック</a>の住民など176人が在郷軍人病を発症し、うち12名が死亡する事件が発生した<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>。</li>
+</ul>
+<h2><span class="mw-headline" id=".E3.82.A8.E3.82.A2.E3.82.B3.E3.83.B3.E3.83.A1.E3.83.BC.E3.82.AB.E3.83.BC">エアコンメーカー</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=19" title="節を編集: エアコンメーカー">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>日本の主なエアコンメーカー</dt>
+</dl>
+<ul>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%B3%E7%B2%BE%E6%A9%9F" title="アイシン精機">アイシン精機</a>（GHP式） - 過去には室内ユニットは三菱重工製を使用していたが、現在は室内ユニットのみダイキンからのOEM。中型タイプの室外機はパナソニック産機からのOEM。</li>
+<li><a href="/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%82%AA" title="ヴァレオ">ヴァレオサーマルシステムズ</a>（自動車向け）</li>
+<li><a href="/wiki/%E7%A5%9E%E6%88%B8%E8%A3%BD%E9%8B%BC%E6%89%80" title="神戸製鋼所">神戸製鋼所</a>（業務用空調）</li>
+<li><a href="/wiki/%E3%82%B1%E3%83%BC%E3%83%92%E3%83%B3" title="ケーヒン">ケーヒン</a>（自動車向け）</li>
+<li><a href="/wiki/%E5%B0%8F%E6%B3%89%E6%88%90%E5%99%A8" title="小泉成器">小泉成器</a>（ウインド型・千石のOEM）</li>
+<li><a href="/wiki/%E3%82%B3%E3%83%AD%E3%83%8A_(%E6%9A%96%E6%88%BF%E5%99%A8%E5%85%B7)" title="コロナ (暖房器具)">コロナ</a>（基幹部分は東芝製） - 冷房専用機種も販売。</li>
+<li><a href="/wiki/%E3%82%AB%E3%83%AB%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%AB%E3%83%B3%E3%82%BB%E3%82%A4" title="カルソニックカンセイ">カルソニックカンセイ</a>（自動車向け）</li>
+<li><a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%87%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9" title="サンデンホールディングス">サンデン</a>（自動車向け）</li>
+<li><a href="/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97" title="シャープ">シャープ</a> - 過去に業務用も販売（ダイキン製）</li>
+<li><a href="/wiki/%E5%8D%83%E7%9F%B3" class="mw-disambig" title="千石">千石</a>（OEM生産のみ）</li>
+<li><a href="/wiki/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3%E5%B7%A5%E6%A5%AD" title="ダイキン工業">ダイキン工業</a> - 2010年より空調事業（家庭用・業務用）の世界シェア1位。国内シェア1位のパナソニックと包括提携。GHPの室外機はアイシンからのOEM。</li>
+<li><a href="/wiki/%E3%83%87%E3%83%B3%E3%82%BD%E3%83%BC" title="デンソー">デンソー</a> - 自動車向けが中心だが、過去にはオフィス用灯油ヒートポンプ（KHP）タイプも取扱い扱っていた（パナソニック産機製）。主に同社の工場等で見かける。</li>
+<li><a href="/w/index.php?title=%E3%83%87%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="デンソーエース (存在しないページ)">デンソーエース</a> - 旧ゼネラルエアコンテクニカ、スキニー<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>というブランドでトヨタ系列施設、輸入住宅、コンビニで使用。</li>
+<li><a href="/wiki/%E9%95%B7%E5%BA%9C%E8%A3%BD%E4%BD%9C%E6%89%80" title="長府製作所">長府製作所</a>（基幹部分は三菱電機製、一部機種はダイキンのOEM）　</li>
+<li><a href="/wiki/%E6%9D%B1%E8%8A%9D%E3%82%AD%E3%83%A4%E3%83%AA%E3%82%A2" class="mw-redirect" title="東芝キヤリア">東芝キヤリア</a> - 東芝とキヤリアとの合弁という形で設立。かつては石油もしくはガスエアコン（いずれも家庭用ならびに業務用）にも手掛けていたが、現在は撤退している。</li>
+<li><a href="/wiki/%E3%83%88%E3%83%A8%E3%83%88%E3%83%9F" title="トヨトミ">トヨトミ</a>（ウインド型）</li>
+<li><a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%BA" title="ジョンソンコントロールズ">日立ジョンソンコントロールズ空調</a> - 日立の空調部門（<a href="/wiki/%E6%97%A5%E7%AB%8B%E3%82%A2%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9" title="日立アプライアンス">日立アプライアンス</a>）と米国ジョンソンコントロールズとの合弁会社で家庭用から<a href="/wiki/%E3%83%81%E3%83%A9%E3%83%BC" title="チラー">チラー</a>も含めた業務用と幅広い。かつては都市ガス向け家庭用ガスエアコンも手掛けていたが、家庭用からは撤退しており、現在は業務用GHPのみ展開。</li>
+<li><a href="/wiki/%E5%AF%8C%E5%A3%AB%E9%80%9A%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB" title="富士通ゼネラル">富士通ゼネラル</a> - 主に家庭用。パッケージエアコンや業務用エアコンは海外のみで販売。</li>
+<li><a href="/wiki/%E5%AF%8C%E5%A3%AB%E9%9B%BB%E6%A9%9F" title="富士電機">富士電機</a> - 業務用ではエアスカットというブランドで販売（三菱重工製）。家庭用は海外向け。現在は富士通ゼネラルのOEM。</li>
+<li><a href="/wiki/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF" title="パナソニック">パナソニック</a> - 家庭用空調機器の国内シェア1位。空調事業世界シェア1位のダイキン工業と包括提携。</li>
+<li><a href="/w/index.php?title=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E7%94%A3%E6%A9%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA&amp;action=edit&amp;redlink=1" class="new" title="パナソニック産機システムズ (存在しないページ)">パナソニック産機システムズ</a> - パナソニックの子会社で三洋の業務用空調事業を引き継いだ会社。これまで親会社が取り組んでいなかった業務用GHPやチラーといった大型特殊空調事業にも参入している。</li>
+<li><a href="/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F" title="三菱電機">三菱電機</a> - 一部の業務用エアコンは三菱重工業のOEM。過去に家庭用ガスエアコンも製造していたが、現在は撤退している。</li>
+<li><a href="/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD" title="三菱重工業">三菱重工業</a> - 一部のハウジングエアコンは三菱電機のOEM。業務用ガスエアコンの室外機はアイシンもしくはパナソニック産機からのOEM。<a href="/wiki/%E4%B8%89%E8%8F%B1%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B7%A5%E6%A5%AD" title="三菱自動車工業">三菱自動車</a>ならびに<a href="/wiki/%E4%B8%89%E8%8F%B1%E3%81%B5%E3%81%9D%E3%81%86%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%83%90%E3%82%B9" title="三菱ふそうトラック・バス">三菱ふそう</a>向けの自動車用も製造。　　</li>
+<li><a href="/wiki/%E3%83%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0" title="ヤンマーエネルギーシステム">ヤンマーエネルギーシステム</a>（GHP式） - 室内機は日立（Hタイプ）とダイキン（Dタイプ）からのOEM。</li>
+</ul>
+<dl>
+<dt>かつて手掛けていた日本のエアコンメーカー</dt>
+</dl>
+<ul>
+<li><a href="/wiki/%E5%90%89%E4%BA%95%E9%9B%BB%E6%B0%97" title="吉井電気">吉井電気</a>（ウインド型）</li>
+<li><a href="/wiki/%E3%83%8F%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%AB" class="mw-redirect" title="ハイアール">ハイアールジャパンホールディングス</a>（ウインド型）</li>
+<li><a href="/w/index.php?title=%E4%B8%89%E5%8D%94&amp;action=edit&amp;redlink=1" class="new" title="三協 (存在しないページ)">三協</a></li>
+<li><a href="/w/index.php?title=GAC&amp;action=edit&amp;redlink=1" class="new" title="GAC (存在しないページ)">GAC</a> （デンソーエースに統合。わが国で初めて窓用タテ型ウインドエアコンを製造。GEスキニーというブランドで1974年～1983年まで製造・販売された。）</li>
+<li><a href="/wiki/%E3%82%BD%E3%83%8B%E3%83%BC" title="ソニー">ソニー</a>（ダイキン工業のOEM）</li>
+<li><a href="/wiki/%E6%9D%BE%E4%B8%8B%E5%86%B7%E6%A9%9F" title="松下冷機">松下冷機</a>（パナソニックに吸収された。）</li>
+<li><a href="/wiki/%E4%B8%89%E6%B4%8B%E9%9B%BB%E6%A9%9F" title="三洋電機">三洋電機</a> - <a href="/wiki/2010%E5%B9%B4" title="2010年">2010年</a>モデルから家庭用エアコンは富士通ゼネラルのOEMだったが、パナソニックの完全子会社化に伴い、家庭用からは撤退。業務用もパナソニック産機システムズに引き継ぐ形で撤退。</li>
+<li><a href="/wiki/%E9%AB%98%E6%9C%A8%E7%94%A3%E6%A5%AD" class="mw-redirect" title="高木産業">高木産業</a>（家庭用ガスエアコンのみ販売。パナソニックのOEM。）</li>
+<li><a href="/wiki/%E6%9D%B1%E6%B4%8B%E3%82%AD%E3%83%A4%E3%83%AA%E3%82%A2%E5%B7%A5%E6%A5%AD" class="mw-redirect" title="東洋キヤリア工業">東洋キヤリア工業</a>（東芝キャリアに統合。統合前は東芝や三洋からのOEM。）</li>
+<li><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%AA%E3%83%84" title="ノーリツ">ノーリツ</a>（三洋などからのOEM）</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9" title="日本電気ホームエレクトロニクス">日本電気ホームエレクトロニクス</a>（三洋などからのOEM。）</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%93%E3%82%AF%E3%82%BF%E3%83%BC" title="日本ビクター">日本ビクター</a>（現<a href="/wiki/JVC%E3%82%B1%E3%83%B3%E3%82%A6%E3%83%83%E3%83%89" title="JVCケンウッド">JVCケンウッド</a>）（三菱重工業のOEM。）</li>
+<li><a href="/wiki/%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E5%B7%A5%E6%A5%AD" title="ブラザー工業">ブラザー工業</a>（三菱電機のOEM。）</li>
+<li><a href="/wiki/%E8%88%B9%E4%BA%95%E9%9B%BB%E6%A9%9F" title="船井電機">船井電機</a></li>
+<li>ホリエ</li>
+<li><a href="/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5_(%E4%BC%81%E6%A5%AD)" title="ロバート・ボッシュ (企業)">ゼクセル</a>（旧・ヂーゼル機器・自動車向け。ヴァレオサーマルシステムズに社名変更。）</li>
+<li><a href="/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E7%99%BA%E5%8B%95%E6%A9%9F" title="ヤマハ発動機">ヤマハ発動機</a>（GHP式。室内ユニットは三菱電機製。「リビングメイト」と呼ばれるハウジングモデルは室内・室外共にパナソニック産機製が使われた。親会社でもある<a href="/wiki/%E3%83%A4%E3%83%9E%E3%83%8F" title="ヤマハ">ヤマハ</a>のルートを通じて学校施設への納入が多かった。）</li>
+<li><a href="/wiki/%E3%83%A6%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0_(%E4%BC%81%E6%A5%AD)" title="ユーイング (企業)">ユーイング</a>（ウインド型）</li>
+<li><a href="/wiki/%E3%83%AA%E3%83%B3%E3%83%8A%E3%82%A4" title="リンナイ">リンナイ</a>（LPガスや都市ガスを用いた家庭用ガスエアコン。主に東芝やシャープからのOEM。）</li>
+</ul>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=20" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="noprint" style="float:right; font-size:90%;">
+<tr>
+<td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">ヘルプ</span></a>]</td>
+</tr>
+</table>
+<div class="references-small">
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.historycarper.com/resources/twobf3/letter1.htm">Cooling by Evaporation (Letter to John Lining)</a>. Benjamin Franklin, London, June 17, 1758</span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.facstaff.bucknell.edu/mvigeant/therm_1/AC_final/bg.htm">History of Air Conditioning</a> Source: Jones Jr., Malcolm. "Air Conditioning". <i>Newsweek</i>. Winter 1997 v130 n24-A p42(2). Retrieved 1 January 2007.</span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.r744.com/faq.php">R744.com - FAQ</a></span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text">具体的には電技解釈第162条に、住宅の屋内電路の対地電圧は原則として150V以下にする旨定められている。</span></li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text"><a href="/wiki/%E9%83%BD%E5%B8%82%E3%82%AC%E3%82%B9" title="都市ガス">都市ガス</a>もしくは<a href="/wiki/%E3%83%97%E3%83%AD%E3%83%91%E3%83%B3%E3%82%AC%E3%82%B9" class="mw-redirect" title="プロパンガス">プロパンガス</a>を燃料としている。</span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text">主に都市ガス会社への<a href="/wiki/OEM" title="OEM">OEM</a>が中心である。</span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text"><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英</a>: <span lang="en" xml:lang="en">F-Gas regulation</span></span></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.daikin.co.jp/naze/setsuden/howto.html#qa02">エアコンの使い方を見直そう-ダイキン工業</a></span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.daikin.co.jp/air/tech/compressor/summary/index.html?ID=air_tech">圧縮機とは？-ダイキン工業</a></span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=cYpYSLYd_1w">【原発】「屋内退避」が発令されたらどうすれば・・・（11/03/18）</a><a href="/wiki/%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5" title="テレビ朝日">テレビ朝日</a><a href="/wiki/ANN%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9" title="ANNニュース">ANNニュース</a>公式<a href="/wiki/YouTube" title="YouTube">YouTube</a></span></li>
+<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text"><cite style="font-style:normal" class="citation news"><a rel="nofollow" class="external text" href="http://www.afpbb.com/article/life-culture/health/2900438/9507295">“カナダ・ケベックシティの在郷軍人病、死者12人に”</a>. <i>AFPBB News</i> (フランス通信社). (<span title="">2012年9月12日</span>)<span style="display:none;">. <a rel="nofollow" class="external free" href="http://www.afpbb.com/article/life-culture/health/2900438/9507295">http://www.afpbb.com/article/life-culture/health/2900438/9507295</a></span> <span class="reference-accessdate"><span title="">2012年10月6日</span>閲覧。</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%E3%82%AB%E3%83%8A%E3%83%80%E3%83%BB%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%E3%81%AE%E5%9C%A8%E9%83%B7%E8%BB%8D%E4%BA%BA%E7%97%85%E3%80%81%E6%AD%BB%E8%80%8512%E4%BA%BA%E3%81%AB&amp;rft.jtitle=AFPBB+News&amp;rft.date=%3Cspan+title%3D%22%22%3E2012%E5%B9%B49%E6%9C%8812%E6%97%A5%3C%2Fspan%3E&amp;rft.pub=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%80%9A%E4%BF%A1%E7%A4%BE&amp;rft_id=http%3A%2F%2Fwww.afpbb.com%2Farticle%2Flife-culture%2Fhealth%2F2900438%2F9507295&amp;rfr_id=info:sid/ja.wikipedia.org:%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> <span class="reference-text">三菱電機や東芝キヤリアからのOEM。</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=21" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%E3%82%A8%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BC" title="エアクリーナー">エアクリーナー</a></li>
+<li><a href="/wiki/%E3%82%A8%E3%82%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88" title="エコキュート">エコキュート</a></li>
+<li><a href="/wiki/%E5%90%B8%E5%8F%8E%E5%BC%8F%E5%86%B7%E5%87%8D%E6%A9%9F" title="吸収式冷凍機">吸収式冷凍機</a></li>
+<li><a href="/wiki/%E7%A9%BA%E6%B0%97%E8%AA%BF%E5%92%8C" title="空気調和">空気調和</a></li>
+<li><a href="/wiki/%E7%9C%81%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC" title="省エネルギー">省エネルギー</a></li>
+<li><a href="/wiki/%E9%99%A4%E6%B9%BF%E6%A9%9F" title="除湿機">除湿機</a></li>
+<li><a href="/wiki/%E3%83%88%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="トリジェネレーション">トリジェネレーション</a></li>
+<li><a href="/wiki/%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC" class="mw-disambig" title="ヒーター">ヒーター</a></li>
+<li><a href="/wiki/%E3%83%92%E3%83%BC%E3%83%88%E3%83%9D%E3%83%B3%E3%83%97" title="ヒートポンプ">ヒートポンプ</a></li>
+<li><a href="/wiki/%E5%86%B7%E5%8D%B4" title="冷却">冷却</a></li>
+<li><a href="/wiki/%E5%AE%A4%E5%A4%96%E6%A9%9F" title="室外機">室外機</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit&amp;section=22" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Air_conditioners?uselang=ja">エア・コンディショナー</a></span></b>に関連するカテゴリがあります。</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.jraia.or.jp/index.html">社団法人 日本冷凍空調工業会</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.tepco-switch.com/life/labo/select/02_aircon/index-j.html">快適にくらすための家電選び　エアコン（東京電力くらしのラボ）</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1226
+Cached time: 20160730191025
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.261 seconds
+Real time usage: 0.362 seconds
+Preprocessor visited node count: 1907/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11652/2097152 bytes
+Template argument size: 4089/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 0/500
+Lua time usage: 0.012/10.000 seconds
+Lua memory usage: 826 KB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  245.229      1 - -total
+ 42.52%  104.280      1 - Template:Cite_news
+ 38.27%   93.840      1 - Template:Citation/core
+ 22.87%   56.079      4 - Template:Lang
+ 21.27%   52.168      1 - Template:Convert
+ 20.16%   49.443      1 - Template:Convert/°F
+ 19.08%   46.800      1 - Template:Convert/LoffAonDbSoffT
+ 16.41%   40.245      1 - Template:Convert/°C
+ 15.47%   37.927      1 - Template:Commonscat
+ 15.35%   37.632      1 - Template:Convert/LoffT
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:17034-0!*!0!!ja!4!* and timestamp 20160730191024 and revision id 59916738
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=エア・コンディショナー&amp;oldid=59916738">https://ja.wikipedia.org/w/index.php?title=エア・コンディショナー&amp;oldid=59916738</a>」から取得					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E7%A9%BA%E6%B0%97%E8%AA%BF%E5%92%8C%E8%A8%AD%E5%82%99" title="Category:空気調和設備">空気調和設備</a></li><li><a href="/wiki/Category:%E5%AE%B6%E9%9B%BB%E6%A9%9F%E5%99%A8" title="Category:家電機器">家電機器</a></li><li><a href="/wiki/Category:%E5%BB%BA%E7%AF%89%E7%92%B0%E5%A2%83%E5%B7%A5%E5%AD%A6" title="Category:建築環境工学">建築環境工学</a></li><li><a href="/wiki/Category:%E5%86%B7%E5%8D%B4" title="Category:冷却">冷却</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=edit"  title="このページを編集 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;returnto=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;oldid=59916738&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>他のプロジェクト</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Air_conditioners" hreflang="en">コモンズ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;oldid=59916738" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1265533" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;id=59916738" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%83%D9%8A%D9%81_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1" title="アラビア語: مكيف الهواء" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Klimaanl%C3%A6g" title="デンマーク語: Klimaanlæg" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Air_conditioner" title="英語: Air conditioner" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%95%D5%A4%D5%B8%D6%80%D5%A1%D5%AF%D5%AB%D5%B9" title="アルメニア語: Օդորակիչ" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80" title="カザフ語: Кондиционер" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EC%BB%A8" title="韓国語: 에어컨" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Instrumentum_a%C3%ABri_temperando" title="ラテン語: Instrumentum aëri temperando" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Klimatyzator" title="ポーランド語: Klimatyzator" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80" title="ロシア語: Кондиционер" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Air_conditioner" title="シンプル英語: Air conditioner" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%80%E0%AE%B0%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF" title="タミル語: காற்றுச்சீரமைப்பி" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D1%96%D0%BE%D0%BD%D0%B5%D1%80" title="ウクライナ語: Кондиціонер" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/M%C3%A1y_%C4%91i%E1%BB%81u_h%C3%B2a_kh%C3%B4ng_kh%C3%AD" title="ベトナム語: Máy điều hòa không khí" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1265533#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2016年5月31日 (火) 17:28 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.switcher","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.compactlinks","ext.uls.interlanguage","ext.centralNotice.startUp","ext.centralNotice.geoIP"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport-cputime": "0.261",
+        "limitreport-walltime": "0.362",
+        "limitreport-ppvisitednodes": [
+            1907,
+            1000000
+        ],
+        "limitreport-ppgeneratednodes": [
+            0,
+            1500000
+        ],
+        "limitreport-postexpandincludesize": [
+            11652,
+            2097152
+        ],
+        "limitreport-templateargumentsize": [
+            4089,
+            2097152
+        ],
+        "limitreport-expansiondepth": [
+            25,
+            40
+        ],
+        "limitreport-expensivefunctioncount": [
+            0,
+            500
+        ],
+        "scribunto-limitreport-timeusage": [
+            "0.012",
+            "10.000"
+        ],
+        "scribunto-limitreport-memusage": [
+            845847,
+            52428800
+        ],
+        "EntityAccessCount": 1
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1183"});});</script>
+	</body>
+</html>

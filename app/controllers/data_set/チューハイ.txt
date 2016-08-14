@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>チューハイ - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"チューハイ","wgTitle":"チューハイ","wgCurRevisionId":60671794,"wgRevisionId":60671794,"wgArticleId":103891,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["テンプレート呼び出しで引数が重複しているページ","外部リンクがリンク切れになっている記事/2015年2月","カクテル"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"チューハイ","wgRelevantArticleId":103891,"wgRequestId":"V65SxgpAAEAAAC79jB8AAAAQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1047326","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);mw.loader.state({"ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.legacy.shared":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","site.styles":"ready","noscript":"ready","user.cssprefs":"ready","user.styles":"ready"});});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%2Cswitcher%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.14"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-チューハイ rootpage-チューハイ skin-vector action-view feature-page-action-bar-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">チューハイ</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div class="dablink noprint">
+<table style="width:100%; background:transparent;">
+<tr>
+<td style="width:25px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Disambig_gray.svg" class="image" title="曖昧さ回避"><img alt="曖昧さ回避" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" width="25" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></td>
+<td>この項目では、アルコール飲料について説明しています。中国の都市については「<a href="/wiki/%E7%8F%A0%E6%B5%B7%E5%B8%82" title="珠海市">珠海市</a>」をご覧ください。</td>
+</tr>
+</table>
+</div>
+<p><b>チューハイ</b>（<b>酎ハイ</b>）は、<a href="/wiki/%E8%92%B8%E7%95%99%E9%85%92" title="蒸留酒">蒸留酒</a>を別の飲料で割った<a href="/wiki/%E4%BD%8E%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%A3%B2%E6%96%99" title="低アルコール飲料">低アルコール飲料</a>。もともと「<a href="/wiki/%E7%84%BC%E9%85%8E" title="焼酎">焼<b>酎</b></a><a href="/wiki/%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%AB" title="ハイボール"><b>ハイ</b>ボール</a>」の略称<sup id="cite_ref-excite_1-0" class="reference"><a href="#cite_note-excite-1">[1]</a></sup>。現在では焼酎ベースではないチューハイやハイボール、つまり<a href="/wiki/%E7%82%AD%E9%85%B8%E6%B0%B4" title="炭酸水">炭酸水</a>割りではないチューハイも数多く見られるため、より広範なアルコール飲料を指すようになっている。</p>
+<p><a href="/wiki/%E5%B1%85%E9%85%92%E5%B1%8B" title="居酒屋">居酒屋</a>のメニューとして登場したが、その後缶入り飲料として発売されて売り上げを伸ばし、家庭でも広く飲まれるようになった。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E3.83.81.E3.83.A5.E3.83.BC.E3.83.8F.E3.82.A4.E3.81.A8.E3.81.AF"><span class="tocnumber">1</span> <span class="toctext">チューハイとは</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.E9.85.92.E7.A8.8E.E6.B3.95.E4.B8.8A.E3.81.AE.E6.89.B1.E3.81.84"><span class="tocnumber">1.1</span> <span class="toctext">酒税法上の扱い</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.E3.82.B5.E3.83.AF.E3.83.BC.E3.81.A8.E3.81.AE.E9.81.95.E3.81.84"><span class="tocnumber">1.2</span> <span class="toctext">サワーとの違い</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E3.82.AB.E3.82.AF.E3.83.86.E3.83.AB.E3.81.A8.E3.81.AE.E9.81.95.E3.81.84"><span class="tocnumber">1.3</span> <span class="toctext">カクテルとの違い</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#.E6.AD.B4.E5.8F.B2"><span class="tocnumber">2</span> <span class="toctext">歴史</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E5.8E.9F.E6.9D.90.E6.96.99"><span class="tocnumber">3</span> <span class="toctext">原材料</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#.E9.85.92.E9.A1.9E"><span class="tocnumber">3.1</span> <span class="toctext">酒類</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E5.89.B2.E3.82.8A.E6.9D.90"><span class="tocnumber">3.2</span> <span class="toctext">割り材</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#.E5.90.84.E7.A8.AE.E5.9B.A3.E4.BD.93.E3.81.8B.E3.82.89.E3.81.AE.E3.82.AF.E3.83.AC.E3.83.BC.E3.83.A0"><span class="tocnumber">4</span> <span class="toctext">各種団体からのクレーム</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">5</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">6</span> <span class="toctext">関連項目</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E3.83.81.E3.83.A5.E3.83.BC.E3.83.8F.E3.82.A4.E3.81.A8.E3.81.AF">チューハイとは</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=1" title="節を編集: チューハイとは">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>チューハイについて酒税法上、独立した品目としての規定はなく、また業界団体等の統一基準もない。何をもってチューハイとするかはメーカーや飲食店次第である。チューハイと銘打たれた酒類に共通する特徴は今のところ以下の2点である。</p>
+<ul>
+<li>蒸留酒をベースとしている</li>
+<li>アルコール含有率が低い（おおむね10度未満）</li>
+</ul>
+<p>なお、近年アルコール飲料テイストの<a href="/wiki/%E3%83%8E%E3%83%B3%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%A3%B2%E6%96%99" title="ノンアルコール飲料">ノンアルコール飲料</a>が急速に増えており、そのひとつとして<a href="/wiki/%E3%83%8E%E3%83%B3%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%85%8E%E3%83%8F%E3%82%A4" title="ノンアルコール酎ハイ">ノンアルコール酎ハイ</a>も複数製品が発売されている<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。</p>
+<h3><span class="mw-headline" id=".E9.85.92.E7.A8.8E.E6.B3.95.E4.B8.8A.E3.81.AE.E6.89.B1.E3.81.84">酒税法上の扱い</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=2" title="節を編集: 酒税法上の扱い">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E9%85%92%E7%A8%8E%E6%B3%95" title="酒税法">酒税法</a>上は、<a href="/wiki/%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB" title="リキュール">リキュール</a>（エキス分が2度以上）あるいは<a href="/wiki/%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84" class="mw-disambig" title="スピリッツ">スピリッツ</a>（エキス分が2度未満）に分類される。また炭酸ガスを含有した製品は「その他の発泡性酒類」の要件を満たすため「（発泡性）」などと併記される。酒税の税率はアルコール度数が10度未満（発泡性の場合）あるいは9度未満（非発泡性の場合）では80,000円（1キロリットル当たり）<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>と、飲用の酒類としては最低の部類に属す<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。このため製品価格も安価なものが多い<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>。</p>
+<h3><span class="mw-headline" id=".E3.82.B5.E3.83.AF.E3.83.BC.E3.81.A8.E3.81.AE.E9.81.95.E3.81.84">サワーとの違い</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=3" title="節を編集: サワーとの違い">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>チューハイと<a href="/wiki/%E3%82%B5%E3%83%AF%E3%83%BC" title="サワー">サワー</a>は、おおむね同一のものとされている<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>。実際の製品では、商品名に「サワー」の文字と製品種別として「チューハイ」の文字の両方入れたものがある一方、カルピスサワーのように名称が定着している製品では「チューハイ」の文字は入れないものがあるなど、取り扱いはさまざまである。</p>
+<h3><span class="mw-headline" id=".E3.82.AB.E3.82.AF.E3.83.86.E3.83.AB.E3.81.A8.E3.81.AE.E9.81.95.E3.81.84">カクテルとの違い</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=4" title="節を編集: カクテルとの違い">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="カクテル">カクテル</a>の定義を「ベース（基酒）となる酒に、他の酒またはジュースなどを混ぜて作るアルコール飲料」とするならチューハイもカクテルの一種だが、一部のメーカーでは明確にチューハイとカクテルを別カテゴリとしている<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>。カクテルもチューハイ同様、規定する法令も業界統一基準もないため、「チューハイ＝カクテル」とするか「チューハイ≠カクテル」とするかはメーカーや飲食店次第である。</p>
+<h2><span class="mw-headline" id=".E6.AD.B4.E5.8F.B2">歴史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=5" title="節を編集: 歴史">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>焼酎の割り材として<a href="/wiki/%E3%82%A6%E3%83%A1" title="ウメ">ウメ</a>や<a href="/wiki/%E3%83%96%E3%83%89%E3%82%A6" title="ブドウ">ブドウ</a>風味のシロップを加えることは<a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6" title="第二次世界大戦">第二次世界大戦</a>前から行われていたが、これに炭酸水を足すことは昭和30年代の<a href="/wiki/%E5%B1%B1%E8%B0%B7" class="mw-disambig" title="山谷">山谷</a>地区などの東京下町を中心に広がったとされる<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>。ただ、この時代の「焼酎ハイボール」は現在のチューハイのようにアルコール度数の低い酒ではなかった<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>。</p>
+<p>現在飲まれているチューハイの基礎を作ったのは、<a href="/wiki/%E5%AE%89%E5%AE%9A%E6%88%90%E9%95%B7%E6%9C%9F" title="安定成長期">安定成長期</a>から目立つようになった居酒屋チェーン（<a href="/wiki/%E6%9D%91%E3%81%95%E6%9D%A5" title="村さ来">村さ来</a>等）である。「チューハイ」というネーミングもこの頃定着した<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>。居酒屋チェーンが全国展開するにつれ、そこの定番メニューであるチューハイは全国に広がり、チューハイの知名度は一気に上がった。</p>
+<p>1980年に<a href="/wiki/%E5%8D%9A%E6%B0%B4%E7%A4%BE" title="博水社">博水社</a>が風味付けをした炭酸水である「ハイサワー レモン」を<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>、1983年に東洋醸造（現・<a href="/wiki/%E3%82%A2%E3%82%B5%E3%83%92%E3%83%93%E3%83%BC%E3%83%AB" title="アサヒビール">アサヒビール</a>）が瓶入りチューハイ「ハイリッキー」を発売<sup id="cite_ref-hiliki_12-0" class="reference"><a href="#cite_note-hiliki-12">[12]</a></sup>。翌年の1984年には宝酒造の「タカラcanチューハイ」<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>や東洋醸造の「ハイリキ」<sup id="cite_ref-hiliki_12-1" class="reference"><a href="#cite_note-hiliki-12">[12]</a></sup>といった缶入りチューハイが発売されたことで、家庭でも手軽にチューハイを楽しむことができるようになり、現在に至る。</p>
+<h2><span class="mw-headline" id=".E5.8E.9F.E6.9D.90.E6.96.99">原材料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=6" title="節を編集: 原材料">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>飲食店で提供されるチューハイの原材料を知ることは難しいため、以下は一般消費者向けの缶入りチューハイ等、原材料が判別しているチューハイについてのみを対象とする。</p>
+<h3><span class="mw-headline" id=".E9.85.92.E9.A1.9E">酒類</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=7" title="節を編集: 酒類">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>チューハイのベースとなる酒類は以下の4種類がある。</p>
+<ul>
+<li>焼酎 - 一般には<a href="/wiki/%E7%84%BC%E9%85%8E#.E9.80.A3.E7.B6.9A.E5.BC.8F.E8.92.B8.E7.95.99.E7.84.BC.E9.85.8E.EF.BC.88.E7.84.BC.E9.85.8E.E7.94.B2.E9.A1.9E.EF.BC.89" title="焼酎">連続式蒸留焼酎（いわゆる「甲類焼酎」）</a>が用いられる。現在では品種的には少数派となってしまったためか、焼酎をベースにしたチューハイにあえて「焼<b>酎チュー</b>ハイ」と<a href="/wiki/%E9%87%8D%E8%A8%80" title="重言">重言</a>的な名前を持つ製品もある。</li>
+<li>スピリッツ - <a href="/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB" title="ウォッカ">ウォッカ</a>など（現在市販されている缶入りチューハイの多くがウォッカベースである）。ウォッカ以外を用いる場合は「スピリッツ」表記としていることが多い。</li>
+<li>原料用アルコール - 製品表記では「原料用アルコール」以外に「醸造用アルコール」「アルコール」などが用いられる</li>
+<li>リキュール - 代表例は<a href="/wiki/%E6%A2%85%E9%85%92" title="梅酒">梅酒</a>。</li>
+</ul>
+<p>製品によっては複数の酒類が使われる場合もある<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>。</p>
+<h3><span class="mw-headline" id=".E5.89.B2.E3.82.8A.E6.9D.90">割り材</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=8" title="節を編集: 割り材">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>大別すると以下の通りである。</p>
+<ul>
+<li>炭酸水 - 炭酸水のみでは十分な風味付けができないため、以下に記述する割り材や甘味料・酸味料・香料等が添加される（この場合、原材料表記に「炭酸水」と表記されない）。</li>
+<li>果汁 - 柑橘系果汁（<a href="/wiki/%E3%83%AC%E3%83%A2%E3%83%B3" title="レモン">レモン</a>／<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%A0" title="ライム">ライム</a>／<a href="/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84" title="グレープフルーツ">グレープフルーツ</a>／<a href="/wiki/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8" title="オレンジ">オレンジ</a>／<a href="/wiki/%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%A6%E3%83%9F%E3%82%AB%E3%83%B3" title="ウンシュウミカン">みかん</a>／<a href="/wiki/%E3%83%8A%E3%83%84%E3%83%9F%E3%82%AB%E3%83%B3" title="ナツミカン">ナツミカン</a>／<a href="/wiki/%E3%83%A6%E3%82%BA" title="ユズ">ユズ</a>／<a href="/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AE%E3%83%BC%E3%82%B5%E3%83%BC" title="シークヮーサー">シークヮーサー</a>など）が多いが、<a href="/wiki/%E3%83%AA%E3%83%B3%E3%82%B4" title="リンゴ">リンゴ</a>、<a href="/wiki/%E3%83%96%E3%83%89%E3%82%A6" title="ブドウ">ブドウ</a>、<a href="/wiki/%E3%83%A2%E3%83%A2" title="モモ">モモ</a>、<a href="/wiki/%E3%83%A1%E3%83%AD%E3%83%B3" title="メロン">メロン</a>、<a href="/wiki/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%9C" title="サクランボ">サクランボ</a>、<a href="/wiki/%E3%83%8A%E3%82%B7" title="ナシ">ナシ</a>、<a href="/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8A%E3%82%B7" title="セイヨウナシ">セイヨウナシ</a>、<a href="/wiki/%E3%83%91%E3%82%A4%E3%83%8A%E3%83%83%E3%83%97%E3%83%AB" title="パイナップル">パイナップル</a>、<a href="/wiki/%E3%82%A4%E3%83%81%E3%82%B4" title="イチゴ">イチゴ</a>、<a href="/wiki/%E3%82%AD%E3%82%A6%E3%82%A3" class="mw-redirect mw-disambig" title="キウィ">キウィ</a>、<a href="/wiki/%E3%83%9E%E3%83%B3%E3%82%B4%E3%83%BC" title="マンゴー">マンゴー</a>、<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%81" class="mw-redirect" title="ライチ">ライチ</a>、<a href="/wiki/%E3%82%A2%E3%82%BB%E3%83%AD%E3%83%A9" title="アセロラ">アセロラ</a>などを用いたものもある。また搾った果汁ではなく、果実そのものを破砕し酒類に漬け浸透させている製品もある。</li>
+<li><a href="/wiki/%E3%82%A6%E3%83%BC%E3%83%AD%E3%83%B3%E8%8C%B6" class="mw-redirect" title="ウーロン茶">ウーロン茶</a> - <a href="/wiki/%E3%82%A6%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%8F%E3%82%A4" title="ウーロンハイ">ウーロンハイ</a>として広く認知されている。ウーロン茶を使う場合、炭酸ガスの添加は行わない。類縁製品として<a href="/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%9F%E3%83%B3%E8%8C%B6" title="ジャスミン茶">ジャスミン茶</a>を使用した製品も存在する。</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%8C%B6" title="日本茶">日本茶</a> - <a href="/wiki/%E7%8E%89%E9%9C%B2" title="玉露">玉露</a>や<a href="/wiki/%E3%81%8B%E3%81%B6%E3%81%9B%E8%8C%B6" title="かぶせ茶">かぶせ茶</a>、<a href="/wiki/%E6%8A%B9%E8%8C%B6" title="抹茶">抹茶</a>などを用いる。ウーロンハイ同様炭酸ガスの添加は行わない。</li>
+<li><a href="/wiki/%E7%B4%85%E8%8C%B6" title="紅茶">紅茶</a> - レモンの香味付けが併用され、レモンティーとされる場合もある。</li>
+<li><a href="/wiki/%E7%82%AD%E9%85%B8%E9%A3%B2%E6%96%99" title="炭酸飲料">炭酸飲料</a> - <a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%A9" class="mw-disambig" title="コーラ">コーラ</a>や<a href="/wiki/%E3%83%A9%E3%83%A0%E3%83%8D" class="mw-disambig" title="ラムネ">ラムネ</a>、<a href="/wiki/%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%A8%E3%83%BC%E3%83%AB" title="ジンジャーエール">ジンジャーエール</a>など。</li>
+<li><a href="/wiki/%E4%B9%B3%E9%85%B8%E8%8F%8C%E9%A3%B2%E6%96%99" title="乳酸菌飲料">乳酸菌飲料</a> - <a href="/wiki/%E3%82%AB%E3%83%AB%E3%83%94%E3%82%B9" title="カルピス">カルピス</a>など。</li>
+<li><a href="/wiki/%E3%83%8F%E3%83%BC%E3%83%96" title="ハーブ">ハーブ</a> - <a href="/wiki/%E3%82%AB%E3%83%A2%E3%83%9F%E3%83%BC%E3%83%AB" title="カモミール">カモミール</a>や<a href="/wiki/%E3%82%BF%E3%83%A9%E3%82%B4%E3%83%B3" title="タラゴン">タラゴン</a>といったハーブのエキス。変わり種として漢方薬の原料となるような東洋系のハーブを用いた製品も存在する</li>
+<li><a href="/wiki/%E5%81%A5%E5%BA%B7%E9%A3%9F%E5%93%81" title="健康食品">健康食品</a> - <a href="/wiki/%E9%BB%92%E9%85%A2" title="黒酢">黒酢</a>単体あるいは黒酢と他の材料を混合したチューハイが販売されている</li>
+<li><a href="/wiki/%E7%94%98%E5%91%B3%E6%96%99" title="甘味料">甘味料</a> - <a href="/wiki/%E3%82%A2%E3%82%BB%E3%82%B9%E3%83%AB%E3%83%95%E3%82%A1%E3%83%A0%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0" title="アセスルファムカリウム">アセスルファムカリウム</a>、<a href="/wiki/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%AD%E3%83%BC%E3%82%B9" title="スクラロース">スクラロース</a>など。果汁系チューハイの味覚調整のために用いられることが多い。</li>
+</ul>
+<h2><span class="mw-headline" id=".E5.90.84.E7.A8.AE.E5.9B.A3.E4.BD.93.E3.81.8B.E3.82.89.E3.81.AE.E3.82.AF.E3.83.AC.E3.83.BC.E3.83.A0">各種団体からのクレーム</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=9" title="節を編集: 各種団体からのクレーム">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>缶入りチューハイについては、果汁入りを中心に各社の競争が激しく、<a href="/wiki/%E5%95%86%E6%A8%99" title="商標">商品名</a>や缶の<a href="/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="デザイン">デザイン</a>、<a href="/wiki/%E5%AE%A3%E4%BC%9D" title="宣伝">宣伝</a>・<a href="/wiki/%E5%BA%83%E5%91%8A" title="広告">広告</a>などに力が注がれているが、缶のデザインや広告などに<a href="/wiki/%E6%9E%9C%E5%AE%9F" title="果実">果実</a>などを大きく描いているものが多い。これにより、消費者が無果汁のチューハイを果汁入りと誤認したり、未成年者が<a href="/wiki/%E6%B8%85%E6%B6%BC%E9%A3%B2%E6%96%99%E6%B0%B4" title="清涼飲料水">清涼飲料水</a>と間違えて誤飲する恐れがあるといった指摘が消費者団体や国民生活センターにより過去何度も繰り返されている<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>。こうしたクレームにより製品の販売中止や改名に追い込まれた事例も存在する<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>。</p>
+<p>クレームが相次ぐ中、日本洋酒酒造組合は2002年以降チューハイを含む低アルコールリキュール全般に関して、各種自主基準を設けた<sup id="cite_ref-standard_21-0" class="reference"><a href="#cite_note-standard-21">[21]</a></sup>。</p>
+<p>また日本洋酒酒造組合はチューハイに限らず酒類全般に対する広告・宣伝の基準を1988年に定めている<sup id="cite_ref-standard_21-1" class="reference"><a href="#cite_note-standard-21">[21]</a></sup>。この基準中の「(3)広告・宣伝の際の留意事項　イ 未成年者の飲酒を推奨、連想、誘引する表現は行わない」に違反していると覚しきチューハイの<a href="/wiki/%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8" title="コマーシャルメッセージ">CM</a>に対して民間団体が抗議し、放映中止に追い込まれた<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=10" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="noprint" style="float:right; font-size:90%;">
+<tr>
+<td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">ヘルプ</span></a>]</td>
+</tr>
+</table>
+<ol class="references">
+<li id="cite_note-excite-1"><b><a href="#cite_ref-excite_1-0">^</a></b> <span class="reference-text">太田サトル「<a rel="nofollow" class="external text" href="http://www.excite.co.jp/News/bit/00091119415549.html">ウオッカでも「チューハイ」、チューハイの「チュー」って何？</a>」エキサイト、2005年06月24日。</span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text">これらはあくまでも「チューハイ<b>風味</b>」であり、清涼飲料水の一種である。</span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<span class="PDFlink"><a rel="nofollow" class="external text" href="http://www.nta.go.jp/shiraberu/senmonjoho/sake/shiori-gaikyo/shiori/2011/pdf/003.pdf">酒税率一覧表（平成18年５月１日～）</a></span> <span style="font-size:smaller">(<a href="/wiki/Portable_Document_Format" title="Portable Document Format">PDF</a>)</span>”.  国税庁 (<span title="">2006年5月1日</span>). <span title="">2015年3月1日</span>閲覧。</cite></span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text">調味料である「雑酒（みりん類似）」を除く。</span></li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text">あえて高税率・高価格を許容し、味わいを増すためアルコール度数を上げた製品もある（<a rel="nofollow" class="external text" href="http://www.suntory.co.jp/news/2010/10914.html">サントリーチューハイ史上最高の“アルコール度数12％”「－196℃　ストロングゼロ〈スーパーショット〉」数量限定新発売</a>参照）。</span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.shochu.or.jp/tsuredure/back8.html">チューハイか？サワーか？｜焼酎徒然草｜焼酎SQUARE 焼酎甲類のすべて</a>”.  日本蒸留酒酒造組合. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.suntory.co.jp/customer/faq/001812.html">「チューハイ」と「カクテル」の違いは何ですか？</a>”.  サントリーホールディングス株式会社. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.webdoku.jp/column/kudo/2010/07/01/123303.html">第6回　特別編 座談会　焼酎割り飲料は東京のローカル文化だ！〈前編〉 3 - ききあるき・東京＜酎ハイ＞物語</a>”.  WEB本の雑誌（株式会社本の雑誌社、株式会社博報堂）. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.webdoku.jp/column/kudo/2010/03/01/172946.html">第3回　坂本香料に、ミキサードリンクの起源を聞きにいく 〈後編〉 3 - ききあるき・東京＜酎ハイ＞物語</a>”.  WEB本の雑誌（株式会社本の雑誌社、株式会社博報堂）. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://hitosara.com/0006004421/">村さ来　高山店</a>”.  ヒトサラ（株式会社USEN）. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.hakusui-sha.co.jp/company/">お酒をわるならハイサワーの博水社｜会社案内・リリース</a>”.  株式会社博水社. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-hiliki-12">^ <a href="#cite_ref-hiliki_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hiliki_12-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.asahibeer.co.jp/products/sour/hiliki/history/">ハイリキ</a>”.  アサヒグループホールディングス株式会社. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-13"><b><a href="#cite_ref-13">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.takarashuzo.co.jp/products/soft_alcohol/regular/story/06.htm">タカラcanチューハイ誕生ストーリー｜タカラcanチューハイ｜ソフトアルコール飲料｜商品紹介</a>”.  宝酒造株式会社. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-14"><b><a href="#cite_ref-14">^</a></b> <span class="reference-text">ウォッカ＋梅酒、ウォッカ+スピリッツ、など</span></li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://shufuren.net/modules/tinyd9/index.php?id=47">「２００１年６月８日］《キリンビールの「氷結果汁」についての申告書》</a>”.  主婦連合会 (<span title="">2001年6月8日</span>). <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-16"><b><a href="#cite_ref-16">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.kokusen.go.jp/news/data/n-20010906_3.html">清涼飲料と誤認されやすい「低アルコール飲料」について</a>”.  独立行政法人国民生活センター (<span title="">2001年8月30日</span>). <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-17"><b><a href="#cite_ref-17">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.ask.or.jp/ask020507-2.html">「生果汁チューハイ」名称変更に関する要望書</a>”.  日本アルコール問題連絡協議会、主婦連合会 (<span title="">2002年5月17日</span>). <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-18"><b><a href="#cite_ref-18">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.ask.or.jp/ask030509-1.html">｢青春チューハイ｣の名称変更を求める要望書</a>”.  日本アルコール問題連絡協議会、主婦連合会 (<span title="">2003年5月9日</span>). <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-19"><b><a href="#cite_ref-19">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.yomiuri.co.jp/02/20020313ib23.htm">“キリン「氷結果汁」が「氷結」に名称変更＝ジュースと間違えやすいとクレーム”</a><sup class="noprint Inline-Template nowrap">[<i><a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B#.E3.83.AA.E3.83.B3.E3.82.AF.E5.88.87.E3.82.8C.E3.81.AE.E5.9B.9E.E9.81.BF.E3.81.A8.E4.BF.AE.E5.BE.A9" title="Wikipedia:出典を明記する"><span title="外部リンクがリンク切れとなっています。（2015年2月）">リンク切れ</span></a></i>]</sup>. 読売新聞 (2002年3月13日)</span></li>
+<li id="cite_note-20"><b><a href="#cite_ref-20">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://prw.kyodonews.jp/open/release.do;jsessionid=9A57CE2443E61189462D503574F68186?r=200208274099">タカラｃａｎチューハイ「爽快」新発売　～「生果汁チューハイ」の商品名称・パッケージデザインをリニューアル～</a>”.  宝酒造株式会社（共同通信PRワイヤー）. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-standard-21">^ <a href="#cite_ref-standard_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-standard_21-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.yoshu.or.jp/statistics_legal/legal/independence.html">統計・法律関係　自主基準</a>”.  日本洋酒酒造組合. <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+<li id="cite_note-22"><b><a href="#cite_ref-22">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.cyzo.com/2014/01/post_15925.html">大沢たかおカエルCM放送自粛へ</a>”.  日刊サイゾー（株式会社サイゾー） (<span title="">2014年1月27日</span>). <span title="">2015年2月26日</span>閲覧。</cite></span></li>
+</ol>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit&amp;section=11" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Ch%C5%ABhai?uselang=ja">チューハイ</a></span></b>に関連するカテゴリがあります。</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/%E3%82%B5%E3%83%AF%E3%83%BC" title="サワー">サワー</a></li>
+<li><a href="/wiki/%E3%83%8E%E3%83%B3%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%85%8E%E3%83%8F%E3%82%A4" title="ノンアルコール酎ハイ">ノンアルコール酎ハイ</a></li>
+<li><a href="/wiki/%E3%82%A6%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%8F%E3%82%A4" title="ウーロンハイ">ウーロンハイ</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%AB" title="ハイボール">ハイボール</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:103891-0!*!0!!ja!4!* and timestamp 20160805140003 and revision id 60671794
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=チューハイ&amp;oldid=60671794">https://ja.wikipedia.org/w/index.php?title=チューハイ&amp;oldid=60671794</a>」から取得					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" title="Category:カクテル">カクテル</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97%E3%81%A7%E5%BC%95%E6%95%B0%E3%81%8C%E9%87%8D%E8%A4%87%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8" title="Category:テンプレート呼び出しで引数が重複しているページ">テンプレート呼び出しで引数が重複しているページ</a></li><li><a href="/wiki/Category:%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%8C%E3%83%AA%E3%83%B3%E3%82%AF%E5%88%87%E3%82%8C%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B/2015%E5%B9%B42%E6%9C%88" title="Category:外部リンクがリンク切れになっている記事/2015年2月">外部リンクがリンク切れになっている記事/2015年2月</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=edit"  title="このページを編集 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;returnto=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;oldid=60671794&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>他のプロジェクト</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ch%C5%ABhai" hreflang="en">コモンズ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;oldid=60671794" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1047326" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;id=60671794" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Chuhai" title="ドイツ語: Chuhai" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Ch%C5%ABhai" title="英語: Chūhai" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Chuhai" title="イタリア語: Chuhai" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B8%84%ED%95%98%EC%9D%B4" title="韓国語: 츄하이" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ch%C5%ABhai" title="ポーランド語: Chūhai" lang="pl" hreflang="pl">Polski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1047326#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2016年8月5日 (金) 14:00 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A4&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.switcher","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.compactlinks","ext.uls.interlanguage","ext.centralNotice.startUp","ext.centralNotice.geoIP"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.308",
+            "walltime": "0.362",
+            "ppvisitednodes": {
+                "value": 6261,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 30113,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 14828,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 22,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "timingprofile": [
+                "100.00%  328.399      1 -total",
+                " 65.22%  214.195     16 Template:Cite_web",
+                " 20.95%   68.787     17 Template:Ifempty",
+                " 19.79%   64.978     16 Template:Accessdate",
+                " 15.27%   50.138     16 Template:Accessdate/core",
+                " 13.30%   43.681      6 Template:Citation/showdate",
+                " 10.91%   35.830     22 Template:ISO_dateJA",
+                "  9.99%   32.796      1 Template:リンク切れ",
+                "  9.92%   32.588      1 Template:Commonscat",
+                "  9.72%   31.931      1 Template:PDFlink"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.033",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1194311,
+                "limit": 52428800
+            }
+        },
+        "EntityAccessCount": 1,
+        "cachereport": {
+            "origin": "mw1198",
+            "timestamp": "20160805140003",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>
