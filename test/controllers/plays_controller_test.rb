@@ -11,11 +11,15 @@ class PlaysControllerTest < ActionController::TestCase
     assert_not_nil assigns(:plays)
   end
 
-  test "should get new" do
-    get :new
+  test "should post index" do
+    post :index , post:{word: "テニス"}
+
+    
     assert_response :success
+    assert_not_nil assigns(:plays)
   end
 
+  
   test "should create play" do
     assert_difference('Play.count') do
       post :create, play: { name: @play.name }
@@ -29,10 +33,6 @@ class PlaysControllerTest < ActionController::TestCase
     assert_response :success
   end
 
-  test "should get edit" do
-    get :edit, id: @play
-    assert_response :success
-  end
 
   test "should update play" do
     patch :update, id: @play, play: { name: @play.name }
