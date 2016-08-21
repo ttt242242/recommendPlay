@@ -6,7 +6,6 @@ require 'mechanize'
 
 class PlaysController < ApplicationController
   before_action :set_play, only: [:show, :edit, :update, :destroy]
-
   respond_to :html
 
   def index
@@ -15,100 +14,44 @@ class PlaysController < ApplicationController
   end
 
   def simple_recommend
-    p params[:word] 
-    # p system("#{Rails.root}/python get_data_for_similarity.py ttt")
-    search_word(params[:word])
-    txt_to_hash(params[:word])
-    # run_txt_hash
-    @greeting = calc_similarity(params[:word])
+    word_model = get_word_model(params[:word])
+    @plays= calc_similarity_each_plays(word_model)
     render "index"
   end
 
-  def search_word(word)
-    word_list = YAML.load_file("#{Rails.root}/app/controllers/word_list_test.yml")
-    if !word_list.include?(word)
-      agent = Mechanize.new ;
-      page = agent.get("https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8")  ;
-      form = page.forms[0]
-      form.field_with(:name => 'search').value = word
-      p "#########################################"
-      page2 = agent.submit(form)
-      p page2.uri
-      result = page2.body.force_encoding("utf-8")
-      # responce = page2.link_with(:text => "テニス").click
-      # p responce.instance_variables
-      # p responce.uri
-
-      word_list.push(word)
-      open("#{Rails.root}/app/controllers/word_list_test.yml", "w") do |e|
-        YAML.dump(word_list, e) ;
-      end
-
-      File.open("#{Rails.root}/app/controllers/data_set/"+word+".txt", "w") do |f|
-        f.puts(result)
-      end
+  # ワードのベクトルを返す
+  def get_word_model(word)
+    # DBにword vecがなければ、スクレイピングしてモデルの生成
+    play = Play.find_by(name: word)
+    if play.nil?
+      # スクレイピングしてtxtを取得
+      word_sentence = scraping_word(word)
+      # txt から wordのベクトルの生成
+      word_vec = sentence_to_vec(word_sentence)
+      # dbにデータを登録
+      play = create_play(word,word_vec)
     end
+
+    return play
   end
 
-  def calc_similarity(obj_word)
-    result= {}
-    word_list = YAML.load_file("#{Rails.root}/app/controllers/word_list_test.yml") ;
-    word_list2 = YAML.load_file("#{Rails.root}/app/controllers/word_list_test.yml") ;
+  # ワードのベクトルを生成する
+  def sentence_to_vec(sentence)
+    mecab = MeCab::Tagger.new
+    node = mecab.parseToNode(sentence)
 
-    word_vec = []
-    word_list.each do |word|
-      word_vec.push(YAML.load_file("#{Rails.root}/app/controllers/data_set/"+word+".yml")) ;
-    end
-    obj_word_vec = YAML.load_file("#{Rails.root}/app/controllers/data_set/"+obj_word+".yml")
-    # word_vec.each_with_index do |word, i|
-    #   word_vec.each_with_index do |word2, i2|
-    #     # if word != word2
-    #     print word_list[i]+":"+word_list[i2]+"  "
-    #     # result+= word_list[i]+":"+word_list[i2]+"  "
-    #     result.push(word_list[i]+":"+word_list[i2]+"  "+cos(word, word2).to_s )
-    #     # end
-    #   end
-    # end
+    word_array = []
 
-    word_vec.each_with_index do |word, i|
-      result[word_list[i]] = cos(obj_word_vec, word) ;
-    end
+    #名詞だけとってくる
+    begin
+      node = node.next
+      if /^名詞/ =~ node.feature.force_encoding("UTF-8")
+        word_array << node.surface.force_encoding("UTF-8")
+      end
+    end until node.next.feature.include?("BOS/EOS")
 
-    result = result.sort {|(k1,  v1),  (k2,  v2)| v2 <=> v1 }
-    return result;
-
-  end
-
-  # 一単語づつ
-def txt_to_hash(word)
-    # word_list = YAML.load_file("//word_list_test.yml")
-    # word_list = YAML.load_file("#{Rails.root}/app/controllers/word_list_test.yml")
-    # all_array = Array.new ;
-    # word_name = ""
-    # word_list.each do |word|
-      # word_name += word 
-      # word_name += "_"
-      f = open("#{Rails.root}/app/controllers/data_set/"+word+".txt")
-      sentence = f.read()
-      f.close()
-
-      # mecab = MeCab::Tagger.new
-      mecab = MeCab::Tagger.new
-      node = mecab.parseToNode(sentence)
-      word_array = []
-
-      #名詞だけとってくる
-      begin
-        node = node.next
-        if /^名詞/ =~ node.feature.force_encoding("UTF-8")
-          word_array << node.surface.force_encoding("UTF-8")
-        end
-      end until node.next.feature.include?("BOS/EOS")
-
-      #以下、全角文字を取る
-      new_word_array = remove_zenkaku(word_array)
-      # all_array.concat(new_word_array) ;
-    # end
+    #以下、全角文字を取る
+    new_word_array = remove_zenkaku(word_array)
     #とれた文字をハッシュ化する
     hash = array_to_numarray(new_word_array)
 
@@ -116,64 +59,44 @@ def txt_to_hash(word)
     hash = hash.sort{|(k1, v1), (k2, v2) | v2 <=> v1}
 
     #要素の個数を限定する（今回は500?)
-    # sorted_array = Array.new ;
     hash = cut_hash(hash, 500)
     hash = min_max_normalization_hash(hash) ;
 
-    # makeYamlFile("#{Rails.root}/app/controllers/data_set/"+word_name+".yml",hash) ;
-    open("#{Rails.root}/app/controllers/data_set/"+word+".yml", "w") do |e|
-        YAML.dump(hash, e) ;
-    end
-
+    return hash ;
   end
 
-  def run_txt_hash
-    # word_list = YAML.load_file("//word_list_test.yml")
-    word_list = YAML.load_file("#{Rails.root}/app/controllers/word_list_test.yml")
-    all_array = Array.new ;
-    word_name = ""
-    word_list.each do |word|
-      word_name += word 
-      word_name += "_"
-      f = open("#{Rails.root}/app/controllers/data_set/"+word+".txt")
-      sentence = f.read()
-      f.close()
-
-      # mecab = MeCab::Tagger.new
-      mecab = MeCab::Tagger.new
-      node = mecab.parseToNode(sentence)
-      word_array = []
-
-      #名詞だけとってくる
-      begin
-        node = node.next
-        if /^名詞/ =~ node.feature.force_encoding("UTF-8")
-          word_array << node.surface.force_encoding("UTF-8")
-        end
-      end until node.next.feature.include?("BOS/EOS")
-
-      #以下、全角文字を取る
-      new_word_array = remove_zenkaku(word_array)
-      all_array.concat(new_word_array) ;
-    end
-    #とれた文字をハッシュ化する
-    hash = array_to_numarray(all_array)
-
-    #出てきた単語順に並べる
-    hash = hash.sort{|(k1, v1), (k2, v2) | v2 <=> v1}
-
-    #要素の個数を限定する（今回は500?)
-    # sorted_array = Array.new ;
-    hash = cut_hash(hash, 500)
-    hash = min_max_normalization_hash(hash) ;
-
-    # makeYamlFile("#{Rails.root}/app/controllers/data_set/"+word_name+".yml",hash) ;
-    open("#{Rails.root}/app/controllers/data_set/"+word_name+".yml", "w") do |e|
-        YAML.dump(hash, e) ;
-    end
-
+  def create_play(word, word_vec)
+    play = Play.new(:name => word, :vec => word_vec)
+    play.save
+    return play
   end
 
+
+  def scraping_word(word)
+    agent = Mechanize.new ;
+    page = agent.get("https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8")  ;
+    form = page.forms[0]
+    form.field_with(:name => 'search').value = word
+    page2 = agent.submit(form)
+    result = page2.body.force_encoding("utf-8")
+
+    return result 
+  end
+
+  def calc_similarity_each_plays(obj_play)
+    result= {}
+    plays = Play.all 
+
+    plays.each do |play|
+      if (play.name != obj_play.name)
+        result[play.name] = cos(obj_play.vec,play.vec)
+      end
+    end 
+
+    result = result.sort {|(k1,  v1),  (k2,  v2)| v2 <=> v1 }
+    return result;
+
+  end
 
   #
   # === コサイン類似度
@@ -208,9 +131,6 @@ def txt_to_hash(word)
   end
 
 
-
-
-
   def show
     respond_with(@play)
   end
@@ -229,8 +149,6 @@ def txt_to_hash(word)
   end
 
   def create
-
-
     # @play = Play.new(play_params)
     @play = Play.new(play_params)
     @play.save
@@ -247,7 +165,7 @@ def txt_to_hash(word)
     respond_with(@play)
   end
 
-def remove_zenkaku(word_array)
+  def remove_zenkaku(word_array)
     new_word_array = Array.new ;
     word_array.each do |word|
       word.scan(/./) do |i|
@@ -261,25 +179,25 @@ def remove_zenkaku(word_array)
     return new_word_array ;
   end
 
-def array_to_numarray(array)
-  #とれた文字をハッシュ化する
-  hash = Hash.new ;
-  array.each do |word|
-    if hash[word] == nil
-      hash[word] = 0
+  def array_to_numarray(array)
+    #とれた文字をハッシュ化する
+    hash = Hash.new ;
+    array.each do |word|
+      if hash[word] == nil
+        hash[word] = 0
+      end
+      hash[word] += 1 ; 
     end
-    hash[word] += 1 ; 
-  end
-  return hash ;
+    return hash ;
   end
 
-def min_max_normalization_hash(hash)
+  def min_max_normalization_hash(hash)
     result_hash = Hash.new ;
     min_max = get_max_min_v_from_hash(hash)
     hash.each do |h|
       h[1] = (h[1].to_f - min_max[:min].to_f)/(min_max[:max].to_f-min_max[:min].to_f) ;
       result_hash[h[0]] = h[1] ;
-  end 
+    end 
     return result_hash ;
   end
 
@@ -310,7 +228,7 @@ def min_max_normalization_hash(hash)
     end
   end
 
-#
+  #
   # hashデータのvのmaxとminを取得
   #
   def get_max_min_v_from_hash(hash)
@@ -318,18 +236,18 @@ def min_max_normalization_hash(hash)
     result[:max] = 0 ;
     result[:min] = 100000 ;
 
-  hash.each_with_index do |(k,v),i|
-    # sorted_array.push({k => hyperbolic(v)}) ;
-    # sorted_array.push({k => v}) ;
-    if result[:max] < v
-      result[:max] = v ;
+    hash.each_with_index do |(k,v),i|
+      # sorted_array.push({k => hyperbolic(v)}) ;
+      # sorted_array.push({k => v}) ;
+      if result[:max] < v
+        result[:max] = v ;
+      end
+      if result[:min] > v
+        result[:min] = v ;
+      end
     end
-    if result[:min] > v
-      result[:min] = v ;
-    end
-  end
 
-  return result ;
+    return result ;
   end
 
 
