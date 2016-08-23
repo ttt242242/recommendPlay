@@ -12,7 +12,8 @@ group :development do
 end
 
 # gem 'sass-rails', '4.0.5'
-gem 'sass-rails', '5.0.0'
+gem 'sass-rails'
+gem 'flatui-rails'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
 gem 'jquery-rails', '3.0.4'
@@ -23,7 +24,7 @@ gem "mecab"
 gem "gmaps4rails"
 gem "geocoder"
 gem 'therubyracer', platforms: :ruby
-gem 'bootstrap-sass', '3.2.0.0'
+gem 'bootstrap-sass'
 # gem 'sprockets', '2.12.4'
 gem 'sprockets', '2.8'
 gem 'nokogiri'

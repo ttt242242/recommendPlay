@@ -1,0 +1,25 @@
+---
+language: ruby
+notifications:
+  email:
+  - drbrain@segment7.net
+  - ljjarvis@gmail.com
+  - knu@idaemons.org
+sudo: false
+rvm:
+- 1.9.3
+- 2.0.0
+- 2.1
+- 2.2
+- 2.3
+- ruby-head
+- jruby-19mode
+- jruby-head
+- rbx-19mode
+script: rake test
+matrix:
+  allow_failures:
+    - rvm: ruby-head
+    - rvm: jruby-19mode
+    - rvm: jruby-head
+    - rvm: rbx-19mode

@@ -4,4 +4,5 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   # to auto load lib/ directory
   # config.autoload_paths += %W(#{config.root}/lib)
+  # config.assets.paths << "#{Rails.root}/vendor/assets/fonts" 
 end
