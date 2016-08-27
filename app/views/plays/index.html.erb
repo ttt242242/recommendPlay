@@ -1,33 +1,40 @@
 <div id="main" class="container-fluid">
     <div class="row">
-
-
         <div class="col-sm-3 col-md-2 sidebar">
-            <ul class="nav nav-sidebar">
-                <!-- PC用のメニュー部分 -->
-            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                    メニュー1 <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="#">メニュー1-1</a></li>
-                    <li><a href="#">メニュー1-2</a></li>
-                    <li><a href="#">メニュー1-3</a></li>
-                    <li><a href="#">メニュー1-4</a></li>
-                    <li><a href="#">メニュー1-5</a></li>
-                </ul>
-            </a>
+            <ul class="nav nav-sidebar" id="sidebar">
+                <div class="form-horizontal" role="form">
+                <%= form_tag(url_for(:action => 'simple_recommend'),  :remote => true,  :id => "result_form") do %>
+                    <%= text_field_tag :word%>
+                    <%= select :page,  :name,  [["1",  1],  ["2",  2]] %>
+                    <br>
+                    <%= submit_tag "Show!" %>
+                <% end %>
+                </div>
+
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">メニュー1 <b class="caret"></b>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">メニュー1-1</a></li>
+                            <li><a href="#">メニュー1-2</a></li>
+                            <li><a href="#">メニュー1-3</a></li>
+                            <li><a href="#">メニュー1-4</a></li>
+                            <li><a href="#">メニュー1-5</a></li>
+                        </ul>
+                    </a>
+
             </ul>
         </div>
 
 <span class="fui-info-circle"></span> 
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
-            <%= form_tag(url_for(:action => 'simple_recommend'),  :remote => true,  :id => "result_form") do %>
-                <%= text_field_tag :word%>
-                <%= submit_tag "Show!" %>
-            <% end %>
-            <br>
-            <div id="result"></div>
+            <div id="result">
+                <% @plays.each do |play| %>
+                    <div class='well'>
+                        <%= play.name %>
+                    </div>
+                <% end %>
+            </div>
 
-              </div>
+        </div>
 
 
 
