@@ -1,5 +1,18 @@
+<br>
+<br>
+<br>
+<br>
 <h1>New play</h1>
 
-<%= render 'form' %>
 
+<%= form_for(@play) do |f| %>
+    遊び名 <%= text_field_tag :name %> <br>
+    人数from <%= select :page,:num_from,  [["1",  1],  ["2",  2]] %> <br>
+    人数to <%= select :page,:num_to,  [["1",  1],  ["2",  2]] %> <br>
+    春 <%= text_field_tag :spring%> <br>
+    夏 <%= text_field_tag :summar%> <br>
+    秋 <%= text_field_tag :autumn%> <br>
+    冬 <%= text_field_tag :winter%> <br>
+    <%= submit_tag "create" %>
+<% end %>
 <%= link_to 'Back', plays_path %>

@@ -35,6 +35,15 @@ class PlaysController < ApplicationController
     return play
   end
 
+  def get_word_vec(word)
+    # スクレイピングしてtxtを取得
+    word_sentence = scraping_word(word)
+    # txt から wordのベクトルの生成
+    word_vec = sentence_to_vec(word_sentence)
+
+    return word_vec
+  end
+
   # ワードのベクトルを生成する
   def sentence_to_vec(sentence)
     mecab = MeCab::Tagger.new
@@ -67,7 +76,7 @@ class PlaysController < ApplicationController
 
   def create_play(word, word_vec)
     play = Play.new(:name => word, :vec => word_vec)
-    play.save
+    # play.save
     return play
   end
 
@@ -105,12 +114,18 @@ class PlaysController < ApplicationController
     sum = 0.0 
     same_key = Array.new 
     v1.keys.each do |key|
+
+        begin
       if v2[key] != nil
         sum += v1[key] * v2[key] 
+        
       else
         v2[key] = 0.0
         sum += v1[key] * v2[key] 
       end
+      rescue
+          binding.pry ;
+        end
       same_key.push(key)
     end
 
@@ -136,13 +151,14 @@ class PlaysController < ApplicationController
   end
 
   def new
-    # @play = Play.new
-    # respond_with(@play)
     @play = Play.new
-    respond_to do |format|
-      format.html
-      format.js
-    end
+    respond_with(@play)
+    #
+    # @play = Play.new
+    # respond_to do |format|
+    #   format.html
+    #   format.js
+    # end
   end
 
   def edit
@@ -150,9 +166,19 @@ class PlaysController < ApplicationController
 
   def create
     # @play = Play.new(play_params)
-    @play = Play.new(play_params)
-    @play.save
-    respond_with(@play)
+    # binding.pry ;
+    if !Play.exists?(:name => params[:name]) 
+      word_vec = get_word_vec(params[:name])
+      num = {:num_from => params[:page][:num_from], :num_to => params[:page][:num_to]}
+      season = {:spring => params[:spring], :summar => params[:summar], :autumn => params[:autumn], :winter => params[:winter]}
+      #すでに登録されているかをチェック
+      @play = Play.new(:name => params[:name], :vec => word_vec,:num => num, :season => season)
+      @play.save
+      respond_with(@play)
+    else
+     @plays = Play.all
+     respond_with(@plays)
+    end
   end
 
   def update
